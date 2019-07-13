@@ -1,4 +1,4 @@
-<form id="post-new-comment{{ include.reply }}" class="new-comment" method="post" action="https://api.staticman.net/v2/entry/hendrixjoseph/hendrixjoseph.github.io/master/comments"{% if include.reply %} style="display: none;"{% endif %}>
+<form id="post-new-comment{{ include.reply }}" class="new-comment" method="post" action="https://api.staticman.net/v3/entry/github/hendrixjoseph/hendrixjoseph.github.io/master/comments"{% if include.reply %} style="display: none;"{% endif %}>
   <input name="options[redirect]" type="hidden" value="{{ site.url }}{{ page.url }}" />
   <input name="options[slug]" type="hidden" value="{{ include.slug }}" />
   {% if include.reply %}<input name="fields[replyto]" type="hidden" value="entry{{ include.reply }}" />{% endif %}
