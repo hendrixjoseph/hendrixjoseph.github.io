@@ -10,7 +10,9 @@
   <em>Note that comments won't appear until approved.</em>
 </form>
 <div id="post-new-comment{{ include.reply }}-submitting" style="display: none;"><img src="/images/ajax-loader.gif" style="display: inline;" /></div>
-<div id="post-new-comment{{ include.reply }}-thank-you" style="display: none;">Thank you. Your comment will be visable after approval.</div>
+<div id="post-new-comment{{ include.reply }}-thank-you" style="display: none;">Thank you. Your comment will be visible after approval.</div>
+<div id="post-new-comment{{ include.reply }}-error" style="display: none;">Your comment has been submitted, but their seems to be an error. Check your browser console for more details.
+<div class="error-message"></div></div>
 <script>
 $('#post-new-comment{{ include.reply }}').submit(function(e){
     e.preventDefault();
@@ -29,8 +31,9 @@ $('#post-new-comment{{ include.reply }}').submit(function(e){
         },
         error: function (err) {
             console.log(err);
+			$('#post-new-comment{{ include.reply }}-error .error-message').text(err.responseText);
 			$('#post-new-comment{{ include.reply }}-submitting').hide();
-			$('#post-new-comment{{ include.reply }}-thank-you').show();
+			$('#post-new-comment{{ include.reply }}-error').show();
         }
     });
 });
