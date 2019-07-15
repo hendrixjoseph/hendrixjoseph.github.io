@@ -30,3 +30,4 @@ This blog is also in the following blog directories:
 * [Fly to Fi Know Your Blogger](https://flytofi.com/know-your-blogger/) / [actual page](https://flytofi.com/know-your-blogger-joes-github-blog/)
 * [My Sons Father Personal Finance Blogs by Personality](http://www.mysonsfather.com/personal-finance-by-personality/)
 * [Camp FIRE Finance Directory](https://www.campfirefinance.com/directory/) / [actual page](https://www.campfirefinance.com/directory/joes-github-blog/)
+* [Abandoned Cubicle's Blogroll](https://www.abandonedcubicle.com/blogroll/)
