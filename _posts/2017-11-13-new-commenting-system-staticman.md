@@ -3,6 +3,7 @@ layout: post
 title: New Commenting System - StaticMan
 tags: [technology, web, github]
 keywords: [facebook comments, static blog comments, static blog, jekyll comments, github comments, github pages comments, comments, staticman]
+image: /images/staticman/staticman-avatar.png
 ---
 
 Out with the old, and in with the new.
