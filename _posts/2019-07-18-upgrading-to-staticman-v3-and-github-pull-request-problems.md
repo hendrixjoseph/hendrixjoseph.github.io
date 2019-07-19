@@ -18,6 +18,7 @@ First, the Staticman Bot has a rate limit if it's used as a user - Github specif
 
 ![Your comment has been submitted, but their seems to be an error. Check your browser console for more details.
 {"error":{"text":"Too many requests in this time frame.","nextValidRequestDate":"2019-07-18T17:05:36.659Z"}}](/images/staticman/too-many-requests-error.png)
+*Sample error message.*
 
 What is happening here is that *I am not the only person or site that uses Staticman*. Staticman has become quite popular. As I write this, [Staticman has 1,437 stars on Github](https://github.com/eduardoboucas/staticman/stargazers).
 
