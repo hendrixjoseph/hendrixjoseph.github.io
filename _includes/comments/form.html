@@ -1,4 +1,4 @@
-<!-- form id="post-new-comment{{ include.reply }}" class="new-comment" method="post" action="https://dev.staticman.net/v3/entry/github/hendrixjoseph/hendrixjoseph.github.io/master/comments"{% if include.reply %} style="display: none;"{% endif %}>
+<form id="post-new-comment{{ include.reply }}" class="new-comment" method="post" action="https://dev.staticman.net/v3/entry/github/hendrixjoseph/hendrixjoseph.github.io/master/comments"{% if include.reply %} style="display: none;"{% endif %}>
   <input type="hidden" name="options[origin]" value="{{ page.url | absolute_url }}">
   <input name="options[redirect]" type="hidden" value="{{ site.url }}{{ page.url }}" />
   <input name="options[slug]" type="hidden" value="{{ include.slug }}" />
@@ -32,15 +32,10 @@ $('#post-new-comment{{ include.reply }}').submit(function(e){
         },
         error: function (err) {
             console.log(err);
-	    $('#post-new-comment{{ include.reply }}-submitting').hide();
-            if (err.responseJSON.errorCode === "GITHUB_WRITING_FILE") {
-               $('#post-new-comment{{ include.reply }}-thank-you').show();
-	    } else {
+			$('#post-new-comment{{ include.reply }}-submitting').hide();
 	        $('#post-new-comment{{ include.reply }}-error .error-message').text(err.responseText);
-		$('#post-new-comment{{ include.reply }}-error').show();
-	    }
+			$('#post-new-comment{{ include.reply }}-error').show();
         }
     });
 });
-</script-->
-Commenting temporarily disabled.
+</script>
