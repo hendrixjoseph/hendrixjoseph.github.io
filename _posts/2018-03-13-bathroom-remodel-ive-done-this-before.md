@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Bathroom Remodel - I've Done This Before
-tags: [culture]
-keywords: [bath remodel, bathroom remodel]
+tags: [bathroom remodel, diy]
+keywords: [bath remodel]
 image: /images/bathroom-remodel/previous-house/bathroom-complete.jpg
 ---
 
