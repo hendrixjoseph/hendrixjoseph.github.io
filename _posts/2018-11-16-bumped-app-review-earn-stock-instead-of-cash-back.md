@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bumped App Review - Earn Stock Instead of Cash Back
-tags: [money]
+tags: [money, review]
 keywords: [bumped, bumped app, bumped app review]
 image: /images/bumped/bumped-logo.png
 ---
