@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Square Cash Review
-tags: [technology, money]
+tags: [money, review, technology]
 keywords: [square cash, send money]
 image: /images/square-cash/square-cash-main.png
 ---
