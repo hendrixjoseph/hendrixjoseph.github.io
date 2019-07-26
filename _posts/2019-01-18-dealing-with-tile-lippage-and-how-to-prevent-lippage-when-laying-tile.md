@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Dealing With Tile Lippage & How to Prevent Lippage When Laying Tile
-tags: [diy]
-keywords: [bath remodel, bathroom remodel, how to avoid lippage in tile, how to prevent lippage when laying tile, tile lippage system, tile leveling system, tile lippage]
+tags: [bathroom remodel, diy]
+keywords: [bath remodel, how to avoid lippage in tile, how to prevent lippage when laying tile, tile lippage system, tile leveling system, tile lippage]
 image: /images/tile-lippage/lash-clips-close.jpg
 ---
 
