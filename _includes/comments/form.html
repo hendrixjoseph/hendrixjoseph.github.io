@@ -1,4 +1,4 @@
-<!-- form id="post-new-comment{{ include.reply }}" class="new-comment" method="post" action="https://dev.staticman.net/v3/entry/github/hendrixjoseph/hendrixjoseph.github.io/master/comments"{% if include.reply %} style="display: none;"{% endif %}>
+<form id="post-new-comment{{ include.reply }}" class="new-comment" method="post" action="https://dev.staticman.net/v3/entry/github/hendrixjoseph/blog-comments/master/comments"{% if include.reply %} style="display: none;"{% endif %}>
   <input type="hidden" name="options[origin]" value="{{ page.url | absolute_url }}">
   <input name="options[redirect]" type="hidden" value="{{ site.url }}{{ page.url }}" />
   <input name="options[slug]" type="hidden" value="{{ include.slug }}" />
@@ -38,5 +38,4 @@ $('#post-new-comment{{ include.reply }}').submit(function(e){
         }
     });
 });
-</script-->
-Commenting temporarily disabled.
+</script>
