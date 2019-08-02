@@ -138,6 +138,9 @@ Time for the big guns - Merch by Amazon. Selling [t-shirts](https://hendrixjosep
 
 This certainly dwarfs any of the other print-on-demand platforms - even combined!
 
+![Pie Chart showing how much MBA dwarfs Redbubble and TeePublic](/images/merch/first-half-2019/royalty-by-platform.png)
+*Pie Chart showing how much MBA dwarfs Redbubble and TeePublic*
+
 Even one month on Amazon beats six months on TeePublic.
 
 The monthly sales for Merch by Amazon are:
