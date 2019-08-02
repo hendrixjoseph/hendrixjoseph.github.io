@@ -3,7 +3,7 @@ layout: post
 title: First Half 2019 POD & T-Shirt Sales Report
 tags: [money, sales report]
 keywords: [redbubble, teepublic, teespring, merch, print-on-demand, sales, entrepreneur, charts]
-image: /images/merch/first-half-2019/monthly-sales.png
+image: /images/merch/first-half-2019/royalty-by-platform.png
 ---
 
 The first half of 2019 is almost a month over. This makes it a good time to give a sales report on my t-shirt / print-on-demand side hustle.
@@ -45,6 +45,9 @@ April |  $0.00
 May | $3.09
 June | $3.18
 
+![Monthly Royalty on Redbubble](/images/merch/first-half-2019/monthy-royalty-on-redbubble.png)
+*Monthly Royalty on Redbubble*
+
 Here's the breakdown of how much royalty I've made on each product type:
 
 Product | Royalty
@@ -54,6 +57,9 @@ Classic T-Shirt | $4.27
 iPhone Case | $4.25
 Poster | $1.03
 Sticker | $2.05
+
+![Pie Chart of Royalty by Product on Redbubble](/images/merch/first-half-2019/royalty-by-product-on-redbubble.png)
+*Royalty by Product on Redbubble*
 
 Redbubble also breaks down how much I've made in sales by country. The breakdown is as follows:
 
@@ -66,6 +72,9 @@ Hungary | $2.84
 Spain | $1.43
 United Kingdom | $4.28
 United States | $4.98
+
+![Pie Chart of Royalty by Country on Redbubble](/images/merch/first-half-2019/royalty-by-country-on-redbubble.png)
+*Royalty by Country on Redbubble*
 
 ## TeePublic
 
@@ -82,6 +91,9 @@ April | $10.00
 May | $3.00
 June | $18.00
 
+![Monthly Royalty on TeePublic](/images/merch/first-half-2019/monthy-royalty-on-teepublic.png)
+*Monthly Royalty on TeePublic*
+
 And the breakdown of how much royalty I've made on each product type:
 
 Product | Royalty
@@ -89,6 +101,9 @@ Product | Royalty
 Hoodie | $8.00
 Sticker | $1.00
 T-Shirt | $38.00
+
+![Pie Chart of Royalty by Product on TeePublic](/images/merch/first-half-2019/royalty-by-product-on-teepublic.png)
+*Royalty by Product on TeePublic*
 
 TeePublic also breaks down the sales by size:
 
@@ -102,14 +117,20 @@ xl | $10.00
 2xl | $4.00
 3xl | $6.00
 
-And color as well (note that "blank" is for the stickers):
+![Pie Chart of Royalty by Size on TeePublic](/images/merch/first-half-2019/royalty-by-size-on-teepublic.png)
+*Royalty by Size on TeePublic*
+
+And color as well (note that "N/A" is for the stickers):
 
 Color | Royalty
 --- | ---:
 Asphalt | $2.00
 Black | $40.00
 Kelly | $4.00
-(blank) | $1.00
+N/A | $1.00
+
+![Pie Chart of Royalty by Color on TeePublic](/images/merch/first-half-2019/royalty-by-color-on-teepublic.png)
+*Royalty by Color on TeePublic*
 
 ## Merch by Amazon
 
@@ -130,10 +151,8 @@ April | $125.52
 May | $112.37
 June | $169.68
 
-Here's a fun little chart of my monthly Merch by Amazon sales I made:
-
-![First Half MBA Sales](/images/merch/first-half-2019/monthly-sales.png)
-*First Half MBA Sales*
+![Monthly Royalty on MBA](/images/merch/first-half-2019/monthy-royalty-on-mba.png)
+*Monthly Royalty on MBA*
 
 Broken down by gender, where gender is applicable:
 
@@ -144,6 +163,9 @@ Unisex | $44.88
 Women | $144.94
 Youth | $17.12
 N/A | $45.53
+
+![Pie Chart of Royalty by Gender on MBA](/images/merch/first-half-2019/royalty-by-gender-on-mba.png)
+*Royalty by Country on MBA*
 
 And size (again, sometimes not applicable):
 
@@ -159,6 +181,10 @@ XL | $141.84
 2XL | $121.27
 3XL | $59.97
 N/A | $45.53
+
+
+![Pie Chart of Royalty by Size on MBA](/images/merch/first-half-2019/royalty-by-size-on-mba.png)
+*Royalty by Size on MBA*
 
 And colors:
 
@@ -183,6 +209,9 @@ Purple | $7.40
 Cranberry | $5.94
 N/A | $45.53
 
+![Pie Chart of Royalty by Color on MBA](/images/merch/first-half-2019/royalty-by-color-on-mba.png)
+*Royalty by Color on MBA*
+
 And product (everything is applicable here):
 
 Product | Royalty
@@ -194,6 +223,9 @@ Long Sleeve T-Shirt | $12.75
 Premium T-Shirt | $11.22
 Tank Top | $3.61
 V-neck T-shirt | $3.61
+
+![Pie Chart of Royalty by Product on MBA](/images/merch/first-half-2019/royalty-by-product-on-mba.png)
+*Royalty by Product on MBA*
 
 One frustrating thing with Merch by Amazon is that you get negative royalties if an item is returned. That said, of the 327 units sold during the first half of 2019, 7 were canceled, and 11 were returned.
 
