@@ -1,8 +1,16 @@
 ---
-layout: page
+layout: default
 ---
 
 <div class="posts">
-{{ content }}
+<article class="post">
+  <h1 itemprop="headline" class="post-header">{{ page.title }}</h1>
+  {% if page.share %}{% include social/share.html %}{% endif %}
+
+  <div itemprop="articleBody" class="entry">
+    {{ content }}
+  </div>
+  
+</article>
 </div>
 {% include navbar.html %}
