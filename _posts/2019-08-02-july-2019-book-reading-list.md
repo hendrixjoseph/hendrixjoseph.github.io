@@ -52,7 +52,7 @@ Yeah, they're going for that title SEO with all them author keywords.
 
 The Amazon page says there are 1,821 pages. I started reading it towards the end of June. No wonder I haven't finished it yet!
 
-Right now, the price is set at $4.99 (it might be different by the time you read it). I got it for free because I'm subscribed to one of [these free ebook subreddits]([Reddit](https://old.reddit.com/r/FreeEBOOKS+KindleFreebies/).
+Right now, the price is set at $4.99 (it might be different by the time you read it). I got it for free because I'm subscribed to one of [these free ebook subreddits](https://old.reddit.com/r/FreeEBOOKS+KindleFreebies/).
 
 At the time I got it (May 6, 2019), it was free for everyone on Amazon. The authors (or, in this case, publishers) will post on those subreddits when they make their ebooks free. I highly suggest you subscribe.
 
