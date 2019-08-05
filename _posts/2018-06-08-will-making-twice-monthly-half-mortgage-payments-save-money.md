@@ -5,7 +5,7 @@ tags: [money]
 keywords: [debt, loan, loan payments, payment, payments]
 ---
 
-In the quest to pay debt off as quick as possible, people try to find unique ways ("hacks" if you will) to reduce the timeframe and interest charged. The most popular - and successful - method is [the snowball method](https://hendrixjoseph.github.io/charting_the_snowball_method_of_paying_off_debts/) or one of its variants. Another trick is to split the payments into two or more payments a month.
+In the quest to pay debt off as quick as possible, people try to find unique ways ("hacks" if you will) to reduce the timeframe and interest charged. The most popular - and successful - method is [the snowball method]({{ site.url }}/charting_the_snowball_method_of_paying_off_debts/) or one of its variants. Another trick is to split the payments into two or more payments a month.
 
 Does this method work? Is multiple partial loan payments any more efficient than making one payment a month? Will making twice-monthly half mortgage payments save money?
 

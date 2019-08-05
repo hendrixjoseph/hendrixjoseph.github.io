@@ -6,7 +6,7 @@ keywords: [spam, comments, commenting, spam comments, spam comment, dealing with
 image: /images/honeypot.png
 ---
 
-It's been a couple of months since I implemented [a more traditional-looking comment system](https://hendrixjoseph.github.io/new-commenting-system-staticman/) on my blogs, and, coupled with provided meaningful comments on other people's blogs, I've had a moderate amount of success. One issue I've had to deal with, and I'm sure other bloggers deal with this as well, is the number of spam comments from bots. I do look at and approve / deny every comment, so thankfully none of these have actually appeared in any comment sections.
+It's been a couple of months since I implemented [a more traditional-looking comment system]({{ site.url }}/new-commenting-system-staticman/) on my blogs, and, coupled with provided meaningful comments on other people's blogs, I've had a moderate amount of success. One issue I've had to deal with, and I'm sure other bloggers deal with this as well, is the number of spam comments from bots. I do look at and approve / deny every comment, so thankfully none of these have actually appeared in any comment sections.
 
 I did get one spam comment that seemed odd. The comment itself was spammy, especially with the poor spelling and bad grammar often associated with spam. But what was unusual about this comment was the *length*.
 

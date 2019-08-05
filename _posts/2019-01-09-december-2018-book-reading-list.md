@@ -6,7 +6,7 @@ keywords: [book, read, books, reading, book reading, books i read]
 hashtags: [books, reading]
 ---
 
-I finished 2018 strong, having read 15 different books for myself - three times as many as [I read in 2017](https://hendrixjoseph.github.io/the-5-books-i-read-in-2017/). I only read one book in December, but I was determined to finish it by the end of the month/year so I could say I read 3x as many books in 2018 as I read in 2017.
+I finished 2018 strong, having read 15 different books for myself - three times as many as [I read in 2017]({{ site.url }}/the-5-books-i-read-in-2017/). I only read one book in December, but I was determined to finish it by the end of the month/year so I could say I read 3x as many books in 2018 as I read in 2017.
 
 Which I can, and did, say!
 

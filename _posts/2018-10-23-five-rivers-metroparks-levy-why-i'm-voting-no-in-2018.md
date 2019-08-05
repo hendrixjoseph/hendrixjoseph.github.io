@@ -44,7 +44,7 @@ First and foremost, voting *no* on this levy does not defund Five Rivers Metropa
 
 Secondly, Montgomery County just had a sales tax increase - from 7.25% to 7.5% increase. While the Metroparks doesn't see any of the sales tax revenue (at least to my knowledge), I don't think it's fair to the citizens of Montgomery County to artificially increase their cost of living and increase their cost of housing in such a short timeframe.
 
-Thirdly, Dayton - the county seat of Montgomery County - just had an [income tax increase at the end of 2016](https://hendrixjoseph.github.io/issue_9_dayton_income_tax_increase/) from 2.25% to 2.5%. This affected both those who live or work in Dayton. Again, asking people for more of their money in such a short timeframe isn't fair.
+Thirdly, Dayton - the county seat of Montgomery County - just had an [income tax increase at the end of 2016]({{ site.url }}/issue_9_dayton_income_tax_increase/) from 2.25% to 2.5%. This affected both those who live or work in Dayton. Again, asking people for more of their money in such a short timeframe isn't fair.
 
 Fourthly, I'd rather see the Metroparks funded in a more volunteer fashion rather than through the coercion of taxation. I find it ironic that the pro-levy website has a link to its donation page, but the Metroparks page does not. (There is a [Five Rivers Metroparks donation page](https://www.metroparks.org/make-a-difference/gifts/donate/online-contribution-form/), but I had to dig through the sitemap to find it.)
 

@@ -11,14 +11,14 @@ Another month, another dollar, another blog stat report. It's May 2019, and I'm 
 
 I was able to publish four posts this month:
 
-* [How to Get Points on WeBull](https://hendrixjoseph.github.io/how-to-get-points-on-webull/)
-* [2007 Chevrolet Cobalt Cabin Air Filter Replacement](https://hendrixjoseph.github.io/2007-chevrolet-cobalt-cabin-air-filter-replacement/)
-* [April 2019 Book Reading List](https://hendrixjoseph.github.io/april-2019-book-reading-list/)
-* [What is Money?](https://hendrixjoseph.github.io/what-is-money/)
+* [How to Get Points on WeBull]({{ site.url }}/how-to-get-points-on-webull/)
+* [2007 Chevrolet Cobalt Cabin Air Filter Replacement]({{ site.url }}/2007-chevrolet-cobalt-cabin-air-filter-replacement/)
+* [April 2019 Book Reading List]({{ site.url }}/april-2019-book-reading-list/)
+* [What is Money?]({{ site.url }}/what-is-money/)
 
 I also had one guest post/syndicated post:
 
-* [The Top Five AdSense Alternatives To Make Money From Your Blog](https://hendrixjoseph.github.io/the-top-five-adsense-alternatives-to-make-money-from-your-blog/)
+* [The Top Five AdSense Alternatives To Make Money From Your Blog]({{ site.url }}/the-top-five-adsense-alternatives-to-make-money-from-your-blog/)
 
 ## Alexa
 

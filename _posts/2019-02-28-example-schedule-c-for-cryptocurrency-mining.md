@@ -152,6 +152,6 @@ I don't use any of them - I use [Free File Fillable Forms](https://www.freefilef
 
 ## Other Posts You May Like
 
-* [How Do You Report Virtual Currency Transactions to the IRS?](https://hendrixjoseph.github.io/how-do-you-report-virtual-currency-transactions-to-the-irs/)
-* [Cryptocurrency, Bitcoin, & AntMiner Hash Rates](https://hendrixjoseph.github.io/cryptocurrency-bitcoin-and-antminer-hash-rates/)
-* [How to Read Your Electric Meter](https://hendrixjoseph.github.io/how-to-read-your-electric-meter/)
+* [How Do You Report Virtual Currency Transactions to the IRS?]({{ site.url }}/how-do-you-report-virtual-currency-transactions-to-the-irs/)
+* [Cryptocurrency, Bitcoin, & AntMiner Hash Rates]({{ site.url }}/cryptocurrency-bitcoin-and-antminer-hash-rates/)
+* [How to Read Your Electric Meter]({{ site.url }}/how-to-read-your-electric-meter/)

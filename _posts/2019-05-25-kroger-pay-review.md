@@ -83,7 +83,7 @@ The third and final annoyance I've had with Kroger Pay is the somewhat misleadin
 
 For now, I'm going back to using a regular credit card when shopping at Kroger. I do love my local Kroger, and Kroger does tend to do innovative things such as their [ClickList](https://www.kroger.com/topic/clicklist) and their [Zero Hunger / Zero Waste initiative](https://www.kroger.com/f/zero-hunger-zero-waste).
 
-I also own a single share of Kroger in my [Robinhood](https://hendrixjoseph.github.io/robinhood/) account, as well as have Kroger as a loyalty selection in my [Bumped App](https://hendrixjoseph.github.io/bumped-app-review-earn-stock-instead-of-cash-back/).
+I also own a single share of Kroger in my [Robinhood]({{ site.url }}/robinhood/) account, as well as have Kroger as a loyalty selection in my [Bumped App]({{ site.url }}/bumped-app-review-earn-stock-instead-of-cash-back/).
 
 ## Further Reading on Kroger Pay:
 

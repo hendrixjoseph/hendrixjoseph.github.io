@@ -13,7 +13,7 @@ A few meta status comments regarding this blog:
 
 I revamped the [tags section](http://hendrixjoseph.github.io/tags/): instead of having a separate page for each tag, I have one page with a list of tags, and a list of what posts are under that tag
 
-I also added a [referral link page](https://hendrixjoseph.github.io/referral/) just for the fun of it - all referral links on that page are just redirects to the actual link
+I also added a [referral link page]({{ site.url }}/referral/) just for the fun of it - all referral links on that page are just redirects to the actual link
 
 Finally, although I haven't done it yet, I'll be removing the StumbleUpon share/stumble social media button. StumbleUpon is closing down at the end of the month. It's being effectively replaced by [Mix](https://mix.com). I do have a [Mix profile](https://mix.com/joehx) and might add a Mix share button to replace the StumbleUpon button.
 
@@ -27,10 +27,10 @@ If you want to view the previous months' statistic reports, click on one of the 
 
 I was able to publish four blog posts in the past month:
 
-* [4th of July Independence Day Themed Table Topics](https://hendrixjoseph.github.io/4th-of-july-independence-day-themed-table-topics/)
-* [Will Making Twice-Monthly Half Mortgage Payments Save Money?](https://hendrixjoseph.github.io/will-making-twice-monthly-half-mortgage-payments-save-money/)
-* [2004 Honda Civic Cabin Air Filter Replacement](https://hendrixjoseph.github.io/2004-honda-civic-cabin-air-filter-replacement/)
-* [May 2018 Book Reading List](https://hendrixjoseph.github.io/may-2018-book-reading-list/)
+* [4th of July Independence Day Themed Table Topics]({{ site.url }}/4th-of-july-independence-day-themed-table-topics/)
+* [Will Making Twice-Monthly Half Mortgage Payments Save Money?]({{ site.url }}/will-making-twice-monthly-half-mortgage-payments-save-money/)
+* [2004 Honda Civic Cabin Air Filter Replacement]({{ site.url }}/2004-honda-civic-cabin-air-filter-replacement/)
+* [May 2018 Book Reading List]({{ site.url }}/may-2018-book-reading-list/)
 
 Onto the numbers:
 

@@ -43,4 +43,4 @@ Get paid to watch someone’s children. In fact, you could even get paid to watc
 
 ## P.S.
 
-I also wrote about [5 Ways to Make Extra Cash with No Upfront Investment](https://hendrixjoseph.github.io/5-ways-to-make-extra-cash-with-no-upfront-investment/), but while a teenager could potentially do some of the items in that article (they’re all online stuff) you might need to do it underneath a parent’s account. Unless you’re 18 or 19, which is technically a teenager but also a legal adult in most jurisdictions.
+I also wrote about [5 Ways to Make Extra Cash with No Upfront Investment]({{ site.url }}/5-ways-to-make-extra-cash-with-no-upfront-investment/), but while a teenager could potentially do some of the items in that article (they’re all online stuff) you might need to do it underneath a parent’s account. Unless you’re 18 or 19, which is technically a teenager but also a legal adult in most jurisdictions.

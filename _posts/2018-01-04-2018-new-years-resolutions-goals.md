@@ -41,9 +41,9 @@ It might not sound like much, but it will pay for itself in less than a year.
 
 I'm not going to go into details, but I have an upcoming opportunity at work to increase my income at work beyond the normal merit raise. It's not without risk, however.
 
-Onto things I can be more specific about, I am expanding [the t-shirt designs I have on Amazon](https://hendrixjoseph.github.io/t-shirts/) to other print-on-demand sites. Currently, I have [a TeeSpring account](https://teespring.com/stores/joehxs-store) and [a RedBubble account](https://www.redbubble.com/people/joehx), and plan on expanding to other platforms as well. Unfortunately, I don't have anything more specific or concrete than that.
+Onto things I can be more specific about, I am expanding [the t-shirt designs I have on Amazon]({{ site.url }}/t-shirts/) to other print-on-demand sites. Currently, I have [a TeeSpring account](https://teespring.com/stores/joehxs-store) and [a RedBubble account](https://www.redbubble.com/people/joehx), and plan on expanding to other platforms as well. Unfortunately, I don't have anything more specific or concrete than that.
 
-My wife has already been on top of this one. She's been busy the last couple of days selling leftover decorations from [our wedding](https://hendrixjoseph.github.io/four-things-i'm-excited-for-in-2017/#getting-married). I think a large portion of these items we never used to begin with.
+My wife has already been on top of this one. She's been busy the last couple of days selling leftover decorations from [our wedding]({{ site.url }}/four-things-i'm-excited-for-in-2017/#getting-married). I think a large portion of these items we never used to begin with.
 
 I challenged my wife to write a book this year, which I told her I can publish on my Amazon Kindle Direct Publishing account. I'm also wanting to write an ebook, so we'll see how that goes.
 
@@ -53,15 +53,15 @@ I'll continue my experiments promoting this blog and [my other, dog-oriented blo
 
 ## Abstract Goal: Professional & Personal Development
 
-In November of last year, we both joined Toastmasters, and we both have our [first speech](https://hendrixjoseph.github.io/toastmasters-icebreaker-speech-the-story-of-joe/) next week. I still need to write that one, which I'll be doing as soon as I publish this post (procrastinating much?).
+In November of last year, we both joined Toastmasters, and we both have our [first speech]({{ site.url }}/toastmasters-icebreaker-speech-the-story-of-joe/) next week. I still need to write that one, which I'll be doing as soon as I publish this post (procrastinating much?).
 
 I will be graduating with my Master's in Computer Science this year, either at the end of summer semester or the end of fall semester. It depends if there's a course offered during the summer which I can take.
 
 She's wanting to start a LinkedIn account, and I'll help her with that.
 
-I plan on [reading more](https://hendrixjoseph.github.io/the-5-books-i-read-in-2017/). There's no specific amount of books, but I always want to be reading at least one book. The topic is irrelevant, at least for the point of this goal.
+I plan on [reading more]({{ site.url }}/the-5-books-i-read-in-2017/). There's no specific amount of books, but I always want to be reading at least one book. The topic is irrelevant, at least for the point of this goal.
 
-I will continue [listening to PodCasts](https://hendrixjoseph.github.io/the-top-seven-podcasts-to-start-listening-to/) rather than over-the-air music radio. The radio repeats too much, anyway.
+I will continue [listening to PodCasts]({{ site.url }}/the-top-seven-podcasts-to-start-listening-to/) rather than over-the-air music radio. The radio repeats too much, anyway.
 
 (Oh, and the book-publishing and app-publishing goals from [*Earn More*](#abstract-goal-earn-more) section fulfill this goal, too!)
 
@@ -81,4 +81,4 @@ She's pregnant with our first child and due in April, so having a healthy baby i
 
 ***You might also like***
 
-[Four Things I'm Excited for in 2017](https://hendrixjoseph.github.io/four-things-i'm-excited-for-in-2017/)
+[Four Things I'm Excited for in 2017]({{ site.url }}/four-things-i'm-excited-for-in-2017/)

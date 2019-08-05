@@ -21,7 +21,7 @@ To recap, here's how I choose what stocks to buy:
 
 How have I been doing? Well, I've invested $392.97 via Robinhood, and my balance as of August 31 is $393.21. That's up - a whopping 24&cent; - , and up is good, but once you take out my bonus free stock (CHK), valued at $4.43 also on August 31, my balance is actually down about four bucks  ($393.21 - $4.43 = $388.78; $388.78 - $392.97 = -$4.
 
-> Get your own free stock from Robinhood by using my [Robinhood Referral link](https://hendrixjoseph.github.io/robinhood/)!
+> Get your own free stock from Robinhood by using my [Robinhood Referral link]({{ site.url }}/robinhood/)!
 
 ## My Picks
 
@@ -73,4 +73,4 @@ Somehow, though, I still have more money in my Robinhood account than I've put i
 
 This money is money I can afford to lose - when I buy any stocks or options, I automatically assume a complete loss, at least as far as my budget goes.
 
-> Want your own free stock from Robinhood? Sign up using my [Robinhood Referral link](https://hendrixjoseph.github.io/robinhood/)!
+> Want your own free stock from Robinhood? Sign up using my [Robinhood Referral link]({{ site.url }}/robinhood/)!

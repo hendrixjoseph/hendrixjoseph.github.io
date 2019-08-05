@@ -6,11 +6,11 @@ keywords: [amazon, merch, merch by amazon, print-on-demand, sales, entrepreneur,
 image: /images/merch/second-half-2018/weekly-sales.png
 ---
 
-It's been a few days over six months since my [First Half 2018 Merch by Amazon Sales Report](https://hendrixjoseph.github.io/first-half-2018-merch-by-amazon-sales-report/), which means it's time to report on the second half of 2018. The second half of 2018 (in fact, the second half every year) contains the coveted "Q4" or fourth quarter, with the Christmas and Holiday shopping season.
+It's been a few days over six months since my [First Half 2018 Merch by Amazon Sales Report]({{ site.url }}/first-half-2018-merch-by-amazon-sales-report/), which means it's time to report on the second half of 2018. The second half of 2018 (in fact, the second half every year) contains the coveted "Q4" or fourth quarter, with the Christmas and Holiday shopping season.
 
 December didn't disappoint and had two to three times the sales as my other months. In total, I made about $959.94 out of a total of $9,276.79 in sales, meaning my share of Amazon's revenue is just a hair above 10%. I sold 580 "units" (units being individual products, which isn't just shirts since Amazon released Popsockets) and only had 6 canceled and 12 returned. That's roughly a 3% cancel and return rate.
 
-The aforementioned [First Half 2018](https://hendrixjoseph.github.io/first-half-2018-merch-by-amazon-sales-report/) report was from the timeframe of January 1, 2018, through June 30, 2018. This report is the remaining of the year - July 1, 2018, through December 31, 2018. I have another post, [My First Seven Months on Merch by Amazon: Sales Report](https://hendrixjoseph.github.io/my-first-seven-months-on-merch-by-amazon-sales-report/), where I report on some of my 2017 sales, although in that post I don't explicitly state the timeframe.
+The aforementioned [First Half 2018]({{ site.url }}/first-half-2018-merch-by-amazon-sales-report/) report was from the timeframe of January 1, 2018, through June 30, 2018. This report is the remaining of the year - July 1, 2018, through December 31, 2018. I have another post, [My First Seven Months on Merch by Amazon: Sales Report]({{ site.url }}/my-first-seven-months-on-merch-by-amazon-sales-report/), where I report on some of my 2017 sales, although in that post I don't explicitly state the timeframe.
 
 Onto the numbers with pretty graphs:
 
@@ -128,6 +128,6 @@ Dec | $311.05
 
 ## Other Print-On-Demand Sites
 
-I do use other print-on-demand t-shirt sites, namely [Redbubble](https://www.redbubble.com/en/people/joehx), [TeePublic](https://hendrixjoseph.github.io/teepublic/), and [Teespring](https://teespring.com/stores/joehxs-store), but I barely make pocket change on those sites.
+I do use other print-on-demand t-shirt sites, namely [Redbubble](https://www.redbubble.com/en/people/joehx), [TeePublic]({{ site.url }}/teepublic/), and [Teespring](https://teespring.com/stores/joehxs-store), but I barely make pocket change on those sites.
 
-If you want to check out my t-shirt designs on Amazon, I set up [a special Amazon search page for my t-shirts](https://hendrixjoseph.github.io/t-shirts/) as well as a similar page for [my PopSocket designs](https://hendrixjoseph.github.io/popsockets/).
+If you want to check out my t-shirt designs on Amazon, I set up [a special Amazon search page for my t-shirts]({{ site.url }}/t-shirts/) as well as a similar page for [my PopSocket designs]({{ site.url }}/popsockets/).

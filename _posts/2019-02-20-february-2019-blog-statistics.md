@@ -11,18 +11,18 @@ February has been a frustrating month for me in the blogosphere, for reasons I c
 
 I was able to publish five posts this month:
 
-* [Fixing My Wife's Timex Ironman Watch](https://hendrixjoseph.github.io/fixing-my-wifes-timex-ironman-watch/)
-* [January 2019 Book Reading List](https://hendrixjoseph.github.io/january-2019-book-reading-list/)
-* [How Marginal Tax Rates Affect Effective Rates](https://hendrixjoseph.github.io/how-marginal-tax-rates-affect-effective-rates/)
-* [Second Half 2018 Merch by Amazon Sales Report](https://hendrixjoseph.github.io/second-half-2018-merch-by-amazon-sales-report/)
-* [How Do You Report Virtual Currency Transactions to the IRS?](https://hendrixjoseph.github.io/how-do-you-report-virtual-currency-transactions-to-the-irs/)
+* [Fixing My Wife's Timex Ironman Watch]({{ site.url }}/fixing-my-wifes-timex-ironman-watch/)
+* [January 2019 Book Reading List]({{ site.url }}/january-2019-book-reading-list/)
+* [How Marginal Tax Rates Affect Effective Rates]({{ site.url }}/how-marginal-tax-rates-affect-effective-rates/)
+* [Second Half 2018 Merch by Amazon Sales Report]({{ site.url }}/second-half-2018-merch-by-amazon-sales-report/)
+* [How Do You Report Virtual Currency Transactions to the IRS?]({{ site.url }}/how-do-you-report-virtual-currency-transactions-to-the-irs/)
 
 I also have some new "sections" on this site that aren't blog posts per se:
 
-* [Blog post archive](https://hendrixjoseph.github.io/archive/) which is a little different than my "[sitemap](https://hendrixjoseph.github.io/sitemap/)" page in that you can link to [a specific month](https://hendrixjoseph.github.io/archive/#November-2017) or a [specific year](https://hendrixjoseph.github.io/archive/#year-2017).
-* [Comment archive](https://hendrixjoseph.github.io/comments/) with every comment on this blog on one page. The comments might not make 100% sense without context, but it's more for me to be able to find comments quickly if I so desire.
-* [Featured section](https://hendrixjoseph.github.io/featured/) where I attempt to archive places that backlink this site.
-* [Referral links section](https://hendrixjoseph.github.io/referral/) where I list referral links that might make me money if you click on them - most of them are redirects.
+* [Blog post archive]({{ site.url }}/archive/) which is a little different than my "[sitemap]({{ site.url }}/sitemap/)" page in that you can link to [a specific month]({{ site.url }}/archive/#November-2017) or a [specific year]({{ site.url }}/archive/#year-2017).
+* [Comment archive]({{ site.url }}/comments/) with every comment on this blog on one page. The comments might not make 100% sense without context, but it's more for me to be able to find comments quickly if I so desire.
+* [Featured section]({{ site.url }}/featured/) where I attempt to archive places that backlink this site.
+* [Referral links section]({{ site.url }}/referral/) where I list referral links that might make me money if you click on them - most of them are redirects.
 
 A few of these have existed for several months now. I'm just now remembering to mention them on one of my monthly blog stat posts.
 

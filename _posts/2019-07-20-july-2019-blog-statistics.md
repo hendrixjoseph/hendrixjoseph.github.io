@@ -12,14 +12,14 @@ It's the twentieth, which means it's time for another blog statistic report.  Th
 I was able to publish eight posts this month. That's an average of two a week!
 
 * [Upgrading to Staticman V3 and Github Pull Request Problems
-](https://hendrixjoseph.github.io/upgrading-to-staticman-v3-and-github-pull-request-problems/)
-* [Rethinking the Flag of Huber Heights, Ohio](https://hendrixjoseph.github.io/rethinking-the-flag-of-huber-heights-ohio/)
-* [2019 Goal Check-In](https://hendrixjoseph.github.io/2019-goal-check-in/)
-* [How To Get Dorco Razor Blades After DorcoUSA Shuts Down](https://hendrixjoseph.github.io/how-to-get-dorco-razor-blades-after-dorcousa-shuts-down/)
-* [June 2019 Book Reading List](https://hendrixjoseph.github.io/june-2019-book-reading-list/)
-* [We Bought A Car](https://hendrixjoseph.github.io/we-bought-a-car/)
-* [How To Put A Border Around An Image In Inkscape](https://hendrixjoseph.github.io/how-to-put-a-border-around-an-image-in-inkscape/)
-* [Smith Family Graves at Riverside Cemetery in Troy, Ohio](https://hendrixjoseph.github.io/smith-family-graves-at-riverside-cemetery-in-troy-ohio/)
+]({{ site.url }}/upgrading-to-staticman-v3-and-github-pull-request-problems/)
+* [Rethinking the Flag of Huber Heights, Ohio]({{ site.url }}/rethinking-the-flag-of-huber-heights-ohio/)
+* [2019 Goal Check-In]({{ site.url }}/2019-goal-check-in/)
+* [How To Get Dorco Razor Blades After DorcoUSA Shuts Down]({{ site.url }}/how-to-get-dorco-razor-blades-after-dorcousa-shuts-down/)
+* [June 2019 Book Reading List]({{ site.url }}/june-2019-book-reading-list/)
+* [We Bought A Car]({{ site.url }}/we-bought-a-car/)
+* [How To Put A Border Around An Image In Inkscape]({{ site.url }}/how-to-put-a-border-around-an-image-in-inkscape/)
+* [Smith Family Graves at Riverside Cemetery in Troy, Ohio]({{ site.url }}/smith-family-graves-at-riverside-cemetery-in-troy-ohio/)
 
 ## Alexa
 

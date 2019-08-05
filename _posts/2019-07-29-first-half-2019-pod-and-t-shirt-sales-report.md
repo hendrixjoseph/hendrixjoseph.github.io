@@ -12,9 +12,9 @@ Perhaps a bit overdue, since we're nearly a month into the second half.
 
 If you want to check out my other t-shirt sales reports, here are some links:
 
-* [My First Seven Months on Merch by Amazon: Sales Report](https://hendrixjoseph.github.io/my-first-seven-months-on-merch-by-amazon-sales-report/)
-* [First Half 2018 Merch by Amazon Sales Report](https://hendrixjoseph.github.io/first-half-2018-merch-by-amazon-sales-report/)
-* [Second Half 2018 Merch by Amazon Sales Report](https://hendrixjoseph.github.io/second-half-2018-merch-by-amazon-sales-report/)
+* [My First Seven Months on Merch by Amazon: Sales Report]({{ site.url }}/my-first-seven-months-on-merch-by-amazon-sales-report/)
+* [First Half 2018 Merch by Amazon Sales Report]({{ site.url }}/first-half-2018-merch-by-amazon-sales-report/)
+* [Second Half 2018 Merch by Amazon Sales Report]({{ site.url }}/second-half-2018-merch-by-amazon-sales-report/)
 
 First, some details.
 
@@ -134,7 +134,7 @@ N/A | $1.00
 
 ## Merch by Amazon
 
-Time for the big guns - Merch by Amazon. Selling [t-shirts](https://hendrixjoseph.github.io/t-shirts/) (and [PopSockets](https://hendrixjoseph.github.io/popsockets/)!) on Amazon is my money-maker. I've made a total of $783.76 in the first six months of 2019.
+Time for the big guns - Merch by Amazon. Selling [t-shirts]({{ site.url }}/t-shirts/) (and [PopSockets]({{ site.url }}/popsockets/)!) on Amazon is my money-maker. I've made a total of $783.76 in the first six months of 2019.
 
 This certainly dwarfs any of the other print-on-demand platforms - even combined!
 

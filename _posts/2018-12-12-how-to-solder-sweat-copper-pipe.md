@@ -64,9 +64,9 @@ The solution is to prevent water from getting to where you are attempting to sol
 
 ## Money-saving Tips
 
-If you're buying your supplies from the Home Depot, use [a Chase Freedom Unlimited card](https://hendrixjoseph.github.io/chase-freedom-unlimited/) and shop through Chase via the Chase website and receive 2% extra cash back on top of the regular 1.5% cash back for a total of 3.5% (all at the time of this writing). If you do not already have a Chase Freedom Unlimited card, use [this referral link](https://hendrixjoseph.github.io/chase-freedom-unlimited/) to receive a $150 bonus after spending $500 on purchases in the first 3 months from account opening.
+If you're buying your supplies from the Home Depot, use [a Chase Freedom Unlimited card]({{ site.url }}/chase-freedom-unlimited/) and shop through Chase via the Chase website and receive 2% extra cash back on top of the regular 1.5% cash back for a total of 3.5% (all at the time of this writing). If you do not already have a Chase Freedom Unlimited card, use [this referral link]({{ site.url }}/chase-freedom-unlimited/) to receive a $150 bonus after spending $500 on purchases in the first 3 months from account opening.
 
-Alternatively, use [eBates](https://hendrixjoseph.github.io/ebates/) and buy a Home Depot (or even Lowe's) gift card from [Gift Card Mall](https://www.giftcardmall.com/) to receive 1% cash back on the purchase of the gift card. Use my [eBates referral link](https://hendrixjoseph.github.io/ebates/) to receive $10 after spending at least $25 for the first 90 days.
+Alternatively, use [eBates]({{ site.url }}/ebates/) and buy a Home Depot (or even Lowe's) gift card from [Gift Card Mall](https://www.giftcardmall.com/) to receive 1% cash back on the purchase of the gift card. Use my [eBates referral link]({{ site.url }}/ebates/) to receive $10 after spending at least $25 for the first 90 days.
 
 Finally, you can buy a Home Depot or Lowe's gift card at a Kroger or Kroger-affiliated store to receive double fuel points (or sometimes 4x). You can even buy these [gift cards online at Kroger](https://giftcards.kroger.com/) and still receive the fuel points.
 

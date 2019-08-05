@@ -7,7 +7,7 @@ hashtags: [books, reading]
 image: /images/books/star-trek-the-eugenics-war.jpg
 ---
 
-October was a pretty busy month for me. [We bought a van](https://hendrixjoseph.github.io/we-bought-a-van/). I've been hard at work on [remodeling the master bathroom](https://hendrixjoseph.github.io/master-bath-remodel-demolition/). And, of course, I've been busy helping my wife [take care of our seven-month-year-old son](https://hendrixjoseph.github.io/a-mostly-financial-pregnancy-timeline-and-the-first-four-months-of-life-my-experience-as-a-new-dad/).
+October was a pretty busy month for me. [We bought a van]({{ site.url }}/we-bought-a-van/). I've been hard at work on [remodeling the master bathroom]({{ site.url }}/master-bath-remodel-demolition/). And, of course, I've been busy helping my wife [take care of our seven-month-year-old son]({{ site.url }}/a-mostly-financial-pregnancy-timeline-and-the-first-four-months-of-life-my-experience-as-a-new-dad/).
 
 I still made sure I had time to read, though.
 

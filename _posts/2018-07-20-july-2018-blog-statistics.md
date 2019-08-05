@@ -18,13 +18,13 @@ It's the 20th, so that means it's time for me to show off the last month's blog 
 
 I was able to publish seven blog posts in the past month. That's probably a record for me. (My poor [dog blog](https://www.puppy-snuggles.com/) hasn't had a new post since May.)
 
-* [First Half 2018 Merch by Amazon Sales Report](https://hendrixjoseph.github.io/first-half-2018-merch-by-amazon-sales-report/)
-* [Let's Build a Diversified Stock Portfolio](https://hendrixjoseph.github.io/lets-build-a-diversified-stock-portfolio/)
-* [The Three Lighthouse Math Problem Visualized](https://hendrixjoseph.github.io/the-three-lighthouse-math-problem-visualized/)
-* [June 2018 Book Reading List](https://hendrixjoseph.github.io/june-2018-book-reading-list/)
-* [My Robinhood Stock Picks for June 2018](https://hendrixjoseph.github.io/my-robinhood-stock-picks-for-june-2018/)
-* [Unlocking a 2004 Honda Civic Radio and Setting the Clock](https://hendrixjoseph.github.io/unlocking-a-2004-honda-civic-radio-and-setting-the-clock/)
-* [What Are the Best Ways to Make Money As a Teenager?](https://hendrixjoseph.github.io/what-are-the-best-ways-to-make-money-as-a-teenager/)
+* [First Half 2018 Merch by Amazon Sales Report]({{ site.url }}/first-half-2018-merch-by-amazon-sales-report/)
+* [Let's Build a Diversified Stock Portfolio]({{ site.url }}/lets-build-a-diversified-stock-portfolio/)
+* [The Three Lighthouse Math Problem Visualized]({{ site.url }}/the-three-lighthouse-math-problem-visualized/)
+* [June 2018 Book Reading List]({{ site.url }}/june-2018-book-reading-list/)
+* [My Robinhood Stock Picks for June 2018]({{ site.url }}/my-robinhood-stock-picks-for-june-2018/)
+* [Unlocking a 2004 Honda Civic Radio and Setting the Clock]({{ site.url }}/unlocking-a-2004-honda-civic-radio-and-setting-the-clock/)
+* [What Are the Best Ways to Make Money As a Teenager?]({{ site.url }}/what-are-the-best-ways-to-make-money-as-a-teenager/)
 
 ## Alexa
 

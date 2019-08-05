@@ -14,11 +14,11 @@ Another day, another dollar. Or, in this case, another month, another blog stats
 
 Life has been good recently. Busy and good. And despite being busy with life, school, and work, I was able to publish three blog posts:
 
-* [Let's Complicate Things](https://hendrixjoseph.github.io/lets-complicate-things/)
-* [March 2018 Book Reading List](https://hendrixjoseph.github.io/march-2018-book-reading-list/)
-* [Life Update](https://hendrixjoseph.github.io/life-update/)
+* [Let's Complicate Things]({{ site.url }}/lets-complicate-things/)
+* [March 2018 Book Reading List]({{ site.url }}/march-2018-book-reading-list/)
+* [Life Update]({{ site.url }}/life-update/)
 
-Honestly, I thought I'd done less than last month, but apparently, I did three posts last month as well. I did okay stats-wise, but my Google Analytics and AdSense numbers are slightly less - a combination of not having time to promote, and I had that nice [Rockstar Finance Feature](https://hendrixjoseph.github.io/when-is-energy-efficiency-worth-the-investment/) last time.
+Honestly, I thought I'd done less than last month, but apparently, I did three posts last month as well. I did okay stats-wise, but my Google Analytics and AdSense numbers are slightly less - a combination of not having time to promote, and I had that nice [Rockstar Finance Feature]({{ site.url }}/when-is-energy-efficiency-worth-the-investment/) last time.
 
 My Alexa number is under a million now! That means there are less than a million sites that are visited more often than mine. Well, at least by Alexa's estimate.
 

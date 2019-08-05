@@ -7,7 +7,7 @@ hashtags: [webull]
 image: /images/webull/cover.png
 ---
 
-WeBull is a zero-commission brokerage app - a competitor to [Robinhood](https://hendrixjoseph.github.io/tags/#stock-picks). One of the things that sets WeBull apart from Robinhood is the ability to paper trade.
+WeBull is a zero-commission brokerage app - a competitor to [Robinhood]({{ site.url }}/tags/#stock-picks). One of the things that sets WeBull apart from Robinhood is the ability to paper trade.
 
 [Paper trading](https://www.investopedia.com/terms/p/papertrade.asp) is simulated trading that doesn't risk real money - it is pretend. Not only does WeBull offer paper trading, but they also have a paper trading competition - with real prizes.
 
@@ -65,6 +65,6 @@ The system doesn't seem to indicate how many predictions you have made. I'm not 
 
 If you don't know what you're doing at first, just guess. With ten guesses, you should average five correct answers a day, which would be five points a day.
 
-> If you don't have WeBull, use my [WeBull Referral Link](https://hendrixjoseph.github.io/webull/) and get one free stock.
+> If you don't have WeBull, use my [WeBull Referral Link]({{ site.url }}/webull/) and get one free stock.
 
 Are there any other ways to get WeBull points I don't know about that you do? What is your trading strategy? Comment below!

@@ -7,7 +7,7 @@ mathjax: true
 image: /images/antminer-s3.jpg
 ---
 
-Earlier this year I become interested in the cryptocurrency scene, particularly bitcoin. In addition to [buying some bitcoin on Coinbase](https://hendrixjoseph.github.io/coinbase/), I also bought [an AntMiner S3 on eBay](https://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5337996799&mpre=https://www.ebay.com/sch/i.html?_nkw=antminer+s3). I was using the AntMiner via the NiceHash service, but after the recent hack, I decided to move to an actual pool. After a very short amount of research, I decided to go with SlushPool, which is one of the older pools.
+Earlier this year I become interested in the cryptocurrency scene, particularly bitcoin. In addition to [buying some bitcoin on Coinbase]({{ site.url }}/coinbase/), I also bought [an AntMiner S3 on eBay](https://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5337996799&mpre=https://www.ebay.com/sch/i.html?_nkw=antminer+s3). I was using the AntMiner via the NiceHash service, but after the recent hack, I decided to move to an actual pool. After a very short amount of research, I decided to go with SlushPool, which is one of the older pools.
 
 So how much do I make with my AntMiner? Not much, really. In fact, I probably spend more on electricity than I make. **To make things confusing, I get paid for mining with bitcoins, whereas the electric company bills me in US dollars.**
 

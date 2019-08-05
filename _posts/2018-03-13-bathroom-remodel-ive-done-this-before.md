@@ -6,7 +6,7 @@ keywords: [bath remodel]
 image: /images/bathroom-remodel/previous-house/bathroom-complete.jpg
 ---
 
-A couple of posts ago I talked about how I am [remodeling my master bathroom](https://hendrixjoseph.github.io/master-bath-remodel-demolition/). I'm still working on that - still in the demolition phase despite working on it for two weeks - so I wanted to show some previous work I've done. In the house I lived in before, I remodeled the bathroom, and have been told I did a good job.
+A couple of posts ago I talked about how I am [remodeling my master bathroom]({{ site.url }}/master-bath-remodel-demolition/). I'm still working on that - still in the demolition phase despite working on it for two weeks - so I wanted to show some previous work I've done. In the house I lived in before, I remodeled the bathroom, and have been told I did a good job.
 
 This post is going to be mostly pictures, culminating in a photo of that completed bathroom. 
 

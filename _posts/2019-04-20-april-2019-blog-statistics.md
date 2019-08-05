@@ -11,10 +11,10 @@ April 20th has rolled around, and it's Easter weekend. Time for my monthly blog 
 
 I was able to publish four posts this month:
 
-* [Three Simple Ways to Make A Difference](https://hendrixjoseph.github.io/three-simple-ways-to-make-a-difference/)
-* [How Frequently Does Easter Occur on Each Date?](https://hendrixjoseph.github.io/how-frequently-does-easter-occur-on-each-date/)
-* [March 2019 Book Reading List](https://hendrixjoseph.github.io/march-2019-book-reading-list/)
-* [What Happens in Java If You Implement Two Interfaces with The Same Default Method?](https://hendrixjoseph.github.io/what-happens-in-java-if-you-implement-two-interfaces-with-the-same-default-method/)
+* [Three Simple Ways to Make A Difference]({{ site.url }}/three-simple-ways-to-make-a-difference/)
+* [How Frequently Does Easter Occur on Each Date?]({{ site.url }}/how-frequently-does-easter-occur-on-each-date/)
+* [March 2019 Book Reading List]({{ site.url }}/march-2019-book-reading-list/)
+* [What Happens in Java If You Implement Two Interfaces with The Same Default Method?]({{ site.url }}/what-happens-in-java-if-you-implement-two-interfaces-with-the-same-default-method/)
 
 ## Alexa
 

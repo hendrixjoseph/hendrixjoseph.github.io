@@ -6,9 +6,9 @@ keywords: [book, read, books, reading, book reading, books i read]
 image : /images/books/may-2018-books-read.jpg
 ---
 
-For the month of May, I only read one book, which seems to be the trend for the year. While I did read [three books in January](https://hendrixjoseph.github.io/january-2018-book-reading-list/), I only managed to read [one book in March](https://hendrixjoseph.github.io/march-2018-book-reading-list/) and [one book in April](https://hendrixjoseph.github.io/april-2018-book-reading-list/).
+For the month of May, I only read one book, which seems to be the trend for the year. While I did read [three books in January]({{ site.url }}/january-2018-book-reading-list/), I only managed to read [one book in March]({{ site.url }}/march-2018-book-reading-list/) and [one book in April]({{ site.url }}/april-2018-book-reading-list/).
 
-One book a month is still better than [last year, where I only read five books](https://hendrixjoseph.github.io/the-5-books-i-read-in-2017/).
+One book a month is still better than [last year, where I only read five books]({{ site.url }}/the-5-books-i-read-in-2017/).
 
 Continuing with the theme of the year (that theme is being a new dad) I read 
 [The Complete Idiot's Guide to Being a New Dad](https://www.abebooks.com/products/isbn/9781615642472/22914225642). I was actually rather disappointed with this book. It's not that it was a bad book, it's just that it didn't get to actual parenting until chapter 8. The first seven chapters dealt with pregnancy.

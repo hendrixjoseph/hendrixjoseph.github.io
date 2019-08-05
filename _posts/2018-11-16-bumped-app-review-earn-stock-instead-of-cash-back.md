@@ -115,11 +115,11 @@ Not much; but today is Friday and I only received my invite on Monday. I have $1
 
 Yes, absolutely to both questions! In fact, do to the nature of how the rewards are processed for both the Bumped app and credit cards, the rewards stack. For instance, if you get 1% from Bumped and 1.5% from your credit card, you'll get 2.5% total!
 
-> Don't have a cash back credit card? Check out either the [Chase Freedom](https://hendrixjoseph.github.io/chase-freedom/) Card with 5% cash back categories, 1% cash back everything else plus a $150 bonus. Or don't want to worry about categories? Check out the [Chase Freedom Unlimited](https://hendrixjoseph.github.io/chase-freedom-unlimited/) with unlimited 1.5% cash back and a $150 bonus. Or do both!
+> Don't have a cash back credit card? Check out either the [Chase Freedom]({{ site.url }}/chase-freedom/) Card with 5% cash back categories, 1% cash back everything else plus a $150 bonus. Or don't want to worry about categories? Check out the [Chase Freedom Unlimited]({{ site.url }}/chase-freedom-unlimited/) with unlimited 1.5% cash back and a $150 bonus. Or do both!
 
 ## Does Bumped have a referral program?
 
-Currently, [Bumped does not have a referral program](https://support.bumped.com/hc/en-us/articles/360017800691-Does-Bumped-have-a-referral-program-). If and when they do, I'll be certain to include a link both on this review and on my [referral links page](https://hendrixjoseph.github.io/referral/).
+Currently, [Bumped does not have a referral program](https://support.bumped.com/hc/en-us/articles/360017800691-Does-Bumped-have-a-referral-program-). If and when they do, I'll be certain to include a link both on this review and on my [referral links page]({{ site.url }}/referral/).
 
 ## How do you join Bumped?
 

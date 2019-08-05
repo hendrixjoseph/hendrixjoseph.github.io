@@ -6,7 +6,7 @@ keywords: [book, read, books, reading, book reading, books i read]
 image: /images/books/january-2018-books-read.png
 ---
 
-Part of [my 2018 resolutions and goals this year](https://hendrixjoseph.github.io/2018-new-years-resolutions-goals/) was to read more books. So far, I think I've done okay. I only finished three books in the last month. That's actually pretty good, considering I finished only [five books in 2017](https://hendrixjoseph.github.io/the-5-books-i-read-in-2017/).
+Part of [my 2018 resolutions and goals this year]({{ site.url }}/2018-new-years-resolutions-goals/) was to read more books. So far, I think I've done okay. I only finished three books in the last month. That's actually pretty good, considering I finished only [five books in 2017]({{ site.url }}/the-5-books-i-read-in-2017/).
 
 All three books I read this month were nonfiction. I need to get some fiction reading in sometime this year, I'm just unsure as to what. Classic fiction? Not sure. I prefer sci-fi (or its supergenre speculative fiction, which includes fantasy and alternative history as well), but I'm not afraid to venture out of my comfort zone.
 
@@ -26,7 +26,7 @@ That said, this book did inform me of a couple ideas I was unaware of. These ide
 
 ## [The Everything Father-To-Be Book 1st edition by Kevin Nelson](https://www.abebooks.com/products/isbn/9781580629744/30203444038)
 
-If you've kept up with my past few blog posts, you'll know that my wife is expecting our first child soon (a son, due early April!) We're both heavily into learning (we both joined Toastmaster's and gave our [icebreaker speech](https://hendrixjoseph.github.io/toastmasters-icebreaker-speech-the-story-of-joe/) last month) and have already taken a few classes about childbirth, so it's no surprise we're reading books on the subject as well.
+If you've kept up with my past few blog posts, you'll know that my wife is expecting our first child soon (a son, due early April!) We're both heavily into learning (we both joined Toastmaster's and gave our [icebreaker speech]({{ site.url }}/toastmasters-icebreaker-speech-the-story-of-joe/) last month) and have already taken a few classes about childbirth, so it's no surprise we're reading books on the subject as well.
 
 [The Everything Father-To-Be Book](https://www.abebooks.com/products/isbn/9781580629744/30203444038) is okay on the subject. Just okay. I feel as if it's more geared towards unexpected fathers and more stereotypical, beer-drinking, football-watching men. As I don't enjoy drinking beer (or any alcohol for that matter) and I'm not that into sports, it felt as if I was not the target audience for this book.
 

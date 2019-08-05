@@ -162,4 +162,4 @@ So, if you invest, don't worry about creating the perfect diversified portfolio 
 
 ***Check out [Fidelity's website](https://www.fidelity.com/) or [Vanguard's website](https://investor.vanguard.com/home/) if you want to invest in index funds.***
 
-***Alternatively, if you want to invest in stocks, I suggest Robinhood for fee-free buying and selling. Use my [Robinhood Referral Link](https://hendrixjoseph.github.io/robinhood/) to receive a free stock!***
+***Alternatively, if you want to invest in stocks, I suggest Robinhood for fee-free buying and selling. Use my [Robinhood Referral Link]({{ site.url }}/robinhood/) to receive a free stock!***

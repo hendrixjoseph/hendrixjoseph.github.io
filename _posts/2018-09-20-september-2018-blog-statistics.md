@@ -9,7 +9,7 @@ image: /images/blog-stats/2018-09-search-console.png
 
 It's been a steady month in terms of stats for this blog. While there hasn't been much in the terms of improvement stats-wise, they have remained consistently good.
 
-There was a small spike in pageviews on August 21st due to my article [Will Making Twice-Monthly Half Mortgage Payments Save Money?](https://hendrixjoseph.github.io//will-making-twice-monthly-half-mortgage-payments-save-money/) being featured on the Noteworthy section of the [Rockstar Finance](https://rockstarfinance.com/) email.
+There was a small spike in pageviews on August 21st due to my article [Will Making Twice-Monthly Half Mortgage Payments Save Money?]({{ site.url }}//will-making-twice-monthly-half-mortgage-payments-save-money/) being featured on the Noteworthy section of the [Rockstar Finance](https://rockstarfinance.com/) email.
 
 There's also a new set of statistics this month - stats from Google Search Console.
 
@@ -26,11 +26,11 @@ If you want to view any previous month's statistics, here are the links:
 
 I published only five posts this month, down from the fourteen I published in the last two months (seven posts in July and seven posts in August):
 
-* [Labor Day Themed Table Topics](https://hendrixjoseph.github.io/labor-day-themed-table-topics/)
-* [My Robinhood Stock Picks for August 2018](https://hendrixjoseph.github.io/my-robinhood-stock-picks-for-august-2018/)
-* [Star Trek Timelines](https://hendrixjoseph.github.io/star-trek-timelines/)
-* [August 2018 Book Reading List](https://hendrixjoseph.github.io/august-2018-book-reading-list/)
-* [How to Self-Publish a Book on Amazon](https://hendrixjoseph.github.io/how-to-self-publish-a-book-on-amazon/)
+* [Labor Day Themed Table Topics]({{ site.url }}/labor-day-themed-table-topics/)
+* [My Robinhood Stock Picks for August 2018]({{ site.url }}/my-robinhood-stock-picks-for-august-2018/)
+* [Star Trek Timelines]({{ site.url }}/star-trek-timelines/)
+* [August 2018 Book Reading List]({{ site.url }}/august-2018-book-reading-list/)
+* [How to Self-Publish a Book on Amazon]({{ site.url }}/how-to-self-publish-a-book-on-amazon/)
 
 And now for the numbers:
 

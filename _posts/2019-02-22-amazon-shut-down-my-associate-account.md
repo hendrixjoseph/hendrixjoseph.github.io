@@ -6,7 +6,7 @@ keywords: [amazon, associate account, shut down, associate, affiliate, viglink]
 image: /images/frown.png
 ---
 
-Wednesday when I posted my [monthly blog stat](https://hendrixjoseph.github.io/february-2019-blog-statistics/) report I said that "February has been a frustrating month for me in the blogosphere, for reasons I cannot disclose" but that "I probably will be able to Friday." Well, it's Friday, and while things haven't gone the way I hoped, they have gone the way I expected.
+Wednesday when I posted my [monthly blog stat]({{ site.url }}/february-2019-blog-statistics/) report I said that "February has been a frustrating month for me in the blogosphere, for reasons I cannot disclose" but that "I probably will be able to Friday." Well, it's Friday, and while things haven't gone the way I hoped, they have gone the way I expected.
 
 Oh, and I can disclose why February has been frustrating.
 
@@ -51,7 +51,7 @@ I'll start with an email I received on the first Monday of the month:
 
 ---
 
-My first thoughts were WAAAAH? I don't *have* any search engine ads - so it would be impossible for me to be "bidding on or purchasing" on *any* terms, let alone "Amazon's proprietary terms." I *have* experimented with [Facebook Ads](https://hendrixjoseph.github.io/case-study-facebook-boost-post/), and did a Reddit ad once-up-a-time, but nothing to do with search engines or Amazon's proprietary terms.
+My first thoughts were WAAAAH? I don't *have* any search engine ads - so it would be impossible for me to be "bidding on or purchasing" on *any* terms, let alone "Amazon's proprietary terms." I *have* experimented with [Facebook Ads]({{ site.url }}/case-study-facebook-boost-post/), and did a Reddit ad once-up-a-time, but nothing to do with search engines or Amazon's proprietary terms.
 
 Oh, and there was a big ol' warning on top of my Associate's dashboard, which I failed to screenshot.
 
@@ -91,7 +91,7 @@ Trying to figure out what to do, I contacted Amazon support via a chat option on
 >
 > Dale: ok 3:09:35 PM
 >
-> Me: https://hendrixjoseph.github.io/ 3:09:37 PM
+> Me: {{ site.url }}/ 3:09:37 PM
 >
 > Dale: You have to have product links on your page that when they are clicked on it will take someone to Amazon's website 3:10:37 PM
 >
@@ -242,7 +242,7 @@ While hopeful, I don't expect anything. I've yet to receive a response on Amazon
 
 ## Now What?
 
-I'm not distraught over losing my associate status. I didn't make anything through the program in [2016](https://hendrixjoseph.github.io/2016-end-of-year-side-income-report/#other), and only made [$34 in 2017](https://hendrixjoseph.github.io/2017-end-of-year-side-income-report/#blogging) and [$53 in 2018](https://hendrixjoseph.github.io/2018-end-of-year-side-income-report/#blogging). It had potential, but I have a day job.
+I'm not distraught over losing my associate status. I didn't make anything through the program in [2016]({{ site.url }}/2016-end-of-year-side-income-report/#other), and only made [$34 in 2017]({{ site.url }}/2017-end-of-year-side-income-report/#blogging) and [$53 in 2018]({{ site.url }}/2018-end-of-year-side-income-report/#blogging). It had potential, but I have a day job.
 
 My next step is to decide whether to seek alternative monetization methods. I blog primarily for fun, and I do have that lone Google Adsense ad at the top of each page.
 
@@ -254,4 +254,4 @@ I had joined VigLink around the same time I joined Amazon Associates, but stoppe
 
 I am in the slow process of changing my affiliate links to something other than Amazon and removing some of the Amazon JavaScript snippets. Reverting some of the changes I made to appeal to Amazon shouldn't be too hard since this blog uses Git for version control.
 
-Oh, VigLink does have a referral program of its own. If you use my [VigLink referral link](https://hendrixjoseph.github.io/viglink/) I'll earn 35% commission for the first year. I'm not entirely sure what that entails, or if you would get anything extra if you use my referral link (I doubt it, though).
+Oh, VigLink does have a referral program of its own. If you use my [VigLink referral link]({{ site.url }}/viglink/) I'll earn 35% commission for the first year. I'm not entirely sure what that entails, or if you would get anything extra if you use my referral link (I doubt it, though).

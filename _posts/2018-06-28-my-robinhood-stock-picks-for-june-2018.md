@@ -72,4 +72,4 @@ The **Actual Stock Value Chart** shows the growth of my entire portfolio - altho
 
 I've bought each stock at different dates and times, so the time frame between the purchase price and the current price is different for each stock. Since I'm doing this mostly for fun, it's not that important.
 
-> Want your own free stock from Robinhood? Sign up using my [Robinhood Referral link](https://hendrixjoseph.github.io/robinhood/)!
+> Want your own free stock from Robinhood? Sign up using my [Robinhood Referral link]({{ site.url }}/robinhood/)!

@@ -7,7 +7,7 @@ hashtags: [stocktips, stockpicks]
 image: /images/robinhood-logo.png
 ---
 
-This sixth monthly edition of "My Robinhood Stock Picks" will probably be the last for a while. With my recent [purchase (and financing) of a minivan](https://hendrixjoseph.github.io/we-bought-a-van/), as well as the fact I have a more tax-advantaged [Individual 401k](https://hendrixjoseph.github.io/i-opened-a-vanguard-individual-401k/) to put money in that I've nowhere near maxes out, I think my money has better use elsewhere.
+This sixth monthly edition of "My Robinhood Stock Picks" will probably be the last for a while. With my recent [purchase (and financing) of a minivan]({{ site.url }}/we-bought-a-van/), as well as the fact I have a more tax-advantaged [Individual 401k]({{ site.url }}/i-opened-a-vanguard-individual-401k/) to put money in that I've nowhere near maxes out, I think my money has better use elsewhere.
 
 That said, I'm not closing my account. Nor do I intend to withdrawal any dividends I receive in my Robinhood portfolio. In fact, I may modify this series from a "stock picks" series to "stock performance" series. I haven't decided yet.
 
@@ -15,7 +15,7 @@ That said, I'm not closing my account. Nor do I intend to withdrawal any dividen
 
 In total, I've deposited $490.37 into my Robinhood account. At the end of November, the balance in my Robinhood account was $483.13. That's a loss of $7.24, or about 1.5%.
 
-Of course, part of the reason I'm down is [the money I lost playing with options back in August](https://hendrixjoseph.github.io/my-robinhood-stock-picks-for-august-2018/#losing-money-with-options).
+Of course, part of the reason I'm down is [the money I lost playing with options back in August]({{ site.url }}/my-robinhood-stock-picks-for-august-2018/#losing-money-with-options).
 
 The other reason I'm down is just the fact the market seems to be in a decline (or bear market) right now. Of the 26 stocks I own, 19 are worth less than what I paid, leaving only the remaining 7 to be worth more than what I paid.
 
@@ -46,7 +46,7 @@ Another suspicion of these ratings is *who are the analysts?* Unfortunately, I c
 
 My favorite part of the stock game - dividends.
 
-Options would probably be funner (more fun?) if I could consistently pick winners, but until I can [invest with a time machine](https://hendrixjoseph.github.io/investing-in-the-stock-market-with-a-time-machine/), that's not going to happen.
+Options would probably be funner (more fun?) if I could consistently pick winners, but until I can [invest with a time machine]({{ site.url }}/investing-in-the-stock-market-with-a-time-machine/), that's not going to happen.
 
 I received 75&cent; in dividends with two different companies:
 
@@ -62,4 +62,4 @@ My return isn't too back, especially with Verizon. It's the only two of these th
 
 This money is money I can afford to lose - when I buy any stocks or options, I automatically assume a complete loss, at least as far as my budget goes.
 
-> Want your own free stock from Robinhood? Sign up using my [Robinhood Referral link](https://hendrixjoseph.github.io/robinhood/)!
+> Want your own free stock from Robinhood? Sign up using my [Robinhood Referral link]({{ site.url }}/robinhood/)!

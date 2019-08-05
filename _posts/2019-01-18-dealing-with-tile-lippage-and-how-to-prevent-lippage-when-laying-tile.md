@@ -6,7 +6,7 @@ keywords: [bath remodel, how to avoid lippage in tile, how to prevent lippage wh
 image: /images/tile-lippage/lash-clips-close.jpg
 ---
 
-For the [master bathroom remodel](https://hendrixjoseph.github.io/master-bath-remodel-demolition/), my wife chose [a 12" x 24" tile](https://www.homedepot.com/p/206083672). Unlike a standard square 12" x 12" tile, I felt that having the tiles aligned such that they go "straight up" will look a bit off and that they'd appear better offset.
+For the [master bathroom remodel]({{ site.url }}/master-bath-remodel-demolition/), my wife chose [a 12" x 24" tile](https://www.homedepot.com/p/206083672). Unlike a standard square 12" x 12" tile, I felt that having the tiles aligned such that they go "straight up" will look a bit off and that they'd appear better offset.
 
 Initially, I planned to have the tiles at a 50% offset. However, when I bought the tile, the packaging had a warning saying not to install at a 50% offset, but rather offset anywhere from 15% to 30%:
 

@@ -14,7 +14,7 @@ Each goal or resolution we set has a purpose and a method. The purpose is what I
 
 The method is what I call a *concrete goal*. This is how you will accomplish the abstract goal. For the abstract goal of "be healthier," the concrete goal might be "walk for 30  minutes three times a week."
 
-First, let's recap [my 2018 resolutions & goals](https://hendrixjoseph.github.io/2018-new-years-resolutions-goals/) and see how I did:
+First, let's recap [my 2018 resolutions & goals]({{ site.url }}/2018-new-years-resolutions-goals/) and see how I did:
 
 ## Spend Less
  
@@ -28,7 +28,7 @@ And, while I did end up buying [a pair of hair trimmers](https://www.walmart.com
 
 The concrete goals for "earn more" consisted of: getting a raise at work, expanding my print-on-demand t-shirt selection, writing and publishing a book, publishing an Android app, and grow my blogs (which are this on and my [dog blog](http://www.puppy-snuggles.com/)).
 
-I have expanded my selection of [t-shirts on Amazon](https://hendrixjoseph.github.io/t-shirts/), as well as porting several designs over to my [Redbubble account](https://www.redbubble.com/people/joehx) and my [TeePublic account](https://www.teepublic.com/user/joehx). I've stopped putting effort into my [TeeSpring account](https://teespring.com/stores/joehxs-store) mainly because I receive almost no sales via that site whereas I receive regular sales on the others. That said, I will leave what shirts I have on TeeSpring.
+I have expanded my selection of [t-shirts on Amazon]({{ site.url }}/t-shirts/), as well as porting several designs over to my [Redbubble account](https://www.redbubble.com/people/joehx) and my [TeePublic account](https://www.teepublic.com/user/joehx). I've stopped putting effort into my [TeeSpring account](https://teespring.com/stores/joehxs-store) mainly because I receive almost no sales via that site whereas I receive regular sales on the others. That said, I will leave what shirts I have on TeeSpring.
 
 My wife didn't publish or write a book, and I didn't publish or make an Android app. I did publish [a children's ebook called *The Adventures of Princess*](https://www.amazon.com/dp/B07M68STB4/?tag=hendrixjoseph-20) which is about my dog Princess and me meeting my wife, although I bit fictionalized.
 
@@ -39,11 +39,11 @@ As far as getting a raise at work, I actually got *three* raises and one promoti
 
 ## Professional & Personal Development
 
-The concrete goals for this abstract goal were to continue with [Toastmaster's](https://hendrixjoseph.github.io/tags/#toastmaster's), graduate with my Master's, help my wife open a LinkedIn account, read more, and continue to listen to podcasts.
+The concrete goals for this abstract goal were to continue with [Toastmaster's]({{ site.url }}/tags/#toastmaster's), graduate with my Master's, help my wife open a LinkedIn account, read more, and continue to listen to podcasts.
 
 Of these five concrete goals, only two could are specific enough to conclude if they were satisfied or not. I did indeed graduate with my Master's (which also helped with getting those raises at work). However, we didn't open a LinkedIn account for my wife.
 
-[In 2017 I read 5 books](https://hendrixjoseph.github.io/the-5-books-i-read-in-2017/) - enough to fill one blog post. In 2018, I read three times that number of books - 15 books total if you don't want to do the math - and posted [monthly "book reading list" posts](https://hendrixjoseph.github.io/tags/#books).
+[In 2017 I read 5 books]({{ site.url }}/the-5-books-i-read-in-2017/) - enough to fill one blog post. In 2018, I read three times that number of books - 15 books total if you don't want to do the math - and posted [monthly "book reading list" posts]({{ site.url }}/tags/#books).
 
 I mostly listen to podcasts while I'm driving. I do occasionally listen to podcasts while I'm working around the house.
 

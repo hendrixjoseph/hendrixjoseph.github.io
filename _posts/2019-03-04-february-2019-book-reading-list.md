@@ -14,7 +14,7 @@ February is a short month (and the only truly four-week month) but I still manag
 * [A Brief History of Everyone Who Ever Lived: The Human Story Retold Through Our Genes by Adam Rutherford](https://www.abebooks.com/products/isbn/9781615194049/30241883415)
 * [CyberStorm by Matthew Mather](https://www.abebooks.com/products/isbn/9780991677191/30239924995)
 
-If you've been following these book reading lists since at least [last December](https://hendrixjoseph.github.io/december-2018-book-reading-list/), you'll know that I've discovered [Prime Reading](https://www.amazon.com/kindle-dbs/hz/bookshelf/prime/?tag=hendrixjoseph-20) - a benefit of [Amazon Prime](https://www.amazon.com/amazonprime?tag=hendrixjoseph-20) where Prime members can borrow up to ten ebooks at a time.
+If you've been following these book reading lists since at least [last December]({{ site.url }}/december-2018-book-reading-list/), you'll know that I've discovered [Prime Reading](https://www.amazon.com/kindle-dbs/hz/bookshelf/prime/?tag=hendrixjoseph-20) - a benefit of [Amazon Prime](https://www.amazon.com/amazonprime?tag=hendrixjoseph-20) where Prime members can borrow up to ten ebooks at a time.
 
 Both the books above I read via the Prime Reading program.
 

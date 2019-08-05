@@ -13,7 +13,7 @@ May is over. The year is almost halfway over. And it's time for yet another book
 
 I realized as I was writing this post *I've been reading books to my son for over a year now.* It's crazy how time flies. He's now a walking but not yet talking toddler. I think it's weird how I no longer have to support his head!
 
-I first reported what books I read to him in my [April 2018 Book Reading List](https://hendrixjoseph.github.io/april-2018-book-reading-list/#childrens-books). Which really was the first month I *could* read to him since he was born at the end of March 2018.
+I first reported what books I read to him in my [April 2018 Book Reading List]({{ site.url }}/april-2018-book-reading-list/#childrens-books). Which really was the first month I *could* read to him since he was born at the end of March 2018.
 
 Last month I read twelve different books to my son:
 

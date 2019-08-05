@@ -6,7 +6,7 @@ keywords: [blog, statistics, blog statistics, analytics, pageviews, webmaster, w
 image: /images/blog-stats/2018-02-stats.png
 ---
 
-It's already been a month since I did the [previous (& first!) blog stats report](https://hendrixjoseph.github.io/january-2018-blog-statistics/), so it's time for another one.
+It's already been a month since I did the [previous (& first!) blog stats report]({{ site.url }}/january-2018-blog-statistics/), so it's time for another one.
 
 In the past month, I was able to write five posts or articles:
 

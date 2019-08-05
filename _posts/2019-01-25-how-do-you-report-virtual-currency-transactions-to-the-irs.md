@@ -49,9 +49,9 @@ Over the next few posts and weeks, I intend to make additional posts on an examp
 
 ## If You Want To Buy Cryptocurrencies...
 
-I buy cryptocurrencies via Coinbase Pro - formally GDAX. You need a Coinbase account to trade on Coinbase Pro. Use my [Coinbase referral link](https://hendrixjoseph.github.io/coinbase/) for some free bitcoin.
+I buy cryptocurrencies via Coinbase Pro - formally GDAX. You need a Coinbase account to trade on Coinbase Pro. Use my [Coinbase referral link]({{ site.url }}/coinbase/) for some free bitcoin.
 
-You can also buy cryptocurrencies, such as bitcoin and litecoin, on the Robinhood app if you're in one of the states [listed on this page](https://support.robinhood.com/hc/en-us/articles/360001284423-Free-Cryptocurrency-Investing). Robinhood also has commision-free stock investing. Use my [Robinhood referral link](https://hendrixjoseph.github.io/robinhood/) for a free stock.
+You can also buy cryptocurrencies, such as bitcoin and litecoin, on the Robinhood app if you're in one of the states [listed on this page](https://support.robinhood.com/hc/en-us/articles/360001284423-Free-Cryptocurrency-Investing). Robinhood also has commision-free stock investing. Use my [Robinhood referral link]({{ site.url }}/robinhood/) for a free stock.
 
 ## Further Reading
 

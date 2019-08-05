@@ -8,7 +8,7 @@ image: /images/Java_logo.jpg
 thumbnail: true
 ---
 
-I'm a Java programmer by trade, and, for whatever reason, I tend to think about edge-cases I might (or might not) encounter while programming (see my article *[Four Java Limitations You May Never Encounter](https://hendrixjoseph.github.io/four_java_limitations_you_may_never_encounter/)*). One particular example I've been contemplating recently is if one null object equals another null object in Java.
+I'm a Java programmer by trade, and, for whatever reason, I tend to think about edge-cases I might (or might not) encounter while programming (see my article *[Four Java Limitations You May Never Encounter]({{ site.url }}/four_java_limitations_you_may_never_encounter/)*). One particular example I've been contemplating recently is if one null object equals another null object in Java.
 
 In other words, does null equal null in Java?
 

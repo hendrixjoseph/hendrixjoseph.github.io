@@ -230,7 +230,7 @@ I paid the balance $479.60 towards the March 15, 2018 hospital visit.
 
 I also paid $20.40 towards her hospital bill on March 26th, 2018.
 
-Why only $20.40? I bought a $500 MasterCard gift card from the grocery store, and this quarter was 5% back at grocery stores with the [Chase Freedom card](https://hendrixjoseph.github.io/chase-freedom/). Even with the $5.95 activation fee, I'll end up ahead if I had used my [Chase Freedom Ultimate](https://hendrixjoseph.github.io/chase-freedom-unlimited/) (1.5% cash back on everything) instead:
+Why only $20.40? I bought a $500 MasterCard gift card from the grocery store, and this quarter was 5% back at grocery stores with the [Chase Freedom card]({{ site.url }}/chase-freedom/). Even with the $5.95 activation fee, I'll end up ahead if I had used my [Chase Freedom Ultimate]({{ site.url }}/chase-freedom-unlimited/) (1.5% cash back on everything) instead:
 
     $505.95 * 5% - $5.95 = $19.3475
     $500.00 * 1.5% = $7.50
@@ -245,7 +245,7 @@ The little guy turns three months old.
 
 ## Friday, July 6th, 2018
 
-I paid the remaining hospital balance to the amount of $1,109.06. I actually did something similar to the previous month: bought gift cards (this time Visa) from a store that was in the 5% category for my [Chase Freedom card](https://hendrixjoseph.github.io/chase-freedom/).
+I paid the remaining hospital balance to the amount of $1,109.06. I actually did something similar to the previous month: bought gift cards (this time Visa) from a store that was in the 5% category for my [Chase Freedom card]({{ site.url }}/chase-freedom/).
 
 Since July is in a different quarter than June, the 5% limit of $1,500 spend per quarter was reset. It was also a different category (Walgreens, gas, and Lyft). I bought three $500 Visa Gift Cards from Walgreens, each with a $5.95 fee, netting me $57.33 in cash back:
 

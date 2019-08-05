@@ -7,7 +7,7 @@ keywords: [book, read, books, reading, book reading, books i read]
 
 Time sure is flying. My son is already over a month old. I finished my second-to-last (penultimate!) class for my Master's degree. And it's already another month, so time to report what I read last month.
 
-Just like [in last month's book reading list](https://hendrixjoseph.github.io/march-2018-book-reading-list/) I only finished one book. Well, one book for me. I've already started reading to my son, although he isn't quite yet able to appreciate it.
+Just like [in last month's book reading list]({{ site.url }}/march-2018-book-reading-list/) I only finished one book. Well, one book for me. I've already started reading to my son, although he isn't quite yet able to appreciate it.
 
 ## Husband-Coached Childbirth
 

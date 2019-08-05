@@ -6,7 +6,7 @@ keywords: [git, revert commit, git revert, revert an older commit, commit]
 image: /images/git-revert/revert-changes.png
 ---
 
-After making a few changes to this blog in an attempt to [appease Amazon and failing](https://hendrixjoseph.github.io/amazon-shut-down-my-associate-account/), I wanted to undo those changes. Thankfully, since this blog is hosted on GitHub pages, it's versioned controlled via Git. Meaning I should easily be able to find the changes and undo them fairly easily.
+After making a few changes to this blog in an attempt to [appease Amazon and failing]({{ site.url }}/amazon-shut-down-my-associate-account/), I wanted to undo those changes. Thankfully, since this blog is hosted on GitHub pages, it's versioned controlled via Git. Meaning I should easily be able to find the changes and undo them fairly easily.
 
 In Git technical terms, I wanted to revert an older commit without discarding any later commits.
 

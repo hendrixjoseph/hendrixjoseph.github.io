@@ -13,10 +13,10 @@ Here they are:
 
 I was able to publish four posts this month:
 
-* [Dealing With Tile Lippage & How to Prevent Lippage When Laying Tile](https://hendrixjoseph.github.io/dealing-with-tile-lippage-and-how-to-prevent-lippage-when-laying-tile/)
-* [Everyday Examples of Artificial Intelligence](https://hendrixjoseph.github.io/everyday-examples-of-artificial-intelligence/)
-* [December 2018 Book Reading List](https://hendrixjoseph.github.io/december-2018-book-reading-list/)
-* [2019 New Year's Resolutions & Goals](https://hendrixjoseph.github.io/2019-new-years-resolutions-goals/)
+* [Dealing With Tile Lippage & How to Prevent Lippage When Laying Tile]({{ site.url }}/dealing-with-tile-lippage-and-how-to-prevent-lippage-when-laying-tile/)
+* [Everyday Examples of Artificial Intelligence]({{ site.url }}/everyday-examples-of-artificial-intelligence/)
+* [December 2018 Book Reading List]({{ site.url }}/december-2018-book-reading-list/)
+* [2019 New Year's Resolutions & Goals]({{ site.url }}/2019-new-years-resolutions-goals/)
 
 ## Alexa
 

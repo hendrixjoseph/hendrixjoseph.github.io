@@ -15,9 +15,9 @@ The 20th falls on a weekend this month, and I've been quite busy this weekend, s
 
 I was able to publish three blog posts in the past month:
 
-* [Don't Discount Your Emotions](https://hendrixjoseph.github.io/dont-discount-your-emotions/)
-* [April 2018 Book Reading List](https://hendrixjoseph.github.io/april-2018-book-reading-list/)
-* [The Math Behind The Shockingly Simple Math Behind Early Retirement](https://hendrixjoseph.github.io/the-math-behind-the-shockingly-simple-math-behind-early-retirement/)
+* [Don't Discount Your Emotions]({{ site.url }}/dont-discount-your-emotions/)
+* [April 2018 Book Reading List]({{ site.url }}/april-2018-book-reading-list/)
+* [The Math Behind The Shockingly Simple Math Behind Early Retirement]({{ site.url }}/the-math-behind-the-shockingly-simple-math-behind-early-retirement/)
 
 ## Alexa
 

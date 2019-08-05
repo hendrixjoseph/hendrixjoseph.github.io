@@ -6,7 +6,7 @@ keywords: [2007 chevrolet cobalt cabin air filter, chevrolet cobalt cabin air fi
 image: /images/2007-chevrolet-cobalt-cabin-air-filter/cabin-air-filter-box.jpg
 ---
 
-The other day my wife noticed that my car wasn't smelling too fresh. She doesn't ride in my car that often since [we bought a van](https://hendrixjoseph.github.io/we-bought-a-van/), so I figured that the smell had been building for some time. I figured I might as well change the cabin air filter - after all, it had been *three years since* I replaced said cabin air filter.
+The other day my wife noticed that my car wasn't smelling too fresh. She doesn't ride in my car that often since [we bought a van]({{ site.url }}/we-bought-a-van/), so I figured that the smell had been building for some time. I figured I might as well change the cabin air filter - after all, it had been *three years since* I replaced said cabin air filter.
 
 **Skip my ramblings and [jump to the installation steps below!](#onto-the-steps)**
 

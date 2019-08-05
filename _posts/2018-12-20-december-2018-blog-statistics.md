@@ -7,19 +7,19 @@ hashtags: [blogging, blogstats]
 image: /images/blog-stats/2018-blog-stats-correlations.png
 ---
 
-It's now the end of the year and time for my twelfth monthly blog stats report. Twelve monthly blog stats mean a full year's worth of blog stats, and, as I promised in the [first blog statistic report](https://hendrixjoseph.github.io/january-2018-blog-statistics/#conclusion) I have some deeper analysis for the entire year.
+It's now the end of the year and time for my twelfth monthly blog stats report. Twelve monthly blog stats mean a full year's worth of blog stats, and, as I promised in the [first blog statistic report]({{ site.url }}/january-2018-blog-statistics/#conclusion) I have some deeper analysis for the entire year.
 
 First, let's get through the numbers for the month of December.
 
 I published six blog articles this month:
 
-* [Christmas and New Year's Themed Table Topics](https://hendrixjoseph.github.io/christmas-and-new-years-themed-table-topics/)
-* [2018 End of Year Side Income Report](https://hendrixjoseph.github.io/2018-end-of-year-side-income-report/)
-* [What is the Total Number of Gifts in the 12 Days of Christmas?](https://hendrixjoseph.github.io/what-is-the-total-number-of-gifts-in-the-12-days-of-christmas/)
-* [How to Solder (Sweat) Copper Pipe](https://hendrixjoseph.github.io/how-to-solder-sweat-copper-pipe/)
-* [My Robinhood Stock Picks for November 2018](https://hendrixjoseph.github.io/my-robinhood-stock-picks-for-november-2018/)
-* [November 2018 Book Reading List](https://hendrixjoseph.github.io/november-2018-book-reading-list/)
-* [Quick Life Update](https://hendrixjoseph.github.io/quick-life-update/)
+* [Christmas and New Year's Themed Table Topics]({{ site.url }}/christmas-and-new-years-themed-table-topics/)
+* [2018 End of Year Side Income Report]({{ site.url }}/2018-end-of-year-side-income-report/)
+* [What is the Total Number of Gifts in the 12 Days of Christmas?]({{ site.url }}/what-is-the-total-number-of-gifts-in-the-12-days-of-christmas/)
+* [How to Solder (Sweat) Copper Pipe]({{ site.url }}/how-to-solder-sweat-copper-pipe/)
+* [My Robinhood Stock Picks for November 2018]({{ site.url }}/my-robinhood-stock-picks-for-november-2018/)
+* [November 2018 Book Reading List]({{ site.url }}/november-2018-book-reading-list/)
+* [Quick Life Update]({{ site.url }}/quick-life-update/)
 
 ## Alexa
 
@@ -68,7 +68,7 @@ I only have "total" statistics for Google Analytics and Adsense.
 
 It wouldn't make sense to have a "total" for Alexa, since that is more of an instantaneous statistic (sort of like how you can't ask what is the total mph you drove during a trip). There is an average, but I don't think that makes much sense either (although the non-weighted average of my global rank is 1,087,929 if you are curious).
 
-As for the Google Search Console stats, I only started correctly using it since August and first reported the numbers in my [September report](https://hendrixjoseph.github.io/september-2018-blog-statistics/#google-search-console). Maybe next year I'll have more numbers and I'll be able to report.
+As for the Google Search Console stats, I only started correctly using it since August and first reported the numbers in my [September report]({{ site.url }}/september-2018-blog-statistics/#google-search-console). Maybe next year I'll have more numbers and I'll be able to report.
 
 Ok, so let's quickly go through the raw numbers for the year. Remember, this is for the timeframe of from December 20, 2017, through December 19, 2018.
 
@@ -92,7 +92,7 @@ The above graph is my cumulative earnings on AdSense since the day before I earn
 
 I find it interesting that I earned pretty much nothing in that first year. There's a small jump slightly after March 2017, but then it plateaus until the end of 2017. After that, my earnings seem to grow rather consistently.
 
-I made a similar graph for my [July 2018 report](https://hendrixjoseph.github.io/july-2018-blog-statistics/#adsense).
+I made a similar graph for my [July 2018 report]({{ site.url }}/july-2018-blog-statistics/#adsense).
 
 ## Ratios
 

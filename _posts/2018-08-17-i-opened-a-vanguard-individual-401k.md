@@ -7,16 +7,16 @@ hashtags: [entrepreneur, solo401k]
 image: /images/stock-logos/The-Vanguard-Group.png
 ---
 
-I've been having a bit of success recently selling [my t-shirts](https://hendrixjoseph.github.io/t-shirts/) on Amazon, so I decided it was time to do something with this income. And that something is sock it away for a rainy day - or more accurately, retirement.
+I've been having a bit of success recently selling [my t-shirts]({{ site.url }}/t-shirts/) on Amazon, so I decided it was time to do something with this income. And that something is sock it away for a rainy day - or more accurately, retirement.
 
 ***Curious how well I've done with selling t-shirts on Amazon? Here's a couple of sales reports I've written:***
 
-* ***[My First Seven Months on Merch by Amazon: Sales Report](https://hendrixjoseph.github.io/my-first-seven-months-on-merch-by-amazon-sales-report/)***
-* ***[First Half 2018 Merch by Amazon Sales Report](https://hendrixjoseph.github.io/first-half-2018-merch-by-amazon-sales-report/)***
+* ***[My First Seven Months on Merch by Amazon: Sales Report]({{ site.url }}/my-first-seven-months-on-merch-by-amazon-sales-report/)***
+* ***[First Half 2018 Merch by Amazon Sales Report]({{ site.url }}/first-half-2018-merch-by-amazon-sales-report/)***
 
 I already have a Roth IRA with Vanguard. However, I already max it out with my income from my day job. So I figured I'd go ahead an open some sort of self-employment retirement account with them. There are a few different options I could've chosen - a solo 401(k) plan, a SEP IRA, or a SIMPLE IRA.
 
-![The Vanguard Logo](https://hendrixjoseph.github.io/images/stock-logos/The-Vanguard-Group.png)
+![The Vanguard Logo]({{ site.url }}/images/stock-logos/The-Vanguard-Group.png)
 *The Vanguard Logo*
 
 I ended up deciding on a solo 401(k) plan. I've chronicled the steps I took below - hopefully, this will help someone else in the future.
@@ -87,4 +87,4 @@ There are instructions on the various IRS forms that help determine exactly what
 
 Hopefully, I don't screw things up and overcontribute or contribute incorrectly and have the IRS come after me :) Honestly, though, I'm not too worried about that, I actually do know what I'm doing.
 
-I am hoping to increase my self-employment income somehow - maybe by selling more [t-shirts](https://hendrixjoseph.github.io/t-shirts/), writing and publishing a book, or even an Android app. We'll see where life takes me!
+I am hoping to increase my self-employment income somehow - maybe by selling more [t-shirts]({{ site.url }}/t-shirts/), writing and publishing a book, or even an Android app. We'll see where life takes me!

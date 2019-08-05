@@ -134,7 +134,7 @@ Some examples of what bloggers market with affiliate links:
 * Bonus upsells
 * Coupons, spreadsheets, and calculators
 
-> Note from JoeHx: I keep all [my referral links on a single page](https://hendrixjoseph.github.io/referral/). It's more for my reference, but feel free to check it out.
+> Note from JoeHx: I keep all [my referral links on a single page]({{ site.url }}/referral/). It's more for my reference, but feel free to check it out.
 
 The possibilities are endless. Believe it or not, affiliate marketing happens all over the place. And through services like Teachable and Send Owl, setting up affiliate services for products and services that *you've designed* is simple and effective for almost everybody.
 
@@ -150,7 +150,7 @@ Successful bloggers make affiliate marketing work, but it doesn't come easy.
 
 While Google AdSense might be the most accessible ad platform out there to get into, it's very rarely the highest paying. The flexibility that comes from picking and choosing your ad placement also means it's ripe for failure unless you're a skilled marketer.
 
-And, you're missing out on exploiting your email list. Services like [Interactive Offers](http://interactiveoffers.com){:rel="nofollow"} and [Skimlinks](https://skimlinks.com/) helped to fill that void with text-based advertising. [VigLink](https://hendrixjoseph.github.io/viglink/) has emerged as another attractive option. Is it right for you and your blog?
+And, you're missing out on exploiting your email list. Services like [Interactive Offers](http://interactiveoffers.com){:rel="nofollow"} and [Skimlinks](https://skimlinks.com/) helped to fill that void with text-based advertising. [VigLink]({{ site.url }}/viglink/) has emerged as another attractive option. Is it right for you and your blog?
 
 Here are a few questions to ask yourself when deciding on an advertisement platform for your blog:
 

@@ -27,13 +27,13 @@ Onto the actual statistics. If you want to view any previous month's statistics,
 
 I published seven blog posts (coincidently the same number as last month):
 
-* [Java 8 Parallel Stream Performance vs Serial Stream Performance](https://hendrixjoseph.github.io/java-8-parallel-stream-performance-vs-serial-stream-performance/)
-* [A Mostly Financial Pregnancy Timeline and The First Four Months Of Life: My Experience As A New Dad](https://hendrixjoseph.github.io/a-mostly-financial-pregnancy-timeline-and-the-first-four-months-of-life-my-experience-as-a-new-dad/)
-* [July 2018 Book Reading List](https://hendrixjoseph.github.io/july-2018-book-reading-list/)
-* [My Robinhood Stock Picks for July 2018](https://hendrixjoseph.github.io/my-robinhood-stock-picks-for-july-2018/)
-* [Laws Are Reactive](https://hendrixjoseph.github.io/laws-are-reactive/)
-* [How 0% Interest Can Be A Lie](https://hendrixjoseph.github.io/how-zero-percent-interest-can-be-a-lie/)
-* [I Opened a Vanguard Individual 401k (Solo 401k)](https://hendrixjoseph.github.io/i-opened-a-vanguard-individual-401k/)
+* [Java 8 Parallel Stream Performance vs Serial Stream Performance]({{ site.url }}/java-8-parallel-stream-performance-vs-serial-stream-performance/)
+* [A Mostly Financial Pregnancy Timeline and The First Four Months Of Life: My Experience As A New Dad]({{ site.url }}/a-mostly-financial-pregnancy-timeline-and-the-first-four-months-of-life-my-experience-as-a-new-dad/)
+* [July 2018 Book Reading List]({{ site.url }}/july-2018-book-reading-list/)
+* [My Robinhood Stock Picks for July 2018]({{ site.url }}/my-robinhood-stock-picks-for-july-2018/)
+* [Laws Are Reactive]({{ site.url }}/laws-are-reactive/)
+* [How 0% Interest Can Be A Lie]({{ site.url }}/how-zero-percent-interest-can-be-a-lie/)
+* [I Opened a Vanguard Individual 401k (Solo 401k)]({{ site.url }}/i-opened-a-vanguard-individual-401k/)
 
 ## Alexa
 

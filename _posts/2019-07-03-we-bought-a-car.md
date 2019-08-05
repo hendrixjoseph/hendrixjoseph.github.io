@@ -6,7 +6,7 @@ keywords: [2016 honda accord lx, 2016 honda accord sedan, 2016 honda accord, 201
 image: /images/car/2016-honda-accord-lx.jpg
 ---
 
-About nine months ago I wrote about how [we bought a van](https://hendrixjoseph.github.io/we-bought-a-van/). Well, over the weekend we bought a car.
+About nine months ago I wrote about how [we bought a van]({{ site.url }}/we-bought-a-van/). Well, over the weekend we bought a car.
 
 ## The Reason
 

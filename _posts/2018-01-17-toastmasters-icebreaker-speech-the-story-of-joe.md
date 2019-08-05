@@ -6,7 +6,7 @@ keywords: [toastmaster, toastmaster's, toastmaster's club, icebreaker, icebreake
 image: /images/toastmasters/joe-icebreaker-share.png
 ---
 
-Last November, my wife and I joined our local Toastmaster's club. Toastmaster's, for those who are unfamiliar, is a public-speaking development group. I'm not sure how good a speaker I am, but I know regardless of how good or bad I am, I want to improve. In fact, one of my [new year's resolutions for 2018](https://hendrixjoseph.github.io/2018-new-years-resolutions-goals/) is professional a personal development. So Toastmaster's just makes sense.
+Last November, my wife and I joined our local Toastmaster's club. Toastmaster's, for those who are unfamiliar, is a public-speaking development group. I'm not sure how good a speaker I am, but I know regardless of how good or bad I am, I want to improve. In fact, one of my [new year's resolutions for 2018]({{ site.url }}/2018-new-years-resolutions-goals/) is professional a personal development. So Toastmaster's just makes sense.
 
 The first speech anyone gives at Toastmaster's is called the Icebreaker Speech. Essentially all you have to do is talk about yourself. The goal of this speech is not to necessarily give a good speech, but rather just get up in front of the group and talk.
 

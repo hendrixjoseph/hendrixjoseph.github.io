@@ -92,4 +92,4 @@ They're all doing okay, especially compared to that second one: Helios and Mathe
 
 This money is money I can afford to lose - when I buy any stocks, I automatically assume a complete loss, at least as far as my budget goes.
 
-> Want your own free stock from Robinhood? Sign up using my [Robinhood Referral link](https://hendrixjoseph.github.io/robinhood/)!
+> Want your own free stock from Robinhood? Sign up using my [Robinhood Referral link]({{ site.url }}/robinhood/)!

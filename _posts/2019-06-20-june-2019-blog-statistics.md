@@ -13,15 +13,15 @@ Anyway, here's June's numbers:
 
 I was able to publish five posts this month:
 
-* [Eight Common Debts That You Don't Normally Think of As Debt ](https://hendrixjoseph.github.io/eight-common-debts-that-you-dont-normally-think-of-as-debt/)
-* [Turn a Stream of Arrays to Single Stream in Java](https://hendrixjoseph.github.io/turn-a-stream-of-arrays-to-single-stream-in-java/)
-* [May 2019 Book Reading List](https://hendrixjoseph.github.io/may-2019-book-reading-list/)
-* [Five Ways to Loop Through An Array in Java](https://hendrixjoseph.github.io/five-ways-to-loop-through-an-array-in-java/)
-* [Kroger Pay Review](https://hendrixjoseph.github.io/kroger-pay-review/)
+* [Eight Common Debts That You Don't Normally Think of As Debt ]({{ site.url }}/eight-common-debts-that-you-dont-normally-think-of-as-debt/)
+* [Turn a Stream of Arrays to Single Stream in Java]({{ site.url }}/turn-a-stream-of-arrays-to-single-stream-in-java/)
+* [May 2019 Book Reading List]({{ site.url }}/may-2019-book-reading-list/)
+* [Five Ways to Loop Through An Array in Java]({{ site.url }}/five-ways-to-loop-through-an-array-in-java/)
+* [Kroger Pay Review]({{ site.url }}/kroger-pay-review/)
 
 I also had one guest post/syndicated post:
 
-* [What You Need to Know about Fundrise and DiversyFund](https://hendrixjoseph.github.io/what-you-need-to-know-about-fundrise-and-diversyfund/)
+* [What You Need to Know about Fundrise and DiversyFund]({{ site.url }}/what-you-need-to-know-about-fundrise-and-diversyfund/)
 
 ## Alexa
 

@@ -10,7 +10,7 @@ A week or so ago, my wife's car broke down. The pully on the A/C compressor pull
 
 The thing is with Honda, or at least this generation of Honda Civics is that if you disconnect the battery, you end up locking the radio. Some sort of antitheft property that ends up only annoying people who work on them and disconnect the battery.
 
-> **You might also like: [2004 Honda Civic Cabin Air Filter Replacement](https://hendrixjoseph.github.io/2004-honda-civic-cabin-air-filter-replacement/)**
+> **You might also like: [2004 Honda Civic Cabin Air Filter Replacement]({{ site.url }}/2004-honda-civic-cabin-air-filter-replacement/)**
 
 Fortunately, Honda maintains an online database of the unlock code - you just need the VIN (Vehicle Identification Number) and radio serial number. This online database is at [https://radio-navicode.honda.com/](https://radio-navicode.honda.com/).
 

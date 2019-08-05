@@ -9,7 +9,7 @@ image: /images/books/if-i-could-keep-you-little.jpg
 
 November was a pretty busy month with working on the bathroom remodel, Thanksgiving, and being sick the last week. Unfortunately, I haven't had the time to read any books for me.
 
-That said, I've already read a lot more books this year than I did last year. Last year, I only read [five books](https://hendrixjoseph.github.io/the-5-books-i-read-in-2017/). So far this year I've read 14 books. One more book and I've read three times the books I did last year!
+That said, I've already read a lot more books this year than I did last year. Last year, I only read [five books]({{ site.url }}/the-5-books-i-read-in-2017/). So far this year I've read 14 books. One more book and I've read three times the books I did last year!
 
 ## Books I Read to My Son
 

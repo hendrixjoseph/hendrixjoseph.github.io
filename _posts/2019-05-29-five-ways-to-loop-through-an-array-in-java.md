@@ -8,7 +8,7 @@ image: /images/Java_logo.jpg
 thumbnail: true
 ---
 
-It's been a little while since I wrote something Java-related ([March 28, 2019](https://hendrixjoseph.github.io/what-happens-in-java-if-you-implement-two-interfaces-with-the-same-default-method/) was the last time, to be exact) so I figured I write something simple.
+It's been a little while since I wrote something Java-related ([March 28, 2019]({{ site.url }}/what-happens-in-java-if-you-implement-two-interfaces-with-the-same-default-method/) was the last time, to be exact) so I figured I write something simple.
 
 Hence *Five Ways to Loop Through An Array in Java*.
 

@@ -11,16 +11,16 @@ Happy Spring Equinox everyone! It's the twentieth, which means it's time for ano
 
 I was able to publish six posts this month:
 
-* [Easily Check if a Link is DoFollow or NoFollow with CSS](https://hendrixjoseph.github.io/easily-check-if-a-link-is-dofollow-or-nofollow-with-css/)
-* [February 2019 Book Reading List](https://hendrixjoseph.github.io/february-2019-book-reading-list/)
-* [Wright-Patt Credit Union Quietly Doubles TrueSaver Rate](https://hendrixjoseph.github.io/wright-patt-credit-union-quietly-doubles-truesaver-rate/)
-* [Example Schedule C for Cryptocurrency Mining](https://hendrixjoseph.github.io/example-schedule-c-for-cryptocurrency-mining/)
-* [Revert An Older Commit Without Discarding Any Later Commits](https://hendrixjoseph.github.io/revert-an-older-commit-without-discarding-any-later-commits/)
-* [Amazon Shut Down My Associate Account](https://hendrixjoseph.github.io/amazon-shut-down-my-associate-account/)
+* [Easily Check if a Link is DoFollow or NoFollow with CSS]({{ site.url }}/easily-check-if-a-link-is-dofollow-or-nofollow-with-css/)
+* [February 2019 Book Reading List]({{ site.url }}/february-2019-book-reading-list/)
+* [Wright-Patt Credit Union Quietly Doubles TrueSaver Rate]({{ site.url }}/wright-patt-credit-union-quietly-doubles-truesaver-rate/)
+* [Example Schedule C for Cryptocurrency Mining]({{ site.url }}/example-schedule-c-for-cryptocurrency-mining/)
+* [Revert An Older Commit Without Discarding Any Later Commits]({{ site.url }}/revert-an-older-commit-without-discarding-any-later-commits/)
+* [Amazon Shut Down My Associate Account]({{ site.url }}/amazon-shut-down-my-associate-account/)
 
 On that last bullet point - Amazon, for whatever reason, decided to reinstate my associate account. Who knows how the Amazon hive mind works?
 
-I also conducted an experiment after publishing [the credit union post](https://hendrixjoseph.github.io/wright-patt-credit-union-quietly-doubles-truesaver-rate/) where I [submitted it the local subreddit](https://www.reddit.com/r/dayton/comments/aw73bv/wrightpatt_credit_union_quietly_doubles_truesaver/). I'm always nervous submitting content to such sites, but it was actually well-received. You can see the spike in traffic on both the [Google Analytics](#google-analytics) and [Google AdSense](#adsense) charts below.
+I also conducted an experiment after publishing [the credit union post]({{ site.url }}/wright-patt-credit-union-quietly-doubles-truesaver-rate/) where I [submitted it the local subreddit](https://www.reddit.com/r/dayton/comments/aw73bv/wrightpatt_credit_union_quietly_doubles_truesaver/). I'm always nervous submitting content to such sites, but it was actually well-received. You can see the spike in traffic on both the [Google Analytics](#google-analytics) and [Google AdSense](#adsense) charts below.
 
 ## Alexa
 

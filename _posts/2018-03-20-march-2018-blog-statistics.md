@@ -13,13 +13,13 @@ It's hard to believe it's Spring already. But since it's the twentieth, it's tim
 
 It's been rather slow on the blog side of things as I've only been able to write three posts:
 
-* [Bathroom Remodel - I've Done This Before](https://hendrixjoseph.github.io/bathroom-remodel-ive-done-this-before/)
-* [Amazon URL Anatomy Dissection](https://hendrixjoseph.github.io/amazon-url-anatomy-dissection/)
-* [Master Bath Remodel: Demolition](https://hendrixjoseph.github.io/master-bath-remodel-demolition/)
+* [Bathroom Remodel - I've Done This Before]({{ site.url }}/bathroom-remodel-ive-done-this-before/)
+* [Amazon URL Anatomy Dissection]({{ site.url }}/amazon-url-anatomy-dissection/)
+* [Master Bath Remodel: Demolition]({{ site.url }}/master-bath-remodel-demolition/)
 
 None of these posts I felt were stellar, but they're something. I also didn't finish any books in February, so I wasn't able to do a "books I finished" post. I do have a few topics for more article-type blog posts sitting in my head, but it's been a busy month with school, my new position at work, remodeling the bathroom, and preparing for a baby. (Which makes me think, I'll probably make a post on the costs of preparing for a baby!)
 
-Despite the slowness of new posts, it's been an exciting month as far as traffic for my blog. Facebook discontinued their explore feed on March 1st, resulting in a huge hit on an older post about how to find Facebook's explore feed. Then, on March 12th, my post ***[When Is Energy Efficiency Worth the Investment?](https://hendrixjoseph.github.io/when-is-energy-efficiency-worth-the-investment/)*** was one of the [three features of the day on Rockstar Finance](https://rockstarfinance.com/mar-12th-2018/), bringing in over a thousand hits in one day.
+Despite the slowness of new posts, it's been an exciting month as far as traffic for my blog. Facebook discontinued their explore feed on March 1st, resulting in a huge hit on an older post about how to find Facebook's explore feed. Then, on March 12th, my post ***[When Is Energy Efficiency Worth the Investment?]({{ site.url }}/when-is-energy-efficiency-worth-the-investment/)*** was one of the [three features of the day on Rockstar Finance](https://rockstarfinance.com/mar-12th-2018/), bringing in over a thousand hits in one day.
 
 These stats are from February 20th through March 19th, which, because February is a short month, is only 28 days.
 
