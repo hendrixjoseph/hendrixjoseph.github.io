@@ -47,7 +47,7 @@ Facebook didn't pay anyone for the images they use to teach their computers to r
 
 Facebook also hasn't paid anyone to identify whose face is whose. This process, which is called *tagging*, is also done by their users.
 
-For instance, say I take a group photo and upload to [my Facebook page](https://www.facebook.com/JoeHxPage). Then someone happens to find that photo (maybe because they "like" my Facebook page) and they tag themselves. Or they tag someone else.
+For instance, say I take a group photo and upload to [my Facebook page](https://www.facebook.com/{{ site.footer-links.facebook }}). Then someone happens to find that photo (maybe because they "like" my Facebook page) and they tag themselves. Or they tag someone else.
 
 That photo, along with the tags, is added to the millions of photos and tags Facebook has in its database.
 
