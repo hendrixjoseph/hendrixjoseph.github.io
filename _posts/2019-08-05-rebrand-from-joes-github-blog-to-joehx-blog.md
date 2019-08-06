@@ -6,7 +6,7 @@ keywords: [blog, blogging, github, rebrand]
 image: /images/rebrand/rebrand.jpg
 ---
 
-If you've been to this blog before, you'll notice that I changed the name from *Joe's GitHub Blog* to *JoeHx Blog*. I also changed the tagline from *Personal Finance, Programming, Politics, and Other Ponderings* to *Writing What I Want*.
+If you've been to this blog before, you'll notice that I changed the name from **Joe's GitHub Blog** to **JoeHx Blog**. I also changed the tagline from **Personal Finance, Programming, Politics, and Other Ponderings** to **Writing What I Want**.
 
 I'm currently undergoing a slight rebrand of the site.
 
@@ -14,7 +14,6 @@ I'm currently undergoing a slight rebrand of the site.
 
 The main reason is that I needed to remove the word *GitHub* from the name.
 
-http://tmsearch.uspto.gov/bin/showfield?f=doc&state=4807:vuiaz.2.1
 This blog is not affiliated with GitHub. I merely serve this blog via [GitHub Pages](https://pages.github.com/).
 
 So it is *a GitHub blog*. Which made sense when I first created the blog. However, I don't want to get in any legal trouble with Microsoft. [(Microsoft bought GitHub back in 2018)](https://news.microsoft.com/2018/06/04/microsoft-to-acquire-github-for-7-5-billion/).
@@ -29,9 +28,9 @@ Another reason is I plan on moving to a custom domain soon, and I didn't want to
 
 Some time ago I started referring to myself as *JoeHx* on blog comments instead of simply *Joe*. Not sure how long ago, but the oldest comment I could find was on someones [blog post from June 26, 2014](https://clubthrifty.com/worst-money-mistakes/#comment-500025).
 
-So I could've renamed the blog *JoeHx's Blog* except *how do you pronounce that?* That's the issue with making nouns possessive that end with "s" or an "s" sound.
+So I could've renamed the blog **JoeHx's Blog** except *how do you pronounce that?* That's the issue with making nouns possessive that end with "s" or an "s" sound.
 
-So, *JoeHx's Blog* would just be *friggin awkward* like using "he and/or she" instead of just one or the other (hint: use the singular they or make the object plural to begin with).
+So, **JoeHx's Blog** would just be *friggin awkward* like using "he and/or she" instead of just one or the other (hint: use the singular they or make the object plural to begin with).
 
 Just look at all these articles on making -s nouns possessive:
 
@@ -42,7 +41,7 @@ Just look at all these articles on making -s nouns possessive:
 * [Apostrophes and Possessive Nouns, Part 2: Apostrophe After S](https://magoosh.com/toefl/2016/apostrophes-and-possessive-nouns-part-2-apostrophe-after-s/)
 * [What is the possessive form of words ending in S?](https://www.quora.com/What-is-the-possessive-form-of-words-ending-in-S)
 
-*Blog of JoeHx* sounds awkward, too. Plus, using "of" to show possession is supposed to be used for inanimate objects. Think "the engine of the car" versus "the car's engine."
+**Blog of JoeHx** sounds awkward, too. Plus, using "of" to show possession is supposed to be used for inanimate objects. Think "the engine of the car" versus "the car's engine."
 
 So screw it, I thought. Just throw my name and the word blog together. No possessive necessary.
 
@@ -50,19 +49,19 @@ So screw it, I thought. Just throw my name and the word blog together. No posses
 
 ## The Tagline
 
-Before it was *Personal Finance, Programming, Politics, and Other Ponderings*, it was *Programming, Politics, and Ponderings*.
+Before it was **Personal Finance, Programming, Politics, and Other Ponderings**, it was **Programming, Politics, and Ponderings**.
 
 But as I began more and more to write about [money](https://hendrixjoseph.github.io/tags/#money), I decided to throw in "Personal Finance" in the tagline since it fit with the alliteration.
 
 However, on this site at least, I'll write whatever I want to.
 
-So, I initially thought I should set the new tagline to *Writing Whatever I Want To*.
+So, I initially thought I should set the new tagline to **Writing Whatever I Want To**.
 
 It still uses alliteration, but ut's a bit long, and that [dangling preposition](https://en.wikipedia.org/wiki/Preposition_stranding) is unnecessary.
 
 So I cleaned it up and simplified it a bit.
 
-Now it's simply *Writing What I Want*.
+Now it's simply **Writing What I Want**.
 
 ## The Process
 
@@ -94,7 +93,7 @@ I also made sure the username of the page - the part that is in the URL - was ch
 
 ### Twitter
 
-On Twitter, [@JoeHx](https://twitter.com/JoeHx) has been taken (in fact, it's been suspended). Thankfully, [@JoeHxBlog](https://twitter.com/JoeHxBlog) has not. I did create another account to ensure no one takes my old (@JoesGitHubBlog)[https://twitter.com/JoesGitHubBlog] one.
+On Twitter, [@JoeHx](https://twitter.com/JoeHx) has been taken (in fact, it's been suspended). Thankfully, [@JoeHxBlog](https://twitter.com/JoeHxBlog) has not. I did create another account to ensure no one takes my old [@JoesGitHubBlog](https://twitter.com/JoesGitHubBlog) one.
 
 ![The old Twitter header image.](/images/rebrand/old-twitter.jpg)
 *The old Twitter header image.*
