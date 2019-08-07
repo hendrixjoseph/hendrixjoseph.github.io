@@ -1,5 +1,5 @@
 ---
 ---
 
-title,url,image[{% for post in site.posts %}
-"{{ post.title | replace: '"', '\"' }}",{{ site.url }}{{ post.url }},{{ site.url }}{{ post.image }}{% endfor %}]}
+title,url,image,date{% for post in site.posts %}
+"{{ post.title | replace: '"', '\"' }}",{{ site.url }}{{ post.url }},{{ site.url }}{{ post.image }},{{ post.date | date: "%Y-%m-%d }}{% endfor %}]}
