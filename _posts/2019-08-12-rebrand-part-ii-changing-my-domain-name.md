@@ -48,7 +48,7 @@ Next, I needed to submit my new URL to various indexing sites.
 Thankfully, submitting to some of these sites is as easy as searching for my sites.
 * [hendrixjoseph.github.io on Alexa](https://www.alexa.com/siteinfo/hendrixjoseph.github.io)
 * [joehxblog.com on Alexa](https://www.alexa.com/siteinfo/joehxblog.com)
-* [hendrixjoseph.github.io on Netcraft Site Report](https://toolbar.netcraft.com/site_report?url=hendrixjoseph.github.io
+* [hendrixjoseph.github.io on Netcraft Site Report](https://toolbar.netcraft.com/site_report?url=hendrixjoseph.github.io)
 * [joehxblog.com on Netcraft Site Report](https://toolbar.netcraft.com/site_report?url=joehxblog.com)
 
 ## Update Google Properties with New Domain
@@ -95,7 +95,7 @@ That said, I do have a link to my site on [my Mix.com profile](https://mix.com/j
 Going forward, I'll just submit to Mix.com using the new domain. I may also resubmit some content.
 
 Here are some links showing what's been submitted for each domain:
-* [hendrixjoseph.github.io on Mix.com](https://mix.com/search/hendrixjoseph.github.io/domain
+* [hendrixjoseph.github.io on Mix.com](https://mix.com/search/hendrixjoseph.github.io/domain)
 * [joehxblog.com on Mix.com](https://mix.com/search/joehxblog.com/domain)
 
 ### Update Reddit with New Domain
@@ -198,3 +198,5 @@ https://en.wikipedia.org/wiki/User:Hendrixjoseph), so I made sure to update that
 I've probably forgotten a link somewhere out there in the world wide web. As I find them, I'll update this page.
 
 Until then, the 301 Permanent Redirect should take care of them.
+
+> There was more #1 - All talk about how this is a GitHub Page, and I didn't update the link on [the GitHub repo](https://github.com/hendrixjoseph/hendrixjoseph.github.io)!
