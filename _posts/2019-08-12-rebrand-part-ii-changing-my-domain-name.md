@@ -206,3 +206,5 @@ Until then, the 301 Permanent Redirect should take care of them.
 > #2 - Had to update all the back links on my other blog [Puppy Snuggles](https://www.puppy-snuggles.com/)
 >
 > #3 - There is a [YouTube video of mine](https://www.youtube.com/watch?v=ctOFqIPb9R0) that I linked from. Here's the [post with the YouTube](https://www.joehxblog.com/how-to-solder-sweat-copper-pipe/).
+>
+> #4 - Updated the website on my [AutoPhotoSync project](https://github.com/hendrixjoseph/AutoPhotoSync) to [the post on the new domain](https://www.joehxblog.com/introducing-autophotosync-for-google-photos/).
