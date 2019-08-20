@@ -36,7 +36,7 @@ permalink: /sitemap/
 ## Pages
 
 {% for page in (1..45) %}
-* [Page {{ page }}]({% unless page == 1 %}{{ site.paginate_path | replace: ':num', page }}{% endunless %}/){% endfor %}
+* [Page {{ page }}]({% unless page == 1 %}{{ site.paginate_path | replace: ':num', page }}{% endunless %}){% endfor %}
 
 ## 404s
 
