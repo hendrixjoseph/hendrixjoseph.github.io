@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: affiliate-default
 title: Sitemap
 permalink: /sitemap/
 ---
