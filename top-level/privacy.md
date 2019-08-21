@@ -4,9 +4,12 @@ title: Privacy Policy
 permalink: /privacy/
 ---
 
-*Revised October 16, 2018.*
+*Revised August 21, 2019.*
 
-## Google Analytics
+## Google Programs
+
+
+### Google Analytics
 
 I use Google Analytics to determine site traffic, sources of said traffic, and user behavior. Neither I nor this site will attempt to identify you personally using Google Analytics.
 
@@ -14,19 +17,27 @@ I also have demographics enabled on Google Analytics, which only tells me aggreg
 
 If you wish to know more or even opt out, view [Google's privacy policy](http://www.google.com/intl/en/policies/privacy/).
 
+### Goodle AdSense
+
+I run Google AdSense mainly to know how to use AdSense. This is the single ad banner you may see on the top of the page. My goal is to only ever have at most the single ad banner. Again, for more details, view [Google's privacy policy](http://www.google.com/intl/en/policies/privacy/).
+
+Google AdSense required the following disclosure:
+
+* Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website or other websites.
+* Google's use of advertising cookies enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
+* Users may opt out of personalized advertising by visiting [Ads Settings](https://www.google.com/settings/ads).
+
+For more information, read [How Google uses information from sites or apps that use our services](https://policies.google.com/technologies/partner-sites).
+
 ## Facebook Pixel
 
 I currently use Facebook Conversion Tracking Pixels. This allows me to see visits on my website via Facebook, as well as to target Facebook ads to people who've visited this website.
 
 View [Facebook's privacy policy](https://www.facebook.com/about/privacy/) for more details. Facebook also has an [Ad Preferences page](https://www.facebook.com/ads/preferences/) giving you control over your data.
 
-## Advertising
+## Affiliate Relationships
 
-### Goodle Adsense / Adwords
-
-I run Google Adsense mainly to know how to use Adsense. This is the single ad banner you may see on the top of the page. My goal is to only ever have at most the single ad banner. Again, for more details, view [Google's privacy policy](http://www.google.com/intl/en/policies/privacy/).
-
-### Amazon Affiliate
+### Amazon Associate
 
 This site participates in the [Amazon Services LLC Associates Program](https://affiliate-program.amazon.com/help/operating/agreement), an affiliate advertising program designed to provide a means for this site to earn fees by linking to Amazon.com and affiliated sites.
 
