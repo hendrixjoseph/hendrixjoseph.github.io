@@ -68,3 +68,7 @@ Here are the links to the revert commits on GitHub if you're wondering what they
 
 * [How can I undo an older commit?](https://www.git-tower.com/learn/git/faq/undo-revert-old-commit)
 * [Stackoverflow: Undo a particular commit in Git that's been pushed to remote repos](https://stackoverflow.com/questions/2318777/undo-a-particular-commit-in-git-thats-been-pushed-to-remote-repos)
+
+<style>
+li a { word-wrap: break-word; }
+</style>
