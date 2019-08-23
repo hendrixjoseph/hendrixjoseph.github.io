@@ -81,7 +81,7 @@ So the longest any individual shopper has to wait is still five minutes.
 ![7 Shoppers and 5 Cashiers](/images/checkouts-and-shoppers/seven-shoppers-ten-checkouts.png)
 *7 Shoppers and 5 Cashiers*
 
-Each of the previous cases (except maybe case 4) involved an even split of shoppers to checkouts.
+Each of the previous cases (except maybe [case 4](#case-4-5-shoppers-and-10-cashiers)) involved an even split of shoppers to checkouts.
 
 But what if there is not an even split?
 
@@ -214,11 +214,11 @@ Each cashier has to spend a full ten minutes, even the three who are doing nothi
 
 Add these two groups together:
 
-   45 + 50 = 95
+    45 + 50 = 95
 
 And then divide by the total number of participants (12):
 
-     95 / 12 ≈ 7.9
+    95 / 12 ≈ 7.9
 
 Finally, the ratio is:
 
