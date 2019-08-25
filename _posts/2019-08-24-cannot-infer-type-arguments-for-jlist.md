@@ -10,7 +10,7 @@ thumbnail: true
 
 I was recently adding some type parameters to a raw `JList` in some old Java code.
 
-The `[JList](https://docs.oracle.com/javase/7/docs/api/javax/swing/JList.html)` I was messing with in particular passed a `[ListModel](https://docs.oracle.com/javase/7/docs/api/javax/swing/ListModel.html)` - a `[DefaultListModel](https://docs.oracle.com/javase/7/docs/api/javax/swing/DefaultListModel.html)` to be exact - into its constructor. So, thinking that the `JList` needed to have the `DefaultListModel` as its generic type, I set my types as follows (that's the text between the &lt; and &gt; for my non-programming readers):
+The [`JList`](https://docs.oracle.com/javase/7/docs/api/javax/swing/JList.html) I was messing with in particular passed a [`ListModel`](https://docs.oracle.com/javase/7/docs/api/javax/swing/ListModel.html) - a [`DefaultListModel`](https://docs.oracle.com/javase/7/docs/api/javax/swing/DefaultListModel.html) to be exact - into its constructor. So, thinking that the `JList` needed to have the `DefaultListModel` as its generic type, I set my types as follows (that's the text between the &lt; and &gt; for my non-programming readers):
 
 ```java
 DefaultListModel<String> model = new DefaultListModel<>();
