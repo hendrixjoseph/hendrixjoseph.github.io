@@ -23,7 +23,7 @@ Welp, [Eclipse](https://www.eclipse.org/ide/) didn't like this. I gave me the fo
 Cannot infer type arguments for JList<>
 ```
 
-Ok? I tried removing the `&lt;String&gt;` from the `DefaultListModel` in the `JList`:
+Ok? I tried removing the `<String>` from the `DefaultListModel` in the `JList`:
 
 ```java
 DefaultListModel<String> model = new DefaultListModel<>();
