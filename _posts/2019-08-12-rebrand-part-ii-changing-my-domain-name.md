@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Rebrand Part II: Changing My Domain Name"
-tags: [meta]
+tags: [meta, rebrand]
 keywords: [blog, blogging, github, rebrand]
 image: /images/rebrand/rebrand.jpg
 ---

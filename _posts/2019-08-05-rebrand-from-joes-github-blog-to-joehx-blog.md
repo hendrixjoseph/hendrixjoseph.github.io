@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Rebrand: From Joe's GitHub Blog to JoeHx Blog"
-tags: [meta]
+tags: [meta, rebrand]
 keywords: [blog, blogging, github, rebrand]
 image: /images/rebrand/rebrand.jpg
 ---
