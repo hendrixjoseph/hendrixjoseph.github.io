@@ -3,7 +3,7 @@ layout: post
 title: "Rebrand Part III: Dealing With AdSense Problems"
 tags: [meta, rebrand]
 keywords: [blog, blogging, adsense, rebrand]
-image: /images/rebrand/adsense-logo.jpg
+image: /images/rebrand/adsense-logo.png
 ---
 
 It's been a few weeks since I [changed the name of the blog](https://www.joehxblog.com/rebrand-from-joes-github-blog-to-joehx-blog/) and [updated the domain name](https://www.joehxblog.com/rebrand-part-ii-changing-my-domain-name/). As part of updating the domain, I added the new domain as a new site in my Google AdSense.
