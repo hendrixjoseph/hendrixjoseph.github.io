@@ -4,6 +4,8 @@ title: Featured
 permalink: /featured/
 ---
 
+The current domain (joehxblog.com) is not "featured" or "backlinked" anywhere, however, the old domain (hendrixjoseph.github.io) is:
+
 * [Awesome Java Newsletter June 17, 2016](https://java.libhunt.com/newsletter/5)
 * [Rockstar Finance March 12th, 2018 Features](https://rockstarfinance.com/mar-12th-2018/)
 * [Financial Articles for the Month of March, 2018](https://www.rooscpa.com/financial-articles/#march-2018)
