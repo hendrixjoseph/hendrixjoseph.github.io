@@ -59,7 +59,7 @@ Make sure to set the sheet settings to update and recalculate, otherwise the sam
 
 ## Twitter
 
-<a class="twitter-timeline" href="https://twitter.com/RandNumOfTheDay?ref_src=twsrc%5Etfw">Tweets by RandNumOfTheDay</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-width="700" data-height="500" href="https://twitter.com/RandNumOfTheDay?ref_src=twsrc%5Etfw">Tweets by RandNumOfTheDay</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 ## Facebook
 
