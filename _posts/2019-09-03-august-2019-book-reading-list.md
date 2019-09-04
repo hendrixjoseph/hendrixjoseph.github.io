@@ -45,6 +45,7 @@ Basically, someone grabbed a bunch of old, public domain stories and put them up
 
 As the title suggests, there are 99 short stories. Last month I read stories 20 through 34:
 
+{:start="20"}
 20. *The Facts of M. Valdemar's Case* by Edgar Allan Poe
 21. *The Power of Words* by Edgar Allan Poe
 22. *The System of Doctor Tarr and Professor Fether* by Edgar Allan Poe
