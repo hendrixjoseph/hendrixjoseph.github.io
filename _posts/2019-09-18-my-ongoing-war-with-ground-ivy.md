@@ -109,8 +109,8 @@ After two assaults of chemical warfare (half of the yard at a time) and multiple
 
 There are now large patches of the yard that have no plant cover - grass, ground ivy, or any other - and are just bare:
 
-![The dying ivy far away.](/images/ground-ivy/bare-ground.jpg)
-*The dying ivy far away.*
+![Just the bare ground.](/images/ground-ivy/bare-ground.jpg)
+*Just the bare ground.*
 
 I'm going to have to get me some [grass seed](https://www.homedepot.com/p/Scotts-7-lb-Turf-Builder-Kentucky-Bluegrass-Mix-Seed-18269/203760929) and plant it this fall. Hopefully, the grass will grow and take over before the ground ivy has a chance to come back. Nevertheless, I plan on spraying some more of the selective herbicide come spring.
 
