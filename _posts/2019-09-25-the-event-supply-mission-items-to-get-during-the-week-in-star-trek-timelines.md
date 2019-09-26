@@ -6,7 +6,7 @@ keywords: [star trek, star trek timelines]
 image: /images/star-trek/timelines/supply-event/identification-code-1.png
 ---
 
-I've been playing a mobile game called [https://www.joehxblog.com/star-trek-timelines/](Star Trek Timelines) for a year now. One aspect of the game is the weekend "event" competitions. There are different types of events - one, in particular, is supply missions.
+I've been playing a mobile game called [Star Trek Timelines](https://www.joehxblog.com/star-trek-timelines/) for a year now. One aspect of the game is the weekend "event" competitions. There are different types of events - one, in particular, is supply missions.
 
 If you've played the game (and even if you haven't) these supply missions are nearly identical to the regular supply missions. Basically, you run quick missions to get supplies. Inventory. Items.
 
@@ -191,7 +191,7 @@ So I present to you: the Event Supply Mission Items to Get During the Week in St
 
 ## One-Star Polyalloy
 
-![One-Star Polyalloy](/images/star-trek/timelines/supply-event/pollyalloy-1.png)
+![One-Star Polyalloy](/images/star-trek/timelines/supply-event/polyalloy-1.png)
 
 * Mission: Behind Closed Doors - Episode 1
 * Challenge Level: Epic
