@@ -73,7 +73,7 @@ So I present to you: the Event Supply Mission Items to Get During the Week in St
 
 ## Zero-Star Text Book
 
-![Zero-Star Text Book](/images/star-trek/timelines/supply-event/textbook-0.png)
+![Zero-Star Text Book](/images/star-trek/timelines/supply-event/text-book-0.png)
 
 * Mission: Off at the Pass - Episode 2
 * Challenge Level: Elite
@@ -123,7 +123,7 @@ So I present to you: the Event Supply Mission Items to Get During the Week in St
 
 ## Zero-Star Magnasite-Nitron Tablet
 
-![Zero-Star Magnasite-Nitron Tablet](/images/star-trek/timelines/supply-event/magnasite-nitron-tablet-0.png)
+![Zero-Star Magnasite-Nitron Tablet](/images/star-trek/timelines/supply-event/magnasite-nitron-table-0.png)
 
 * Mission: Rescue the Val Jean - Episode 2
 * Challenge Level: Normal
