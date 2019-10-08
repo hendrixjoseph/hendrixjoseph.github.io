@@ -20,7 +20,7 @@ permalink: /comments/
   <li id="comment-{{ comment.date }}" class="comment">
 		<article class="comment-body" itemprop="comment" itemscope itemtype="http://schema.org/Comment">
 			{% include comments/vcard.html comment=comment slug=s %}
-			<div class="comment-content">{{ comment.message | markdownify }}</div>
+			<div class="comment-content">{{ comment.message | replace: "\r\n", "<br />" | markdownify }}</div>
 		</article>
   </li>
 {% endif %}{% endfor %}
