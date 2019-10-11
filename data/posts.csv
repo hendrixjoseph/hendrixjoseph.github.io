@@ -2,4 +2,4 @@
 ---
 
 title,url,image,date{% for post in site.posts %}
-"{{ post.title | replace: '"', '\"' }}",{{ site.url }}{{ post.url }},{{ site.url }}{{ post.image }},{{ post.date | date: "%Y-%m-%d" }}{% endfor %}]}
+"{{ post.title | replace: '"', '\"' }}",{{ site.url }}{{ post.url }},{{ site.url }}{{ post.image }},{{ post.date | date: "%B %e, %Y" }}{% endfor %}]}
