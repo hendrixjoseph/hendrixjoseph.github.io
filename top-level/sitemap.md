@@ -26,6 +26,11 @@ permalink: /sitemap/
 {% assign pages = site.pages | where_exp: "page", "page.path contains 'tools/'" %}{% for page in pages %}
 * [{{ page.title }}]({{ site.url }}{{page.url}}){% endfor %}
 
+## Data
+
+{% assign pages = site.pages | where_exp: "page", "page.path contains 'data'" %}{% for page in pages %}
+* [{{ page.url }}]({{ site.url }}{{page.url}}){% endfor %}
+
 ## Posts
 
 | Date | Title | Tags |
