@@ -56,7 +56,7 @@ So if you look at the HTML for the few paragraphs I wrote (on the Vandalia Toast
 </div>
 ```
 
-See all those `span` tags with `itemprop`, `itemscope`, etc? That's the structured data. And if you run the page through Google's Structured Data Testing Tool](https://search.google.com/structured-data/testing-tool#url=https%3A%2F%2Fvandalia.toastmastersclubs.org%2F), you'll see how Google can parse the data.
+See all those `span` tags with `itemprop`, `itemscope`, etc? That's the structured data. And if you run the page through [Google's Structured Data Testing Tool](https://search.google.com/structured-data/testing-tool#url=https%3A%2F%2Fvandalia.toastmastersclubs.org%2F), you'll see how Google can parse the data.
 
 Fun fact though - sometimes people use `meta` tags when creating structured data. FreeToastHost removed any `meta` tags I added.
 
