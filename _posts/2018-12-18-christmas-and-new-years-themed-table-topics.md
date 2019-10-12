@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Christmas and New Year's Themed Table Topics
-tags: [toastmaster's]
+tags: [toastmasters]
 keywords: [table topics, toastmaster, toastmasters, christmas, new year, new year's, holiday]
 image : /images/christmas-t-shirt.png
 ---
 
-Once again I was table topics master at my local Toastmaster's meeting. Being that it is the Christmas and New Year season, I felt it was appropriate to theme my table topics around these two holidays.
+Once again I was table topics master at my local Toastmasters meeting. Being that it is the Christmas and New Year season, I felt it was appropriate to theme my table topics around these two holidays.
 
 My aim for these table topic questions, in addition to being about Christmas or New Year's, was to avoid yes/no questions (e.g. "Do you make New Year's resolutions?") and instead ask more open-ended questions (without simply adding the lazy "why or why not" as so many yes/no questions do).
 

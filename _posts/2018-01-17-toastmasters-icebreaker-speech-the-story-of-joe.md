@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "Toastmaster's Icebreaker Speech: The Story of Joe"
-tags: [toastmaster's]
+title: "Toastmasters Icebreaker Speech: The Story of Joe"
+tags: [toastmasters]
 keywords: [toastmaster, toastmaster's, toastmaster's club, icebreaker, icebreaker speech, toastmaster's icebreaker speech]
 image: /images/toastmasters/joe-icebreaker-share.png
 ---
 
-Last November, my wife and I joined our local Toastmaster's club. Toastmaster's, for those who are unfamiliar, is a public-speaking development group. I'm not sure how good a speaker I am, but I know regardless of how good or bad I am, I want to improve. In fact, one of my [new year's resolutions for 2018]({{ site.url }}/2018-new-years-resolutions-goals/) is professional a personal development. So Toastmaster's just makes sense.
+Last November, my wife and I joined our local Toastmasters club. Toastmasters, for those who are unfamiliar, is a public-speaking development group. I'm not sure how good a speaker I am, but I know regardless of how good or bad I am, I want to improve. In fact, one of my [new year's resolutions for 2018]({{ site.url }}/2018-new-years-resolutions-goals/) is professional a personal development. So Toastmasters just makes sense.
 
-The first speech anyone gives at Toastmaster's is called the Icebreaker Speech. Essentially all you have to do is talk about yourself. The goal of this speech is not to necessarily give a good speech, but rather just get up in front of the group and talk.
+The first speech anyone gives at Toastmasters is called the Icebreaker Speech. Essentially all you have to do is talk about yourself. The goal of this speech is not to necessarily give a good speech, but rather just get up in front of the group and talk.
 
 I gave this speech last week (January 9th if you want a date). So did my wife. My wife's speech was awesome. Mine was so-so. She had props and didn't refer to her notes much. I seemed to read directly from a page.
 
