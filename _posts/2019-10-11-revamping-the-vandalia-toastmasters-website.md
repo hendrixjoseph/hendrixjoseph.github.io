@@ -33,7 +33,8 @@ I wanted to get a bit more text on the homepage. I also wanted to focus on a few
 Here's what I wrote on the new webpage:
 
 > We are the Vandalia Toastmasters Club, a friendly group devoted to Toastmasters International's mission of providing a supportive learning experience that empowers members to develop the necessary communication, public speaking, and leadership skills for improved self-confidence as well as personal and professional development!
-Founded on April 1, 1993, we are a community club and open to the public. Guests are always welcome! We meet in the Dayton suburb of Vandalia, Ohio, but have members and guests from surrounding cities including Huber Heights in Montgomery County and Tipp City in Miami County.
+>
+> Founded on April 1, 1993, we are a community club and open to the public. Guests are always welcome! We meet in the Dayton suburb of Vandalia, Ohio, but have members and guests from surrounding cities including Huber Heights in Montgomery County and Tipp City in Miami County.
 >
 > We meet the first and third Tuesday of every month from 7:00 PM to 8:15 PM. We meet on the 1st Floor Conference Room of the Vandalia Justice Center at  245 James Bohanan Dr,  Vandalia, Ohio 45377. Check out the [Meeting Information / Directions page](https://vandalia.toastmastersclubs.org/directions.html) for more details.
 Be sure to like [Vandalia Toastmasters Club on Facebook]() and follow [Vandalia Toastmasters Club on Twitter]()!
