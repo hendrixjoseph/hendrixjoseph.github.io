@@ -1,13 +1,4 @@
----
-layout: post
-title: September 2019 Blog Statistics
-tags: [blog statistics]
-keywords: [blog, statistics, blog statistics, analytics, pageviews, webmaster, webmaster tools, alexa, google]
-hashtags: [blogging, blogstats]
-image: /images/blog-stats/2019-09-stats.png
----
-
-Three more of this blog stat reports, and I'll have two year's worth of monthly reports - the first report was on [January 2018](https://www.joehxblog.com/january-2018-blog-statistics/).
+Three more of these blog stat reports, and I'll have two year's worth of monthly reports - the first report was on [January 2018](https://www.joehxblog.com/january-2018-blog-statistics/).
 
 Speaking of which, I've created [a spreadsheet containing all the blog stats so far](https://github.com/hendrixjoseph/hendrixjoseph.github.io/blob/master/_data/blog-stats.csv), so you can, if you want, see everything at a glance. I don't include stats that are derived from other stats (basically, the ratios). Also, any blank spots mean either I didn't record that specific statistic, or it wasn't available that month.
 
@@ -69,8 +60,8 @@ hendrixjoseph.github.io in September*
 * Search Impressions &rarr; 11,300
 * Average position &rarr; 70.1
 
-![Google Search Console Graph for August](/images/blog-stats/2019-09-joehxblog.com-search-console.png)
-*Google Search Console Graph for joehxblog.com in August*
+![Google Search Console Graph for September](/images/blog-stats/2019-09-joehxblog.com-search-console.png)
+*Google Search Console Graph for joehxblog.com in September*
 
 ### Sum of Stats for Google Search Console
 
