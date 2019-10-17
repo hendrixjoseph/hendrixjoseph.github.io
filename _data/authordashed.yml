@@ -1,0 +1,14 @@
+- jane-doe:
+    name: jane-doe
+    bio: "Donec convallis mi in tempus viverra."
+    email: contact@mail.com
+    image: "https://via.placeholder.com/150"
+    author: Jane Doe
+    twitter: "http://twitter.com/testing"
+
+- jane-smith:
+    bio: "Donec convallis mi"
+    email: contact@mail.com
+    image: "https://via.placeholder.com/150"
+    name: jane-smith
+    twitter: "http://twitter.com/testing"
