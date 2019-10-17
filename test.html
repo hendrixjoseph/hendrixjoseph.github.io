@@ -2,7 +2,19 @@
 permalink: /test/
 ---
 
+<h2>With Quotes</h2>
 {% assign author = site.data.author['jane-doe'] %}
+<div class="author-bio">
+<h3> {{author.name}}</h3>
+<p> {% if author.image %}
+<img src="{{author.image}}" class="author-img" align="left">{% endif %} {{ author.bio }}</p>
+{% if author.twitter %}
+<a href="{{author.twitter}}"><i class="fab fa-twitter"></i></a>
+{% endif %}
+</div>
+
+<h2>Without Quotes</h2>
+{% assign author = site.data.author[jane-doe] %}
 <div class="author-bio">
 <h3> {{author.name}}</h3>
 <p> {% if author.image %}
