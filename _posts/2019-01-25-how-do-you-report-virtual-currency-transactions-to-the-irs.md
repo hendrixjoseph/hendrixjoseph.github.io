@@ -45,7 +45,7 @@ There are many ways to fill out a Form 8949, and my Java program only calculates
 
 You can find [the source for my Java program on GitHub](https://github.com/hendrixjoseph/Form8949), but use it at your own risk. There is no warranty, implied or otherwise.
 
-Over the next few posts and weeks, I intend to make additional posts on an example Schedule C for mining as well as an example Schedule D for trading. These examples will reflect the actual schedules I will (or have) file, although they'll be slightly modified either for simplicity or privacy (e.g. I'm not putting my social security number on the examples).
+Over the next few posts and weeks, I intend to make additional posts on [an example Schedule C for mining](https://www.joehxblog.com/example-schedule-c-for-cryptocurrency-mining/) as well as an example Schedule D for trading. These examples will reflect the actual schedules I will (or have) file, although they'll be slightly modified either for simplicity or privacy (e.g. I'm not putting my social security number on the examples).
 
 ## If You Want To Buy Cryptocurrencies...
 
