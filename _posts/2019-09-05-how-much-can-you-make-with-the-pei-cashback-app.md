@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Much Can You Make with the Pei Cashback App?
-tags: [money, review]
+tags: [cryptocurrency, money, review]
 keywords: [pei, pei cashback, pei cashback app, cashback app, cashback]
 hashtags: [cashback, freemoney]
 image: /images/pei/pei-logo.png
