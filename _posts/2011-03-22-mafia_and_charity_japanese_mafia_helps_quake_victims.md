@@ -8,7 +8,7 @@ image: /images/acoffee.jpg
 thumbnail: true
 ---
 
-From [The Daily Beast](http://www.thedailybeast.com/blogs-and-stories/2011-03-18/japanese-yakuza-aid-earthquake-relief-efforts/):
+From [The Daily Beast](https://web.archive.org/web/20110319230559/http://www.thedailybeast.com/blogs-and-stories/2011-03-18/japanese-yakuza-aid-earthquake-relief-efforts/):
 
 <blockquote>
 The worst of times sometimes brings out the best in people, even in Japan’s “losers” a.k.a. the Japanese mafia, the yakuza. Hours after the first shock waves hit, two of the largest crime groups went into action, opening their offices to those stranded in Tokyo, and shipping food, water, and blankets to the devastated areas in two-ton trucks and whatever vehicles they could get moving. 
