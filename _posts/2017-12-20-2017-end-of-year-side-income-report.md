@@ -56,7 +56,7 @@ eBay | $238.44
 
 I'm quite surprised how much I made on the two Chase cards considering I received the bonuses for them last year, I've had no referrals,  and won't spend money just to get points. Here are my [Chase Freedom referral link](http://hendrixjoseph.github.io/chase-freedom/) and my [Chase Freedom Unlimited referral link](http://hendrixjoseph.github.io/chase-freedom-unlimited/) if you're interested - both are a $150 bonus after $500 spend. Be sure to read the fine print and details for each.
 
-I got the Quicksilver for my honeymoon trip to Iceland since there are no foreign transaction fees. I believe the bonus was $150, and Capital One provides no referral bonuses.
+I got the [Quicksilver](https://www.joehxblog.com/capital-one/) for my honeymoon trip to Iceland since there are no foreign transaction fees. I believe the bonus was $150, and Capital One provides no referral bonuses.
 
 There are no referrals for the US Bank card, either.
 
