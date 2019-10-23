@@ -3,21 +3,21 @@ layout: post
 title: "Case Study: Facebook Boost Post"
 tags: [facebook, money]
 keywords: [facebook post, facebook boost post, boost post, boosted post, t-shirt, shirt]
-image: /images/facebook-boost-results/facebook-boost-target.png
+image: /images/facebook/boost-results/facebook-boost-target.png
 ---
 
 I've run a few Facebook ads before, never spending more than a couple bucks and never with much success - either in terms of views, likes, or clicks. Inspired by [this blog post on MerchInformer.com](https://merchinformer.com/how-to-run-facebook-ads-to-merch-by-amazon-listings/), I decided to expand my audience beyond the United States.
 
 ### The Boosted Post
 
-![The Boosted Facebook Post](/images/facebook-boost-results/facebook-boosted-post.png "The Boosted Facebook Post")
+![The Boosted Facebook Post](/images/facebook/boost-results/facebook-boosted-post.png "The Boosted Facebook Post")
 *[The Boosted Facebook Post](https://www.facebook.com/{{ site.footer-links.facebook }}/posts/1347255428685845)*
 
 Keep in mind the product I'm advertising is [one](https://www.amazon.com/dp/B072J3XZMP/?tag=hendrixjoseph-20) of [my Merch by Amazon shirts](http://hendrixjoseph.github.io/t-shirts/). These shirts are currently available only in the United States, so someone from outside the US is unlikely to actually buy my product.
 
 ### The Audience
 
-![Facebook Boost Audience](/images/facebook-boost-results/facebook-boost-target.png "Facebook Boost Audience")
+![Facebook Boost Audience](/images/facebook/boost-results/facebook-boost-target.png "Facebook Boost Audience")
 
 Since my product is an HTML parody t-shirt, selecting HTML, web design, and t-shirts seemed natural. I also selected "online shopping" because - although my audience probably can't buy my shirt - my shirt is for sale online.
 
@@ -27,13 +27,13 @@ Now, here's where things get interesting. Why did I choose India, and why males?
 
 ### The Results
 
-![Facebook Boost Results](/images/facebook-boost-results/facebook-boost-results.png "Facebook Boost Results")
+![Facebook Boost Results](/images/facebook/boost-results/facebook-boost-results.png "Facebook Boost Results")
 
 I boosted this post on July 21st for two days. The boost made the post visible to 608 people with 320 "engagements" (mostly likes). The single share is actually from me sharing to post to my personal wall. 
 
 Almost a week later, the post has the following statistics:
 
-![Facebook Post Results](/images/facebook-boost-results/facebook-post-results.png "Facebook Post Results")
+![Facebook Post Results](/images/facebook/boost-results/facebook-post-results.png "Facebook Post Results")
 
 An additional 193 people reached with 24 likes.
 

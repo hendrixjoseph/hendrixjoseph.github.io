@@ -3,7 +3,7 @@ layout: post
 title: Kroger Pay Review
 tags: [money, review]
 keywords: [kroger, kroger pay, kroger app]
-image: /images/kroger-pay/kroger-logo.png
+image: /images/kroger/pay/kroger-logo.png
 ---
 
 Kroger has recently been pushing their in-app payment service called *Kroger Pay*.
@@ -31,7 +31,7 @@ These steps assume you've already installed the Kroger App and have signed into 
 
 Congrats! You now have set up Kroger Pay. Now we need to use it.
 
-![Selecting Kroger Pay in the Android App.](/images/kroger-pay/choosing-kroger-pay.png)
+![Selecting Kroger Pay in the Android App.](/images/kroger/pay/choosing-kroger-pay.png)
 *Selecting Kroger Pay in the Android App.*
 
 ## How Do You Use Kroger Pay?
@@ -51,17 +51,17 @@ The following steps are necessary for self-checkout:
 
 7. Select Pay Now on the self-checkout kiosk.
 
-![The Pay Now button is the big green button with the big dollar sign $.](/images/kroger-pay/pay-now-button.jpg)
+![The Pay Now button is the big green button with the big dollar sign $.](/images/kroger/pay/pay-now-button.jpg)
 *The Pay Now button is the big green button with the big dollar sign $.*
 
 8. Select the Mobile option.
 
-![The Mobile option is new and has clip art of a mobile phone.](/images/kroger-pay/mobile-button.jpg)
+![The Mobile option is new and has clip art of a mobile phone.](/images/kroger/pay/mobile-button.jpg)
 *The Mobile option is new and has clip art of a mobile phone.*
 
 If you get to a screen that says "Scan Mobile Payment" and "Mobile payment forms accepted: Kroger Pay" - you probably forget to scan your Kroger Pay QR code at the beginning. The only way the self-checkout attendants and I have been able to get Kroger Pay to work at this step is to void the transactions and start over.
 
-![The "Scan Mobile Payment" screen.](/images/kroger-pay/kroger-pay-screen.jpg)
+![The "Scan Mobile Payment" screen.](/images/kroger/pay/kroger-pay-screen.jpg)
 *The "Scan Mobile Payment" screen. Despite what the screen tells you, the system won't seem to scan your Kroger Pay at this point. You have to start over.*
 
 ## My Opinion on Kroger Pay
@@ -78,7 +78,7 @@ If employees had been trained on Kroger Pay, then their first exposure to Kroger
 
 The third and final annoyance I've had with Kroger Pay is the somewhat misleading advertising that it nets you 50% more fuel points. In reality, Kroger Pay only gets you 50% more fuel points *if you use it in conjunction with a Kroger-branded credit or debit card*. This exact restriction is only laid out in the fine print - everywhere else the extra fuel points is advertised only says "restrictions apply." Most people would assume this is for things such as gift cards, which already receive double fuel points, not the type of card linked to the account.
 
-![Fifty Percent more fuel points! Restrictions apply!](/images/kroger-pay/fifty-percent-more-fuel-points.jpg)
+![Fifty Percent more fuel points! Restrictions apply!](/images/kroger/pay/fifty-percent-more-fuel-points.jpg)
 *Fifty Percent more fuel points! Restrictions apply!*
 
 For now, I'm going back to using a regular credit card when shopping at Kroger. I do love my local Kroger, and Kroger does tend to do innovative things such as their [ClickList](https://www.kroger.com/topic/clicklist) and their [Zero Hunger / Zero Waste initiative](https://www.kroger.com/f/zero-hunger-zero-waste).

@@ -4,7 +4,7 @@ title: My Robinhood Stock Picks for September 2018
 tags: [money, stock picks]
 keywords: [robinhood, stock, stocks]
 hashtags: [stocktips, stockpicks]
-image: /images/robinhood-logo.png
+image: /images/robinhood/logo.png
 ---
 
 Now that September is over, it's time to take a look at my Robinhood account and check on its performance. For those that are new to my blog, I've been making these monthly updates since my first full month of buying stocks on [Robinhood in June of this year]({{ site.url }}/my-robinhood-stock-picks-for-june-2018/). That means this is the fourth post in the series.

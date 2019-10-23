@@ -4,7 +4,7 @@ title: My Robinhood Stock Picks for August 2018
 tags: [money, stock picks]
 keywords: [robinhood, stock, stocks]
 hashtags: [stocktips, stockpicks]
-image: /images/robinhood-logo.png
+image: /images/robinhood/logo.png
 ---
 
 August is now over, and it's time to see how my progress has been on Robinhood.

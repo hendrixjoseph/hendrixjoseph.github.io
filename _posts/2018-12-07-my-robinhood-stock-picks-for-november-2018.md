@@ -4,7 +4,7 @@ title: My Robinhood Stock Picks for November 2018
 tags: [money, stock picks]
 keywords: [robinhood, stock, stocks]
 hashtags: [stocktips, stockpicks]
-image: /images/robinhood-logo.png
+image: /images/robinhood/logo.png
 ---
 
 This sixth monthly edition of "My Robinhood Stock Picks" will probably be the last for a while. With my recent [purchase (and financing) of a minivan]({{ site.url }}/we-bought-a-van/), as well as the fact I have a more tax-advantaged [Individual 401k]({{ site.url }}/i-opened-a-vanguard-individual-401k/) to put money in that I've nowhere near maxes out, I think my money has better use elsewhere.

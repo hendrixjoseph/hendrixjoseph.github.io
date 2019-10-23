@@ -3,7 +3,7 @@ layout: post
 title: My Robinhood Stock Picks for June 2018
 tags: [money, stock picks]
 keywords: [robinhood, stock, stocks]
-image: /images/robinhood-stock-charts/july-2018-actual-stock-value-chart.png
+image: /images/robinhood/stock-charts/july-2018-actual-stock-value-chart.png
 ---
 
 At the end of last month - the last day, in fact - I signed up for a Robinhood account. I signed up mostly for fun - but also for the free stock that Robinhood is currently offering. I got Chesapeake Energy (CHK), which is worth only about five bucks. However, some people get stocks worth a couple hundred dollars, such as Facebook or Apple.
@@ -62,10 +62,10 @@ A month in, I'm in the green. Although that first stock I chose is doing rather 
 
 I made a couple of stacked bar charts to visualize the growth:
 
-![Actual Stock Value Chart](/images/robinhood-stock-charts/july-2018-actual-stock-value-chart.png)
+![Actual Stock Value Chart](/images/robinhood/stock-charts/july-2018-actual-stock-value-chart.png)
 *Actual Stock Value Chart*
 
-![Relative Stock Value Chart](/images/robinhood-stock-charts/july-2018-relative-stock-value-chart.png)
+![Relative Stock Value Chart](/images/robinhood/stock-charts/july-2018-relative-stock-value-chart.png)
 *Relative Stock Value Chart*
 
 The **Actual Stock Value Chart** shows the growth of my entire portfolio - although, at slightly less than 3%, it's hard to see. The other chart squishes both the purchase price and the current price into the same size, so you can see what percentage each stock took of my entire portfolio for both the purchase price and the current price. Again, it's hard to make out the difference.

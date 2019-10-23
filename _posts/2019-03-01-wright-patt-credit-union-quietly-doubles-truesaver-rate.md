@@ -4,14 +4,14 @@ title: Wright-Patt Credit Union Quietly Doubles TrueSaver Rate
 tags: [money]
 keywords: [wright-patt credit union truesaver rate, wright-patt credit union truesaver, wright-patt credit union, truesaver rate, truesaver, wpcu truesaver rate, wpcu truesaver, wpcu, interest, dividends]
 hashtags: [wpcu]
-image: /images/wpcu-truesaver-rate-doubling.png
+image: /images/wpcu/truesaver-rate-doubling.png
 ---
 
 Wright-Patt Credit Union (WPCU) members like me were pleasantly surprised to see that the amount they receive in their TrueSaver account had nearly doubled.
 
 When I logged into my WPCU account today, I noticed that I received $2.24 in interest (Wright-Patt calls it "dividends") instead of my normal $1.26:
 
-![My WPCU TrueSaver Dividend Doubling](/images/wpcu-truesaver-rate-doubling.png)
+![My WPCU TrueSaver Dividend Doubling](/images/wpcu/truesaver-rate-doubling.png)
 *My WPCU TrueSaver Dividend Doubling*
 
 The TrueSaver accounts used to have a rate of 3%. Now they have a rate of 6%.

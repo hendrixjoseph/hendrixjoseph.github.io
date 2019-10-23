@@ -4,7 +4,7 @@ title: My Robinhood Stock Picks for October 2018
 tags: [money, stock picks]
 keywords: [robinhood, stock, stocks]
 hashtags: [stocktips, stockpicks]
-image: /images/robinhood-logo.png
+image: /images/robinhood/logo.png
 ---
 
 What a bear the month of October has been for everyone. Fortunately for me the only effect I've had has just been numbers on a screen. I can still feed my family, I can still pay my bills, and I still have my job. I'm in everything for the long haul.

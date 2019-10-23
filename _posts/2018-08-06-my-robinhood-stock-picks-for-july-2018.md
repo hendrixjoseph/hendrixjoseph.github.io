@@ -4,7 +4,7 @@ title: My Robinhood Stock Picks for July 2018
 tags: [money, stock picks]
 keywords: [robinhood, stock, stocks]
 hashtags: [stocktips, stockpicks]
-image: /images/robinhood-logo.png
+image: /images/robinhood/logo.png
 ---
 
 Last month I began a series on what stocks I've been buying via the Robinhood app. I intend to keep updating my interactions with my investments in the app. So first, let's see how I've been doing.

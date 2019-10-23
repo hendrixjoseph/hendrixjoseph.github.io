@@ -3,17 +3,17 @@ layout: post
 title: Dayton-Area Krogers to Use Chip-Enabled Gas Pumps on September 27th, 2019
 tags: [money]
 keywords: [kroger, chip card, gas, gas pump, pump, chip reader, chip readers]
-image: /images/kroger-gas-pump-notice/notice.jpg
+image: /images/kroger/gas-pump-notice/notice.jpg
 ---
 
 A few days ago, I went to my local Kroger fuel station to fill up [my wife's minivan](https://www.joehxblog.com/we-bought-a-van/) and saw the following notice:
 
-![Notice on the Kroger Gas Pump.](/images/kroger-gas-pump-notice/notice.jpg)
+![Notice on the Kroger Gas Pump.](/images/kroger/gas-pump-notice/notice.jpg)
 *Notice on the Kroger Gas Pump.*
 
 In case you can't see it too well due to the angle, here's a more friendly format (generated using [Microsoft Office Lens](https://play.google.com/store/apps/details?id=com.microsoft.office.officelens&hl=en_US)).
 
-![Better view of the previous notice.](/images/kroger-gas-pump-notice/notice-friendly-format.jpg)
+![Better view of the previous notice.](/images/kroger/gas-pump-notice/notice-friendly-format.jpg)
 *Better view of the previous notice.*
 
 It seems that gas stations are finally giving in to the pressure and implementing chip readers into their pumps. Well, at least my local Kroger is - I haven't checked other Krogers or even other non-Kroger gas stations yet.
@@ -30,5 +30,5 @@ Chip technology has helped reduce fraud by [76 percent](https://usa.visa.com/vis
 
 Oh, and they've updated the sticker that goes around the card slot, too:
 
-![The sticker around the card slot.](/images/kroger-gas-pump-notice/sticker.jpg)
+![The sticker around the card slot.](/images/kroger/gas-pump-notice/sticker.jpg)
 *The sticker around the card slot.*

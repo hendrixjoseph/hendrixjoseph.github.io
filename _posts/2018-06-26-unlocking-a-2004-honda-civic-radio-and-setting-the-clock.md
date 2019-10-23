@@ -3,7 +3,7 @@ layout: post
 title: Unlocking a 2004 Honda Civic Radio and Setting the Clock
 tags: [automotive, diy]
 keywords: [2004 honda civic unlock radio, honda civic unlock radio, honda civic, civic, unlock radio, 2004 honda civic set clock, honda civic set clock, set clock]
-image: /images/2004-honda-civic-radio.png
+image: /images/2004-honda-civic/radio/image.png
 ---
 
 A week or so ago, my wife's car broke down. The pully on the A/C compressor pulley wobbled and seized, so not only did her 2004 Honda Civic have no A/C, it smoked under the hood from the belt rubbing against the belt. So I had some work to do, and in the course of the repair I had to disconnect the negative battery cable because of reasons (and if you must know, it's because I had to move the alternator out of the way, and in doing so I started sparking things. Safety second, I guess).
