@@ -20,7 +20,7 @@ Here are the books I read to him in November:
 * [Puppies (Three Minute Tales)](https://www.abebooks.com/products/isbn/9780752596983/30039745931)
 * [Newtonian Physics for Babies](https://www.abebooks.com/products/isbn/9781492656203/30223004124)
 * [I Love You, Good Night](https://www.abebooks.com/products/isbn/9780689862120/22802080723)
-* [Touch and Feel: Puppy](hhttps://www.abebooks.com/products/isbn/9780756691660/30236443616)
+* [Touch and Feel: Puppy](https://www.abebooks.com/products/isbn/9780756691660/30236443616)
 * [Dog Wants to Play](https://www.abebooks.com/products/isbn/9780670016334/22915683944)
 * [If I Could Keep You Little](https://www.abebooks.com/products/isbn/9781934082928/22765913444)
 
