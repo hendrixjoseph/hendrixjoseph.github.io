@@ -5,6 +5,8 @@ permalink: /tools/ohio-sample-ballot-links-by-county/
 share: true
 ---
 
+Note: Some Ohio counties don't use the OhioBOE.com site - you'll see a page that says "This county does not subscribe to the Enhanced Website Features!" I'll try to ~strikethrough~ any counties I discover that do this, but keep the link in case on day those Ohio counties do decide to list their sample ballots.
+
 * [Adams County Sample Ballots](https://adams.ohioboe.com/apps/ballotlist.aspx)
 * [Allen County Sample Ballots](https://allen.ohioboe.com/apps/ballotlist.aspx)
 * [Ashland County Sample Ballots](https://ashland.ohioboe.com/apps/ballotlist.aspx)
@@ -13,7 +15,7 @@ share: true
 * [Auglaize County Sample Ballots](https://auglaize.ohioboe.com/apps/ballotlist.aspx)
 * [Belmont County Sample Ballots](https://belmont.ohioboe.com/apps/ballotlist.aspx)
 * [Brown County Sample Ballots](https://brown.ohioboe.com/apps/ballotlist.aspx)
-* [Butler County Sample Ballots](https://butler.ohioboe.com/apps/ballotlist.aspx)
+* [~Butler County Sample Ballots~](https://butler.ohioboe.com/apps/ballotlist.aspx)
 * [Carroll County Sample Ballots](https://carroll.ohioboe.com/apps/ballotlist.aspx)
 * [Champaign County Sample Ballots](https://champaign.ohioboe.com/apps/ballotlist.aspx)
 * [Clark County Sample Ballots](https://clark.ohioboe.com/apps/ballotlist.aspx)
@@ -92,4 +94,4 @@ share: true
 * [Wayne County Sample Ballots](https://wayne.ohioboe.com/apps/ballotlist.aspx)
 * [Williams County Sample Ballots](https://williams.ohioboe.com/apps/ballotlist.aspx)
 * [Wood County Sample Ballots](https://wood.ohioboe.com/apps/ballotlist.aspx)
-* [Wyandot County Sample Ballots](https://wyandot.ohioboe.com/apps/ballotlist.aspx)
+* [~Wyandot County Sample Ballots~](https://wyandot.ohioboe.com/apps/ballotlist.aspx)
