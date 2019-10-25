@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Applying for a Spot on the Planning Commission of Huber Heights
-tags: [politics]
-keywords: [huber heights]
+tags: [huber heights, politics]
+keywords: [volunteer, planning commission, commission]
 image: /images/huber-heights-politics/city-hall.jpg
 ---
 

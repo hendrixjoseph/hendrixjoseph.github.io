@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Rethinking the Flag of Huber Heights, Ohio
-tags: [vexillology]
-keywords: [flag of huber heights, flag, flags, huber heights, huber heights flag]
+tags: [vexillology, huber heights]
+keywords: [flag of huber heights, flag, flags, huber heights flag]
 image: /images/flag/huber-heights/huber-heights-gen.png
 ---
 
