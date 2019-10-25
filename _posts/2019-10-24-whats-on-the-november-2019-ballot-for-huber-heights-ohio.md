@@ -69,7 +69,7 @@ The following is on the ballot for voters in Ward 5 in the B2-Level Precinct (5-
 
 ### Montgomery County Educational Service Center
 
-### For Member of Governing Board of Education Service Center - Vote for at Most 2
+#### For Member of Governing Board of Education Service Center - Vote for at Most 2
 
 * Daryl Michael
 * Greg S. Shell
