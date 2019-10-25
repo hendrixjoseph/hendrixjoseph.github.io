@@ -28,7 +28,7 @@ The wards are numbered one through six. The precincts are lettered A through D. 
 
 Two of the letter-level precincts are split into two precincts (namely precinct 1-D is split into 1-D1 and 1-D2, and 5-B is split into 5-B1 and 5-B2).
 
-![Huber Heights Ward Map](/image/huber-heights-politics/ward-map.png)
+![Huber Heights Ward Map](/images/huber-heights-politics/ward-map.png)
 *Huber Heights Ward Map*
 
 ## Organization of The Following
