@@ -41,7 +41,7 @@ The first house has a blue strobe light. But it was a light, which meant that th
 All three of us happily march on up to the door. The house was modestly decorated - other than the blue strobe light, there was only a scarecrow sitting on a bench to the left of the front door.
 
 ![Scarecrow and pumpkins.](/images/halloween/scarecrow-and-pumpkins.jpg)
-*Image by [lauralatimer](https://pixabay.com/users/lauralatimer-1528198/) from [Pixabay](https://pixabay.com/)
+*Image by [lauralatimer](https://pixabay.com/users/lauralatimer-1528198/) from [Pixabay](https://pixabay.com/)*
 
 We ring the doorbell.
 
