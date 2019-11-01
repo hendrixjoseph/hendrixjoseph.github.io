@@ -8,7 +8,7 @@ image: /images/halloween/haunted-house.jpg
 
 Happy Halloween! I thought today I would share a cute and funny (and maybe scary!) trick-or-treat story from when I was a little kid.
 
-This was nearly thirty years ago... I was somewhere around five years ago. Just a little kid. My mom - while dating my stepdad at this point - had not yet remarried, so my younger siblings were not yet born.
+This was nearly thirty years ago... I was somewhere around five years old. Just a little kid. My mom - while dating my stepdad at this point - had not yet remarried, so my younger siblings were not yet born.
 
 I was the youngest of three boys. Enthusiastic. Ready to go trick-or-treating on Halloween night.
 
