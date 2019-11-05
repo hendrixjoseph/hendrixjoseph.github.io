@@ -71,7 +71,6 @@ This month I read stories fifty-three through seventy-four:
 58. *The Curious Fragment* by Jack London
 59. *The Man With the Gash* by Jack London
 60. *The Red One* by Jack London
-60. *The Red One* by Jack London
 61. *The Shadow and the Flash* by Jack London
 62. *The Strength of the Strong* by Jack London
 63. *The Unparalleled Invasion* by Jack London
