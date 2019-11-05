@@ -9,7 +9,7 @@ image: /images/books/first-words-the-farm/front.jpg
 
 Another month over, another book reading list.
 
-It's crazy I've been doing these "book reading lists" for almost two years now - my first was in January 2018](https://www.joehxblog.com/january-2018-book-reading-list/) - although I did skip the month of February 2019.
+It's crazy I've been doing these "book reading lists" for almost two years now - my first was in [January 2018](https://www.joehxblog.com/january-2018-book-reading-list/) - although I did skip the month of February 2019.
 
 ## Books I Read to My Son
 
