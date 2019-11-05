@@ -51,7 +51,7 @@ So screw it, I thought. Just throw my name and the word blog together. No posses
 
 Before it was **Personal Finance, Programming, Politics, and Other Ponderings**, it was **Programming, Politics, and Ponderings**.
 
-But as I began more and more to write about [money](https://hendrixjoseph.github.io/tags/#money), I decided to throw in "Personal Finance" in the tagline since it fit with the alliteration.
+But as I began more and more to write about [money](https://www.joehxblog.com/tags/#money), I decided to throw in "Personal Finance" in the tagline since it fit with the alliteration.
 
 However, on this site at least, I'll write whatever I want to.
 
@@ -115,7 +115,7 @@ That and a *proper* domain ends in either .com, .net, .org, .gov, or .mil, dag-n
 
 So `JoeHxBlog.com` it is.
 
-Once I make the switch, I'll have to [update my domain on Google Search Console](https://support.google.com/webmasters/answer/6033049) as well as see if I can get any [backlinks to this site](https://hendrixjoseph.github.io/featured/) that I know of updated.
+Once I make the switch, I'll have to [update my domain on Google Search Console](https://support.google.com/webmasters/answer/6033049) as well as see if I can get any [backlinks to this site](https://www.joehxblog.com/featured/) that I know of updated.
 
 I'm not too worried about all the old comments I've posted on various blogs throughout the years. I'm still going to deliver the blog through GitHub Pages, which means `hendrixjoseph.github.io` and all its pages will have a 301 Permanent Redirect to the new site.
 
