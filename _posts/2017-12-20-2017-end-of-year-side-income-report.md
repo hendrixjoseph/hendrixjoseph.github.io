@@ -9,7 +9,7 @@ csses: [/css/c3.min.css]
 image: /images/covers/2017-side-income.png
 ---
 
-Yet another income report. Well, for this blog, it's only the second one - my previous one was [last year's end-of-year income report](http://hendrixjoseph.github.io/2016-end-of-year-side-income-report/). Income reports still seem to be a popular topic in the blogosphere, although most who do income reports do monthly income reports rather than yearly income reports.
+Yet another income report. Well, for this blog, it's only the second one - my previous one was [last year's end-of-year income report](https://www.joehxblog.com/2016-end-of-year-side-income-report/). Income reports still seem to be a popular topic in the blogosphere, although most who do income reports do monthly income reports rather than yearly income reports.
 
 ### Survey Sites & Rebate Apps
 
@@ -21,9 +21,9 @@ Receipt Hog changed their payout thresholds earlier this year, so I had to cash 
 
 I was surprised I had made anything from Ibotta since I stopped using it a while ago - the twenty or so bucks is just a holdover from 2016 that I cashed out in January.
 
-I don't make as much using eBates as most people, but I think that's either because I won't make a purchase just to get cash back, plus I don't push the referrals much. Here's my [eBates referral link](http://hendrixjoseph.github.io/ebates/).
+I don't make as much using eBates as most people, but I think that's either because I won't make a purchase just to get cash back, plus I don't push the referrals much. Here's my [eBates referral link](https://www.joehxblog.com/ebates/).
 
-Square Cash is just referral money, although I'm unsure how much is from my [Square Cash review post](http://hendrixjoseph.github.io/square-cash-review/) and how much is from [/r/churning referral threads](https://www.reddit.com/r/churning/wiki/ccreferrals). Here's my [Square Cash referral link](http://hendrixjoseph.github.io/square-cash/).
+Square Cash is just referral money, although I'm unsure how much is from my [Square Cash review post](https://www.joehxblog.com/square-cash-review/) and how much is from [/r/churning referral threads](https://www.reddit.com/r/churning/wiki/ccreferrals). Here's my [Square Cash referral link](https://www.joehxblog.com/square-cash/).
 
 site | amount
 --- | ---
@@ -54,7 +54,7 @@ eBay | $238.44
 
 ### Credit Card Rewards
 
-I'm quite surprised how much I made on the two Chase cards considering I received the bonuses for them last year, I've had no referrals,  and won't spend money just to get points. Here are my [Chase Freedom referral link](http://hendrixjoseph.github.io/chase-freedom/) and my [Chase Freedom Unlimited referral link](http://hendrixjoseph.github.io/chase-freedom-unlimited/) if you're interested - both are a $150 bonus after $500 spend. Be sure to read the fine print and details for each.
+I'm quite surprised how much I made on the two Chase cards considering I received the bonuses for them last year, I've had no referrals,  and won't spend money just to get points. Here are my [Chase Freedom referral link](https://www.joehxblog.com/chase-freedom/) and my [Chase Freedom Unlimited referral link](https://www.joehxblog.com/chase-freedom-unlimited/) if you're interested - both are a $150 bonus after $500 spend. Be sure to read the fine print and details for each.
 
 I got the [Quicksilver](https://www.joehxblog.com/capital-one/) for my honeymoon trip to Iceland since there are no foreign transaction fees. I believe the bonus was $150, and Capital One provides no referral bonuses.
 
@@ -75,7 +75,7 @@ Only three of these are checking account bonuses - US Bank, Quorum, and Santande
 
 WPCU (Wright-Patt Credit Union) is a popular local credit union. In addition to some dividends they pay out, they provide a savings account that has 3% interest on the first $500.
 
-Finally, Ally is a high-interest savings account that I keep most of my emergency fund in. They started the year at 1.00% interest, and after raising the rate a couple times, are finishing the year at 1.25%. Considering most banks do somewhere around 0.01% interest, it's a no-brainer. Check out my post on [living off the interest](http://hendrixjoseph.github.io/living-off-the-interest/) if you want to see what a drastic difference that is.
+Finally, Ally is a high-interest savings account that I keep most of my emergency fund in. They started the year at 1.00% interest, and after raising the rate a couple times, are finishing the year at 1.25%. Considering most banks do somewhere around 0.01% interest, it's a no-brainer. Check out my post on [living off the interest](https://www.joehxblog.com/living-off-the-interest/) if you want to see what a drastic difference that is.
 
 bank | type | amount
 --- | --- | ---
@@ -89,7 +89,7 @@ Ally | savings account | $112.24
 
 ### Print-On-Demand Sites
 
-These are mostly t-shirt designs. I never expected [my Amazon t-shirts](http://hendrixjoseph.github.io/t-shirts/) to sell so well. I more expected something like my [TeeSpring](http://hendrixjoseph.github.io/my-first-teespring-designs/) or [Redbubble](https://www.redbubble.com/people/joehx) sales.
+These are mostly t-shirt designs. I never expected [my Amazon t-shirts](https://www.joehxblog.com/t-shirts/) to sell so well. I more expected something like my [TeeSpring](https://www.joehxblog.com/my-first-teespring-designs/) or [Redbubble](https://www.redbubble.com/people/joehx) sales.
 
 I'm not complaining, though.
 

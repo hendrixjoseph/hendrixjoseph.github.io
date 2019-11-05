@@ -21,7 +21,7 @@ This year, I've made $1,194.33 with 912 tasks currently pending approval.
 
 ## Flipping
 
-Flipping is the idea that I buy something at a low price, and sell it elsewhere for a higher price. A fancier word for this is [arbitrage](https://en.wikipedia.org/wiki/Arbitrage). I wrote about this hobby earlier this year in a post about [what supplies you should buy to reduce your costs](http://hendrixjoseph.github.io/six_essential_items_for_reselling_on_ebay_and_amazon/).
+Flipping is the idea that I buy something at a low price, and sell it elsewhere for a higher price. A fancier word for this is [arbitrage](https://en.wikipedia.org/wiki/Arbitrage). I wrote about this hobby earlier this year in a post about [what supplies you should buy to reduce your costs](https://www.joehxblog.com/six_essential_items_for_reselling_on_ebay_and_amazon/).
 
 How much I made doing this is more complex than just my sales. I sold $1,769.57 - but that's not my profit. Of those sales, $112.20 when to eBay, $63.76 went to PayPal, and $367.66 went to shipping.
 
@@ -47,7 +47,7 @@ This card gives you 1.5% cash back on purchases, plus a $150 bonus if you spend 
 
 Check out the link below to get yours. It's a referral link, so I'll get something, too.
 
-> [Earn $150 cash back with Chase Freedom Unlimited&#8480;](http://hendrixjoseph.github.io/chase-freedom-unlimited/)  #sponsored
+> [Earn $150 cash back with Chase Freedom Unlimited&#8480;](https://www.joehxblog.com/chase-freedom-unlimited/)  #sponsored
 
 ### Chase Freedom
 
@@ -59,11 +59,11 @@ I just got it this month, so I didn't get any rewards this year. I have $252.28 
 
 The link below should lead to an application page. Again, it's a referral link.
 
-> [Earn $150 cash back with Chase Freedom&reg;](http://hendrixjoseph.github.io/chase-freedom/) #sponsored
+> [Earn $150 cash back with Chase Freedom&reg;](https://www.joehxblog.com/chase-freedom/) #sponsored
 
 ## Checking Bonuses
 
-I had a previous post this year about [checking bonuses](http://hendrixjoseph.github.io/checking_bonuses/). Since then I've closed my Fifth Third (on the same day they charged me a $8 monthly maintenance fee!) and opened a Huntington Account.
+I had a previous post this year about [checking bonuses](https://www.joehxblog.com/checking_bonuses/). Since then I've closed my Fifth Third (on the same day they charged me a $8 monthly maintenance fee!) and opened a Huntington Account.
 
 There's generally some hoops to jump through to get these bonuses (direct deposit, bill pay, etc.), but they're not too hard to do.
 
@@ -93,7 +93,7 @@ Some people do really well with Ibotta. I don't simply because I'm not going to 
 
 That said, I have cashed out once at $20, plus have another $14.75 balance in the app.
 
-If you haven't used Ibotta yet, you can use [my referral link to get $10 to start](http://hendrixjoseph.github.io/ibotta/). I'll get $5.
+If you haven't used Ibotta yet, you can use [my referral link to get $10 to start](https://www.joehxblog.com/ibotta/). I'll get $5.
 
 ### ReceiptHog
 
@@ -140,7 +140,7 @@ Okay, so what about the typical blogger income? Well, I haven't made enough in e
 
 ## Nothing...
 
-A couple more ways I've tried to make money haven't panned out. First, I have [a few t-shirt designs on TeeSpring](http://hendrixjoseph.github.io/my-first-teespring-designs/). No ones bought them yet, but it was zero risk to put them up, and zero to keep them.
+A couple more ways I've tried to make money haven't panned out. First, I have [a few t-shirt designs on TeeSpring](https://www.joehxblog.com/my-first-teespring-designs/). No ones bought them yet, but it was zero risk to put them up, and zero to keep them.
 
 There's also [VigLink](http://www.viglink.com/), which is something of an affiliate aggregator service for blogs and other web pages. It requires some JavaScript, so I'll probably be removing it soon.
 

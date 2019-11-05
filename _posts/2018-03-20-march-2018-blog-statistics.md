@@ -8,8 +8,8 @@ image: /images/blog-stats/2018-03-stats.png
 
 It's hard to believe it's Spring already. But since it's the twentieth, it's time for another blog statistic report. This is my third one, so feel free to check out the first two:
 
-* [January 2018 Blog Statistics](http://hendrixjoseph.github.io/january-2018-blog-statistics/)
-* [February 2018 Blog Statistics](http://hendrixjoseph.github.io/february-2018-blog-statistics/)
+* [January 2018 Blog Statistics](https://www.joehxblog.com/january-2018-blog-statistics/)
+* [February 2018 Blog Statistics](https://www.joehxblog.com/february-2018-blog-statistics/)
 
 It's been rather slow on the blog side of things as I've only been able to write three posts:
 

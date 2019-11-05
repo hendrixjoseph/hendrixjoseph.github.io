@@ -6,7 +6,7 @@ keywords: [machine learning, artificial intelligence, neural networks, life]
 hashtags: [machinelearning, ai]
 ---
 
-[Machine learning](https://en.wikipedia.org/wiki/Machine_learning). [Artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence). [Neural networks](https://en.wikipedia.org/wiki/Artificial_neural_network). It's all exciting stuff, and I've been studying it for [my master's degree](http://hendrixjoseph.github.io/four-things-i'm-excited-for-in-2017/#graduating). But outside of the classroom, outside of computers, what has it taught me about life?
+[Machine learning](https://en.wikipedia.org/wiki/Machine_learning). [Artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence). [Neural networks](https://en.wikipedia.org/wiki/Artificial_neural_network). It's all exciting stuff, and I've been studying it for [my master's degree](https://www.joehxblog.com/four-things-i'm-excited-for-in-2017/#graduating). But outside of the classroom, outside of computers, what has it taught me about life?
 
 ### You learn more from being wrong than being right.
 

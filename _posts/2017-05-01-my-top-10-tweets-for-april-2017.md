@@ -29,7 +29,7 @@ These are the top ten tweets I made (not retweets) based on [Twitter's analytics
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/HTML?src=hash">#HTML</a> Hypertext Markup Language Sarcasm End Tag <a href="https://twitter.com/hashtag/Geek?src=hash">#Geek</a> <a href="https://twitter.com/hashtag/Nerd?src=hash">#Nerd</a> T-shirt for <a href="https://twitter.com/hashtag/WebDesigners?src=hash">#WebDesigners</a> <a href="https://t.co/2uYVevVWOw">https://t.co/2uYVevVWOw</a></p>&mdash; Joseph Hendrix (@{{ site.footer-links.twitter }}) <a href="https://twitter.com/{{ site.footer-links.twitter }}/status/858030647159525376">April 28, 2017</a></blockquote>
 
-*[Selling t-shirts on Amazon](http://hendrixjoseph.github.io/t-shirts/) for fun & profit.*
+*[Selling t-shirts on Amazon](https://www.joehxblog.com/t-shirts/) for fun & profit.*
 
 ### 5. 236 impressions and 2 engagements
 
@@ -41,7 +41,7 @@ These are the top ten tweets I made (not retweets) based on [Twitter's analytics
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I&#39;d Rather Be <a href="https://twitter.com/hashtag/Camping?src=hash">#Camping</a> T-Shirt <a href="https://t.co/SEA1wRsJVV">https://t.co/SEA1wRsJVV</a></p>&mdash; Joseph Hendrix (@{{ site.footer-links.twitter }}) <a href="https://twitter.com/{{ site.footer-links.twitter }}/status/854711886637617152">April 19, 2017</a></blockquote>
 
-*Yet another [Amazon shirt](http://hendrixjoseph.github.io/t-shirts/).*
+*Yet another [Amazon shirt](https://www.joehxblog.com/t-shirts/).*
 
 ### 7. 228 impressions and 2 engagements
 

@@ -8,10 +8,10 @@ image: /images/blog-stats/2018-05-stats.png
 
 The 20th falls on a weekend this month, and I've been quite busy this weekend, so I'm just going to give that monthly blog stats with pretty much no analysis. If you want to view the previous months' statistic reports, click on one of the following links:
 
-* [January 2018 Blog Statistics](http://hendrixjoseph.github.io/january-2018-blog-statistics/)
-* [February 2018 Blog Statistics](http://hendrixjoseph.github.io/february-2018-blog-statistics/)
-* [March 2018 Blog Statistics](http://hendrixjoseph.github.io/march-2018-blog-statistics/)
-* [April 2018 Blog Statistics](http://hendrixjoseph.github.io/april-2018-blog-statistics/)
+* [January 2018 Blog Statistics](https://www.joehxblog.com/january-2018-blog-statistics/)
+* [February 2018 Blog Statistics](https://www.joehxblog.com/february-2018-blog-statistics/)
+* [March 2018 Blog Statistics](https://www.joehxblog.com/march-2018-blog-statistics/)
+* [April 2018 Blog Statistics](https://www.joehxblog.com/april-2018-blog-statistics/)
 
 I was able to publish three blog posts in the past month:
 

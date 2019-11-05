@@ -8,9 +8,9 @@ image: /images/blog-stats/2018-04-stats.png
 
 Another day, another dollar. Or, in this case, another month, another blog stats report. This is the fourth monthly blog statistics report. If you're interested in checking out the first three, here are some links:
 
-* [January 2018 Blog Statistics](http://hendrixjoseph.github.io/january-2018-blog-statistics/)
-* [February 2018 Blog Statistics](http://hendrixjoseph.github.io/february-2018-blog-statistics/)
-* [March 2018 Blog Statistics](http://hendrixjoseph.github.io/march-2018-blog-statistics/)
+* [January 2018 Blog Statistics](https://www.joehxblog.com/january-2018-blog-statistics/)
+* [February 2018 Blog Statistics](https://www.joehxblog.com/february-2018-blog-statistics/)
+* [March 2018 Blog Statistics](https://www.joehxblog.com/march-2018-blog-statistics/)
 
 Life has been good recently. Busy and good. And despite being busy with life, school, and work, I was able to publish three blog posts:
 

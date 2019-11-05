@@ -8,7 +8,7 @@ image: /images/stock-magic/2016-chart.png
 
 One of the most challenging aspects of investing is lack of foreknowledge or future knowledge - we simply do not know what the performance of a stock or index fund will be. But what if we could print out a list of opening values of a stock and then take [a time machine](https://www.walmart.com/ip/Back-to-the-Future-The-Complete-Adventures-Blu-ray/54527164) backward in time and invest with foreknowledge? Would we be able to make much more money than otherwise possible?
 
-*If this blog post interests you, then check out [Is a Time Series Correlated with its Future Self?](http://hendrixjoseph.github.io/is-a-time-series-correlated-with-its-future-self/)*
+*If this blog post interests you, then check out [Is a Time Series Correlated with its Future Self?](https://www.joehxblog.com/is-a-time-series-correlated-with-its-future-self/)*
 
 ###  Data
 

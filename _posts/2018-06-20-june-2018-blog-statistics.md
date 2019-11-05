@@ -11,7 +11,7 @@ The year is already half over, meaning this is the sixth blog statistics report 
 
 A few meta status comments regarding this blog:
 
-I revamped the [tags section](http://hendrixjoseph.github.io/tags/): instead of having a separate page for each tag, I have one page with a list of tags, and a list of what posts are under that tag
+I revamped the [tags section](https://www.joehxblog.com/tags/): instead of having a separate page for each tag, I have one page with a list of tags, and a list of what posts are under that tag
 
 I also added a [referral link page]({{ site.url }}/referral/) just for the fun of it - all referral links on that page are just redirects to the actual link
 
@@ -19,11 +19,11 @@ Finally, although I haven't done it yet, I'll be removing the StumbleUpon share/
 
 If you want to view the previous months' statistic reports, click on one of the following links:
 
-* [January 2018 Blog Statistics](http://hendrixjoseph.github.io/january-2018-blog-statistics/)
-* [February 2018 Blog Statistics](http://hendrixjoseph.github.io/february-2018-blog-statistics/)
-* [March 2018 Blog Statistics](http://hendrixjoseph.github.io/march-2018-blog-statistics/)
-* [April 2018 Blog Statistics](http://hendrixjoseph.github.io/april-2018-blog-statistics/)
-* [May 2018 Blog Statistics](http://hendrixjoseph.github.io/may-2018-blog-statistics/)
+* [January 2018 Blog Statistics](https://www.joehxblog.com/january-2018-blog-statistics/)
+* [February 2018 Blog Statistics](https://www.joehxblog.com/february-2018-blog-statistics/)
+* [March 2018 Blog Statistics](https://www.joehxblog.com/march-2018-blog-statistics/)
+* [April 2018 Blog Statistics](https://www.joehxblog.com/april-2018-blog-statistics/)
+* [May 2018 Blog Statistics](https://www.joehxblog.com/may-2018-blog-statistics/)
 
 I was able to publish four blog posts in the past month:
 

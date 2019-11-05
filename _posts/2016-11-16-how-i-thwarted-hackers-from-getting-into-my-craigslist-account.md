@@ -7,9 +7,9 @@ hashtags: [security, hacking]
 image: /images/covers/craigslist-cover.png
 ---
 
-Hackers are at it again, this time trying to get access to my Craigslist account. Unlike last time where [I fell for it and my AOL email was compromised](http://hendrixjoseph.github.io/how_my_aol_email_got_hacked/), I realized it was a [phishing](https://en.wikipedia.org/wiki/Phishing) attempt.
+Hackers are at it again, this time trying to get access to my Craigslist account. Unlike last time where [I fell for it and my AOL email was compromised](https://www.joehxblog.com/how_my_aol_email_got_hacked/), I realized it was a [phishing](https://en.wikipedia.org/wiki/Phishing) attempt.
 
-So what happened? Well, recently I've been [reselling items mostly on eBay](http://hendrixjoseph.github.io/six_essential_items_for_reselling_on_ebay_and_amazon/), but also Craigslist. On Craigslist people contact me via text, phone call, or email.
+So what happened? Well, recently I've been [reselling items mostly on eBay](https://www.joehxblog.com/six_essential_items_for_reselling_on_ebay_and_amazon/), but also Craigslist. On Craigslist people contact me via text, phone call, or email.
 
 This morning I received the following text message:
 

@@ -19,10 +19,10 @@ Here's how I did it:
 {% highlight javascript %}
 var url = window.location.href;
 
-var isTagSubdirectory = url.search("http://hendrixjoseph.github.io/tags");
+var isTagSubdirectory = url.search("https://www.joehxblog.com/tags");
 
 if (isTagSubdirectory > -1) {
-  window.location.replace("http://hendrixjoseph.github.io/tags/404.html");
+  window.location.replace("https://www.joehxblog.com/tags/404.html");
 }
 {% endhighlight %}
 

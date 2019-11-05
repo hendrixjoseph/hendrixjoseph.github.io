@@ -5,9 +5,9 @@ tags: [books]
 keywords: [book, read, books, reading, book reading, books i read]
 ---
 
-March was an incredible month. I started a [major renovation](http://hendrixjoseph.github.io/master-bath-remodel-demolition/) on the [master bathroom](http://hendrixjoseph.github.io/bathroom-remodel-ive-done-this-before/), which I ended up putting on pause due to a major [life update](http://hendrixjoseph.github.io/life-update/). Due to the incredible busyness, I was only able to finish one book.
+March was an incredible month. I started a [major renovation](https://www.joehxblog.com/master-bath-remodel-demolition/) on the [master bathroom](https://www.joehxblog.com/bathroom-remodel-ive-done-this-before/), which I ended up putting on pause due to a major [life update](https://www.joehxblog.com/life-update/). Due to the incredible busyness, I was only able to finish one book.
 
-I'm not too bothered by the fact I only finished one book - after all, I didn't finish any books in February. The last "book report" blog post I published was for [January](http://hendrixjoseph.github.io/january-2018-book-reading-list/). And it's not like I haven't been reading anything else - in addition to the book I did finish (which I'll mention later), I've been reading  [Cryptography And Network Security](https://www.abebooks.com/products/isbn/9789332585225/30121066193) for school and [Husband-Coached Childbirth](https://www.abebooks.com/products/isbn/9780553375565/22891078442).
+I'm not too bothered by the fact I only finished one book - after all, I didn't finish any books in February. The last "book report" blog post I published was for [January](https://www.joehxblog.com/january-2018-book-reading-list/). And it's not like I haven't been reading anything else - in addition to the book I did finish (which I'll mention later), I've been reading  [Cryptography And Network Security](https://www.abebooks.com/products/isbn/9789332585225/30121066193) for school and [Husband-Coached Childbirth](https://www.abebooks.com/products/isbn/9780553375565/22891078442).
 
 Oh, and I read magazines, too. I tend to stick with magazines I can get for free. The ones I'm currently subscribed to are [Game Informer](https://www.gameinformer.com/) and [Popular Mechanics](https://www.popularmechanics.com/).
 

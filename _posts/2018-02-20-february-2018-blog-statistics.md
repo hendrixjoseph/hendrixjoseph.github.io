@@ -10,13 +10,13 @@ It's already been a month since I did the [previous (& first!) blog stats report
 
 In the past month, I was able to write five posts or articles:
 
-* [The Illusion of Communication](http://hendrixjoseph.github.io/the-illusion-of-communication/)
-* [Number Nerd Holidays](http://hendrixjoseph.github.io/number-nerd-holidays/)
-* [When Is Energy Efficiency Worth the Investment?](http://hendrixjoseph.github.io/when-is-energy-efficiency-worth-the-investment/)
-* [January 2018 Book Reading List](http://hendrixjoseph.github.io/january-2018-book-reading-list/)
-* [5 Ways to Make Extra Cash with No Upfront Investment](http://hendrixjoseph.github.io/5-ways-to-make-extra-cash-with-no-upfront-investment/)
+* [The Illusion of Communication](https://www.joehxblog.com/the-illusion-of-communication/)
+* [Number Nerd Holidays](https://www.joehxblog.com/number-nerd-holidays/)
+* [When Is Energy Efficiency Worth the Investment?](https://www.joehxblog.com/when-is-energy-efficiency-worth-the-investment/)
+* [January 2018 Book Reading List](https://www.joehxblog.com/january-2018-book-reading-list/)
+* [5 Ways to Make Extra Cash with No Upfront Investment](https://www.joehxblog.com/5-ways-to-make-extra-cash-with-no-upfront-investment/)
 
-I also had a bit of [an issue](https://github.com/eduardoboucas/staticman/issues/176) with the [commenting system I implemented last November](http://hendrixjoseph.github.io/new-commenting-system-staticman/), but hopefully it's working now. At least I have been able to successfully get comments both on this blog and my other blog, [Puppy Snuggles](http://www.puppy-snuggles.com/).
+I also had a bit of [an issue](https://github.com/eduardoboucas/staticman/issues/176) with the [commenting system I implemented last November](https://www.joehxblog.com/new-commenting-system-staticman/), but hopefully it's working now. At least I have been able to successfully get comments both on this blog and my other blog, [Puppy Snuggles](http://www.puppy-snuggles.com/).
 
 I also cleaned up the CSS and HTML for the comments to give it a more Wordpress-feel. Initially, I thought that's what broke the comment system, but it's apparently something else. I also put the sidebar that appears on the main pages on the post pages, too. If you're on mobile, the sidebar is actually below the posts.
 

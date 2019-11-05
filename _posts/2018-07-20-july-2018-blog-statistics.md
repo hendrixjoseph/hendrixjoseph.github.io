@@ -9,12 +9,12 @@ image: /images/blog-stats/2018-07-stats.png
 
 It's the 20th, so that means it's time for me to show off the last month's blog statistics. If you want to view the previous months' statistic reports, click on one of the following links:
 
-* [January 2018 Blog Statistics](http://hendrixjoseph.github.io/january-2018-blog-statistics/)
-* [February 2018 Blog Statistics](http://hendrixjoseph.github.io/february-2018-blog-statistics/)
-* [March 2018 Blog Statistics](http://hendrixjoseph.github.io/march-2018-blog-statistics/)
-* [April 2018 Blog Statistics](http://hendrixjoseph.github.io/april-2018-blog-statistics/)
-* [May 2018 Blog Statistics](http://hendrixjoseph.github.io/may-2018-blog-statistics/)
-* [June 2018 Blog Statistics](http://hendrixjoseph.github.io/june-2018-blog-statistics/)
+* [January 2018 Blog Statistics](https://www.joehxblog.com/january-2018-blog-statistics/)
+* [February 2018 Blog Statistics](https://www.joehxblog.com/february-2018-blog-statistics/)
+* [March 2018 Blog Statistics](https://www.joehxblog.com/march-2018-blog-statistics/)
+* [April 2018 Blog Statistics](https://www.joehxblog.com/april-2018-blog-statistics/)
+* [May 2018 Blog Statistics](https://www.joehxblog.com/may-2018-blog-statistics/)
+* [June 2018 Blog Statistics](https://www.joehxblog.com/june-2018-blog-statistics/)
 
 I was able to publish seven blog posts in the past month. That's probably a record for me. (My poor [dog blog](https://www.puppy-snuggles.com/) hasn't had a new post since May.)
 

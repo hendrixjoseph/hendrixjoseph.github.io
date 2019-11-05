@@ -62,7 +62,7 @@ This is just savings account interest except for the "[SaverLife](https://www.sa
 
 ## Print-On-Demand Sites
 
-* [Merch by Amazon](http://hendrixjoseph.github.io/t-shirts/) &rarr; $2,119.11
+* [Merch by Amazon](https://www.joehxblog.com/t-shirts/) &rarr; $2,119.11
 * [Redbubble](https://www.redbubble.com/people/joehx) &rarr; $60.11
 * [TeePublic]({{ site.url }}/teepublic/) &rarr; $30.00
 * [Teespring](https://teespring.com/stores/joehxs-store) &rarr; $10.63

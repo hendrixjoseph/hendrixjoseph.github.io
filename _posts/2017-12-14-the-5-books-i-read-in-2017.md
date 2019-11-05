@@ -6,7 +6,7 @@ keywords: [book, books, read, reading, novel]
 image: /images/covers/neuromancer-book-cover.jpg
 ---
 
-2017 has been a pretty good year. I only met three of my four goals - I didn't [graduate with my master's](http://hendrixjoseph.github.io/four-things-i'm-excited-for-in-2017/#graduating), but that's okay because I definitely will be in 2018. Another goal I had that I didn't mention in [the 2017 goal blog post](http://hendrixjoseph.github.io/four-things-i'm-excited-for-in-2017/) is to read a more. I didn't read nearly as much as I used to - I used to read several books a month. This year I only read five books, one of which I started several years ago, two I haven't finished yet. Despite the low number, it's been a definite improvement over past years.
+2017 has been a pretty good year. I only met three of my four goals - I didn't [graduate with my master's](https://www.joehxblog.com/four-things-i'm-excited-for-in-2017/#graduating), but that's okay because I definitely will be in 2018. Another goal I had that I didn't mention in [the 2017 goal blog post](https://www.joehxblog.com/four-things-i'm-excited-for-in-2017/) is to read a more. I didn't read nearly as much as I used to - I used to read several books a month. This year I only read five books, one of which I started several years ago, two I haven't finished yet. Despite the low number, it's been a definite improvement over past years.
 
 So, without further ado, here are the five books I read in 2017:
 

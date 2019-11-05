@@ -17,13 +17,13 @@ Finally, my Alexa rank - which had been hovering around one million - has droppe
 
 Onto the actual statistics. If you want to view any previous month's statistics, here are the links:
 
-* [January 2018 Blog Statistics](http://hendrixjoseph.github.io/january-2018-blog-statistics/)
-* [February 2018 Blog Statistics](http://hendrixjoseph.github.io/february-2018-blog-statistics/)
-* [March 2018 Blog Statistics](http://hendrixjoseph.github.io/march-2018-blog-statistics/)
-* [April 2018 Blog Statistics](http://hendrixjoseph.github.io/april-2018-blog-statistics/)
-* [May 2018 Blog Statistics](http://hendrixjoseph.github.io/may-2018-blog-statistics/)
-* [June 2018 Blog Statistics](http://hendrixjoseph.github.io/june-2018-blog-statistics/)
-* [July 2018 Blog Statistics](http://hendrixjoseph.github.io/july-2018-blog-statistics/)
+* [January 2018 Blog Statistics](https://www.joehxblog.com/january-2018-blog-statistics/)
+* [February 2018 Blog Statistics](https://www.joehxblog.com/february-2018-blog-statistics/)
+* [March 2018 Blog Statistics](https://www.joehxblog.com/march-2018-blog-statistics/)
+* [April 2018 Blog Statistics](https://www.joehxblog.com/april-2018-blog-statistics/)
+* [May 2018 Blog Statistics](https://www.joehxblog.com/may-2018-blog-statistics/)
+* [June 2018 Blog Statistics](https://www.joehxblog.com/june-2018-blog-statistics/)
+* [July 2018 Blog Statistics](https://www.joehxblog.com/july-2018-blog-statistics/)
 
 I published seven blog posts (coincidently the same number as last month):
 

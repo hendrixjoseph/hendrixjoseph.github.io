@@ -13,7 +13,7 @@ I've run a few Facebook ads before, never spending more than a couple bucks and 
 ![The Boosted Facebook Post](/images/facebook/boost-results/facebook-boosted-post.png "The Boosted Facebook Post")
 *[The Boosted Facebook Post](https://www.facebook.com/{{ site.footer-links.facebook }}/posts/1347255428685845)*
 
-Keep in mind the product I'm advertising is [one](https://www.amazon.com/dp/B072J3XZMP/?tag=hendrixjoseph-20) of [my Merch by Amazon shirts](http://hendrixjoseph.github.io/t-shirts/). These shirts are currently available only in the United States, so someone from outside the US is unlikely to actually buy my product.
+Keep in mind the product I'm advertising is [one](https://www.amazon.com/dp/B072J3XZMP/?tag=hendrixjoseph-20) of [my Merch by Amazon shirts](https://www.joehxblog.com/t-shirts/). These shirts are currently available only in the United States, so someone from outside the US is unlikely to actually buy my product.
 
 ### The Audience
 
