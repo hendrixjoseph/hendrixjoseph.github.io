@@ -13,8 +13,8 @@ I actually think it's a great idea. Making drugs such as illegal has only caused
 
 Check out my sources:
 * [LA Times: Taxing pot could become a political toking point](http://www.latimes.com/news/local/la-me-pottax24-2009feb24,0,7534269.story)
-* [Wikipedia: Legality of Cannabis in the United States](http://en.wikipedia.org/wiki/Legality_of_cannabis#United_States)
-* [Wikipedia: Mexican Drug War](http://en.wikipedia.org/wiki/Mexican_Drug_War)
+* [Wikipedia: Legality of Cannabis in the United States](https://en.wikipedia.org/wiki/Legality_of_cannabis#United_States)
+* [Wikipedia: Mexican Drug War](https://en.wikipedia.org/wiki/Mexican_Drug_War)
 
 Until next time
 

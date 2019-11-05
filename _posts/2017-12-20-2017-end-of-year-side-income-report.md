@@ -103,7 +103,7 @@ Redbubble | $2.72
 
 ### Blogging
 
-Here's where I really scraped by - with this blog and my [dog-oriented blog](http://www.puppy-snuggles.com/). Neither site was designed to make a ton of money. They're both intended to improve my web design and writing skills.
+Here's where I really scraped by - with this blog and my [dog-oriented blog](https://www.puppy-snuggles.com/). Neither site was designed to make a ton of money. They're both intended to improve my web design and writing skills.
 
 That said, I did make a small amount from Amazon Affiliates. $1.28 of that was carry over from last year. There's an additional $9.50 that I won't be paid until next year.
 

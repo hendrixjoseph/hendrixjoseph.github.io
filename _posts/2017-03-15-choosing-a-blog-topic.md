@@ -9,7 +9,7 @@ We've all been there - sitting in front of a piece of paper, pen in hand, ready 
 
 And then, when something comes, we wonder "Is it good enough? Will anyone even read it?"
 
-I don't claim to have the answer, but I'll tell you how I came up with the topic for my most recent post on my other blog [Puppy Snuggles](http://www.puppy-snuggles.com).
+I don't claim to have the answer, but I'll tell you how I came up with the topic for my most recent post on my other blog [Puppy Snuggles](https://www.puppy-snuggles.com).
 
 ### Prerequisite
 
@@ -29,9 +29,9 @@ Here are my 14 results:
 
 ![Google Search Analytics Results](/images/choosing-a-blog-topic/table.png)
 
-These "14 results" are "14 ideas to blog about." Of course, a few of them really are duplicates ("what causes a dog to limp" and "what causes dogs to limp"). Another - "[poodle mix puppies](http://www.puppy-snuggles.com/blog/the-four-most-common-poodle-mixes/)" - has to do with a recent blog post.
+These "14 results" are "14 ideas to blog about." Of course, a few of them really are duplicates ("what causes a dog to limp" and "what causes dogs to limp"). Another - "[poodle mix puppies](https://www.puppy-snuggles.com/blog/the-four-most-common-poodle-mixes/)" - has to do with a recent blog post.
 
-I decided to do [a blog post dog vitamin and minerals](http://www.puppy-snuggles.com/blog/dog-vitamins-and-minerals/). The world of SEO (search engine optimization) is all about long-tail keywords (which are more like key phrases) so I was sure to use each related phrase in my post at least once but preferably more than once.
+I decided to do [a blog post dog vitamin and minerals](https://www.puppy-snuggles.com/blog/dog-vitamins-and-minerals/). The world of SEO (search engine optimization) is all about long-tail keywords (which are more like key phrases) so I was sure to use each related phrase in my post at least once but preferably more than once.
 
 ### Writing the Post
 

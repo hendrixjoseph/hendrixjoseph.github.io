@@ -49,7 +49,7 @@ I challenged my wife to write a book this year, which I told her I can publish o
 
 I also want to publish an Android app, even if it's something simple and easy. I'm thinking tic-tac-toe.
 
-I'll continue my experiments promoting this blog and [my other, dog-oriented blog](http://www.puppy-snuggles.com/). I haven't been too successful with that other blog, but I have been successful (in my eyes, at least), with the social media aspects of that blog.
+I'll continue my experiments promoting this blog and [my other, dog-oriented blog](https://www.puppy-snuggles.com/). I haven't been too successful with that other blog, but I have been successful (in my eyes, at least), with the social media aspects of that blog.
 
 ## Abstract Goal: Professional & Personal Development
 

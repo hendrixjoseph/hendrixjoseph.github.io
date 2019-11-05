@@ -20,7 +20,7 @@ Anyways, pick it up and enjoy it. It's available as a DLC for PS3, I think so to
 There's a second part too, which I haven't played yet. It's supposed to be more "modern," that is, with guns and other "high tech" weapons. I'll be checking it out once I beat this one.
 
 links:
-* [DeathSpank (Wikipedia)](http://en.wikipedia.org/wiki/DeathSpank)
+* [DeathSpank (Wikipedia)](https://en.wikipedia.org/wiki/DeathSpank)
 * [Ron Gilber's webpage](http://grumpygamer.com/main)
 
 Until next time

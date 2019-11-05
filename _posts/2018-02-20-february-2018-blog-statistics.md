@@ -16,7 +16,7 @@ In the past month, I was able to write five posts or articles:
 * [January 2018 Book Reading List](https://www.joehxblog.com/january-2018-book-reading-list/)
 * [5 Ways to Make Extra Cash with No Upfront Investment](https://www.joehxblog.com/5-ways-to-make-extra-cash-with-no-upfront-investment/)
 
-I also had a bit of [an issue](https://github.com/eduardoboucas/staticman/issues/176) with the [commenting system I implemented last November](https://www.joehxblog.com/new-commenting-system-staticman/), but hopefully it's working now. At least I have been able to successfully get comments both on this blog and my other blog, [Puppy Snuggles](http://www.puppy-snuggles.com/).
+I also had a bit of [an issue](https://github.com/eduardoboucas/staticman/issues/176) with the [commenting system I implemented last November](https://www.joehxblog.com/new-commenting-system-staticman/), but hopefully it's working now. At least I have been able to successfully get comments both on this blog and my other blog, [Puppy Snuggles](https://www.puppy-snuggles.com/).
 
 I also cleaned up the CSS and HTML for the comments to give it a more Wordpress-feel. Initially, I thought that's what broke the comment system, but it's apparently something else. I also put the sidebar that appears on the main pages on the post pages, too. If you're on mobile, the sidebar is actually below the posts.
 

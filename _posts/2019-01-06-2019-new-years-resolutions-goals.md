@@ -26,7 +26,7 @@ And, while I did end up buying [a pair of hair trimmers](https://www.walmart.com
 
 ## Earn More
 
-The concrete goals for "earn more" consisted of: getting a raise at work, expanding my print-on-demand t-shirt selection, writing and publishing a book, publishing an Android app, and grow my blogs (which are this on and my [dog blog](http://www.puppy-snuggles.com/)).
+The concrete goals for "earn more" consisted of: getting a raise at work, expanding my print-on-demand t-shirt selection, writing and publishing a book, publishing an Android app, and grow my blogs (which are this on and my [dog blog](https://www.puppy-snuggles.com/)).
 
 I have expanded my selection of [t-shirts on Amazon]({{ site.url }}/t-shirts/), as well as porting several designs over to my [Redbubble account](https://www.redbubble.com/people/joehx) and my [TeePublic account](https://www.teepublic.com/user/joehx). I've stopped putting effort into my [TeeSpring account](https://teespring.com/stores/joehxs-store) mainly because I receive almost no sales via that site whereas I receive regular sales on the others. That said, I will leave what shirts I have on TeeSpring.
 
