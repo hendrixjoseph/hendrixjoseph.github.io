@@ -16,4 +16,4 @@ Apparently, I had an old install of Android Studio and the Android SDK on my com
 
 From there I had to reconfigure the Android SDK in IntelliJ. When I went to download the Android Virtual Device components again, it worked with no problems.
 
-[This answer on stack overflow led me to my solution.](http://stackoverflow.com/a/40067429/6323312)
+[This answer on stack overflow led me to my solution.](https://stackoverflow.com/a/40067429/6323312)

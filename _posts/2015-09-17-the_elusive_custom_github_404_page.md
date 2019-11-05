@@ -7,7 +7,7 @@ keywords: [programming, 404]
 
 So you want a custom 404 page for your project page, or just any subdirectory? Well, according the GitHub help page, ["you must use a custom domain."](https://help.github.com/articles/custom-404-pages/)
 
-It's a much desired thing. [Google "github custom 404"](https://www.google.com/search?q=github+custom+404) and you'll very likely come accross [this discussion](http://stackoverflow.com/questions/14908512/how-can-i-set-the-customer-404-page-on-gh-pages). Everyone says you can't.
+It's a much desired thing. [Google "github custom 404"](https://www.google.com/search?q=github+custom+404) and you'll very likely come accross [this discussion](https://stackoverflow.com/questions/14908512/how-can-i-set-the-customer-404-page-on-gh-pages). Everyone says you can't.
 
 But I beg to differ. In fact, I did it. All you need is a simple redirect JavaScript on your normal 404 page.
 

@@ -6,7 +6,7 @@ keywords: [how to read your electric meter, electric meter, electric, meter, wat
 image: /images/electric-meter/electric-meter-full.jpg
 ---
 
-I was curious as to what my instantaneous electrical usage was. Unfortunately, most resources I found online, such as [WikiHow](http://www.wikihow.com/Read-an-Electric-Meter) and [various blog posts](http://www.booneyliving.com/735/how-to-read-an-electric-meter-to-find-out-how-much-power-your-home-uses/) only told me how to reach the current usage on an analog electric meter.
+I was curious as to what my instantaneous electrical usage was. Unfortunately, most resources I found online, such as [WikiHow](https://www.wikihow.com/Read-an-Electric-Meter) and [various blog posts](https://www.booneyliving.com/735/how-to-read-an-electric-meter-to-find-out-how-much-power-your-home-uses/) only told me how to reach the current usage on an analog electric meter.
 
 ![An Analog Electric Meter](/images/electric-meter/electric-meter-full.jpg "An Analog Electric Meter")
 

@@ -70,7 +70,7 @@ I've come not to like the fast food burgers. They always seem too dry. My friend
 
 I really like the frozen burgers you make at home. It's really easy and really greasy. I just wonder if it's any healthier than fast food burgers.
 
-Where did burgers come from? Well, "Hamburg" is the second largest city in Germany. My understanding was that it came from a town in the US that was named after the German city. On [Wikipedia](http://en.wikipedia.org/wiki/Hamburger)'s page, however, it says that no one really knows. Oh well.
+Where did burgers come from? Well, "Hamburg" is the second largest city in Germany. My understanding was that it came from a town in the US that was named after the German city. On [Wikipedia](https://en.wikipedia.org/wiki/Hamburger)'s page, however, it says that no one really knows. Oh well.
 
 Until next time
 

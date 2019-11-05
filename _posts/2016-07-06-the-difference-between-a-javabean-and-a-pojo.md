@@ -27,7 +27,7 @@ POJO stands for Plain Old Java Object. Essentially, it’s the one of the simple
 
 ## Comparison
 
-I like the following statement from [StackOverflow](http://stackoverflow.com/questions/1394265/what-is-the-difference-between-a-javabean-and-a-pojo/24886660#24886660):
+I like the following statement from [StackOverflow](https://stackoverflow.com/questions/1394265/what-is-the-difference-between-a-javabean-and-a-pojo/24886660#24886660):
 
 > All JavaBeans are POJOs but not all POJOs are JavaBeans.
 
@@ -41,4 +41,4 @@ Further reading:
 * [JavaBeans FAQ: General Questions](http://www.oracle.com/technetwork/java/javase/faq-135947.html)
 * [Plain Old Java Object, Wikipedia](https://en.wikipedia.org/wiki/Plain_Old_Java_Object)
 * [JavaBeans, Wikipedia](https://en.wikipedia.org/wiki/JavaBeans)
-* [What is the difference between a JavaBean and a POJO?, StackOverflow discussion](http://stackoverflow.com/questions/1394265/what-is-the-difference-between-a-javabean-and-a-pojo)
+* [What is the difference between a JavaBean and a POJO?, StackOverflow discussion](https://stackoverflow.com/questions/1394265/what-is-the-difference-between-a-javabean-and-a-pojo)

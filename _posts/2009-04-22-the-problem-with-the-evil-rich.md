@@ -7,7 +7,7 @@ keywords: [rich, evil rich, government, government spending]
 
 In this era of massive government spending, a huge government deficit, untold amounts of consumer debt, and stories of layoffs after layoffs, some have come to wonder how those who have money achieved their wealth. Those some have come to the conclusion that the evil rich through trickery and deceit.
 
-I have evidence this thought exists. In the Fall of 2008, my university sociology teacher explained to us that the rich came across their wealth by stealing it from the poor and middle class. Why? Because they’re rich. [Circular reasoning](http://en.wikipedia.org/wiki/Circular_reasoning), for those who don’t know.
+I have evidence this thought exists. In the Fall of 2008, my university sociology teacher explained to us that the rich came across their wealth by stealing it from the poor and middle class. Why? Because they’re rich. [Circular reasoning](https://en.wikipedia.org/wiki/Circular_reasoning), for those who don’t know.
 
 So let’s humor my teacher and the masses for a moment. Let’s say that all rich people are evil. Who is rich? Well, certainly CEOs and their conglomerate companies. Politicians, too, who often have more money than they’ll ever make serving public office (I’ve often wondered why we even pay them then - shouldn’t serving public office be noble enough? But I digress). Yes, this includes President Obama.
 
