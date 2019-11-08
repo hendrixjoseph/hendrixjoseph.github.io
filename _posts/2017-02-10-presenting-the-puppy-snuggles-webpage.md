@@ -6,7 +6,7 @@ keywords: [puppy snuggles, puppy, dog, twitter, facebook, blog]
 image: /images/covers/2017-02-10-presenting-the-puppy-snuggles-webpage.png
 ---
 
-Back in November, I created a [Twitter account](https://twitter.com/puppy_snuggles) and a [Facebook page]() for a specific niche - *puppies*, or really, dogs in general. This week I created a website to go with those pages. Presenting: [the Puppy Snuggles webpage](https://www.puppy-snuggles.com/)!
+Back in November, I created a [Twitter account](https://twitter.com/puppy_snuggles) and a [Facebook page](https://www.facebook.com/puppysnuggle/) for a specific niche - *puppies*, or really, dogs in general. This week I created a website to go with those pages. Presenting: [the Puppy Snuggles webpage](https://www.puppy-snuggles.com/)!
 
 There's not much there right now - just [one blog post](https://www.puppy-snuggles.com/blog/introducing-puppy-snuggles/), a [shopping section](https://www.puppy-snuggles.com/shop/), a [t-shirt section](https://www.puppy-snuggles.com/tshirts/), a [Twitter section](https://www.puppy-snuggles.com/twitter/), and a [Facebook section](https://www.puppy-snuggles.com/facebook/).
 
