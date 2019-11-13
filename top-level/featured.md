@@ -4,7 +4,15 @@ title: Featured
 permalink: /featured/
 ---
 
-The current domain (joehxblog.com) is not "featured" or "backlinked" anywhere, however, the old domain (hendrixjoseph.github.io) is:
+## The Current Domain (joehxblog.com)
+
+Quoted on the following webpages:
+
+* [7 Black Friday Hacks - A Dime Saved](https://adimesaved.com/7-black-friday-hacks)
+
+## The Old Domain (hendrixjoseph.github.io)
+
+Featured/backlinked at the following webpages:
 
 * [Awesome Java Newsletter June 17, 2016](https://java.libhunt.com/newsletter/5)
 * [The Financial Diet's The 7 Personal Finance Articles We Loved This Week (March 16, 2018)](https://thefinancialdiet.com/the-7-personal-finance-articles-we-loved-this-week-2/)
@@ -23,7 +31,7 @@ Backlinked on the following webpages:
 * [How much can you earn from an Amazon Merch business?](https://www.nichepursuits.com/merch-informer-review/#How_much_can_you_earn_from_an_Amazon_Merch_business)
 * [23 Lazy and Painless Ways To Save Money Today](https://www.richmiser.com/ways-to-save-money/)
 
-This blog is also in the following blog directories:
+Listed in the following blog directories:
 
 * [Rockstar Finance Personal Finance Blog Directory](https://directory.rockstarfinance.com/personal-finance-blogs/) / [actual page](https://directory.rockstarfinance.com/blogs/1988/Joes-GitHub-Blog)
 * [Modest Money Top Finance Blogs](https://www.modestmoney.com/top-finance-blogs/)
@@ -31,7 +39,8 @@ This blog is also in the following blog directories:
 * [My Sons Father Personal Finance Blogs by Personality](http://www.mysonsfather.com/personal-finance-by-personality/)
 * [Camp FIRE Finance Directory](https://www.campfirefinance.com/directory/) / [actual page](https://www.campfirefinance.com/directory/joes-github-blog/)
 
-The following backlinks seem to have been lost:
+## Lost Backlinks
+
 * [Abandoned Cubicle's Blogroll](https://web.archive.org/web/20190715155533/https://www.abandonedcubicle.com/blogroll/)
 * [Rockstar Finance March 12th, 2018 Features](https://rockstarfinance.com/mar-12th-2018/)
 * [Financial Articles for the Month of March, 2018](https://web.archive.org/web/20181114213556/https://www.rooscpa.com/financial-articles/)
