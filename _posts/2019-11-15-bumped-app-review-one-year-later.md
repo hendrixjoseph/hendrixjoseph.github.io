@@ -46,7 +46,7 @@ The first new Bumped category is Club Warehouse - which only includes Sam's Club
 
 The other new Bumped category is ride-sharing - which has two loyalty selections: Uber or Lyft. Both are set to a 0.5% reward. It seems that [the ride-sharing category was new](https://www.reddit.com/r/Bumped/comments/cq0c0i/1_year_anniversary/) to everyone.
 
-![Bumped && ( Uber || Lyft)](/images/bumped/bumped-uber-lyft.png)
+![Bumped AND Uber OR Lyft](/images/bumped/bumped-uber-lyft.png)
 
 ## Where Am I Now with Bumped?
 
