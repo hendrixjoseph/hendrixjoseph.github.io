@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I Published My First "Low Content" KDP Book - A Sudoku Puzzle Book
-tags: [books]
+tags: [books, design & illustration, inkscape]
 keywords: [sudoku puzzle book, puzzle book, puzzle, sudoku puzzle, sudoku]
 hashtags: [sudoku]
 image: /images/sudoku/book-cover.png
