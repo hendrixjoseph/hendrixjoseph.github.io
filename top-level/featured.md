@@ -10,6 +10,10 @@ Quoted on the following webpages:
 
 * [7 Black Friday Hacks - A Dime Saved](https://adimesaved.com/7-black-friday-hacks)
 
+Mentioned on the following webpages:
+
+* [Make Money Fast With A Side Hustle - Keeping Up with the Bulls](https://www.keepingupwiththebulls.com/introduction-to-side-hustles/)
+
 ## The Old Domain (hendrixjoseph.github.io)
 
 Featured/backlinked at the following webpages:
