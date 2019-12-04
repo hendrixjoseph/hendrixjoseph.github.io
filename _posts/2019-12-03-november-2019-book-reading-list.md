@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Novmeber 2019 Book Reading List
+title: November 2019 Book Reading List
 tags: [books]
 keywords: [book, read, books, reading, book reading, books i read]
 hashtags: [books, reading]
