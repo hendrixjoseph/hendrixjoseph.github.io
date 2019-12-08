@@ -37,7 +37,7 @@ Here's what I wrote on the new webpage:
 > Founded on April 1, 1993, we are a community club and open to the public. Guests are always welcome! We meet in the Dayton suburb of Vandalia, Ohio, but have members and guests from surrounding cities including Huber Heights in Montgomery County and Tipp City in Miami County.
 >
 > We meet the first and third Tuesday of every month from 7:00 PM to 8:15 PM. We meet on the 1st Floor Conference Room of the Vandalia Justice Center at  245 James Bohanan Dr,  Vandalia, Ohio 45377. Check out the [Meeting Information / Directions page](https://vandalia.toastmastersclubs.org/directions.html) for more details.
-Be sure to like [Vandalia Toastmasters Club on Facebook]() and follow [Vandalia Toastmasters Club on Twitter]()!
+Be sure to like [Vandalia Toastmasters Club on Facebook](https://www.facebook.com/VandaliaToastmastersClub/) and follow [Vandalia Toastmasters Club on Twitter](https://twitter.com/VandaliaTM)!
 
 And here's what the new homepage looks like:
 
@@ -94,7 +94,7 @@ Here's a screenshot of the changes (notice I also added a header for the directi
 ![Screenshot of the new meeting directions page.](/images/toastmasters/vandalia/new-meeting-directions-page.png)
 
 And yes! I included structured data:
-
+{% raw %}
 ```html
 <div class="event-wrapper" itemscope="" itemtype="http://schema.org/Event">
 <h2 class="event-title" itemprop="name">Vandalia Toastmasters Club Next Meeting</h2>
@@ -110,8 +110,8 @@ And yes! I included structured data:
 <div class="event-description" itemprop="description">In our normal meeting, we have one or two speeches, as well as table topics, and evaluations. Guests always welcome!</div>
 </div>
 ```
-
-Notice that I used `{{nextmtgdate}}` in the HTML above? This auto-inserts the next meeting date. [FreeToast host has several web page variables](https://support.toastmastersclubs.org/doc/item/web-page-tools#page-variable) available for use. This way I don't have to update the webpage after every meeting.
+{% endraw %}
+Notice that I used {% raw %}`{{nextmtgdate}}`{% endraw %} in the HTML above? This auto-inserts the next meeting date. [FreeToast host has several web page variables](https://support.toastmastersclubs.org/doc/item/web-page-tools#page-variable) available for use. This way I don't have to update the webpage after every meeting.
 
 ## Anything Else?
 
