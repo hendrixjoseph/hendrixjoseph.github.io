@@ -21,7 +21,7 @@ permalink: /comments.xml
     <description>{{ site.description | xml_escape }}</description>
     <link>{{ site.url }}/comments/</link>
     <atom:link href="{{ site.url }}/comments.xml" rel="self" type="application/rss+xml" />
-    <copyright>2018 Joseph Hendrix</copyright>
+    <copyright>{{ site.time | date: '%Y' }} Joseph Hendrix</copyright>
     <language>en-us</language>
     {% for comment in comment_array limit:20 %}{% if comment.date %}{% assign slug = slugs[forloop.index0] | split: " " %}{% assign slug = slug[1] %}
       <item>
