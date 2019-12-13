@@ -85,7 +85,7 @@ I never paid for LifeLock, but due to recent data breaches, I received a free ye
 
 [Surveys on the Go (or OnGo Surveys)](http://www.surveysonthego.com/) is just a survey app that pays a couple dollars for each survey. Most of the surveys I get I do not qualify for, but I still get 10&cent;.
 
-I've received $31.10, but also have a $1.30 balance in the app (there's a $10 minimum to cash out.
+I've received $31.10, but also have a $1.30 balance in the app (there's a $10 minimum to cash out).
 
 ### Ibotta
 
