@@ -3,6 +3,7 @@ layout: post
 title: The 2019 Cincinnati Cybersecurity Conference
 tags: [conference, cybersecurity]
 keywords: [cincinnati cybersecurity conference, cybersecurity conference]
+image: /images/conferences/data-connectors/cincinnati-cybersecurity-conference-2019/certificate.jpg
 ---
 
 Next year I want to start going to more conferences. Specifically, conferences in my industry. I'm a software engineer, so that means IT conferences.
@@ -15,7 +16,7 @@ And, well, I found one. A free one (for "IT professionals") and somewhat local -
 
 The conference? The [2019 Cincinnati Cybersecurity Conference](https://www.dataconnectors.com/events/cincinnati2019/) by [Data Connectors](https://www.dataconnectors.com/).
 
-![Data Connectors logo](/images/conferences/data-connectors/black-logo.pg)
+![Data Connectors logo](/images/conferences/data-connectors/black-logo.png)
 *Data Connectors logo*
 
 Now, it's a free event - or, free to me - meaning that I am the product. There were vendors at this conference - cybersecurity vendors, sure, but vendors nevertheless.
