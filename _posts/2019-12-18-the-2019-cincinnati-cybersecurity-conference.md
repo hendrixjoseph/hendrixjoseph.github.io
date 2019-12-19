@@ -38,7 +38,7 @@ Data Connectors tweeted some pictures from the event - you can see my blue shirt
 
 Lunch was free. And it was also the only picture I took.
 
-![Lunch consisted of a roast beef and cheese sandwich, salad, potato salad, and chips.](/images/conferences/data-connectors/cincinnati-cybersecurity-conference-2019/lunch.png)
+![Lunch consisted of a roast beef and cheese sandwich, salad, potato salad, and chips.](/images/conferences/data-connectors/cincinnati-cybersecurity-conference-2019/lunch.jpg)
 *Lunch consisted of a roast beef and cheese sandwich, salad, potato salad, and chips.*
 
 ## Swag, or See-What-Ah-Got
@@ -49,7 +49,7 @@ My wife likes canvas totes, so I made sure to get a bunch of those. I also picke
 
 There were plenty of pens, a few [laptop webcam covers](https://www.amazon.com/dp/B07RV6ZQL4/?tag=hendrixjoseph-20), and of course promotional pamphlets.
 
-![A bunch of swag.](/images/conferences/data-connectors/cincinnati-cybersecurity-conference-2019/swag/group.jpg)
+![A bunch of swag.](/images/conferences/data-connectors/cincinnati-cybersecurity-conference-2019/swag/grouped.jpg)
 
 *A bunch of swag.*
 
@@ -69,7 +69,7 @@ A [credit-card-sized multitool](https://www.amazon.com/stores/node/9547958011/?t
 
 A [stainless steel foldable, reusable straw](https://www.amazon.com/dp/B07HXM1JP2/?tag=hendrixjoseph-20):
 
-![The Foldable, Reusable Straw](/images/conferences/data-connectors/cincinnati-cybersecurity-conference-2019/swag/staw.png)
+![The Foldable, Reusable Straw](/images/conferences/data-connectors/cincinnati-cybersecurity-conference-2019/swag/straw.png)
 
 ...Oh, and a [Yubikey](https://www.amazon.com/Yubico-YubiKey-USB-Authentication-Security/dp/B07HBD71HL/?tag=hendrixjoseph-20)!
 
