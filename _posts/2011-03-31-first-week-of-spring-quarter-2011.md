@@ -19,9 +19,9 @@ All classes are Tuesday/Thursday:
 * Social Implications of Computing (a computer ethics writing class)
 * Software Engineering
 
-That’s 18 credit hours of pure fun. Oh, I found some cheap textbooks through Google Product search. Paid less than half for my books :)
+That’s 18 credit hours of pure fun. Oh, I found some cheap textbooks through [Google Product search](https://shopping.google.com/). Paid less than half for my books :)
 
-On top of these classes, on Monday, Wednesday, and Friday I have both my internship (which pays decently) and I teach a computer lab at school. Yep, I’ll be busy. :)
+On top of these classes, on Monday, Wednesday, and Friday I have both my [internship](https://www.joehxblog.com/moving-forward-afit-soche-internship/) (which pays decently) and I teach a computer lab at school. Yep, I’ll be busy. :)
 
 Until next time
 
