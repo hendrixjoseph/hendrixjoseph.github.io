@@ -5,7 +5,7 @@ tags: [politics, old blog]
 keywords: [mcdonald's, happy meal, lawsuit, parenting]
 ---
 
-From NACS Online: http://www.nacsonline.com/NACS/News/Daily/Pages/ND1220106.aspx
+From [NACS Online](http://www.nacsonline.com/NACS/News/Daily/Pages/ND1220106.aspx):
 
 > SACRAMENTO, Calif. – Monet Parham needs help saying no to her two children and she's asking the courts for assistance, the Washington Post reports. Parham filed a lawsuit against McDonald's asking the fast-food chain to cease marketing toys to kids. 
 
