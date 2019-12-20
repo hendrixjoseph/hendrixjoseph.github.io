@@ -4,7 +4,7 @@ title: August 2018 Blog Statistics
 tags: [blog statistics]
 keywords: [blog, statistics, blog statistics, analytics, pageviews, webmaster, webmaster tools, alexa, google]
 hashtags: [blogging, blogstats]
-image: /images/blog-stats/2018-08-stats.png
+image: /images/blog-stats/2018/08-stats.png
 ---
 
 What a month it's been in on that statistics side of things for this blog.
@@ -47,7 +47,7 @@ I published seven blog posts (coincidently the same number as last month):
 * Users &rarr; 1,421
 * Pageviews &rarr; 2,345
 
-![Google Analytics Graph for August](/images/blog-stats/2018-08-stats.png)
+![Google Analytics Graph for August](/images/blog-stats/2018/08-stats.png)
 *Google Analytics Graph for August*
 
 ## AdSense

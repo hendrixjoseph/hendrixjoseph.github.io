@@ -4,7 +4,7 @@ title: December 2018 Blog Statistics
 tags: [blog statistics]
 keywords: [blog, statistics, blog statistics, analytics, pageviews, webmaster, webmaster tools, alexa, google]
 hashtags: [blogging, blogstats]
-image: /images/blog-stats/2018-blog-stats-correlations.png
+image: /images/blog-stats/2018/blog-stats-correlations.png
 ---
 
 It's now the end of the year and time for my twelfth monthly blog stats report. Twelve monthly blog stats mean a full year's worth of blog stats, and, as I promised in the [first blog statistic report]({{ site.url }}/january-2018-blog-statistics/#conclusion) I have some deeper analysis for the entire year.
@@ -33,7 +33,7 @@ I published six blog articles this month:
 * Users &rarr; 1,268
 * Pageviews &rarr; 2,076
 
-![Google Analytics Graph for December](/images/blog-stats/2018-12-stats.png)
+![Google Analytics Graph for December](/images/blog-stats/2018/12/stats.png)
 *Google Analytics Graph for December*
 
 ## Google Search Console
@@ -42,7 +42,7 @@ I published six blog articles this month:
 * Search Impressions &rarr; 29,500
 * Average position &rarr; 21.9
 
-![Google Search Console Graph for December](/images/blog-stats/2018-12-search-console.png)
+![Google Search Console Graph for December](/images/blog-stats/2018/12/search-console.png)
 *Google Search Console Graph for December*
 
 ## AdSense
@@ -85,7 +85,7 @@ Ok, so let's quickly go through the raw numbers for the year. Remember, this is 
 * Impressions &rarr; 19,244
 * Clicks &rarr; 19
 
-![Google AdSense Cumulative Graph](/images/blog-stats/2018-12-adsense.png)
+![Google AdSense Cumulative Graph](/images/blog-stats/2018/12/adsense.png)
 *Google AdSense Cumulative Graph*
 
 The above graph is my cumulative earnings on AdSense since the day before I earned my first penny - which was on June 20, 2016. My AdSense reports that Google gives me goes back to March 30, 2016 (maybe that's when I added it to this website?), but I earned nothing between that date and March 30, 2016.
@@ -108,7 +108,7 @@ I made a similar graph for my [July 2018 report]({{ site.url }}/july-2018-blog-s
 
 Here's where I think things will get interesting - how do different stats correlate with one another?
 
-![Blog Statistic Correlations](/images/blog-stats/2018-blog-stats-correlations.png)
+![Blog Statistic Correlations](/images/blog-stats/2018/blog-stats-correlations.png)
 *Blog Statistic Correlations*
 
 I created the above table in Excel. The horizontal categories are identical - and in the same order - as the verticle ones. This allows for a few sanity checks to see if I got the calculations correct (even though I just used Excel's correlation function CORREL). First, the diagonal axis should consist of only ones - that is, something is 100% correlated to itself. Second, the table should mirror itself along the diagonal axis. This is because the correlation of A to B is the same as the correlation of B to A.

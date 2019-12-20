@@ -4,7 +4,7 @@ title: November 2018 Blog Statistics
 tags: [blog statistics]
 keywords: [blog, statistics, blog statistics, analytics, pageviews, webmaster, webmaster tools, alexa, google]
 hashtags: [blogging, blogstats]
-image: /images/blog-stats/2018-11-search-console.png
+image: /images/blog-stats/2018/11/search-console.png
 ---
 
 Slow and steady wins the race, right? While my blog stats have been consistently good, I haven't had an exceptional month since [August]({{ site.url }}/august-2018-blog-statistics/). But really, every month since August has been as good, it's just there hasn't been a huge change.
@@ -35,7 +35,7 @@ And now for the numbers:
 * Users &rarr; 1,227
 * Pageviews &rarr; 1,756
 
-![Google Analytics Graph for November](/images/blog-stats/2018-11-stats.png)
+![Google Analytics Graph for November](/images/blog-stats/2018/11/stats.png)
 *Google Analytics Graph for November*
 
 ## Google Search Console
@@ -44,7 +44,7 @@ And now for the numbers:
 * Search Impressions &rarr; 32,400
 * Average position &rarr; 18.9
 
-![Google Search Console Graph for November](/images/blog-stats/2018-11-search-console.png)
+![Google Search Console Graph for November](/images/blog-stats/2018/11/search-console.png)
 *Google Search Console Graph for November*
 
 ## AdSense

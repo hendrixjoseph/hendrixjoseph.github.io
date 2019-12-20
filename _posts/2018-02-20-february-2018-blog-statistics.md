@@ -3,7 +3,7 @@ layout: post
 title: February 2018 Blog Statistics
 tags: [blog statistics]
 keywords: [blog, statistics, blog statistics, analytics, pageviews, webmaster, webmaster tools, alexa, google]
-image: /images/blog-stats/2018-02-stats.png
+image: /images/blog-stats/2018/02-stats.png
 ---
 
 It's already been a month since I did the [previous (& first!) blog stats report]({{ site.url }}/january-2018-blog-statistics/), so it's time for another one.
@@ -34,7 +34,7 @@ I'm wanting to revamp the tags on my blog, but I haven't gotten around to that, 
 * Users &rarr; 1,304
 * Pageviews &rarr; 2,746
 
-![Google Analytics Graph for February](/images/blog-stats/2018-02-stats.png)
+![Google Analytics Graph for February](/images/blog-stats/2018/02-stats.png)
 *Google Analytics Graph for February*
 
 ## AdSense

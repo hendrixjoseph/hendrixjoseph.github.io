@@ -3,7 +3,7 @@ layout: post
 title: March 2018 Blog Statistics
 tags: [blog statistics]
 keywords: [blog, statistics, blog statistics, analytics, pageviews, webmaster, webmaster tools, alexa, google]
-image: /images/blog-stats/2018-03-stats.png
+image: /images/blog-stats/2018/03-stats.png
 ---
 
 It's hard to believe it's Spring already. But since it's the twentieth, it's time for another blog statistic report. This is my third one, so feel free to check out the first two:
@@ -35,7 +35,7 @@ These stats are from February 20th through March 19th, which, because February i
 * Users &rarr; 4,031
 * Pageviews &rarr; 5,786
 
-![Google Analytics Graph for March](/images/blog-stats/2018-03-stats.png)
+![Google Analytics Graph for March](/images/blog-stats/2018/03-stats.png)
 *Google Analytics Graph for March*
 
 ## AdSense

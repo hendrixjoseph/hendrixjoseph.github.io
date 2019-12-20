@@ -4,7 +4,7 @@ title: October 2018 Blog Statistics
 tags: [blog statistics]
 keywords: [blog, statistics, blog statistics, analytics, pageviews, webmaster, webmaster tools, alexa, google]
 hashtags: [blogging, blogstats]
-image: /images/blog-stats/2018-10-search-console.png
+image: /images/blog-stats/2018/10/search-console.png
 ---
 
 The stats for this blog continue to be steady, neither really improving but not getting worse either. No spikes in traffic any day, either.
@@ -43,7 +43,7 @@ And now for the numbers:
 * Users &rarr; 976
 * Pageviews &rarr; 1,417
 
-![Google Analytics Graph for October](/images/blog-stats/2018-10-stats.png)
+![Google Analytics Graph for October](/images/blog-stats/2018/10/stats.png)
 *Google Analytics Graph for October*
 
 ## Google Search Console
@@ -52,7 +52,7 @@ And now for the numbers:
 * Search Impressions &rarr; 52,200
 * Average position &rarr; 20.4
 
-![Google Search Console Graph for October](/images/blog-stats/2018-10-search-console.png)
+![Google Search Console Graph for October](/images/blog-stats/2018/10/search-console.png)
 *Google Search Console Graph for October*
 
 ## AdSense

@@ -4,7 +4,7 @@ title: June 2018 Blog Statistics
 tags: [blog statistics]
 keywords: [blog, statistics, blog statistics, analytics, pageviews, webmaster, webmaster tools, alexa, google]
 hashtags: [blogging, blogstats]
-image: /images/blog-stats/2018-06-stats.png
+image: /images/blog-stats/2018/06-stats.png
 ---
 
 The year is already half over, meaning this is the sixth blog statistics report with six more to go this year. I'm looking forward to December's end-of-year report when I can graph these values, although I suppose six values are enough to graph.
@@ -46,7 +46,7 @@ Onto the numbers:
 * Users &rarr; 1,081
 * Pageviews &rarr; 1,636
 
-![Google Analytics Graph for June](/images/blog-stats/2018-06-stats.png)
+![Google Analytics Graph for June](/images/blog-stats/2018/06-stats.png)
 *Google Analytics Graph for June*
 
 ## AdSense

@@ -4,7 +4,7 @@ title: July 2018 Blog Statistics
 tags: [blog statistics]
 keywords: [blog, statistics, blog statistics, analytics, pageviews, webmaster, webmaster tools, alexa, google]
 hashtags: [blogging, blogstats]
-image: /images/blog-stats/2018-07-stats.png
+image: /images/blog-stats/2018/07/stats.png
 ---
 
 It's the 20th, so that means it's time for me to show off the last month's blog statistics. If you want to view the previous months' statistic reports, click on one of the following links:
@@ -40,7 +40,7 @@ My Alexa rank is back under a million. The last (and only other so far) blog sta
 * Users &rarr; 1,087
 * Pageviews &rarr; 1,889
 
-![Google Analytics Graph for July](/images/blog-stats/2018-07-stats.png)
+![Google Analytics Graph for July](/images/blog-stats/2018/07/stats.png)
 *Google Analytics Graph for July*
 
 ## AdSense
@@ -51,7 +51,7 @@ My Alexa rank is back under a million. The last (and only other so far) blog sta
 
 I was wondering how my AdSense earnings have been increasing over time, so I downloaded my daily earnings into an Excel spreadsheet (actually a CSV file) and made a little graph:
 
-![Google AdSense Cumulative Graph for July](/images/blog-stats/2018-07-adsense.png)
+![Google AdSense Cumulative Graph for July](/images/blog-stats/2018/07/adsense.png)
 *Google AdSense Cumulative Graph for July*
 
 I made my first penny on June 20, 2016. Also, the graph ends up showing that I've made $28.74, whereas my AdSense account says my (estimated) balance is only $27.93. I'm guessing the difference is due to rounding - some days I may have made half a penny, but the data downloaded shows I made a full penny.

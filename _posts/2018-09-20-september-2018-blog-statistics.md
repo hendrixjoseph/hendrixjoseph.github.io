@@ -4,7 +4,7 @@ title: September 2018 Blog Statistics
 tags: [blog statistics]
 keywords: [blog, statistics, blog statistics, analytics, pageviews, webmaster, webmaster tools, alexa, google]
 hashtags: [blogging, blogstats]
-image: /images/blog-stats/2018-09-search-console.png
+image: /images/blog-stats/2018/09/search-console.png
 ---
 
 It's been a steady month in terms of stats for this blog. While there hasn't been much in the terms of improvement stats-wise, they have remained consistently good.
@@ -46,7 +46,7 @@ And now for the numbers:
 * Users &rarr; 1,584
 * Pageviews &rarr; 2,140
 
-![Google Analytics Graph for September](/images/blog-stats/2018-09-stats.png)
+![Google Analytics Graph for September](/images/blog-stats/2018/09/stats.png)
 *Google Analytics Graph for September*
 
 ## Google Search Console
@@ -57,7 +57,7 @@ New for this month is Google Search Console statistics. I'd previously submitted
 * Search Impressions &rarr; 26,700
 * Average position &rarr; 19.2
 
-![Google Search Console Graph for September](/images/blog-stats/2018-09-search-console.png)
+![Google Search Console Graph for September](/images/blog-stats/2018/09/search-console.png)
 *Google Search Console Graph for September*
 
 ## AdSense

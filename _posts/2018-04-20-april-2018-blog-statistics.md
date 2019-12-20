@@ -3,7 +3,7 @@ layout: post
 title: April 2018 Blog Statistics
 tags: [blog statistics]
 keywords: [blog, statistics, blog statistics, analytics, pageviews, webmaster, webmaster tools, alexa, google]
-image: /images/blog-stats/2018-04-stats.png
+image: /images/blog-stats/2018/04-stats.png
 ---
 
 Another day, another dollar. Or, in this case, another month, another blog stats report. This is the fourth monthly blog statistics report. If you're interested in checking out the first three, here are some links:
@@ -36,7 +36,7 @@ Without further ado, here are the numbers:
 * Users &rarr; 1,247
 * Pageviews &rarr; 1,947
 
-![Google Analytics Graph for April](/images/blog-stats/2018-04-stats.png)
+![Google Analytics Graph for April](/images/blog-stats/2018/04-stats.png)
 *Google Analytics Graph for April*
 
 ## AdSense
