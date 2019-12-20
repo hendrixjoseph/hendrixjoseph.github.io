@@ -4,7 +4,7 @@ title: July 2019 Blog Statistics
 tags: [blog statistics]
 keywords: [blog, statistics, blog statistics, analytics, pageviews, webmaster, webmaster tools, alexa, google]
 hashtags: [blogging, blogstats]
-image: /images/blog-stats/2019-07-search-console.png
+image: /images/blog-stats/2019/07/search-console.png
 ---
 
 It's the twentieth, which means it's time for another blog statistic report.  This is the nineteenth monthly report. Five more and I've made it a whole two years!
@@ -33,7 +33,7 @@ I was able to publish eight posts this month. That's an average of two a week!
 * Users &rarr; 2,398
 * Pageviews &rarr; 3,347
 
-![Google Analytics Graph for July](/images/blog-stats/2019-07-stats.png)
+![Google Analytics Graph for July](/images/blog-stats/2019/07/stats.png)
 *Google Analytics Graph for July*
 
 ## Google Search Console
@@ -42,7 +42,7 @@ I was able to publish eight posts this month. That's an average of two a week!
 * Search Impressions &rarr; 70,800
 * Average position &rarr; 27.8
 
-![Google Search Console Graph for July](/images/blog-stats/2019-07-search-console.png)
+![Google Search Console Graph for July](/images/blog-stats/2019/07/search-console.png)
 *Google Search Console Graph for July*
 
 ## AdSense
@@ -52,7 +52,7 @@ I was able to publish eight posts this month. That's an average of two a week!
 * Impressions &rarr; 2,601
 * Clicks &rarr; 2
 
-![Google AdSense Graph for July](/images/blog-stats/2019-07-adsense.png)
+![Google AdSense Graph for July](/images/blog-stats/2019/07/adsense.png)
 *Google AdSense Graph for July*
 
 ## Ratios

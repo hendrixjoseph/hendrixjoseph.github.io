@@ -4,7 +4,7 @@ title: June 2019 Blog Statistics
 tags: [blog statistics]
 keywords: [blog, statistics, blog statistics, analytics, pageviews, webmaster, webmaster tools, alexa, google]
 hashtags: [blogging, blogstats]
-image: /images/blog-stats/2019-06-search-console.png
+image: /images/blog-stats/2019/06/search-console.png
 ---
 
 This month marks the 18th monthly blog statistic report I've made in a row. I feel as if my numbers tend to be going in a general upward trend. Unsure if that's because I've been paying attention to those numbers or not.
@@ -35,7 +35,7 @@ I also had one guest post/syndicated post:
 * Users &rarr; 1,772
 * Pageviews &rarr; 2,294
 
-![Google Analytics Graph for June](/images/blog-stats/2019-06-stats.png)
+![Google Analytics Graph for June](/images/blog-stats/2019/06/stats.png)
 *Google Analytics Graph for June*
 
 ## Google Search Console
@@ -44,7 +44,7 @@ I also had one guest post/syndicated post:
 * Search Impressions &rarr; 76,700
 * Average position &rarr; 25.7
 
-![Google Search Console Graph for June](/images/blog-stats/2019-06-search-console.png)
+![Google Search Console Graph for June](/images/blog-stats/2019/06/search-console.png)
 *Google Search Console Graph for June*
 
 ## AdSense
@@ -54,7 +54,7 @@ I also had one guest post/syndicated post:
 * Impressions &rarr; 1,804
 * Clicks &rarr; 3
 
-![Google AdSense Graph for June](/images/blog-stats/2019-06-adsense.png)
+![Google AdSense Graph for June](/images/blog-stats/2019/06/adsense.png)
 *Google AdSense Graph for June*
 
 ## Ratios

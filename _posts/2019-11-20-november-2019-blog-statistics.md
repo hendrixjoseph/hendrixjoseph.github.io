@@ -4,7 +4,7 @@ title: November 2019 Blog Statistics
 tags: [blog statistics]
 keywords: [blog, statistics, blog statistics, analytics, pageviews, webmaster, webmaster tools, alexa, google]
 hashtags: [blogging, blogstats]
-image: /images/blog-stats/2019-11-adsense.png
+image: /images/blog-stats/2019/11/adsense.png
 ---
 
 Yet another month goes by...
@@ -39,7 +39,7 @@ I am starting to pick up "sites linking in."
 * Users &rarr; 935
 * Pageviews &rarr; 1,553
 
-![Google Analytics Graph for November](/images/blog-stats/2019-11-stats.png)
+![Google Analytics Graph for November](/images/blog-stats/2019/11/stats.png)
 *Google Analytics Graph for November*
 
 ## Google Search Console
@@ -56,7 +56,7 @@ I still had plenty of clicks, though.
 * Search Impressions &rarr; 204
 * Average position &rarr; 28.4
 
-![Google Search Console Graph for November](/images/blog-stats/2019-11-hendrixjoseph.github.io-search-console.png)
+![Google Search Console Graph for November](/images/blog-stats/2019/11/hendrixjoseph.github.io-search-console.png)
 *Google Search Console Graph for 
 hendrixjoseph.github.io in November*
 
@@ -66,7 +66,7 @@ hendrixjoseph.github.io in November*
 * Search Impressions &rarr; 13,600
 * Average position &rarr; 68.8
 
-![Google Search Console Graph for November](/images/blog-stats/2019-11-joehxblog.com-search-console.png)
+![Google Search Console Graph for November](/images/blog-stats/2019/11/joehxblog.com-search-console.png)
 *Google Search Console Graph for joehxblog.com in November*
 
 ### Sum of Stats for Google Search Console
@@ -83,7 +83,7 @@ I'm over halfway to the $100 payment threshold in AdSense!
 * Impressions &rarr; 1,675
 * Clicks &rarr; 4
 
-![Google AdSense Graph for November](/images/blog-stats/2019-11-adsense.png)
+![Google AdSense Graph for November](/images/blog-stats/2019/11/adsense.png)
 *Google AdSense Graph for November*
 
 ## Ratios

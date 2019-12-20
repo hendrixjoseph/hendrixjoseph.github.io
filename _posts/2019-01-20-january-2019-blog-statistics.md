@@ -4,7 +4,7 @@ title: January 2019 Blog Statistics
 tags: [blog statistics]
 keywords: [blog, statistics, blog statistics, analytics, pageviews, webmaster, webmaster tools, alexa, google]
 hashtags: [blogging, blogstats]
-image: /images/blog-stats/2019-01-stats.png
+image: /images/blog-stats/2019/01/stats.png
 ---
 
 Happy New Year, everyone! Today's Sunday, so I'm not going to provide much discussion and analysis regarding the blog stats for this first month of 2019. In fact, pretty much none - I am just going to drop the raw numbers.
@@ -30,7 +30,7 @@ I was able to publish four posts this month:
 * Users &rarr; 1,643
 * Pageviews &rarr; 2,189
 
-![Google Analytics Graph for January](/images/blog-stats/2019-01-stats.png)
+![Google Analytics Graph for January](/images/blog-stats/2019/01/stats.png)
 *Google Analytics Graph for January*
 
 ## Google Search Console
@@ -39,7 +39,7 @@ I was able to publish four posts this month:
 * Search Impressions &rarr; 29,800
 * Average position &rarr; 19.6
 
-![Google Search Console Graph for January](/images/blog-stats/2019-01-search-console.png)
+![Google Search Console Graph for January](/images/blog-stats/2019/01/search-console.png)
 *Google Search Console Graph for January*
 
 ## AdSense

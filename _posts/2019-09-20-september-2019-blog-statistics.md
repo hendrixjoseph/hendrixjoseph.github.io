@@ -4,7 +4,7 @@ title: September 2019 Blog Statistics
 tags: [blog statistics]
 keywords: [blog, statistics, blog statistics, analytics, pageviews, webmaster, webmaster tools, alexa, google]
 hashtags: [blogging, blogstats]
-image: /images/blog-stats/2019-09-stats.png
+image: /images/blog-stats/2019/09/stats.png
 ---
 
 Three more of these blog stat reports, and I'll have two year's worth of monthly reports - the first report was on [January 2018](https://www.joehxblog.com/january-2018-blog-statistics/).
@@ -46,7 +46,7 @@ Alexa still has data for both [the old hendrixjoseph.github.io domain](https://w
 * Users &rarr; 1,150
 * Pageviews &rarr; 1,885
 
-![Google Analytics Graph for September](/images/blog-stats/2019-09-stats.png)
+![Google Analytics Graph for September](/images/blog-stats/2019/09/stats.png)
 *Google Analytics Graph for September*
 
 ## Google Search Console
@@ -59,7 +59,7 @@ With Google Search Console, the old domain is trending down, as expected, while 
 * Search Impressions &rarr; 3,360
 * Average position &rarr; 27.1
 
-![Google Search Console Graph for September](/images/blog-stats/2019-09-hendrixjoseph.github.io-search-console.png)
+![Google Search Console Graph for September](/images/blog-stats/2019/09/hendrixjoseph.github.io-search-console.png)
 *Google Search Console Graph for 
 hendrixjoseph.github.io in September*
 
@@ -69,7 +69,7 @@ hendrixjoseph.github.io in September*
 * Search Impressions &rarr; 11,300
 * Average position &rarr; 70.1
 
-![Google Search Console Graph for September](/images/blog-stats/2019-09-joehxblog.com-search-console.png)
+![Google Search Console Graph for September](/images/blog-stats/2019/09/joehxblog.com-search-console.png)
 *Google Search Console Graph for joehxblog.com in September*
 
 ### Sum of Stats for Google Search Console
@@ -84,7 +84,7 @@ hendrixjoseph.github.io in September*
 * Impressions &rarr; 3,214
 * Clicks &rarr; 6
 
-![Google AdSense Graph for September](/images/blog-stats/2019-09-adsense.png)
+![Google AdSense Graph for September](/images/blog-stats/2019/09/adsense.png)
 *Google AdSense Graph for September*
 
 ## Ratios

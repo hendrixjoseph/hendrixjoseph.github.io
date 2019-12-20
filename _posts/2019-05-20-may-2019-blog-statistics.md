@@ -4,7 +4,7 @@ title: May 2019 Blog Statistics
 tags: [blog statistics]
 keywords: [blog, statistics, blog statistics, analytics, pageviews, webmaster, webmaster tools, alexa, google]
 hashtags: [blogging, blogstats]
-image: /images/blog-stats/2019-05-search-console.png
+image: /images/blog-stats/2019/05/search-console.png
 ---
 
 Another month, another dollar, another blog stat report. It's May 2019, and I'm once again going to play it lazy and just dump the numbers.
@@ -32,7 +32,7 @@ I also had one guest post/syndicated post:
 * Users &rarr; 1,861
 * Pageviews &rarr; 2,447
 
-![Google Analytics Graph for May](/images/blog-stats/2019-05-stats.png)
+![Google Analytics Graph for May](/images/blog-stats/2019/05/stats.png)
 *Google Analytics Graph for May*
 
 ## Google Search Console
@@ -41,7 +41,7 @@ I also had one guest post/syndicated post:
 * Search Impressions &rarr; 62,600
 * Average position &rarr; 26.2
 
-![Google Search Console Graph for May](/images/blog-stats/2019-05-search-console.png)
+![Google Search Console Graph for May](/images/blog-stats/2019/05/search-console.png)
 *Google Search Console Graph for May*
 
 ## AdSense
@@ -51,7 +51,7 @@ I also had one guest post/syndicated post:
 * Impressions &rarr; 1,894
 * Clicks &rarr; 2
 
-![Google AdSense Graph for May](/images/blog-stats/2019-05-adsense.png)
+![Google AdSense Graph for May](/images/blog-stats/2019/05/adsense.png)
 *Google AdSense Graph for May*
 
 ## Ratios

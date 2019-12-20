@@ -4,7 +4,7 @@ title: August 2019 Blog Statistics
 tags: [blog statistics]
 keywords: [blog, statistics, blog statistics, analytics, pageviews, webmaster, webmaster tools, alexa, google]
 hashtags: [blogging, blogstats]
-image: /images/blog-stats/2019-08-stats.png
+image: /images/blog-stats/2019/08/stats.png
 ---
 
 It's time for the twentieth blog stat report on the twentieth of the month!
@@ -45,7 +45,7 @@ Since Google Analytics is dependent on a bit of JavaScript on the webpages, it w
 * Users &rarr; 1,949
 * Pageviews &rarr; 2,954
 
-![Google Analytics Graph for August](/images/blog-stats/2019-08-stats.png)
+![Google Analytics Graph for August](/images/blog-stats/2019/08/stats.png)
 *Google Analytics Graph for August*
 
 ## Google Search Console
@@ -58,7 +58,7 @@ Google Search Console (aka Google Webmaster Tools) is where things are looking i
 * Search Impressions &rarr; 61,800
 * Average position &rarr; 29.1
 
-![Google Search Console Graph for August](/images/blog-stats/2019-08-hendrixjoseph.github.io-search-console.png)
+![Google Search Console Graph for August](/images/blog-stats/2019/08/hendrixjoseph.github.io-search-console.png)
 *Google Search Console Graph for 
 hendrixjoseph.github.io in August*
 
@@ -68,7 +68,7 @@ hendrixjoseph.github.io in August*
 * Search Impressions &rarr; 1,620
 * Average position &rarr; 43.6
 
-![Google Search Console Graph for August](/images/blog-stats/2019-08-joehxblog.com-search-console.png)
+![Google Search Console Graph for August](/images/blog-stats/2019/08/joehxblog.com-search-console.png)
 *Google Search Console Graph for joehxblog.com in August*
 
 ### Sum of Stats for Google Search Console
@@ -87,7 +87,7 @@ AdSense, like Google Analytics, is largely unaffected by the domain change, sinc
 * Impressions &rarr; 1,464
 * Clicks &rarr; 3
 
-![Google AdSense Graph for August](/images/blog-stats/2019-08-adsense.png)
+![Google AdSense Graph for August](/images/blog-stats/2019/08/adsense.png)
 *Google AdSense Graph for August*
 
 ## Ratios

@@ -4,7 +4,7 @@ title: March 2019 Blog Statistics
 tags: [blog statistics]
 keywords: [blog, statistics, blog statistics, analytics, pageviews, webmaster, webmaster tools, alexa, google]
 hashtags: [blogging, blogstats]
-image: /images/blog-stats/2019-03-search-console.png
+image: /images/blog-stats/2019/03/search-console.png
 ---
 
 Happy Spring Equinox everyone! It's the twentieth, which means it's time for another blog stats report.
@@ -34,7 +34,7 @@ I also conducted an experiment after publishing [the credit union post]({{ site.
 * Users &rarr; 1,718
 * Pageviews &rarr; 2,323
 
-![Google Analytics Graph for March](/images/blog-stats/2019-03-stats.png)
+![Google Analytics Graph for March](/images/blog-stats/2019/03/stats.png)
 *Google Analytics Graph for March*
 
 ## Google Search Console
@@ -43,7 +43,7 @@ I also conducted an experiment after publishing [the credit union post]({{ site.
 * Search Impressions &rarr; 42,200
 * Average position &rarr; 27.2
 
-![Google Search Console Graph for March](/images/blog-stats/2019-03-search-console.png)
+![Google Search Console Graph for March](/images/blog-stats/2019/03/search-console.png)
 *Google Search Console Graph for March*
 
 ## AdSense
@@ -53,7 +53,7 @@ I also conducted an experiment after publishing [the credit union post]({{ site.
 * Impressions &rarr; 1,510
 * Clicks &rarr; 2
 
-![Google AdSense Graph for March](/images/blog-stats/2019-03-adsense.png)
+![Google AdSense Graph for March](/images/blog-stats/2019/03/adsense.png)
 *Google AdSense Graph for March*
 
 ## Ratios

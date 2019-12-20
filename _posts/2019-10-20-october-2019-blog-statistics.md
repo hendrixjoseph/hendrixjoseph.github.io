@@ -4,7 +4,7 @@ title: October 2019 Blog Statistics
 tags: [blog statistics]
 keywords: [blog, statistics, blog statistics, analytics, pageviews, webmaster, webmaster tools, alexa, google]
 hashtags: [blogging, blogstats]
-image: /images/blog-stats/2019-10-joehxblog.com-search-console.png
+image: /images/blog-stats/2019/10/joehxblog.com-search-console.png
 ---
 
 It's Sunday, October 20th, 2019, and time for another monthly blog stats report.
@@ -44,7 +44,7 @@ Alexa still has data for both [the old hendrixjoseph.github.io domain](https://w
 * Users &rarr; 1,158
 * Pageviews &rarr; 1,584
 
-![Google Analytics Graph for October](/images/blog-stats/2019-10-stats.png)
+![Google Analytics Graph for October](/images/blog-stats/2019/10/stats.png)
 *Google Analytics Graph for October*
 
 ## Google Search Console
@@ -57,7 +57,7 @@ With Google Search Console, the old domain is trending down, as expected, while 
 * Search Impressions &rarr; 3,620
 * Average position &rarr; 28.1
 
-![Google Search Console Graph for October](/images/blog-stats/2019-10-hendrixjoseph.github.io-search-console.png)
+![Google Search Console Graph for October](/images/blog-stats/2019/10/hendrixjoseph.github.io-search-console.png)
 *Google Search Console Graph for 
 hendrixjoseph.github.io in October*
 
@@ -67,7 +67,7 @@ hendrixjoseph.github.io in October*
 * Search Impressions &rarr; 26,500
 * Average position &rarr; 70.9
 
-![Google Search Console Graph for October](/images/blog-stats/2019-10-joehxblog.com-search-console.png)
+![Google Search Console Graph for October](/images/blog-stats/2019/10/joehxblog.com-search-console.png)
 *Google Search Console Graph for joehxblog.com in October*
 
 ### Sum of Stats for Google Search Console
@@ -82,7 +82,7 @@ hendrixjoseph.github.io in October*
 * Impressions &rarr; 1,894
 * Clicks &rarr; 5
 
-![Google AdSense Graph for October](/images/blog-stats/2019-10-adsense.png)
+![Google AdSense Graph for October](/images/blog-stats/2019/10/adsense.png)
 *Google AdSense Graph for October*
 
 ## Ratios

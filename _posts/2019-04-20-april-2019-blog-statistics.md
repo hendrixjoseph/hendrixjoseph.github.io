@@ -4,7 +4,7 @@ title: April 2019 Blog Statistics
 tags: [blog statistics]
 keywords: [blog, statistics, blog statistics, analytics, pageviews, webmaster, webmaster tools, alexa, google]
 hashtags: [blogging, blogstats]
-image: /images/blog-stats/2019-04-search-console.png
+image: /images/blog-stats/2019/04/search-console.png
 ---
 
 April 20th has rolled around, and it's Easter weekend. Time for my monthly blog statistics report.
@@ -28,7 +28,7 @@ I was able to publish four posts this month:
 * Users &rarr; 1,657
 * Pageviews &rarr; 2,156
 
-![Google Analytics Graph for April](/images/blog-stats/2019-04-stats.png)
+![Google Analytics Graph for April](/images/blog-stats/2019/04/stats.png)
 *Google Analytics Graph for April*
 
 ## Google Search Console
@@ -37,7 +37,7 @@ I was able to publish four posts this month:
 * Search Impressions &rarr; 57,900
 * Average position &rarr; 25.4
 
-![Google Search Console Graph for April](/images/blog-stats/2019-04-search-console.png)
+![Google Search Console Graph for April](/images/blog-stats/2019/04/search-console.png)
 *Google Search Console Graph for April*
 
 ## AdSense
@@ -47,7 +47,7 @@ I was able to publish four posts this month:
 * Impressions &rarr; 1,477
 * Clicks &rarr; 1
 
-![Google AdSense Graph for April](/images/blog-stats/2019-04-adsense.png)
+![Google AdSense Graph for April](/images/blog-stats/2019/04/adsense.png)
 *Google AdSense Graph for April*
 
 ## Ratios

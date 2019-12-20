@@ -4,7 +4,7 @@ title: February 2019 Blog Statistics
 tags: [blog statistics]
 keywords: [blog, statistics, blog statistics, analytics, pageviews, webmaster, webmaster tools, alexa, google]
 hashtags: [blogging, blogstats]
-image: /images/blog-stats/2019-02-adsense.png
+image: /images/blog-stats/2019/02/adsense.png
 ---
 
 February has been a frustrating month for me in the blogosphere, for reasons I cannot disclose at the moment - although I probably will be able to Friday. My stats are down, too, but not as bad as they used to be.
@@ -38,7 +38,7 @@ A few of these have existed for several months now. I'm just now remembering to 
 * Users &rarr; 1,299
 * Pageviews &rarr; 2,036
 
-![Google Analytics Graph for February](/images/blog-stats/2019-02-stats.png)
+![Google Analytics Graph for February](/images/blog-stats/2019/02/stats.png)
 *Google Analytics Graph for February*
 
 ## Google Search Console
@@ -47,7 +47,7 @@ A few of these have existed for several months now. I'm just now remembering to 
 * Search Impressions &rarr; 31,900
 * Average position &rarr; 23.3
 
-![Google Search Console Graph for February](/images/blog-stats/2019-02-search-console.png)
+![Google Search Console Graph for February](/images/blog-stats/2019/02/search-console.png)
 *Google Search Console Graph for February*
 
 ## AdSense
@@ -59,7 +59,7 @@ A few of these have existed for several months now. I'm just now remembering to 
 
 I also now am displaying my AdSense monthly graph since they're no longer flat and boring:
 
-![Google AdSense Graph for February](/images/blog-stats/2019-02-adsense.png)
+![Google AdSense Graph for February](/images/blog-stats/2019/02/adsense.png)
 *Google AdSense Graph for February*
 
 ## Ratios
