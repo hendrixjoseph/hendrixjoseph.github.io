@@ -10,42 +10,44 @@ noindex: true
 <article class="post">
 <h2 class="post-header"><a href="{{ site.url }}">Blog Posts</a></h2>
 <hr />
-<div class="sample entry">
-<p>The main part of this site is... well, my blog. Here are my blog posts, where I write, as my tagline says, what I want. So far I've written {{ site.posts | size }} posts.</p>
-<p>If you want to just jump to my most recent post, it is <a href="{{ site.posts.first.url }}">{{ site.posts.first.title }}</a>
-</div>     
+<div class="entry">
+<p>The main part of JoeHx Blog is... well, my blog. It's in the name! Here are my blog posts, where I write, as my tagline says, what I want. So far I've written {{ site.posts | size }} posts.</p>
+<p>If you want to just jump to my most recent post, it is <a href="{{ site.posts.first.url }}">{{ site.posts.first.title }}</a>.
+</div>
 </article>
 
 <article class="post">
-<h2 class="post-header"><a href="{{ site.url }}">About</a></h2>
+<h2 class="post-header"><a href="{{ site.url }}/about/">About Me</a></h2>
 <hr />
-<div class="sample entry">
-SAMPLE TEXT
-</div>     
+<div class="entry">
+<p>The class "About" section. Because what's the point of a site if you don't know who's behind it?</p>
+<p>I also have a <a href="{{ site.url }}/resume/">Résumé / CV section</a> if that interests you.</p>
+</div>
 </article>
 
 <article class="post">
 <h2 class="post-header"><a href="{{ site.url }}">Tools</a></h2>
 <hr />
-<div class="sample entry">
-SAMPLE TEXT
-</div>     
+<div class="entry">
+<p>Occasionally I'll write some little JavaScript program to help me either do something for me - like <a href="{{ site.url }}/tools/url-decoder-encoder/">encode and decode URLs</a> - or just to practive programming - such as with my <a href="{{ site.url }}/tools/temperature-converson/">temperature conversion tool</a>.</p>
+<p>This section links all of them that I have on my site.</p>
+</div>
 </article>
 
 <article class="post">
 <h2 class="post-header"><a href="{{ site.url }}">Web Portfolio</a></h2>
 <hr />
-<div class="sample entry">
-SAMPLE TEXT
-</div>     
+<div class="entry">
+<p>JoeHx Blog isn't the only site I work on in the Internet/World Wide Web. I link my other projects here</a></p>
+</div>
 </article>
 
 <article class="post">
 <h2 class="post-header"><a href="{{ site.url }}">Referral Links</a></h2>
 <hr />
-<div class="sample entry">
-SAMPLE TEXT
-</div>     
+<div class="entry">
+<p>What's a blog without some referral links? Profitless, poor, and a pitence, that's what. I keep my referral links - for things such as (but not limited to!) credit cards organized here.</p>
+</div>
 </article>
 </div>
 {% include navbar.html %}
