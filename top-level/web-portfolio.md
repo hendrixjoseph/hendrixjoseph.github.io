@@ -13,3 +13,4 @@ permalink: /web-portfolio/
 ## Defunct
 
 * [Hendrices.com](https://web.archive.org/web/20111228120942/http://www.hendrices.com)
+* [Wright Engineering Council](https://web.archive.org/web/20150518093855/http://cecs.wright.edu/~wecsab/)
