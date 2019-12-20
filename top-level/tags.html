@@ -6,7 +6,12 @@ javascripts: [/js/d3.min.js, /js/d3.layout.cloud.js]
 csses: [/css/tags.css]
 ---
 
-{% assign tags = site.tags | sort %}{% for tag in tags %}
+{% assign tags = site.tags | sort %}
+<h2 id="table-of-contents">table of contents</h2>
+<ul>{% for tag in tags %}
+<li><a href="#{{ tag[0] | replace: ' ', '-' }}">{{ tag[0] }}</a></li>
+{% endfor %}</ul>
+{% for tag in tags %}
 <h2 id="{{ tag[0] | replace: ' ', '-' }}">{{ tag[0] }}</h2>
 <ul>
 {% for post in tag[1] %}<li>
