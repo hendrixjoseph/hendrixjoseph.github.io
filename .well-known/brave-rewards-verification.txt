@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: joehxblog.com
+Token: 294a28db087bd44ffdedfc46da7dc2964cf00354155d514ca7737d2d5c31def2
