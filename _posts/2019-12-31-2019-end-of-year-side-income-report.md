@@ -30,7 +30,7 @@ I've also uninstalled the Surveys on the Go app; some of the surveys weren't wor
 ## Cash Back & Receipt Apps
 
 * [Receipt Hog](https://www.receipthog.com/) &rarr; $40.00
-* [eBates/Rakuten](https://hendrixjoseph.github.io/ebates/) &rarr; $71.76
+* [eBates/Rakuten](https://www.joehxblog.com/ebates/) &rarr; $71.76
 * [Bumped](https://bumped.com/) &rarr; $185.79
 * [Pei](https://www.joehxblog.com/pei/) &rarr; 0.00851090 BTC / $74.73
 * Total &rarr; $372.28
@@ -69,7 +69,7 @@ Note that with my two Chase Cards I often use the "Chase Offers" features to get
 * [Worthy Bonds](https://www.joehxblog.com/worthybonds/) &rarr; $0.65
 * [BlockFi](https://www.joehxblog.com/blockfi/) &rarr; 0.0011812 BTC... about $10.68
 * Credit Union Interest &rarr; $91.36
-* Ally Interest &rarr; $203.08
+* [Ally](https://www.ally.com/) Interest &rarr; $203.08
 * Total &rarr; $344.81
 
 By "interest-bearing" accounts I mean any account that earns based on how much is in that account. This includes regular savings accounts, as well as dividends and bonds.
@@ -89,7 +89,7 @@ BlockFi earns a high interest on cryptocurrency. Currently, I only have about $1
 ## Print-On-Demand Sites
 
 * [Merch by Amazon](https://www.joehxblog.com/t-shirts/) &rarr; $1,730.10
-* Kindle Direct Publishing &rarr; $0.79
+* [Kindle Direct Publishing](https://kdp.amazon.com/) &rarr; $0.79
 * [Redbubble](https://www.redbubble.com/people/joehx) &rarr; $33.83
 * [TeePublic](https://www.joehxblog.com/teepublic/) &rarr; $81.00
 * [Teespring](https://teespring.com/stores/joehxs-store) &rarr; $24.63
@@ -101,18 +101,16 @@ Merch by Amazon is the clear winner of everything on this page - even beating al
 
 * Amazon Associates &rarr; $41.95
 * ebay Partner Network &rarr; $1.81
-* Square Cash &rarr; $10.00
+* [Square Cash](https://www.joehxblog.com/square-cash/) &rarr; $10.00
 * Miscellaneous &rarr; $300.00
 * Total &rarr; $353.76
 
 I made a whopping $1.81 via eBay:
 
-https://twitter.com/JoeHxBlog/status/1164594671454232578
 <blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">Having an affiliate relationship with eBay has its advantages. Like a buck eight-one worth of advantages. <a href="https://t.co/KAH3Otf9FI">pic.twitter.com/KAH3Otf9FI</a></p>&mdash; Joseph Hendrix (@JoeHxBlog) <a href="https://twitter.com/JoeHxBlog/status/1164594671454232578?ref_src=twsrc%5Etfw">August 22, 2019</a></blockquote>
 
 My Amazon Associates account is starting to perform better as well (mostly due to [this DorcoUSA post](https://www.joehxblog.com/how-to-get-dorco-razor-blades-after-dorcousa-shuts-down/)):
 
-https://twitter.com/JoeHxBlog/status/1176500118184431619
 <blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">My Amazon Associate graph is looking much better than it has for the past few years. <a href="https://t.co/KtUr1ZCObx">pic.twitter.com/KtUr1ZCObx</a></p>&mdash; Joseph Hendrix (@JoeHxBlog) <a href="https://twitter.com/JoeHxBlog/status/1176500118184431619?ref_src=twsrc%5Etfw">September 24, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 ## Miscellaneous
