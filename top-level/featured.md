@@ -9,6 +9,7 @@ permalink: /featured/
 Quoted on the following webpages:
 
 * [7 Black Friday Hacks - A Dime Saved](https://adimesaved.com/7-black-friday-hacks)
+* [Hindsight is 2020: How to learn from money mistakes](https://www.consolidatedcredit.org/financial-news/hindsight-is-2020-how-to-learn-from-money-mistakes/#joehxblog)
 
 Mentioned on the following webpages:
 
