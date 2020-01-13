@@ -25,7 +25,7 @@ I read to my son eleven different books in December:
 * [Dear Zoo](https://www.abebooks.com/products/isbn/9781416947370/30378582417)
 * [Gossie](https://www.abebooks.com/products/isbn/9780618176748/30217042668)
 * [My first book of Animals](https://www.abebooks.com/products/isbn/9781580480086/30357994472)
-* [Puppy for Christmas]
+* Puppy for Christmas
 * [Seek and Slide On The Farm](https://www.abebooks.com/products/isbn/9780760731536/30513946173)
 * [Sesame Street Big Enough for a Bed](https://www.abebooks.com/products/isbn/9780375822704/30077277178)
 * [The 12 Dogs of Christmas](https://www.abebooks.com/products/isbn/9780849979392/30536559916)
