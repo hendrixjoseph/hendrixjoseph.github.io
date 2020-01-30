@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2019 New Year's Resolutions & Goals
-tags: [culture]
+tags: [goals]
 keywords: [new year, new year's, new year resolution, new year goal, new year's resolution, new year's goal, new year resolutions, new year goals, new year's resolutions, new year's goals, resolution, resolutions, goal, goals, concrete goal, concrete goals, abstract goal, abstract goals]
 image: /images/goals-2019.jpg
 ---
