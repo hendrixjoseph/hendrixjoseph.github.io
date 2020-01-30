@@ -69,7 +69,7 @@ More actively, we intend to lower our debt by at least $20k. This will also mean
 
 Since we had trouble limiting ourselves to eating out at most three times a month last year, we're relaxing the goal a bit this year. Instead, we intend to eat out at most once a week.
 
-https://www.joehxblog.com/i-published-my-first-low-content-kdp-book-a-sudoku-puzzle-book/
+I also want to publish more "low content" books such as my [Soduku Puzzle Book](https://www.joehxblog.com/i-published-my-first-low-content-kdp-book-a-sudoku-puzzle-book/).
 
 ## Improve Our Home
 
