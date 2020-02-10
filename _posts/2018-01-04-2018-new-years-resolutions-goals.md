@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2018 New Year's Resolutions & Goals
-tags: [culture]
+tags: [goals]
 keywords: [new year, new year's, new year resolution, new year goal, new year's resolution, new year's goal, new year resolutions, new year goals, new year's resolutions, new year's goals, resolution, resolutions, goal, goals, concrete goal, concrete goals, abstract goal, abstract goals]
 image: /images/covers/2018-01-04-2018-new-years-resolutions-goals.jpg
 ---

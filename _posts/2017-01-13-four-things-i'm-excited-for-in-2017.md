@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Four Things I'm Excited for in 2017
-tags: [culture]
+tags: [goals]
 keywords: [tax, solar eclipse, 2017, married]
 image: /images/covers/4Things2017-cover.png
 ---
