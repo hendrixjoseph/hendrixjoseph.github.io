@@ -4,35 +4,26 @@ title: About
 permalink: /about/
 ---
 
-Want to know more about me? Check me out across the web! Links are in the footer, and here are some descriptions about my presence across the web:
+Ahem.
 
-## Facebook
+> I am Joe. I'm one of many Joes, but I am uniquely me. I'm the messiest organized guy you'll ever meet. My glasses are always bent and my hair always a mess. I've never had a role model and as such am my own person.
 
-Social information about me.
+I wrote that paragraph over ten years ago as my "about you" when I first joined Facebook. At some point, I copied it over to [my Twitter account](https://twitter.com/JoeHxBlog) and added the following:
 
-<a href="https://www.facebook.com/joseph.hendrix.5" title="Joseph Hendrix" target="_TOP">
-  <img class="img" src="https://badge.facebook.com/badge/1274573288.3852.1218662383.png" style="border: 0px;" alt="" />
-</a>
+> Scientist, programmer, Christian, libertarian, and life long learner.
 
-## Twitter
+I even hash-tag-ified them - it helps followers find me.
 
-<a class="twitter-timeline" data-width="500" data-height="500" data-theme="light" href="https://twitter.com/{{ site.footer-links.twitter }}">Tweets by {{ site.footer-links.twitter }}</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+I've been creating content on the Internet since before some of my coworkers were born. My first foray into the dot-com space was with [GeoCities](https://en.wikipedia.org/wiki/Yahoo!_GeoCities) and [Angelfire](https://en.wikipedia.org/wiki/Angelfire).
 
-## GitHub
+I learned HTML by viewing the source of various websites - most notably a website known as [RPGamer](https://rpgamer.com/).
 
-<a href="https://github.com/{{ site.footer-links.github }}"><i class="svg-icon github"></i></a> My projects
+I've been programming since my age was in the single-digits. I started with MS-DOS batch files and eventually discovered that [QBasic](https://en.wikipedia.org/wiki/QBasic) came pre-installed on the computer I was using.
 
-## LinkedIn
+Today, I program in Java during the day. Sometimes at night, too.
 
-Resume-type / professional information about me:
+From 2009 - 2012, I blogged at a site I called [Hendrices](https://www.facebook.com/Hendricescom/) - which is a pluralization of my last name. You can view [parts of the site in the WayBack Machine](https://web.archive.org/web/20090731115109/http://www.hendrices.com/). I've also imported some of the old blog posts here on the site.
 
-<script src="https://platform.linkedin.com/in.js" type="text/javascript"></script>
-<script type="IN/MemberProfile" data-id="https://www.linkedin.com/in/hendrix1984" data-format="inline" data-related="false"></script>
+For a more professional overview of me, check out both [my r&eacute;sum&eacute;](/resume/) here on the site and [my LinkedIn profile](https://www.linkedin.com/in/hendrix1984/).
 
-## Wikipedia
-
-<a href="https://en.wikipedia.org/wiki/User:{{ site.footer-links.wikipedia }}"><img src="/images/wikipedia_logo.svg" class="svg-icon" alt="Wikipedia Globe" /></a> Biographical and historical information about me
-
-## Wright State
-
-<a href="http://people.wright.edu/{{ site.footer-links.wrightstate }}"><img src="/images/WrightStateLogo.png" class="svg-icon" style="width: 84px;height: 40px;" alt="Wright State Logo" /></a> Academic infomation about me
+If you want to contact me, the best way is to shoot a message to me via [my Facebook page](https://www.facebook.com/JoeHxBlog/).
