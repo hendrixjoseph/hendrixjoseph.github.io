@@ -39,7 +39,7 @@ It's "eighteen or nineteen" difference books because "Five Little Monkeys Jumpin
 
 Oh, and my son really likes the song. Heck, he likes songs in general. We have a Google Home, and if it's not playing songs, he asks for a song.
 
-His favorite songs are *Five Little Monkeys Jumping on the Bed* , *Old McDonald had a Farm* , *If You're Happy and You Know It* , and *Head, Shoulders, Knees, and Toes* .
+His favorite songs are *Five Little Monkeys Jumping on the Bed*, *Old McDonald had a Farm*, *If You're Happy and You Know It*, and *Head, Shoulders, Knees, and Toes*.
 
 He also has an Elmo (or, as he pronounces it, "Melmo") obsession.
 
