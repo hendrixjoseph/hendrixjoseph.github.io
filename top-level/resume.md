@@ -46,4 +46,8 @@ permalink: /resume/
 
 ### CompTIA Advanced Security Practitioner (CASP) | October 2, 2016
 
+* https://www.certmetrics.com/comptia/public/verification.aspx?code=XNJ0VR9GPLQEQ76Y
+
 ### Oracle 1Z0-803 - Java SE 7 Programmer I | September 2015
+
+![Oracle 1Z0-803 - Java SE 7 Programmer I](/images/hendrix_oracle_certified_associate_java_se_7_programmer_logo_large.png)
