@@ -46,7 +46,8 @@ permalink: /resume/
 
 ### CompTIA Advanced Security Practitioner (CASP) | October 2, 2016
 
-* https://www.certmetrics.com/comptia/public/verification.aspx?code=XNJ0VR9GPLQEQ76Y
+* Verify: https://www.certmetrics.com/comptia/public/verification.aspx?code=XNJ0VR9GPLQEQ76Y
+* ![CompTIA Advanced Security Practitioner (CASP)](/images/certs/casp.png)
 
 ### Oracle 1Z0-803 - Java SE 7 Programmer I | September 2015
 
