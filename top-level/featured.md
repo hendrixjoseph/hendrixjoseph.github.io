@@ -6,6 +6,10 @@ permalink: /featured/
 
 ## The Current Domain (joehxblog.com)
 
+Interviewed on the following webpages:
+
+* [How one couple paid off over $100K in debt in 3 years](https://www.finder.com/couple-paid-off-100k-debt-side-hustles)
+
 Quoted on the following webpages:
 
 * [7 Black Friday Hacks - A Dime Saved](https://adimesaved.com/7-black-friday-hacks)
