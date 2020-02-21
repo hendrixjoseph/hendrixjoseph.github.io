@@ -38,7 +38,7 @@ permalink: /resume/
 
 ## Education
 
-### Wright State University | Master of Science (M.S.) in Computer Science | 2014 – 2019
+### Wright State University | Master of Science (M.S.) in Computer Science | 2014 – 2018
 
 ### Wright State University | Bachelor of Science (B.S.) in Computer Science | 2008 – 2012
 
