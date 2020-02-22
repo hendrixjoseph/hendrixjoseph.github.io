@@ -66,7 +66,7 @@ The refinancing was "complete" on February 7th. Well, almost complete - my other
 > Subject: Congratulations, your refinancing loan is complete"
 >
 > Date: Friday, February 7, 2020, 9:20 am:
-
+>
 > Dear Joseph,
 > 
 > Congratulations, your refinancing loan is complete! We just sent payoffs to your lender(s). The first payment on your new loan will be due on 3/22/2020.
