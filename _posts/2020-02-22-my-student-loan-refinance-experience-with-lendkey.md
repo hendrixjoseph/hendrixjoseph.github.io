@@ -3,7 +3,7 @@ layout: post
 title: My Student Loan Refinance Experience with LendKey
 tags: [money]
 keywords: [student loan refinance, student loan, loan refinance, lendkey]
-image: /images/lendkey/cover.png
+image: /images/lendkey/facebook-cover.png
 ---
 
 I'm always on the lookout for opportunities. Money-making opportunities, learning opportunities, money-saving opportunities, you name it.
