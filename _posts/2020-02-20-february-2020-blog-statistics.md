@@ -77,13 +77,13 @@ Moz says that they use a "machine learning model" to determine Domain Authority.
 
 I did backtrack and add previous Domain Authority numbers to [my spreadsheet](https://github.com/hendrixjoseph/hendrixjoseph.github.io/blob/master/_data/blog-stats.csv). Those numbers are, including this month's numbers:
 
-February 2020 &rarr; 31
-January 2020 &rarr; 30
-December 2019 &rarr; 30
-November 2019 &rarr; 31
-October 2019 &rarr; 32
-September 2019 &rarr; 26
-August 2019 &rarr; 22
+* February 2020 &rarr; 31
+* January 2020 &rarr; 30
+* December 2019 &rarr; 30
+* November 2019 &rarr; 31
+* October 2019 &rarr; 32
+* September 2019 &rarr; 26
+* August 2019 &rarr; 22
 
 ## Ratios
 
