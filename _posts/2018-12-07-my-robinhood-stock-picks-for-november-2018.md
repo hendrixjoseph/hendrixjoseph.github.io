@@ -56,7 +56,7 @@ Verizon | 60&cent; | $48.90 | 4.91%
 Ally | 15&cent; | $27.90 | 2.15%
 total | 75&cent; | $76.80 | 3.91%
 
-My return isn't too back, especially with Verizon. It's the only two of these that the stock price has gone up. And it's nice to see that Ally's return is higher than their current savings account rate (2%), otherwise, the money would've done better sitting in an Ally savings account.
+My return isn't too bad, especially with Verizon. It's the only two of these that the stock price has gone up. And it's nice to see that Ally's return is higher than their current savings account rate (2%), otherwise, the money would've done better sitting in an Ally savings account.
 
 ## Remember!
 
