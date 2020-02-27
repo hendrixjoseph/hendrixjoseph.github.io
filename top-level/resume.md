@@ -52,3 +52,17 @@ permalink: /resume/
 ### Oracle 1Z0-803 - Java SE 7 Programmer I | September 2015
 
 ![Oracle 1Z0-803 - Java SE 7 Programmer I](/images/hendrix_oracle_certified_associate_java_se_7_programmer_logo_large.png)
+
+## Awards
+
+### Competent Communicator | Toastmasters International | February 9, 2020
+
+### Competent Leader | Toastmasters International | February 21, 2019
+
+## Volunteerism
+
+### The Vandalia Toastmasters Club
+
+#### Club President | July 2019 - Present
+
+#### Vice President Public Relations | July 2018 - June 2019
