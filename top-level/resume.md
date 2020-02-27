@@ -51,7 +51,7 @@ permalink: /resume/
 
 ### Oracle 1Z0-803 - Java SE 7 Programmer I | September 2015
 
-![Oracle 1Z0-803 - Java SE 7 Programmer I](/images/hendrix_oracle_certified_associate_java_se_7_programmer_logo_large.png)
+* ![Oracle 1Z0-803 - Java SE 7 Programmer I](/images/hendrix_oracle_certified_associate_java_se_7_programmer_logo_large.png)
 
 ## Awards
 
@@ -66,3 +66,5 @@ permalink: /resume/
 #### Club President | July 2019 - Present
 
 #### Vice President Public Relations | July 2018 - June 2019
+
+<style>li img {display: inline;}</style>
