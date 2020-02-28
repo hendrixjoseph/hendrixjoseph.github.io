@@ -8,7 +8,7 @@ image: /images/robinhood/logo.png
 
 Robinhood messed up. Or maybe it was the government. But in either case, Robinhood ended up sending me two sets of 1099s this year - an original one, and a "corrected" one.
 
-> Well, they actually sent me three - "Robinhood Crypto" sent me one, whereas "Robinhood Securities" sent me the two
+> Well, they actually sent me three - "Robinhood Crypto" sent me one, whereas "Robinhood Securities" sent me the two.
 
 What confused me was this "5- Section 199A dividends" line:
 
