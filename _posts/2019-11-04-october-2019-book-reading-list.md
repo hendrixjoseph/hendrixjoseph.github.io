@@ -15,7 +15,7 @@ It's crazy I've been doing these "book reading lists" for almost two years now -
 
 What's also crazy is that I've been consistently reading to my son almost since the day he was born.
 
-My first "book reading list" that mentions reading to him is [April 2018](April 2018 Book Reading List) - and really couldn't have been any sooner, since he was born at the end of March.
+My first "book reading list" that mentions reading to him is [April 2018](https://www.joehxblog.com/april-2018-book-reading-list/) - and really couldn't have been any sooner, since he was born at the end of March.
 
 Here's what I read to him this month:
 
