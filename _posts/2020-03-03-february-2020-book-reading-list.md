@@ -23,7 +23,7 @@ I read fourteen different books to my son:
 
 * [Baby! Talk!](https://www.abebooks.com/products/isbn/9780517800799/30336399578)
 * [Colors of the Southwest](https://www.abebooks.com/products/isbn/9781947458512)
-* Sesame Street Count with Me 123
+* [Sesame Street Count with Me 123](https://www.abebooks.com/products/isbn/9781412731447/22639691995)
 * Disney Babies on the Farm
 * [Dr. Seuss's ABC An Amazing Alphabet Book!](https://www.abebooks.com/products/isbn/9780679882817/30352336762)
 * [Eric Carle's Opposites](https://www.abebooks.com/products/isbn/9780448445656/30314505385)
