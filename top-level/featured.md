@@ -48,6 +48,10 @@ Listed in the following blog directories:
 * [My Sons Father Personal Finance Blogs by Personality](http://www.mysonsfather.com/personal-finance-by-personality/)
 * [Camp FIRE Finance Directory](https://www.campfirefinance.com/directory/) / [actual page](https://www.campfirefinance.com/directory/joes-github-blog/)
 
+## Mentioned, but not backlined, on the following pages
+
+* [Four apply to fill vacant Huber Heights coucil seat](https://www.daytondailynews.com/news/local/four-apply-fill-vacant-huber-heights-coucil-seat/wIvah80DXNsXVSAeTiAfOJ/)
+
 ## Lost Backlinks
 
 * [Best Financial Tips For Newlyweds And Couples](https://web.archive.org/web/20190617162025/https://moneypedals.com/best-financial-advice-for-newlyweds-and-couples/) (note this one was changed to The Money Mix domain)
