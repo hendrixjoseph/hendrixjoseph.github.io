@@ -57,6 +57,8 @@ permalink: /resume/
 
 ### Competent Communicator | Toastmasters International | February 9, 2020
 
+* ![Competent Communicator](/images/certs/competent-communicator.jpg)
+
 ### Competent Leader | Toastmasters International | February 21, 2019
 
 ## Volunteerism
