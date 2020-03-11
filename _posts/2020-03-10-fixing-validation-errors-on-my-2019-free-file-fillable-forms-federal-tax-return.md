@@ -97,7 +97,7 @@ Here's the error again:
 >
 > Field/Xpath: /efile:Return[1]/efile:ReturnData[1]/efile:IRS8995[1]/efile:QualifiedBusinessIncomeDedGrp[1]/efile:PersonNm[1]
 
-I wasn't 100% sure at first what form "QualifiedBusinessIncomeDedGrp" referred to - but I had a hunch it was Form 8995, the Qualified Business Income Deduction Simplified Computation form.
+I wasn't 100% sure at first what form "QualifiedBusinessIncomeDedGrp" referred to - but I had a hunch it was [Form 8995](https://www.irs.gov/forms-pubs/about-form-8995), the Qualified Business Income Deduction Simplified Computation form.
 
 This form is new for 2019, although it existed as a worksheet in the instructions for the previous year. Before that, there was no [Qualified Business Income Deduction](https://www.irs.gov/newsroom/qualified-business-income-deduction) since it's part of that [Tax Cut and Jobs Act](https://en.wikipedia.org/wiki/Tax_Cuts_and_Jobs_Act_of_2017).
 
