@@ -40,7 +40,11 @@ permalink: /resume/
 
 ### Wright State University | Master of Science (M.S.) in Computer Science | 2014 – 2018
 
+* ![Wright State University Master of Science in Computer Science](/images/certs/wright-state-university-master-of-science-in-computer-science.png)
+
 ### Wright State University | Bachelor of Science (B.S.) in Computer Science | 2008 – 2012
+
+* ![Wright State University Bachelor of Science in Computer Science](/images/certs/wright-state-university-bachelor-of-science-in-computer-science.png)
 
 ## Certifications
 
