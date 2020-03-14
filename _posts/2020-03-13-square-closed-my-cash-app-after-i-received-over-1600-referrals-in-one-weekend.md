@@ -30,7 +30,7 @@ I tweeted on Twitter to see if anyone has anything to say:
 
 On Monday, March 9th, at 11:46 am, I received an email from Square that my email had been unlinked from my Cash account. I also received a text stating that my phone number had been unlinked from my account.
 
-![The last of my Cash Referral Emails.](/images/square-cash/square-cash-referral-emails.png)
+![The last of my Cash Referral Emails.](/images/square-cash/referral-problems/square-cash-referral-emails.png)
 *The last of my Cash Referral Emails.*
 
 Before my email and phone number were both unlinked, I had received 1,665 referrals. At $10 a pop, that's $16,650.
@@ -90,10 +90,10 @@ Plus I did a [Square Cash Review](https://www.joehxblog.com/square-cash-review/)
 
 Before I sign off here, I'm going to provide some updated charts that I initially shared on the Twitter posts mentioned above:
 
-![Referral Growth](/images/square-cash/referral-problem/referral-growth.png)
+![Referral Growth](/images/square-cash/referral-problems/referral-growth.png)
 *Referral Growth*
 
-![Referrals Per Hour](/images/square-cash/referral-problem/referrals-per-hour.png)
+![Referrals Per Hour](/images/square-cash/referral-problems/referrals-per-hour.png)
 *Referrals Per Hour*
 
 ![Referrals Per Day](/images/square-cash/referral-problems/referrals-per-day.png)
