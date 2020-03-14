@@ -3,7 +3,7 @@ layout: post
 title: Square Closed My Cash App After I Received Over 1,600 Referrals in One Weekend
 tags: [money]
 keywords: [square cash referral, square, cash, referral]
-image: /images/square-cash/square-cash-referral-emails.png
+image: /images/square-cash/referral-problems/square-cash-referral-emails.png
 ---
 
 It started innocently enough on Monday, March 2nd. I simply received a $10 referral for referring someone to the Cash App.
