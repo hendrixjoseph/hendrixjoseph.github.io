@@ -65,7 +65,7 @@ Oddly enough, despite all my other already mentioned stats going down, my AdSens
 ![Google AdSense Graph for February](/images/blog-stats/2020/02/adsense.png)
 *Google AdSense Graph for February*
 
-## Mox Domain Authority
+## Moz Domain Authority
 
 I've decided to start including another measure- [Domain Authority](https://moz.com/learn/seo/domain-authority) as measured by Moz.com.
 
