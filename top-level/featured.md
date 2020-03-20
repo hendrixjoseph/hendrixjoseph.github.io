@@ -20,6 +20,10 @@ Mentioned on the following webpages:
 
 * [Make Money Fast With A Side Hustle - Keeping Up with the Bulls](https://www.keepingupwiththebulls.com/introduction-to-side-hustles/)
 
+Listed in the following blog directories:
+
+* [Personal Finance Blogs](https://personalfinanceblogs.com/directory/)
+
 ## The Old Domain (hendrixjoseph.github.io)
 
 Featured/backlinked at the following webpages:
@@ -46,7 +50,6 @@ Listed in the following blog directories:
 * [Rockstar Finance Personal Finance Blog Directory](https://directory.rockstarfinance.com/personal-finance-blogs/) / [actual page](https://directory.rockstarfinance.com/blogs/1988/Joes-GitHub-Blog)
 * [Modest Money Top Finance Blogs](https://www.modestmoney.com/top-finance-blogs/)
 * [Fly to Fi Know Your Blogger](https://flytofi.com/know-your-blogger/) / [actual page](https://flytofi.com/know-your-blogger-joes-github-blog/)
-* [My Sons Father Personal Finance Blogs by Personality](http://www.mysonsfather.com/personal-finance-by-personality/)
 * [Camp FIRE Finance Directory](https://www.campfirefinance.com/directory/) / [actual page](https://www.campfirefinance.com/directory/joes-github-blog/)
 
 ## Mentioned, but not backlined, on the following pages
@@ -60,3 +63,4 @@ Listed in the following blog directories:
 * [Abandoned Cubicle's Blogroll](https://web.archive.org/web/20190715155533/https://www.abandonedcubicle.com/blogroll/)
 * [Rockstar Finance March 12th, 2018 Features](https://rockstarfinance.com/mar-12th-2018/)
 * [Financial Articles for the Month of March, 2018](https://web.archive.org/web/20181114213556/https://www.rooscpa.com/financial-articles/)
+* [My Sons Father Personal Finance Blogs by Personality](https://web.archive.org/web/20181113063540/http://www.mysonsfather.com/personal-finance-by-personality/)
