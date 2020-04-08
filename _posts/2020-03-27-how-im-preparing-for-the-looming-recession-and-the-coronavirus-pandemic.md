@@ -35,7 +35,7 @@ If I really need to cut my cell phone costs, I'd have to try another carrier - s
 
 Another option we have is to begin paying less on our debts. Currently, we're trying to pay off our remaining debt as quickly as possible. This means if we needed to we could start paying just the minimums - which would free up some cash in our monthly budget.
 
-I've also double-checked the balance in our emergency fund. It has sufficient balance, but I'm going to reevaluate our monthly spend after we  see how 
+I've also double-checked the balance in our emergency fund. It has sufficient balance, but I'm going to reevaluate our monthly spending after we see how much our spending has changed with working at home.
 
 ## How I'm Preparing for the Coronavirus Pandemic
 
