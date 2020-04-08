@@ -14,7 +14,7 @@ So everyone must prepare. *I* must prepare. I need to look where I am at, what I
 
 ## How I'm Preparing for the Looming Recession
 
-I say "looming" because despite everyone saying we are in a recession, we can't truly know we're in a recession until we're six months into this recession. That's because a recession is defined as [two quarters - that's six months - of economic decline](http://news.bbc.co.uk/2/hi/business/7495340.stm) - although some say the time period is the more ambigious [more than a few months](https://www.nber.org/cycles/jan08bcdc_memo.html).
+I say "looming" because despite everyone saying we are in a recession, we can't truly know we're in a recession until we're six months into this recession. That's because a recession is defined as [two quarters - that's six months - of economic decline](http://news.bbc.co.uk/2/hi/business/7495340.stm) - although some say the time period is the more ambiguous [more than a few months](https://www.nber.org/cycles/jan08bcdc_memo.html).
 
 I'm thankful that both my job and my wife's job are (as far as we can tell) safe in this recession. My job supports a program that has been around for decades. My wife works in the healthcare industry - not on the frontlines, but behind the scenes in the insurance industry.
 
@@ -29,22 +29,22 @@ I took a peek at my [Verizon Wireless] (https://www.joehxblog.com/verizon-wirele
 ![My Verizon Wireless Data Options](/images/coronavirus-recession/verizon-wireless-options.png)
 *My Verizon Wireless Data Options*
 
-I'm currently on the 5GB/$51.60 plan. The only cheaper plan is the 2GB/$47.65 plan - about four bucks cheaper. Heck - the 4GB plan is more expensive than my current plan. (Even the 8GB/$75.30 plan does't make sense since unlimited starts at $70.)
+I'm currently on the 5GB/$51.60 plan. The only cheaper plan is the 2GB/$47.65 plan - about four bucks cheaper. Heck - the 4GB plan is more expensive than my current plan. (Even the 8GB/$75.30 plan doesn't make sense since unlimited starts at $70.)
 
 If I really need to cut my cell phone costs, I'd have to try another carrier - such as [Boost Mobile](https://www.boostmobile.com/), [Cricket Wireless](https://www.cricketwireless.com/), or [Total Wireless](https://www.totalwireless.com/).
 
-Another option we have is to begin paying less on our debts. Currently we're trying to pay off our remaining debt as quickly as possible. This means if we needed to we could start paying just the minimums - which would free up some cash in our monthly budget.
+Another option we have is to begin paying less on our debts. Currently, we're trying to pay off our remaining debt as quickly as possible. This means if we needed to we could start paying just the minimums - which would free up some cash in our monthly budget.
 
 I've also double-checked the balance in our emergency fund. It has sufficient balance, but I'm going to reevaluate our monthly spend after we  see how 
 
 ## How I'm Preparing for the Coronavirus Pandemic
 
-Both my wife and I are now working from home. Again, we're greatful that our jobs allow this. *And our dogs are absolutely loving us being home all day.*
+Both my wife and I are now working from home. Again, we're grateful that our jobs allow this. *And our dogs are absolutely loving us being home all day.*
 
 ![Our dogs in our (messy) office.](/images/coronavirus-recession/dogs-in-our-office.jpg)
 *Our dogs in our (messy) office.*
 
-I'm trying to balance stocking up on necessities without hoarding those necesseties. As far as toilet paper goes - my wife had bought a bulk package at [Sam's Club](https://www.samsclub.com/) a month or so before this panic had set in.
+I'm trying to balance stocking up on necessities without hoarding those necessities. As far as toilet paper goes - my wife had bought a bulk package at [Sam's Club](https://www.samsclub.com/) a month or so before this panic had set in.
 
 ![Empty shelves at my local Kroger.](/images/coronavirus-recession/empty-shelves.jpg)
 *Empty shelves at my local [Kroger](https://www.kroger.com/).*
