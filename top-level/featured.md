@@ -54,6 +54,7 @@ Listed in the following blog directories:
 
 ## Mentioned, but not backlined, on the following pages
 
+* [Student Loan Debt Consolidation](https://www.consolidatedcredit.org/student-loan-debt-consolidation/)
 * [Four apply to fill vacant Huber Heights coucil seat](https://www.daytondailynews.com/news/local/four-apply-fill-vacant-huber-heights-coucil-seat/wIvah80DXNsXVSAeTiAfOJ/)
 * [Woman appointed to fill vacant Huber Heights council seat](https://www.daytondailynews.com/news/local/woman-appointed-fill-vacant-huber-heights-council-seat/VudL4nHGyeNI5MxPB4ALBO/)
 
