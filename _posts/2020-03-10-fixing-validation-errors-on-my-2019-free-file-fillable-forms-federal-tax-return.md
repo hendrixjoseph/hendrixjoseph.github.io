@@ -3,14 +3,14 @@ layout: post
 title: Fixing Validation Errors on my 2019 Free File Fillable Forms Federal Tax Return
 tags: [tax]
 keywords: [free file fillable forms, free file, irs, tax return, tax refund]
-image: /freefilefillableforms/freefile-logo.png
+image: /images/freefilefillableforms/freefile-logo.png
 ---
 
 I like to be hands-on with my finances, including my taxes. I also like to fill out forms. That's why I like to use Free File Fillable Forms from the IRS.
 
 Unlike other Free File options, there are no limitations for income, age, location or any other criteria with Free File Fillable Forms. That said, Free File Fillable Forms only provides basic arithmetic and form validation.
 
-![The Free File logo.](/freefilefillableforms/freefile-logo.png)
+![The Free File logo.](/images/freefilefillableforms/freefile-logo.png)
 *The Free File logo.*
 
 The basic arithmetic is pretty straight-forward and performs in on the form for you; you can't even edit the form values that are calculated.
@@ -77,14 +77,14 @@ The thing is, I'm not paying alimony to anyone. There is no social security numb
 
 It turns out, though, that I put a value of "0" (that's zero) for how much alimony I'm paying:
 
-![Error on Schedule 1, Line 18a.](/freefilefillableforms/schedule-1-line-18a-error.png)
+![Error on Schedule 1, Line 18a.](/images/freefilefillableforms/schedule-1-line-18a-error.png)
 *Error on Schedule 1, Line 18a.*
 
 You see, when I do my taxes, in my mind "0" means something different than a blank value. "0" means I looked over that line and concluded that it should be zero - after all, I did pay zero dollars in alimony in 2019. A blank value, however, means I need to take another look at the line.
 
 To fix the error, I just had to erase the "0" and leave the line blank:
 
-![Corrected Schedule 1, Line 18a.](/freefilefillableforms/schedule-1-line-18a-correct.png)
+![Corrected Schedule 1, Line 18a.](/images/freefilefillableforms/schedule-1-line-18a-correct.png)
 *Corrected Schedule 1, Line 18a.*
 
 ## Enter Only EIN or SSN, not Both
@@ -103,7 +103,7 @@ This form is new for 2019, although it existed as a worksheet in the instruction
 
 To see where I made an error, first take a look at line 1b of that form:
 
-![Form 8995, Line 1b.](/freefilefillableforms/form-8995-line-1b.png)
+![Form 8995, Line 1b.](/images/freefilefillableforms/form-8995-line-1b.png)
 *Form 8995, Line 1b.*
 
 There are multiple rows for multiple businesses - I filed two [schedule C](https://www.irs.gov/forms-pubs/about-schedule-c-form-1040)s so I filled out two rows. Each row asks for an <abbr title="Social Security Number">SSN</abbr> and an <abbr title="Employer Identification Number">EIN</abbr>.
@@ -116,7 +116,7 @@ The [instructions for line 1](https://www.irs.gov/instructions/i8995#idm13976657
 
 But look what happens when I hover the mouse over the field:
 
-![Tooltip for Form 8995, Line 1b. It reads: "Line 1. Row: iv. Column: (b) Taxpayer identification number (SSN - Enter only EIN or SSN, not both).](/freefilefillableforms/form-8995-line-1b-tooltip.png)
+![Tooltip for Form 8995, Line 1b. It reads: "Line 1. Row: iv. Column: (b) Taxpayer identification number (SSN - Enter only EIN or SSN, not both).](/images/freefilefillableforms/form-8995-line-1b-tooltip.png)
 *Tooltip for Form 8995, Line 1b.*
 
 That's right - a tooltip, which is mostly hidden, tells me that I should "Enter only EIN or SSN, not both."
