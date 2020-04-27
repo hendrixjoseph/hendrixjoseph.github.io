@@ -11,6 +11,18 @@ description: Writing What I Want
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://www.joehxblog.com/images/ache.jpg
 
+collections:
+  referrals:
+    output: true
+    permalink: /:name/
+    
+defaults:
+  - scope:
+      path: ""
+      type: "referrals"
+    values:
+      layout: "referral"
+
 navlinks:
   - text: Home
     url: https://www.joehxblog.com/
