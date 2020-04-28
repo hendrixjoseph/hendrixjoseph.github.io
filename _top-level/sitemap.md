@@ -6,7 +6,7 @@ permalink: /sitemap/
 
 ## Top Level
 
-* [Front Page](/index.html){% assign pages = site.pages | where_exp: "page", "page.path contains 'top-level'" %}{% for page in pages %}
+* [Front Page](/index.html){% for page in site.top-level %}
 * [{{ page.title }}]({{ site.url }}{{page.url}}){% endfor %}
 * [Sitemap.xml](/sitemap.xml)
 * [robots.txt](/robots.txt)

@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Web Portfolio
-permalink: /web-portfolio/
 ---
 
 * [{{ site.name }} (this site)]({{ site.url }}/)

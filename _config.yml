@@ -21,6 +21,9 @@ collections:
   tools:
     output: true
     permalink: /:path/
+  top-level:
+    output: true
+    permalink: /:name/
     
 defaults:
   - scope:

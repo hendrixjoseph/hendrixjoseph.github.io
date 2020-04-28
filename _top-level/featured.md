@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Featured
-permalink: /featured/
 ---
 
 ## The Current Domain (joehxblog.com)

@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Post Statistics
-permalink: /statistics/
 ---
 
 {% for post in site.posts %}

@@ -1,7 +1,6 @@
 ---
 layout: affiliate-default
 title: Archive
-permalink: /archive/
 ---
 
 {% for post in site.posts %}{% assign year = post.date | date: "%Y" %}{% assign month = post.date | date: "%B" %}
