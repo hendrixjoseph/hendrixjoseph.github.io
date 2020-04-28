@@ -10,7 +10,7 @@ There are undoubtedly major flaws with the bail system in the US. The [ACLU has 
 
 But the problem remains. Is there a solution?
 
-I have an idea - if we want to keep bail to begin with. Much of the world simply does not have a bail system (see [this Quora answer on bail flaws](https://www.quora.com/What-are-some-major-flaws-with-the-bail-system-across-the-world/answer/Steven-Haddock).
+I have an idea - if we want to keep bail to begin with. Much of the world simply does not have a bail system (see [this Quora answer on bail flaws](https://www.quora.com/What-are-some-major-flaws-with-the-bail-system-across-the-world/answer/Steven-Haddock)).
 
 Before we talk about [my idea](#what-is-my-idea), let's recap [what bail is](#what-is-bail) and then talk about [the problem with bail](#what-is-the-problem-with-bail).
 
