@@ -12,7 +12,7 @@ But the problem remains. Is there a solution?
 
 I have an idea - if we want to keep bail to begin with. Much of the world simply does not have a bail system (see [this Quora answer on bail flaws](https://www.quora.com/What-are-some-major-flaws-with-the-bail-system-across-the-world/answer/Steven-Haddock).
 
-Before we talk about [my idea](#), let's recap [what bail is](#what-is-bail) and then talk about [the problem with bail](#).
+Before we talk about [my idea](#what-is-my-idea), let's recap [what bail is](#what-is-bail) and then talk about [the problem with bail](#what-is-the-problem-with-bail).
 
 ![Cash bail cover image](/images/bail.png)
 
@@ -38,7 +38,7 @@ The [8th Amendment of the Constitution of the United States of America](https://
 
 > ### AMENDMENT VIII
 >
-> *Excessive bail shall not be required*, nor excessive fines imposed, nor cruel and unusual punishments inflicted.
+> **Excessive bail shall not be required**, nor excessive fines imposed, nor cruel and unusual punishments inflicted.
 
 (Emphasis above is mine.)
 
@@ -54,7 +54,7 @@ With cash bail, the money is returned to the defendant, assuming they make it to
 
 When the defendant is held in jail pending a court case, the time spent cannot be returned to the defendant. It's simply physically impossible.
 
-However, if bail has been set, then whoever set the bail (typically a judge) has determined **that the value of the time served is equal to the amount of bail set**.
+However, if bail has been set, then whoever set the bail (typically a judge) has determined *that the value of the time served is equal to the amount of bail set*.
 
 Therefore I propose that bail be returned for those that were unable to pay and had to await trial in jail.
 
