@@ -18,6 +18,9 @@ collections:
   redirects:
     output: true
     permalink: /:name/
+  tools:
+    output: true
+    permalink: /:path/
     
 defaults:
   - scope:
@@ -30,6 +33,11 @@ defaults:
       type: "redirects"
     values:
       layout: "redirect"
+  - scope:
+      path: ""
+      type: "tools"
+    values:
+      layout: "tool"
 
 navlinks:
   - text: Home

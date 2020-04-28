@@ -21,7 +21,7 @@
     <a href="{{ site.url }}/sitemap/">Sitemap</a>
   </span>
   <span>Tools:
-    {% assign tools = site.pages | where_exp: "page", "page.path contains 'tools/'" %}{% for tool in tools %}<a href="{{ site.url }}{{ tool.url }}">{{ tool.title }}</a>{% endfor %}
+    {% for tool in site.tools %}<a href="{{ site.url }}{{ tool.url }}">{{ tool.title }}</a>{% endfor %}
   </span>
   </div>
 </footer>

@@ -1,7 +1,5 @@
 ---
-layout: tool
 title: Ohio Sample Ballot Links by County
-permalink: /tools/ohio-sample-ballot-links-by-county/
 share: true
 ---
 

@@ -23,8 +23,8 @@ permalink: /sitemap/
 
 ## Tools
 
-{% assign pages = site.pages | where_exp: "page", "page.path contains 'tools/'" %}{% for page in pages %}
-* [{{ page.title }}]({{ site.url }}{{page.url}}){% endfor %}
+{% for tool in site.tools %}
+* [{{ tool.title }}]({{ site.url }}{{ tool.url }}){% endfor %}
 
 ## Data
 
