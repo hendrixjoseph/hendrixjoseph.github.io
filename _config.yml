@@ -15,13 +15,21 @@ collections:
   referrals:
     output: true
     permalink: /:name/
+  redirects:
+    output: true
+    permalink: /:name/
     
 defaults:
   - scope:
       path: ""
       type: "referrals"
     values:
-      layout: "referral"
+      layout: "redirect"
+  - scope:
+      path: ""
+      type: "redirects"
+    values:
+      layout: "redirect"
 
 navlinks:
   - text: Home

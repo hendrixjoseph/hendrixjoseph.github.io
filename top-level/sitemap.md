@@ -13,8 +13,8 @@ permalink: /sitemap/
 
 ## Redirects
 
-{% assign pages = site.pages | where_exp: "page", "page.path contains 'redirect/'" %}{% for page in pages %}
-* [{{ page.title }}]({{ site.url }}{{page.url}}){% endfor %}
+{% for redirect in site.redirects %}
+* [{{ redirect.title }}]({{ site.url }}{{ redirect.url }}){% endfor %}
 
 ## RSS Feeds
 
