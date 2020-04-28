@@ -38,12 +38,12 @@ I felt the stars had no symbolism or purpose, as well as just looking awkward, s
 ![The Flag of Huber Heights, Ohio with the stars removed.](/images/flag/huber-heights/my-huber-heights-2.png)
 *The Flag of Huber Heights, Ohio with the stars removed.*
 
-Next, I felt that the wide border around the two H's (aches?) made the flag too complex, so I removed them (or made them the same shade of green as the H's):
+Next, I felt that the white border around the two H's (aches?) made the flag too complex, so I removed them (or made them the same shade of green as the H's):
 
 ![The Flag of Huber Heights, Ohio with no white border around the H's.](/images/flag/huber-heights/my-huber-heights-3.png)
 *The Flag of Huber Heights, Ohio with no white border around the H's.*
 
-I think that looks fine, but I also wanted to play with the colors a bit. I changed the colors to match [the hex colors of the Flag of the United States based on the discussion on Wikimedia](https://commons.wikimedia.org/wiki/File_talk:Flag_of_the_United_States.svg#Color_specifications_2):
+I think that looks fine, but I also wanted to play with the colors a bit. I changed the colors to match [the hex colors of the Flag of the United States based on this discussion on Wikimedia](https://commons.wikimedia.org/wiki/File_talk:Flag_of_the_United_States.svg#Color_specifications_2):
 
 ![The Flag of Huber Heights, Ohio in Red, White, and Blue](/images/flag/huber-heights/my-huber-heights-4.png)
 *The Flag of Huber Heights, Ohio in Red, White, and Blue*
