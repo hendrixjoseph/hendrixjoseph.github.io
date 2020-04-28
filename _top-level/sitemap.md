@@ -19,7 +19,7 @@ permalink: /sitemap/
 ## RSS Feeds
 
 {% for rss in site.rss %}
-* [{{ rss.url }}]({{ rss.url }}{{ rss.url }}){% endfor %}
+* [{{ rss.url }}]({{ site.url }}{{ rss.url }}){% endfor %}
 
 ## Tools
 
