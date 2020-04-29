@@ -24,7 +24,7 @@ I was able to read ten different books to my son (some multiple times):
 * [Touch and Feel Wild Animals](https://www.abebooks.com/products/isbn/9780789429186/22638871479)
 * 1-2-3 Count-Down Book: A Box of Puppies (ISBN 978-1-4351-3335-8)
 
-I was able to find each of the books faily easily on the Internet except for that last one. Searching [Google for the ISBN 9781435133358](https://www.google.com/search?q=9781435133358) gave me one result. It looks as if the result is from a library search engine called [WorldCat](http://boysen.berry.edu/), however, it lists the name of the books as *[A box full of puppies](http://boysen.berry.edu/title/box-full-of-puppies/oclc/773365455)* (including the improper case) even though the book I have doesn't have the word "full" in it:
+I was able to find each of the books fairly easily on the Internet except for that last one. Searching [Google for the ISBN 9781435133358](https://www.google.com/search?q=9781435133358) gave me one result. It looks as if the result is from a library search engine called [WorldCat](https://web.archive.org/web/20190918123516/http://boysen.berry.edu/), however, it lists the name of the books as *[A box full of puppies](https://web.archive.org/web/20190407010230/http://boysen.berry.edu/title/box-full-of-puppies/oclc/773365455)* (including the improper case) even though the book I have doesn't have the word "full" in it:
 
 ![1-2-3 Count-Down Book: A Box of Puppies](/images/books/a-box-of-puppies.jpg)
 *1-2-3 Count-Down Book: A Box of Puppies (ISBN 978-1-4351-3335-8)*

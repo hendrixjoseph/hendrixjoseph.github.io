@@ -53,8 +53,6 @@ Back in the day, you may have found yourself doing the dishes, but technically t
 ![Utlity Lines by Pexels from Pixabay](/images/utility-lines.jpg)
 *Image by [Pexels](https://pixabay.com/users/Pexels-2286921/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1868352) from [Pixabay](https://pixabay.com/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1868352)*
 
-Image by <a href="https://pixabay.com/users/Pexels-2286921/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1868352">Pexels</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1868352">Pixabay</a>
-
 #### How is it debt?
 
 Most utility bills - water, electricity, gas, phone - are paid based on the previous month's use (or some other time frame). This means you're paying for services already rendered. The only alternative is to prepay utilities (in which case it becomes a debt owed to you). I'm don't know of any home utilities that are prepaid, although I know budget billing is a thing. Prepaid cell phone plans are pretty popular.
