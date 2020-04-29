@@ -20,7 +20,7 @@ collections:
     permalink: /:name/
   tools:
     output: true
-    permalink: /:path/
+    permalink: /:collection/:path/
   top-level:
     output: true
     permalink: /:name/
