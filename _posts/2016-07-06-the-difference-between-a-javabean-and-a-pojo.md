@@ -37,8 +37,8 @@ Oh, and why is it called a bean? I have no source for this, but I believe it’s
 
 Further reading:
 
-* [JavaBeans vs Spring beans vs POJOs](http://www.shaunabram.com/beans-vs-pojos/)
-* [JavaBeans FAQ: General Questions](http://www.oracle.com/technetwork/java/javase/faq-135947.html)
+* [JavaBeans vs Spring beans vs POJOs](https://www.shaunabram.com/beans-vs-pojos/)
+* [JavaBeans FAQ: General Questions](https://web.archive.org/web/20181012182455/https://www.oracle.com/technetwork/java/javase/faq-135947.html)
 * [Plain Old Java Object, Wikipedia](https://en.wikipedia.org/wiki/Plain_Old_Java_Object)
 * [JavaBeans, Wikipedia](https://en.wikipedia.org/wiki/JavaBeans)
 * [What is the difference between a JavaBean and a POJO?, StackOverflow discussion](https://stackoverflow.com/questions/1394265/what-is-the-difference-between-a-javabean-and-a-pojo)
