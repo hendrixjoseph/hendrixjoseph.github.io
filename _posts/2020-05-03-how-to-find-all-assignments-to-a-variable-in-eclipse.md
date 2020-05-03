@@ -3,7 +3,7 @@ layout: post
 title: How To Find All Assignments to a Variable in Eclipse
 tags: [java, programming]
 keywords: [eclipse, call hierarchy, write access, find every assignment, find all assignments]
-hashtags: [java, android]
+hashtags: [java, eclipse]
 image: /images/eclipse/call-hierarchy-view-menu.png
 ---
 
