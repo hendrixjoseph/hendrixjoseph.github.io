@@ -50,7 +50,7 @@ The largest fund I looked at - [VTWAX](https://investor.vanguard.com/mutual-fund
 
 So I made a [Tamper Monkey script](https://github.com/hendrixjoseph/FundVenn/blob/master/VanguardMarketScraper.js) to scrape the fund contents for me:
 
-{% highlight javascript %}
+```javascript
 // ==UserScript==
 // @name         Vanguard Market Scraper
 // @namespace    https://www.joehxblog.com
@@ -91,7 +91,10 @@ So I made a [Tamper Monkey script](https://github.com/hendrixjoseph/FundVenn/blo
         $(dataRow).slice(0,30).each(read);
 
         let filecontents = array.reduce((total, item) => total + item + "\n");
-        let filename = window.location.pathname.replace("/mutual-funds/profile/overview/", "").replace("/portfolio-holdings", "") + ".txt";
+        let filename = window.location.pathname
+							.replace("/mutual-funds/profile/overview/", "")
+							.replace("/portfolio-holdings", "")
+							+ ".txt";
 
         let givemeabreak = document.createElement('br');
         let hiddenElement = document.createElement('a');
@@ -106,7 +109,7 @@ So I made a [Tamper Monkey script](https://github.com/hendrixjoseph/FundVenn/blo
         console.log(filecontents);
     });
 })();
-{% endhighlight %}
+```
 
 To compute the intersections, I wrote a two-class Java program using [Google Guava](https://github.com/google/guava)'s Sets utility class.
 
@@ -114,7 +117,9 @@ I only needed two methods - [Sets.intersection](https://guava.dev/releases/snaps
 
 The two classes I wrote are both available on GitHub, but for completeness sake, they are also listed below:
 
-{% highlight java %}
+### FundVenn.java
+
+```java
 package hendrixjoseph;
 
 import java.io.File;
@@ -148,18 +153,25 @@ public class FundVenn {
 	}
 
 	public Set<Fund> readFiles(File[] files) {
-		return Arrays.stream(files).map(Fund::new).collect(Collectors.toSet());
+		return Arrays.stream(files)
+					 .map(Fund::new)
+					 .collect(Collectors.toSet());
 	}
 
 	public Set<Fund> compute() {
 		Set<Set<Fund>> combos = Sets.powerSet(funds);
 
-		return combos.stream().filter(funds -> funds.size() > 0).map(Fund::new).collect(Collectors.toSet());
+		return combos.stream()
+					 .filter(funds -> funds.size() > 0)
+					 .map(Fund::new)
+					 .collect(Collectors.toSet());
 	}
 }
-{% endhighlight %}
+```
 
-{% highlight java %}
+### Fund.java
+
+```java
 package hendrixjoseph;
 
 import java.io.File;
@@ -233,7 +245,7 @@ public class Fund {
 		return this.name + " " + this.size();
 	}
 }
-{% endhighlight %}
+```
 
 To generate the charts, I manually entered the data into an [online Venn Diagram Maker](https://www.meta-chart.com/venn#/). This was somewhat tedious, so if I do any more analysis I may have to automate this process, so if you know of a decent Java Venn Diagram generator let me know in the comments at the bottom of this post.
 
