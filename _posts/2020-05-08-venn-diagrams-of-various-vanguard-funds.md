@@ -92,9 +92,9 @@ So I made a [Tamper Monkey script](https://github.com/hendrixjoseph/FundVenn/blo
 
         let filecontents = array.reduce((total, item) => total + item + "\n");
         let filename = window.location.pathname
-							.replace("/mutual-funds/profile/overview/", "")
-							.replace("/portfolio-holdings", "")
-							+ ".txt";
+                             .replace("/mutual-funds/profile/overview/", "")
+                             .replace("/portfolio-holdings", "")
+                             + ".txt";
 
         let givemeabreak = document.createElement('br');
         let hiddenElement = document.createElement('a');
@@ -131,41 +131,41 @@ import java.util.stream.Collectors;
 import com.google.common.collect.Sets;
 
 public class FundVenn {
-	public static void main(String... strings) {
+    public static void main(String... strings) {
 
-		var vanguardVenn = new FundVenn("data/");
-		var sets = vanguardVenn.compute();
+        var vanguardVenn = new FundVenn("data/");
+        var sets = vanguardVenn.compute();
 
-		sets.stream()
-		.sorted((fund1, fund2) -> fund1.name.compareTo(fund2.name))
-		.sorted((fund1, fund2) -> fund1.name.length() - fund2.name.length())
-		.forEach(System.out::println);
-	}
+        sets.stream()
+            .sorted((fund1, fund2) -> fund1.name.compareTo(fund2.name))
+            .sorted((fund1, fund2) -> fund1.name.length() - fund2.name.length())
+            .forEach(System.out::println);
+    }
 
-	Set<Fund> funds = new HashSet<>();
+    Set<Fund> funds = new HashSet<>();
 
-	public FundVenn(String dataDir) {
-		this(new File(dataDir));
-	}
+    public FundVenn(String dataDir) {
+        this(new File(dataDir));
+    }
 
-	public FundVenn(File dataDir)  {
-		funds.addAll(readFiles(dataDir.listFiles()));
-	}
+    public FundVenn(File dataDir)  {
+        funds.addAll(readFiles(dataDir.listFiles()));
+    }
 
-	public Set<Fund> readFiles(File[] files) {
-		return Arrays.stream(files)
-					 .map(Fund::new)
-					 .collect(Collectors.toSet());
-	}
+    public Set<Fund> readFiles(File[] files) {
+        return Arrays.stream(files)
+                     .map(Fund::new)
+                     .collect(Collectors.toSet());
+    }
 
-	public Set<Fund> compute() {
-		Set<Set<Fund>> combos = Sets.powerSet(funds);
+    public Set<Fund> compute() {
+        Set<Set<Fund>> combos = Sets.powerSet(funds);
 
-		return combos.stream()
-					 .filter(funds -> funds.size() > 0)
-					 .map(Fund::new)
-					 .collect(Collectors.toSet());
-	}
+        return combos.stream()
+                     .filter(funds -> funds.size() > 0)
+                     .map(Fund::new)
+                     .collect(Collectors.toSet());
+    }
 }
 ```
 
@@ -185,65 +185,65 @@ import java.util.stream.Collectors;
 import com.google.common.collect.Sets;
 
 public class Fund {
-	Set<String> assets = new HashSet<>();
-	String name;
+    Set<String> assets = new HashSet<>();
+    String name;
 
-	public Fund(Set<Fund> funds) {
-		this(comboName(funds), intersectFunds(funds));
-	}
+    public Fund(Set<Fund> funds) {
+        this(comboName(funds), intersectFunds(funds));
+    }
 
-	public Fund(File file) {
-		this(trimFilename(file), readFile(file));
-	}
+    public Fund(File file) {
+        this(trimFilename(file), readFile(file));
+    }
 
-	private static Set<String> intersectFunds(Set<Fund> funds) {
-		return funds.stream()
-					.map(fund -> fund.assets)
-					.reduce((soFar, thisOne) -> Sets.intersection(soFar, thisOne))
-					.get();
-	}
+    private static Set<String> intersectFunds(Set<Fund> funds) {
+        return funds.stream()
+                    .map(fund -> fund.assets)
+                    .reduce((soFar, thisOne) -> Sets.intersection(soFar, thisOne))
+                    .get();
+    }
 
-	private static String comboName(Set<Fund> funds) {
-		return funds.stream()
-				.map(Fund::getName)
-				.sorted((name1, name2) -> name1.compareTo(name2))
-				.reduce((newName, name) -> newName + " ^ " + name)
-				.get();
-	}
+    private static String comboName(Set<Fund> funds) {
+        return funds.stream()
+                    .map(Fund::getName)
+                    .sorted((name1, name2) -> name1.compareTo(name2))
+                    .reduce((newName, name) -> newName + " ^ " + name)
+                    .get();
+    }
 
-	private static Set<String> readFile(File file) {
-		try {
-			return Files.readAllLines(file.toPath())
-					.stream().filter(string -> !string.isEmpty())
-					.map(string -> string.replaceAll(" Class .+$", ""))
-					.collect(Collectors.toSet());
-		} catch (IOException e) {
-			e.printStackTrace();
-			return Collections.emptySet();
-		}
-	}
+    private static Set<String> readFile(File file) {
+        try {
+            return Files.readAllLines(file.toPath())
+                        .stream().filter(string -> !string.isEmpty())
+                        .map(string -> string.replaceAll(" Class .+$", ""))
+                        .collect(Collectors.toSet());
+        } catch (IOException e) {
+            e.printStackTrace();
+            return Collections.emptySet();
+        }
+    }
 
-	private static String trimFilename(File file) {
-		return file.getName().replaceAll("\\.txt$", "").toUpperCase();
-	}
+    private static String trimFilename(File file) {
+        return file.getName().replaceAll("\\.txt$", "").toUpperCase();
+    }
 
-	public Fund(String name, Set<String> assets) {
-		this.name = name;
-		this.assets.addAll(assets);
-	}
+    public Fund(String name, Set<String> assets) {
+        this.name = name;
+        this.assets.addAll(assets);
+    }
 
-	public int size() {
-		return this.assets.size();
-	}
+    public int size() {
+        return this.assets.size();
+    }
 
-	public String getName() {
-		return this.name;
-	}
+    public String getName() {
+        return this.name;
+    }
 
-	@Override
-	public String toString() {
-		return this.name + " " + this.size();
-	}
+    @Override
+    public String toString() {
+        return this.name + " " + this.size();
+    }
 }
 ```
 
