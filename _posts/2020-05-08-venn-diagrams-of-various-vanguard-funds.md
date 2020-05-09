@@ -14,7 +14,7 @@ These funds? The Vanguard 500 Index Fund (VFIAX), the Vanguard Real Estate Index
 
 And what better way to see the overlap of these funds than with [Venn Diagrams](https://en.wikipedia.org/wiki/Venn_diagram)?
 
-But before I present those beautiful, beautiful diagrams, let me lay down the methodology and some code.
+But before I present those beautiful, beautiful diagrams, let me lay down the methodology and some code. Feel free to [skip to the results](#the-data-and-the-venn-diagrams) if you want.
 
 (By the way, the answer to the question "Does Vanguard's Total Stock Market Fund include REITs?" is "Yes.")
 
@@ -33,7 +33,7 @@ This fund has one stock in it - Stock E. Therefore, this intersection fund - Fun
 So my data for these hypothetical funds looks like the following:
 
 Fund | Size
---- | ---
+--- | ---:
 Fund A | 5
 Fund B | 4
 Fund A ^ Fund B | 1
@@ -256,7 +256,7 @@ This is the results of the first run:
 ![Venn Diagram of VFIAX ^ VGSLX ^ VRTPX ^ VTSAX ^ VTWAX](/images/fund-venn-diagrams/vanguard-1.png)
 
 Fund | Size
---- | ---
+--- | ---:
 VFIAX | 507
 VGSLX | 182
 VRTPX | 179
@@ -294,7 +294,7 @@ I noticed that in some of the funds there were "Class A Stocks", "Class B Stocks
 ![Venn Diagram of VFIAX ^ VGSLX ^ VRTPX ^ VTSAX ^ VTWAX](/images/fund-venn-diagrams/vanguard-1.png)
 
 Fund | Size
---- | ---
+--- | ---:
 VFIAX | 500
 VGSLX | 181
 VRTPX | 179
