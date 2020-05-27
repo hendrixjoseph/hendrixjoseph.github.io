@@ -124,10 +124,10 @@ I also found this video from a speech she gave during her 1996 nomination for Vi
 
 Fun fact: if you notice, the logo Jorgensen used while seeking the vice-presidential nomination in the video above is nearly identical to the logo she used while seeking the presidential nomination:
 
-[Jorgensen for President logo.](/images/2020-libertarian-national-convention/jorgensen-for-president-logo.png)
+![Jorgensen for President logo.](/images/2020-libertarian-national-convention/jorgensen-for-president-logo.png)
 *Jorgensen for President logo.*
 
-[Jorgensen for Vice President logo.](/images/2020-libertarian-national-convention/jorgensen-for-vice-president-logo.png)
+![Jorgensen for Vice President logo.](/images/2020-libertarian-national-convention/jorgensen-for-vice-president-logo.png)
 *Jorgensen for Vice President logo.*
 
 ### Spike Cohen, Libertarian for Vice President 2020
