@@ -105,7 +105,7 @@ I'm not going to go too into detail about our Presidential and Vice-Presidential
 ### Jo Jorgensen, Libertarian for President 2020
 
 ![Profile image of Jo Jorgensen.](/images/2020-libertarian-national-convention/jo-jorgenson.jpg)
-*Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Jo_Jorgenson.jpg)
+*Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Jo_Jorgenson.jpg)*
 
 * [Official Website for Jo Jorgensen Libertarian for President 2020](https://joj2020.com/)
 * [Libertarian Party Nominates Jo Jorgensen](https://lpo.org/libertarian-party-nominates-jo-jorgensen/)
@@ -133,7 +133,7 @@ Fun fact: if you notice, the logo Jorgensen used while seeking the vice-presiden
 ### Spike Cohen, Libertarian for Vice President 2020
 
 ![Profile image of Spike Cohen.](/images/2020-libertarian-national-convention/spike-cohen.png)
-*Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Spike_Cohen_Libertarian_VP_2020.png)
+*Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Spike_Cohen_Libertarian_VP_2020.png)*
 
 * [Official Website for Spike Cohen Libertarian for Vice President 2020](https://verminsupreme2020.com/spike/)
 * [Libertarian Party Picks Spike Cohen as Its Vice-Presidential Candidate](https://reason.com/2020/05/24/libertarian-party-picks-spike-cohen-as-its-vice-presidential-candidate/)
@@ -146,7 +146,7 @@ And the official social media accounts:
 
 I'll sign off this post leaving donations (and join, where applicable) links for Jo Jorgensen, the national Libertarian Party, and the Libertarian Party in Ohio:
 
-* [Donate to the Presidential campaign directly] (https://joj2020.com/contribute-to-jo/)
+* [Donate to the Presidential campaign directly](https://joj2020.com/contribute-to-jo/)
 * [Donate to the Libertarian Party](https://www.lp.org/donate)
 * [Donate to the Libertarian Party of Ohio](https://lpo.org/donate/)
 
