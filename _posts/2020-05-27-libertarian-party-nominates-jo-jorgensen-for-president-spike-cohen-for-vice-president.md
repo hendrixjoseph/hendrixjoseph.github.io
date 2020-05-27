@@ -116,7 +116,7 @@ I'm not going to go too into detail about our Presidential and Vice-Presidential
 Also, there are the official social media accounts:
 
 * [Jo Jorgensen for President (Facebook)](https://www.facebook.com/JoJorgensen2020/)
-* [Jo Jorgensen on Twitter](https://twitter.com/Jo4liberty)
+* [Jo Jorgensen on Twitter](https://twitter.com/Jorgensen4POTUS)
 
 I also found this video from a speech she gave during her 1996 nomination for Vice President:
 
