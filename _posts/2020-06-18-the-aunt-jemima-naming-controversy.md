@@ -22,19 +22,7 @@ So what's wrong with "Aunt" Jemina and "Uncle" Ben? At first glance, I didn't se
 
 This [Facebook post from Chris Spangle](https://www.facebook.com/chris.spangle/posts/10105246056981824) gives some historical context to the "Aunt" and "Uncle" labels - particularly for Black people:
 
-![Facebook post from Chris Spangle:
-
-A cop kills someone: I need the full context to make a decision on this.
-
-Aunt Jemimah gets discontinued: THEY'RE ERASING US!
-
-The context here is that black Americans weren't called Mr. or Mrs. because it denoted status in America. (Those titles are short for master, btw.) One of the few jobs black men and women could get, especially in the south, was as a servant for wealthy families. They were called aunt and uncle. We aren't talking the 1800s... Think 1960s...
-
-Middle-class whites like myself never think about the meaning or the context behind images like Uncle Ben or Aunt Jemimah. We don't have to. Black people do because there are still a lot of ghosts in our society from the past. Some members of the black community find it offensive due to understanding the full context that most of us don't.
-
-A band-aid labeled "flesh color" white just matches our skin tone. What about a black or brown five-year-old kid? A band-aid close to their skin tone or a face in a commercial that matches theirs is a subtle message that they belong to our society and they're not "others."
-
-Removing these things is an act of empathy and respect. I am not sure how this is a controversy once the full context is understood.](/images/black-lives-matter/chris-spangle-uncle-aunt-facebook-post.png)
+![Facebook post from Chris Spangle: A cop kills someone: I need the full context to make a decision on this. Aunt Jemimah gets discontinued: THEY'RE ERASING US! The context here is that black Americans weren't called Mr. or Mrs. because it denoted status in America. (Those titles are short for master, btw.) One of the few jobs black men and women could get, especially in the south, was as a servant for wealthy families. They were called aunt and uncle. We aren't talking the 1800s... Think 1960s... Middle-class whites like myself never think about the meaning or the context behind images like Uncle Ben or Aunt Jemimah. We don't have to. Black people do because there are still a lot of ghosts in our society from the past. Some members of the black community find it offensive due to understanding the full context that most of us don't. A band-aid labeled "flesh color" white just matches our skin tone. What about a black or brown five-year-old kid? A band-aid close to their skin tone or a face in a commercial that matches theirs is a subtle message that they belong to our society and they're not "others." Removing these things is an act of empathy and respect. I am not sure how this is a controversy once the full context is understood.](/images/black-lives-matter/chris-spangle-uncle-aunt-facebook-post.png)
 
 That's right - if Aunt Jemina and Uncle Ben were not black, they might be known as "Mrs. Jemina" and "Mr. Ben." So we'd have "Mrs. Jemina Syrup" and "Mr. Ben's Rice." *It also gives you some context into [Uncle Tom](https://www.amazon.com/Uncle-Toms-Cabin-Harriet-Beecher-Stowe/dp/1508480125?tag=hendrixjoseph-20).*
 
