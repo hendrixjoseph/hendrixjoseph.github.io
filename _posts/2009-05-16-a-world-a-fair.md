@@ -4,6 +4,7 @@ title: A World A'Fair
 tags: [culture, old blog]
 keywords: [food]
 image: /images/covers/youtube/a-word-a-fair.png
+oldurl: https://hendrices.com/joesblog/index.php/2009/05/16/a_world_a_fair
 ---
 
 For the ultimate in foreign food and culture, go to [the Dayton A World A'Fair](http://www.aworldafair.org/). They do it about once a year.

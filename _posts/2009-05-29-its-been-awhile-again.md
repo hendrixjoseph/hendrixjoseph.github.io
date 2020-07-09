@@ -3,6 +3,7 @@ layout: post
 title: It's Been Awhile...(again)
 tags: [politics, old blog]
 keywords: [satire]
+oldurl: https://hendrices.com/joesblog/index.php/2009/05/29/it_s_been_awhile_again
 ---
 
 I haven’t posted in a while (no time travel excuse this time), so I’m going to just post a quick link:

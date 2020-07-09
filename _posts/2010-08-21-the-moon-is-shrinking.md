@@ -2,6 +2,7 @@
 layout: post
 title: The Moon is Shrinking!
 tags: [science, old blog]
+oldurl: https://www.hendrices.com/joesblog/index.php/2010/08/21/the_moon_is_shrinking
 ---
 
 From [AOL News](https://web.archive.org/web/20101124162026/http://www.aolnews.com/weird-news/article/moon-is-shrinking-nasa-images-reveal-geologic-faults-on-moons-surface/19601796?ncid=webmail):

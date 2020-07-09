@@ -3,6 +3,7 @@ layout: post
 title: The Problem with the "Evil Rich"
 tags: [politics, old blog]
 keywords: [rich, evil rich, government, government spending]
+oldurl: https://hendrices.com/joesblog/index.php/2009/04/22/the_problem_with_the_evil_rich
 ---
 
 In this era of massive government spending, a huge government deficit, untold amounts of consumer debt, and stories of layoffs after layoffs, some have come to wonder how those who have money achieved their wealth. Those some have come to the conclusion that the evil rich through trickery and deceit.
