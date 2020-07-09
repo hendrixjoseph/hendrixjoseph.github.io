@@ -2,6 +2,7 @@
 layout: post
 title: Painting the House
 tags: [culture, old blog]
+oldurl: https://www.hendrices.com/joesblog/index.php/2011/08/13/painting-the-house
 ---
 
 I’ve been living in a pink house since 2007. Well no more! I didn’t move - I painted my house the other day. Now I live in a brown house! The awesomest part is I only spent about $40 and it only took us maybe six hours? Just the better part of the afternoon. 

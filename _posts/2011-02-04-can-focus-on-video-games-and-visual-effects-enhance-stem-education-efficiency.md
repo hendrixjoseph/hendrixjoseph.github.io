@@ -3,7 +3,7 @@ layout: post
 title: Can focus on Video Games and Visual Effects enhance STEM education efficiency?
 tags: [video games, old blog]
 keywords: [stem]
-oldurl: http://www.hendrices.com/joesblog/index.php/2011/02/04/can-focus-on-video-games-and-visual-effe
+oldurl: https://www.hendrices.com/joesblog/index.php/2011/02/04/can-focus-on-video-games-and-visual-effe
 ---
 
 It's been a while since I posted something, so I thought I'd throw this up:
