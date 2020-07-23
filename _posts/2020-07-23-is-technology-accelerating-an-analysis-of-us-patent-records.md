@@ -56,7 +56,7 @@ A divisor of 10,709,050.
 
 Fortunately, I don't have to figure out what those numbers are - [Wolfram|Alpha figured out the divisors of 10,709,050](https://www.wolframalpha.com/input/?i=divisors+of+10709050) for me:
 
-![Screenshot of the Wolfram|Alpha results for divisors of 10,709,050](/images/patents/wolframalpha-divisors-of-10709050.png)
+![Screenshot of the Wolfram&vert;Alpha results for divisors of 10,709,050](/images/patents/wolframalpha-divisors-of-10709050.png)
 
 The two closest numbers to 67,160 are 38,942 and 97,355. 97,355 just felt "better" to me.
 
@@ -78,7 +78,7 @@ Instead, I approximated the time of year in decimal format with the following eq
 
 For the plots, I used scatter plots. For the patents per year, I used pivot tables.
 
-Oh, and [here's a link the the Excel sheet]().
+Oh, and [here's a link the the Excel sheet](/xlxs/patents.xlsx).
 
 ## Results
 
