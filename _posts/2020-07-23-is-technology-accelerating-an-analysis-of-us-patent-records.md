@@ -54,7 +54,7 @@ What I want to do is add numbers such that I'll reach 10,709,051. In other words
 
 A divisor of 10,709,050.
 
-Fortunately, I don't have to figure out what those numbers are - [Wolfram|Alpha figured out the divisors of 10,709,050](https://www.wolframalpha.com/input/?i=divisors+of+10709050) for me:
+Fortunately, I don't have to figure out what those numbers are - [Wolfram&vert;Alpha figured out the divisors of 10,709,050](https://www.wolframalpha.com/input/?i=divisors+of+10709050) for me:
 
 ![Screenshot of the Wolfram&vert;Alpha results for divisors of 10,709,050](/images/patents/wolframalpha-divisors-of-10709050.png)
 
