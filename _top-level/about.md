@@ -17,7 +17,7 @@ I've been creating content on the Internet since before some of my coworkers wer
 
 I learned HTML by viewing the source of various websites - most notably a website known as [RPGamer](https://rpgamer.com/).
 
-I've been programming since my age was in the single-digits. I started with MS-DOS batch files and eventually discovered that [QBasic](https://en.wikipedia.org/wiki/QBasic) came pre-installed on the computer I was using.
+I've been programming since my age was in the single-digits. I started with [MS-DOS batch files](https://en.wikipedia.org/wiki/Batch_file) and eventually discovered that [QBasic](https://en.wikipedia.org/wiki/QBasic) came pre-installed on the computer I was using.
 
 Today, I program in Java during the day. Sometimes at night, too.
 
