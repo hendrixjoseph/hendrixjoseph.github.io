@@ -5,10 +5,10 @@ title: R&eacute;sum&eacute; / CV
 
 ## Summary
 
-*	Highly proficient in a variety of Java technologies, including Java EE, GlassFish, JPA (Java Persistence API), JSF (Java ServerFaces), and Maven.
-*	Experienced in developing in all three of the major Java IDEs (Netbeans, Eclipse, and IntelliJ IDEA).
+* Highly proficient in a variety of Java technologies, including Java EE, GlassFish, JPA (Java Persistence API), JSF (Java ServerFaces), and Maven.
+* Experienced in developing in all three of the major Java IDEs (Netbeans, Eclipse, and IntelliJ IDEA).
 * Also highly proficient in SQL as well as web development in HTML, CSS, and JavaScript.
-*	Also knowledgeable in PHP, C/C++, MatLab, and R.
+* Also knowledgeable in PHP, C/C++, MatLab, and R.
 
 ## Work History
 
@@ -49,7 +49,7 @@ title: R&eacute;sum&eacute; / CV
 
 ### CompTIA Advanced Security Practitioner (CASP) | October 2, 2016
 
-* Verify: https://www.certmetrics.com/comptia/public/verification.aspx?code=XNJ0VR9GPLQEQ76Y
+* [Verify](https://www.certmetrics.com/comptia/public/verification.aspx?code=XNJ0VR9GPLQEQ76Y)
 * ![CompTIA Advanced Security Practitioner (CASP)](/images/certs/casp.png)
 
 ### Oracle 1Z0-803 - Java SE 7 Programmer I | September 2015
@@ -68,7 +68,9 @@ title: R&eacute;sum&eacute; / CV
 
 ### The Vandalia Toastmasters Club
 
-#### Club President | July 2019 - Present
+#### Vice President Membership / Vice President Public Relations | July 2020 - June 2021
+
+#### Club President | July 2019 - June 2020
 
 #### Vice President Public Relations | July 2018 - June 2019
 
