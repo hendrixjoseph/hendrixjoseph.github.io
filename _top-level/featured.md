@@ -18,6 +18,7 @@ Quoted on the following webpages:
 
 Mentioned on the following webpages:
 
+* [Mid-Year Goal Update in the Mess of 2020 - Financial Pilgrimage](https://www.financialpilgrimage.com/mid-year-goal-update/)
 * [Make Money Fast With A Side Hustle - Keeping Up with the Bulls](https://www.keepingupwiththebulls.com/introduction-to-side-hustles/)
 
 Listed in the following blog directories:
