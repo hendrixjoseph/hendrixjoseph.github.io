@@ -52,7 +52,8 @@ title: R&eacute;sum&eacute; / CV
 ### Family Tree database and web application
 
 * FamilyTree is a simple web application using JavaServerFaces, Java EE, and a SQL database to load, display, edit, and examine a family tree. It was initially created as a project for CS7700 Advanced Database Systems at Wright State, and is currently being used for CS7720 Data Mining at the same school.
-* [Hosted on GitHub](https://github.com/hendrixjoseph/FamilyTree)
+* [Hosted on GitHub.](https://github.com/hendrixjoseph/FamilyTree)
+* [Generated Documentation.](https://www.joehxblog.com/FamilyTree/)
 
 ## Education
 
