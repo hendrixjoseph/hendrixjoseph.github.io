@@ -1,4 +1,4 @@
 ---
 ---
 
-{"schemaVersion": 1,"label": "number of blog posts","message": "{{ site.posts | size }}","color": "green"}
+{"schemaVersion":1,"label":"number of blog posts","message":"{{ site.posts | size }}","color":"green","namedLogo":"rss"}
