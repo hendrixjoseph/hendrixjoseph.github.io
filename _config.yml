@@ -24,6 +24,9 @@ collections:
   top-level:
     output: true
     permalink: /:name/
+  tag-posts:
+    output: true
+    permalink: /:name/
   rss:
     output: true
     permalink: /:name:output_ext
