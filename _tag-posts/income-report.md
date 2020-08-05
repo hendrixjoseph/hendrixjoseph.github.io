@@ -1,5 +1,5 @@
 ---
 layout: tag_posts
-title: Income Report
+title: Posts with tag "income report"
 tag: income report
 ---
