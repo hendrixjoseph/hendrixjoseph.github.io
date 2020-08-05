@@ -26,7 +26,7 @@ collections:
     permalink: /:name/
   tag-posts:
     output: true
-    permalink: /:name/
+    permalink: /tags/:name/
   rss:
     output: true
     permalink: /:name:output_ext
