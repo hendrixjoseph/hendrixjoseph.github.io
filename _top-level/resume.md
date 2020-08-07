@@ -25,9 +25,9 @@ title: R&eacute;sum&eacute; / CV
 
 ### Air Force Institute of Technology | Computer Programmer / Research Assistant | Mar 2011 – May 2013
 
-* Generated 3D models from 2D imagery using the structure-from-motion (SfM) C/C++ library [Bundler](https://www.cs.cornell.edu/~snavely/bundler/)
-* Generated simulated images using [Blender](https://www.blender.org/)
-* Provided input on an AFIT student’s [graduate thesis](https://www.dtic.mil/dtic/tr/fulltext/u2/a557206.pdf)
+* Generated 3D models from 2D imagery using the structure-from-motion (SfM) C/C++ library [Bundler](https://www.cs.cornell.edu/~snavely/bundler/).
+* Generated simulated images using [Blender](https://www.blender.org/).
+* Provided input on an AFIT student’s [graduate thesis](https://www.dtic.mil/dtic/tr/fulltext/u2/a557206.pdf).
 
 ### Wright State University | Teacher's Assistant | September 2010 – June 2012
 
@@ -40,20 +40,20 @@ title: R&eacute;sum&eacute; / CV
 ### Tagger for Amazon Associates
 
 * Android App written in Java that allows Amazon Associates to tag Amazon URLs with their affiliate code in order to earn affiliate revenue.
-* [Hosted on GitHub.](https://github.com/hendrixjoseph/tagger)
-* [Available in the Google Play Store.](https://play.google.com/store/apps/details?id=com.joehxblog.tagger)
+* [Hosted on GitHub](https://github.com/hendrixjoseph/tagger).
+* [Available in the Google Play Store](https://play.google.com/store/apps/details?id=com.joehxblog.tagger).
 
 ### AutoPhotoSync for Google Photos
 
 * AutoPhotoSync is a desktop Java application. It runs in the system tray (known as the Notification Area in Windows) with a simplistic GUI.
-* [Hosted on GitHub.](https://github.com/hendrixjoseph/AutoPhotoSync)
-* [Blog post introducting AutoPhotoSync.](https://www.joehxblog.com/introducing-autophotosync-for-google-photos/)
+* [Hosted on GitHub](https://github.com/hendrixjoseph/AutoPhotoSync).
+* [Blog post introducting AutoPhotoSync](https://www.joehxblog.com/introducing-autophotosync-for-google-photos/).
 
 ### Family Tree database and web application
 
 * FamilyTree is a simple web application using JavaServerFaces, Java EE, and a SQL database to load, display, edit, and examine a family tree. It was initially created as a project for CS7700 Advanced Database Systems at Wright State, and is currently being used for CS7720 Data Mining at the same school.
-* [Hosted on GitHub.](https://github.com/hendrixjoseph/FamilyTree)
-* [Generated Documentation.](https://www.joehxblog.com/FamilyTree/)
+* [Hosted on GitHub](https://github.com/hendrixjoseph/FamilyTree).
+* [Generated Documentation](https://www.joehxblog.com/FamilyTree/).
 
 ## Education
 
