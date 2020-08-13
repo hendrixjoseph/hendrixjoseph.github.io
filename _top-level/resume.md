@@ -40,19 +40,19 @@ title: R&eacute;sum&eacute; / CV
 ### Tagger for Amazon Associates
 
 * Android App written in Java that allows Amazon Associates to tag Amazon URLs with their affiliate code in order to earn affiliate revenue.
-* [Hosted on GitHub](https://github.com/hendrixjoseph/tagger).
+* [Source hosted on GitHub](https://github.com/hendrixjoseph/tagger).
 * [Available in the Google Play Store](https://play.google.com/store/apps/details?id=com.joehxblog.tagger).
 
 ### AutoPhotoSync for Google Photos
 
 * AutoPhotoSync is a desktop Java application. It runs in the system tray (known as the Notification Area in Windows) with a simplistic GUI.
-* [Hosted on GitHub](https://github.com/hendrixjoseph/AutoPhotoSync).
-* [Blog post introducting AutoPhotoSync](https://www.joehxblog.com/introducing-autophotosync-for-google-photos/).
+* [Source hosted on GitHub](https://github.com/hendrixjoseph/AutoPhotoSync).
+* [Blog post introducing AutoPhotoSync](https://www.joehxblog.com/introducing-autophotosync-for-google-photos/).
 
 ### Family Tree database and web application
 
 * FamilyTree is a simple web application using JavaServerFaces, Java EE, and a SQL database to load, display, edit, and examine a family tree. It was initially created as a project for CS7700 Advanced Database Systems at Wright State, and is currently being used for CS7720 Data Mining at the same school.
-* [Hosted on GitHub](https://github.com/hendrixjoseph/FamilyTree).
+* [Source hosted on GitHub](https://github.com/hendrixjoseph/FamilyTree).
 * [Generated Documentation](https://www.joehxblog.com/FamilyTree/).
 
 ## Education
