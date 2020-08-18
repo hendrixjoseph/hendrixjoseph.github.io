@@ -16,7 +16,7 @@ However, at first glance, it doesn't seem this is possible. Actually, there are 
 
 The first way to create new directories is when creating new files. When you're naming a new file on the GitHub web interface, if you type forward-slash ("/") in the filename, it assumes that part is a new folder:
 
-{% include youtube.html param="z2WwC6jlMXw?t=4" %}
+{% include youtube.html param="z2WwC6jlMXw?start=4&end=33" %}
 
 What I've done in the past is create a dummy "deleteme.txt" file, and then upload any binary files to GitHub in the newly created folder. Then, once I've uploaded my files, I delete the dummy file.
 
@@ -36,13 +36,13 @@ It seems that the directory I'm uploading to is encoded in the URL. So I tried c
 
 It worked beautifully, and I was able to upload to a brand new directory. In other words, I was able to create new directories in my GitHub repository by modifying the URL:
 
-{% include youtube.html param="z2WwC6jlMXw?t=72" %}
+{% include youtube.html param="z2WwC6jlMXw?start=33&end=72" %}
 
 ## Drag n Dropping
 
 The final method is by far the easiest. Whereas the first requires creating a to-be-deleted file, and the second requires some typing in the URL, this method you simply drag a directory with all its contents into to web interface:
 
-{% include youtube.html param="z2WwC6jlMXw?t=4" %}
+{% include youtube.html param="z2WwC6jlMXw?start=72" %}
 
 Some caveats with this method, however. The directory cannot be empty, and text files need to be non-empty.
 
