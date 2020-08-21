@@ -11,6 +11,11 @@ permalink: /sitemap/
 * [Sitemap.xml](/sitemap.xml)
 * [robots.txt](/robots.txt)
 
+## Individual Tag Pages
+
+{% for tag-posts in site.tag-posts %}
+* [{{ tag-posts.title }}]({{ site.url }}{{ tag-posts.url }}){% endfor %}
+
 ## Redirects
 
 {% for redirect in site.redirects %}
