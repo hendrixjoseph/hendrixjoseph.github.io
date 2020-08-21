@@ -8,10 +8,10 @@ csses: [/css/tags.css]
 {% assign tags = site.tags | sort %}
 <h2 id="table-of-contents">table of contents</h2>
 <ul>{% for tag in tags %}
-<li><a href="#{{ tag[0] | replace: ' ', '-' }}">{{ tag[0] }}</a> ({{ tag[1] | size }} posts)</li>
+<li><a href="#{{ tag[0] | slugify }}">{{ tag[0] }}</a> ({{ tag[1] | size }} posts)</li>
 {% endfor %}</ul>
 {% for tag in tags %}
-<h2 id="{{ tag[0] | replace: ' ', '-' }}">{{ tag[0] }} ({{ tag[1] | size }} posts)</h2>
+<h2 id="{{ tag[0] | slugify }}">{{ tag[0] }} ({{ tag[1] | size }} posts)</h2>
 <ul>
 {% for post in tag[1] %}<li>
 <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
