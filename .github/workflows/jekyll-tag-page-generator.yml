@@ -11,4 +11,4 @@ jobs:
       - uses: hendrixjoseph/jekyll-tag-page-generator-action@master
         with:
           source: "https://www.joehxblog.com/data/tags.json"
-          destination: "./tags/"
+          destination: "./_tag-posts/"
