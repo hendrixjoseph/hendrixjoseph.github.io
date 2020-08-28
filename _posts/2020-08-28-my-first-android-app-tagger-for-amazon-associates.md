@@ -46,10 +46,10 @@ I do have additional ideas to improve the app, which I've begun documenting on [
 
 Right now I've identified five additional improvement ideas:
 
-1. [don't duplicate history item when sharing from history](https://github. com/hendrixjoseph/tagger/issues/1)
-2. [allow deletion of individual history item](https://github. com/hendrixjoseph/tagger/issues/2)
-3. [share "ReceiveActivity" shouldn't be full screen](https://github. com/hendrixjoseph/tagger/issues/3)
-4. [identify additional app stores](https://github. com/hendrixjoseph/tagger/issues/4)
-5. [create & write privacy policy](https://github. com/hendrixjoseph/tagger/issues/5)
+1. [don't duplicate history item when sharing from history](https://github.com/hendrixjoseph/tagger/issues/1)
+2. [allow deletion of individual history item](https://github.com/hendrixjoseph/tagger/issues/2)
+3. [share "ReceiveActivity" shouldn't be full screen](https://github.com/hendrixjoseph/tagger/issues/3)
+4. [identify additional app stores](https://github.com/hendrixjoseph/tagger/issues/4)
+5. [create & write privacy policy](https://github.com/hendrixjoseph/tagger/issues/5)
 
 Feel free to add an issue if you have any ideas, or comment below if you don't have a GitHub account.
