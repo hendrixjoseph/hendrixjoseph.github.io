@@ -30,7 +30,7 @@ I named this app Tagger. I also gave it an ugly icon:
 
 Here's a quick animated gif of example usage:
 
-![Example usage](https://github.com/hendrixjoseph/tagger/blob/master/app-store-stuff/example-usage.gif)
+![Example usage](https://raw.githubusercontent.com/hendrixjoseph/tagger/master/app-store-stuff/example-usage.gif)
 
 ## Availablity
 
