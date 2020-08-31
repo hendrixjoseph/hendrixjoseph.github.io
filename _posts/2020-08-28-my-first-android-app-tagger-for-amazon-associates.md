@@ -3,7 +3,7 @@ layout: post
 title: "My First Android App: Tagger for Amazon Associates"
 tags: [android]
 keywords: [tagger, amazon, associate, associates, affiliate, affiliates, amazon associate, amazon affiliate, android app, google play]
-hashtags: [android]
+hashtags: [android, AndroidDev]
 ---
 
 One of my [goals for this year](https://www.joehxblog.com/2020-new-years-resolutions-goals/#develop-personally--professionally) (and indeed, it was a failed [goal for last year](https://www.joehxblog.com/2019-goal-check-in/#1-publish-an-android-app) as well) was to create and publish an Android app. I'm happy to report that I have reached that goal.
