@@ -83,19 +83,19 @@ jobs:
 #### tags.json template
 
 ```
----
+{% raw %}---
 ---
 
 {% assign tags = site.tags | sort %}
 {"tags":[{% for tag in tags %}
-{"name":"{{ tag[0] }}","slug":"{{ tag[0] | slugify }}","postcount":{{ tag[1] | size }}}{% unless forloop.last %},{% endunless %}{% endfor %}]}
+{"name":"{{ tag[0] }}","slug":"{{ tag[0] | slugify }}","postcount":{{ tag[1] | size }}}{% unless forloop.last %},{% endunless %}{% endfor %}]}{% endraw %}
 ```
 
 #### ./layouts/tag_posts.html
 
 
 ```html
----
+{% raw %}---
 layout: default
 ---
 
@@ -115,7 +115,7 @@ layout: default
 </div>     
 </article>
 {% endfor %}
-</span>
+</span>{% endraw %}
 ```
 
 ## Availablity
