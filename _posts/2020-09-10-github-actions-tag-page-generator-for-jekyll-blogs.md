@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "GitHub Actions: Tag Page Generator for Jekyll Blogs"
-tags: [github, jekyll, nodejs]
+tags: [github, jekyll, nodejs, programming]
 keywords: [tag page generator, tag page, tag pages, github, github actions, jekyll, jekyll blogs, jekyll blog, blog, blogging]
 image: /images/github-actions/jekyll-tag-page-generator/header.png
 ---
@@ -14,7 +14,7 @@ Being me, I wanted in on some of the action (pun definitely intended).
 
 This blog is hosted via [GitHub pages](https://pages.github.com/). As such, it is a static blog generated with [Jekyll](https://jekyllrb.com/). 
 
-Jekyll allows me to easier "tag" pages. For instance, this post has the tags  // insert tags //.
+Jekyll allows me to easier "tag" pages. For instance, this post has the tags [github](https://www.joehxblog.com/tags/github), [jekyll](https://www.joehxblog.com/tags/jekyll), [nodejs](https://www.joehxblog.com/tags/nodejs), and [programming](https://www.joehxblog.com/tags/programming).
 
 On other pages, I can easily query what tags exist, and what posts fall under those tags. For instance, this has allowed me to make the [Tags page](https://www.joehxblog.com/tags/) which lists every tag and every post underneath that tag.
 
@@ -123,3 +123,6 @@ layout: default
 The source for Tag Page Generator for Jekyll Blogs is available [on its GitHub page](https://github.com/hendrixjoseph/jekyll-tag-page-generator-action).
 
 Tag Page Generator for Jekyll Blogs is also [on the GitHub Marketplace](https://github.com/marketplace/actions/tag-page-generator-for-jekyll-blogs).
+
+To see some example pages, go to the [Individual Tag Pages
+](https://www.joehxblog.com/sitemap/#individual-tag-pages) section of my sitemap. If you just want to quickly view one example, check out the  [money tag](https://www.joehxblog.com/tags/money/).
