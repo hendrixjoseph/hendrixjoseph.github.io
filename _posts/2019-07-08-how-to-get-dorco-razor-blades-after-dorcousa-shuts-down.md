@@ -23,7 +23,7 @@ The email sent out:
 ![Dorco logo underneath a US Flag.](/images/dorcousa-with-flag.jpg)
 *RIP DorcoUSA [2011](https://web.archive.org/web/20111103235102/http://www.dorcousa.com/) - 2019*
 
-Oddly enough, I can't find anything about the shutdown on the DorcoUSA website. They do have a [press section](https://www.dorcousa.com/press/), but nothing has been published since 2016 ([September 8, 2016](https://www.dorcousa.com/dorco-releases-pace-power/), to be exact).
+Oddly enough, I can't find anything about the shutdown on the DorcoUSA website. They do have a [press section](https://web.archive.org/web/20190807153356/https://www.dorcousa.com/press/), but nothing has been published since 2016 ([September 8, 2016](https://web.archive.org/web/20190708174806/https://www.dorcousa.com/dorco-releases-pace-power/), to be exact).
 
 The [UK Dorco site](https://www.razorsbydorco.co.uk/) does mention that "From 1 July 2019, all Dorco products will be available exclusively from www.amazon.co.uk." and does have [a page discussing their move](https://www.razorsbydorco.co.uk/move-to-amazon).
 
@@ -37,11 +37,11 @@ The discount should be applied automatically; no coupon code needed.
 
 You can currently [buy Dorco blades via Amazon](https://www.amazon.com/stores/Dorco/page/A608B1E4-4B67-4AA9-A961-9B64093540EE?tag=hendrixjoseph-20) and will continue to be able to once DorcoUSA closes. The prices seem to be comparable - as of writing, Amazon only seems to be a few dollars more for the products I was able to find.
 
-I've been using [Pace 3 Disposables](https://www.dorcousa.com/pace-3-disposables-3-pack-on-sale-7-51-35-off/) for several years now. In fact, I bought a rather large amount several years ago during a black Friday sale. I've yet to run out.
+I've been using [Pace 3 Disposables](https://www.amazon.com/Dorco-Three-Razor-Shaving-System/dp/B00DH9HK54/?tag=hendrixjoseph-20) for several years now. In fact, I bought a rather large amount several years ago during a black Friday sale. I've yet to run out.
 
 I find them comparable to what I used before I bought my Dorcos (the [Gillette Mach 3](https://www.amazon.com/dp/B001JQLNH8?tag=hendrixjoseph-20)). The biggest difference is the handle - the Pace 3 has a curvier handle. The blade setup is nearly identical.
 
-There's also the [Dorco Wholesale website](https://dorcowholesale.com/) if you want to be a reseller. Note that they currently do not allow reselling on Amazon.
+There's also the [Dorco Wholesale website](https://web.archive.org/web/20190122181453/https://dorcowholesale.com/) if you want to be a reseller. Note that they currently do not allow reselling on Amazon.
 
 Here are the new links to the various Dorco razor products that I could find:
 
