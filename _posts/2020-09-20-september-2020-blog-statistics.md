@@ -57,8 +57,8 @@ I have less than ten bucks to go to be able to cash out of my AdSense earnings. 
 
 I've changed the name of the heading of this section and added *Moz Linking Domains* as a stat. I was able to get historical data from Moz and add it to my [blog stats spreadsheet](https://github.com/hendrixjoseph/hendrixjoseph.github.io/blob/master/_data/blog-stats.csv).
 
-Moz Domain Authority &rarr; 30
-Moz Linking Domains &rarr; 525
+* Moz Domain Authority &rarr; 30
+* Moz Linking Domains &rarr; 525
 
 ## Ratios
 
