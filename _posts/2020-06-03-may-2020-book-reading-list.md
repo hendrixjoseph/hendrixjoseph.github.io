@@ -15,24 +15,24 @@ Another month in the books... With that said, more books read.
 
 I read eighteen - that's 18 - different books to my son:
 
-* [A Bedtime Kiss for Chester Raccoon](https://www.abebooks.com/products/isbn/9781933718521/30619717079)
-* [Bear Stays Up for Christmas](https://www.abebooks.com/products/isbn/9780439682664/30524425911)
-* [Corduroy's Shapes](https://www.abebooks.com/products/isbn/9780451472502/30087129462)
-* [Does a Kangaroo Have a Mother, Too?](https://www.abebooks.com/products/isbn/9780439260275/22547776704)
-* [Elmo's Favorite Places](https://www.abebooks.com/products/isbn/9780794413576/30585363366)
-* [Five Little Monkeys Jumping on the Bed](https://www.abebooks.com/products/isbn/9780395557013/22639883265)
-* [Little Puppies Love](https://www.abebooks.com/products/isbn/9781615244218/30318011111)
-* [Miss Mary Mack](https://www.abebooks.com/products/isbn/9780316076142/30597698685)
-* [My First Baby Signs](https://www.abebooks.com/products/isbn/9780060090746/30613302105)
-* [My Very First Book of Shape](https://www.abebooks.com/products/isbn/9781908849564/30289863572)
-* [Pooh's Best Day: A Book About Weather](https://www.abebooks.com/products/isbn/9789999030168/22638493100)
-* [Puppy Birthday to You](https://www.abebooks.com/products/isbn/9780553522778/30465702583)
-* [Snug by Carol Thompson](https://www.abebooks.com/products/isbn/9781846435140/30470781340)
-* [Snuggle Puppy](https://www.abebooks.com/products/isbn/9780761130673/30606931165)
-* [Star Wars Heroes](https://www.abebooks.com/products/isbn/9780545169691/30509623377)
-* [The Monster at the End of the Book](https://www.abebooks.com/products/isbn/9780307010858/30642120741)
-* [Touch and Feel Wild Animals](https://www.abebooks.com/products/isbn/9780789429186/22827686426)
-* [Whose Tools?](https://www.abebooks.com/products/isbn/9781419714313/30072996175)
+* [A Bedtime Kiss for Chester Raccoon](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9781933718521/30619717079)
+* [Bear Stays Up for Christmas](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780439682664/30524425911)
+* [Corduroy's Shapes](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780451472502/30087129462)
+* [Does a Kangaroo Have a Mother, Too?](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780439260275/22547776704)
+* [Elmo's Favorite Places](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780794413576/30585363366)
+* [Five Little Monkeys Jumping on the Bed](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780395557013/22639883265)
+* [Little Puppies Love](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9781615244218/30318011111)
+* [Miss Mary Mack](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780316076142/30597698685)
+* [My First Baby Signs](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780060090746/30613302105)
+* [My Very First Book of Shape](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9781908849564/30289863572)
+* [Pooh's Best Day: A Book About Weather](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9789999030168/22638493100)
+* [Puppy Birthday to You](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780553522778/30465702583)
+* [Snug by Carol Thompson](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9781846435140/30470781340)
+* [Snuggle Puppy](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780761130673/30606931165)
+* [Star Wars Heroes](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780545169691/30509623377)
+* [The Monster at the End of the Book](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780307010858/30642120741)
+* [Touch and Feel Wild Animals](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780789429186/22827686426)
+* [Whose Tools?](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9781419714313/30072996175)
 
 While he's enjoyed looking at books himself for a while now, he's starting to "read" books to himself. He doesn't know how to read, of course, but a lot of the books are repetitive enough, and the pictures give enough of a hint as to what is going on, that he can repeat what was previously read to him.
 
@@ -44,15 +44,15 @@ For instance, there's a book entitled [Brown Bear, Brown Bear, What Do You See?]
 
 I read nine books to my daughter. That's half the number of books I read to my son - he'll often want to come listen whenever I read to my daughter. Since my daughter isn't even six months old yet - and can't walk - she doesn't get the opportunity to do the same to him.
 
-* [Bear Stays Up for Christmas](https://www.abebooks.com/products/isbn/9780439682664/30524425911)
-* [Choo Choo by Petr Horacek](https://www.abebooks.com/products/isbn/9780763634773/30276154704)
-* [How Did the Animals Help God?](https://www.abebooks.com/products/isbn/9781594730443/30352392402)
-* [Little Puppies Love](https://www.abebooks.com/products/isbn/9781615244218/30318011111)
-* [My First Baby Signs](https://www.abebooks.com/products/isbn/9780060090746/30613302105)
-* [My Very First Book of Shapes](https://www.abebooks.com/products/isbn/9781908849564/30289863572)
+* [Bear Stays Up for Christmas](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780439682664/30524425911)
+* [Choo Choo by Petr Horacek](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780763634773/30276154704)
+* [How Did the Animals Help God?](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9781594730443/30352392402)
+* [Little Puppies Love](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9781615244218/30318011111)
+* [My First Baby Signs](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780060090746/30613302105)
+* [My Very First Book of Shapes](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9781908849564/30289863572)
 * [Ooffus in Mudtown](https://www.facebook.com/pg/Ooffus-in-Mudtown-125565197522874/)
-* [Snug by Carol Thompson](https://www.abebooks.com/products/isbn/9781846435140/30470781340)
-* [Star Wars: Heroes](https://www.abebooks.com/products/isbn/9780545169691/30509623377)
+* [Snug by Carol Thompson](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9781846435140/30470781340)
+* [Star Wars: Heroes](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780545169691/30509623377)
 
 ## The Book I Read for Me
 

@@ -15,25 +15,25 @@ I am still doing my standard posts - [blog stats posts](https://www.joehxblog.co
 
 I read eighteen or nineteen different books to my son:
 
-* [1, 2, 3 To The Zoo a counting book by Eric Carle](https://www.abebooks.com/products/isbn/9780399230134/30441840508)
-* [A Picnic With Monet](https://www.abebooks.com/products/isbn/9780811840460/22608759411)
-* [ABC I Love You by P.K. Hallinan](https://www.abebooks.com/servlet/BookDetailsPL?bi=22469137037)
+* [1, 2, 3 To The Zoo a counting book by Eric Carle](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780399230134/30441840508)
+* [A Picnic With Monet](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780811840460/22608759411)
+* [ABC I Love You by P.K. Hallinan](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/servlet/BookDetailsPL?bi=22469137037)
 * Animal Friends
-* [Baby Einstein Who Lives Here?](https://www.abebooks.com/products/isbn/9780439912570/30433392760)
-* [Bambi's Big Surprise](https://www.abebooks.com/products/isbn/9789999029940/30055913130)
-* [Big Enough for a Bed](https://www.abebooks.com/products/isbn/9780375822704/22714425052)
-* [Biscuit Visits the Petting Zoo](https://www.abebooks.com/products/isbn/9780061625206/30500706405)
-* [Christmas](https://www.abebooks.co.uk/products/isbn/9780789488350)
+* [Baby Einstein Who Lives Here?](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780439912570/30433392760)
+* [Bambi's Big Surprise](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9789999029940/30055913130)
+* [Big Enough for a Bed](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780375822704/22714425052)
+* [Biscuit Visits the Petting Zoo](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780061625206/30500706405)
+* [Christmas](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.co.uk/products/isbn/9780789488350)
 * First Words 786943004663
-* [Five Little Monkeys Jumping on the Bed](https://www.abebooks.com/products/isbn/9780812494839/22843062741)
-* [Five Little Monkeys Jumping on the Bed](https://www.abebooks.com/9780547510750/Five-Little-Monkeys-Jumping-Bed-0547510756/)
-* [I Am a Big Brother! by Caroline Jayne Church](https://www.abebooks.com/products/isbn/9780545688864/30455052575)
-* [Mr. Brown Can Moo! Can You?](https://www.abebooks.com/products/isbn/9780385387125/22916375327)
-* [My Daddy and I by P.K. Hallinan](https://www.abebooks.com/servlet/BookDetailsPL?bi=18601206182)
-* [Sassy Let's Count! A First Book of Numbers](https://www.abebooks.com/products/isbn/9780448480121/30520785203)
-* [Slide and Find Christmas](https://www.abebooks.com/products/isbn/9780312509699/22732944700)
-* [Snuggle Puppy!](https://www.abebooks.com/products/isbn/9780761130673/22847971227)
-* [Tails Are Not For Pulling](https://www.abebooks.com/products/isbn/9781575421803)
+* [Five Little Monkeys Jumping on the Bed](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780812494839/22843062741)
+* [Five Little Monkeys Jumping on the Bed](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/9780547510750/Five-Little-Monkeys-Jumping-Bed-0547510756/)
+* [I Am a Big Brother! by Caroline Jayne Church](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780545688864/30455052575)
+* [Mr. Brown Can Moo! Can You?](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780385387125/22916375327)
+* [My Daddy and I by P.K. Hallinan](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/servlet/BookDetailsPL?bi=18601206182)
+* [Sassy Let's Count! A First Book of Numbers](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780448480121/30520785203)
+* [Slide and Find Christmas](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780312509699/22732944700)
+* [Snuggle Puppy!](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780761130673/22847971227)
+* [Tails Are Not For Pulling](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9781575421803)
 
 It's "eighteen or nineteen" difference books because "Five Little Monkeys Jumping on the Bed" is repeated twice above. That's because we have two copies of the same book. Well, it's nearly the same book - they have the same title, same author, same text, but different illustrations.
 
@@ -51,7 +51,7 @@ Combining songs and Elmo (a natural for anything Sesame Street) he especially li
 
 My son usurps my reading-to time, but I was able to manage reading two different books to my daughter:
 
-* [Baby Animals](https://www.abebooks.com/products/isbn/9780312498580/30290639210)
+* [Baby Animals](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780312498580/30290639210)
 * First Words
 
 ## The Books I Read for Me

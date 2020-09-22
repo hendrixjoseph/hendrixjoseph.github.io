@@ -17,18 +17,18 @@ I first reported what books I read to him in my [April 2018 Book Reading List]({
 
 Last month I read twelve different books to my son:
 
-* [Daddy Hugs by Karen Katz](https://www.abebooks.com/products/isbn/9780689877711/30247021904)
-* [Gossie by Olivia Dunrea](https://www.abebooks.com/products/isbn/9780544506374)
-* [Who Do You Love? A Touch and Feel Book](https://www.abebooks.com/products/isbn/9781581175707/30138203699)
-* [I Love My Puppy](https://www.abebooks.com/products/isbn/9780545835947/30232218640)
-* [Where Is Baby's Belly Button?](https://www.abebooks.com/products/isbn/9780689835605/22619578226)
-* [I Love You Through and Through](https://www.abebooks.com/products/isbn/9780439673631/30109784983)
-* [Pooh's Best Day A Book About Weather](https://www.abebooks.com/products/isbn/9789999030168/22925034702)
-* [I Love You A Rebus Poem](https://www.abebooks.com/products/isbn/9780590376570/30255637241)
-* [How Do I Love You?](https://www.abebooks.com/products/isbn/9780824953591/22622622861)
-* [Newtonian Physics for Babies](https://www.abebooks.com/products/isbn/9781492656203/30329816311)
-* [Fisher-Price: Peekaboo, Baby!](https://www.abebooks.com/products/isbn/9780061448850/30239535936)
-* [Harry the Dirty Dog](https://www.abebooks.com/products/isbn/9780060842444/30243603968)
+* [Daddy Hugs by Karen Katz](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780689877711/30247021904)
+* [Gossie by Olivia Dunrea](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780544506374)
+* [Who Do You Love? A Touch and Feel Book](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9781581175707/30138203699)
+* [I Love My Puppy](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780545835947/30232218640)
+* [Where Is Baby's Belly Button?](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780689835605/22619578226)
+* [I Love You Through and Through](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780439673631/30109784983)
+* [Pooh's Best Day A Book About Weather](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9789999030168/22925034702)
+* [I Love You A Rebus Poem](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780590376570/30255637241)
+* [How Do I Love You?](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780824953591/22622622861)
+* [Newtonian Physics for Babies](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9781492656203/30329816311)
+* [Fisher-Price: Peekaboo, Baby!](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780061448850/30239535936)
+* [Harry the Dirty Dog](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780060842444/30243603968)
 
 ![The books I read to my son in May 2019.](/images/books/may-2019-books-read.png)
 *The books I read to my son in May 2019.*

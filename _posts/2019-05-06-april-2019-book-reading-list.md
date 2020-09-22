@@ -14,13 +14,13 @@ I'm feeling a bit lazy this month, so I'm just going to list the books I've read
 ![Covers of the books I read to my son.](/images/books/april-2019-books-read.png)
 *Covers of the books I read to my son.*
 
-* [I'll Never Let Go by Smriti Prasadam-Halls](https://www.abebooks.com/products/isbn/9781619639225/30029278851)
-* [Cuddle! by Beth Shoshan](https://www.abebooks.com/products/isbn/9781405495356/30082829301)
-* [Green Eggs and Ham](https://www.abebooks.com/products/isbn/9780394800165/30093370822)
-* [Spot Goes to the Park](https://www.abebooks.com/products/isbn/9780140553208/30114598702)
-* [Spot Goes to the Farm](https://www.abebooks.com/products/isbn/9780142501238/30236950760)
-* [Newtonian Physics for Babies](https://www.abebooks.com/products/isbn/9781492656203/30112410468)
-* [Touch and Feel Puppy](https://www.abebooks.com/products/isbn/9780789439918/22638871484)
+* [I'll Never Let Go by Smriti Prasadam-Halls](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9781619639225/30029278851)
+* [Cuddle! by Beth Shoshan](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9781405495356/30082829301)
+* [Green Eggs and Ham](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780394800165/30093370822)
+* [Spot Goes to the Park](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780140553208/30114598702)
+* [Spot Goes to the Farm](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780142501238/30236950760)
+* [Newtonian Physics for Babies](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9781492656203/30112410468)
+* [Touch and Feel Puppy](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780789439918/22638871484)
 
 ## Books I Read for Me
 

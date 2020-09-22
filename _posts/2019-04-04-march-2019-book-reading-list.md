@@ -13,15 +13,15 @@ Spring is here and March is over, so it's time for another book reading report.
 
 I was able to read ten different books to my son (some multiple times):
 
-* [Touch and Feel Puppy](https://www.abebooks.com/products/isbn/9780789439918/22638871484)
-* [My First Superman Book](https://www.abebooks.com/products/isbn/9781935703006/30237999841)
-* [Baby Einstein Touch and Feel Farm Animals](https://www.abebooks.com/products/isbn/9781423109815/30063960857)
-* [Panda Bear, Panda Bear, What Do You See?](https://www.abebooks.com/products/isbn/9780805017588/30255599838)
-* [Baby! Talk! by Penny Gentieu](https://www.abebooks.com/products/isbn/9780517800799/22842170368)
-* [Roar Like a Lion!](https://www.abebooks.com/products/isbn/9781780656045/22825545805)
-* [How Do Dinosaurs Love Their Dogs?](https://www.abebooks.com/products/isbn/9780545153522/30220052626)
-* [You Are My Sunshine by Caroline Jayne Church](https://www.abebooks.com/products/isbn/9780545075527/30241824738)
-* [Touch and Feel Wild Animals](https://www.abebooks.com/products/isbn/9780789429186/22638871479)
+* [Touch and Feel Puppy](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780789439918/22638871484)
+* [My First Superman Book](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9781935703006/30237999841)
+* [Baby Einstein Touch and Feel Farm Animals](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9781423109815/30063960857)
+* [Panda Bear, Panda Bear, What Do You See?](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780805017588/30255599838)
+* [Baby! Talk! by Penny Gentieu](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780517800799/22842170368)
+* [Roar Like a Lion!](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9781780656045/22825545805)
+* [How Do Dinosaurs Love Their Dogs?](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780545153522/30220052626)
+* [You Are My Sunshine by Caroline Jayne Church](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780545075527/30241824738)
+* [Touch and Feel Wild Animals](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780789429186/22638871479)
 * 1-2-3 Count-Down Book: A Box of Puppies (ISBN 978-1-4351-3335-8)
 
 I was able to find each of the books fairly easily on the Internet except for that last one. Searching [Google for the ISBN 9781435133358](https://www.google.com/search?q=9781435133358) gave me one result. It looks as if the result is from a library search engine called [WorldCat](https://web.archive.org/web/20190918123516/http://boysen.berry.edu/), however, it lists the name of the books as *[A box full of puppies](https://web.archive.org/web/20190407010230/http://boysen.berry.edu/title/box-full-of-puppies/oclc/773365455)* (including the improper case) even though the book I have doesn't have the word "full" in it:

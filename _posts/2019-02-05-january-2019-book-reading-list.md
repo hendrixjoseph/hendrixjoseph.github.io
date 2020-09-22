@@ -18,17 +18,17 @@ I've also simply finished reading a book to him *after* he crawls off of my lap.
 
 Apparently, I read quite a few different books to him in January. These books are:
 
-* [Harry the Dirty Dog](https://www.abebooks.com/products/isbn/9780064430098)
-* [Newtonian Physics for Babies](https://www.abebooks.com/products/isbn/9781492656203)
-* [Daddy Hugs by Karen Katz](https://www.abebooks.com/products/isbn/9780689877711)
-* [Doggies: A Counting and Barking Book](https://www.abebooks.com/products/isbn/9780671493189/22683238549)
-* [Hug Time by Patrick McDonnell](https://www.abebooks.com/products/isbn/9780316182959/30211934269)
-* [I Love You This Much](https://www.abebooks.com/products/isbn/9780310709619/22661356564)
-* [Your Baby's First Word Will Be Dada](https://www.abebooks.com/products/isbn/9781250071811/30038811419)
-* [Polar Bear, Polar Bear, What Do You Hear?](https://www.abebooks.com/products/isbn/9780805053883/30130515213)
-* [Brown Bear, Brown Bear, What Do You See?](https://www.abebooks.com/products/isbn/9780805002010/22585643496)
-* [Spot's First Words by Eric Hill](https://www.abebooks.com/products/isbn/9780399213489/22522558766)
-* [I Love My Puppy by Caroline Church](https://www.abebooks.com/products/isbn/9780545835947/22451989377)
+* [Harry the Dirty Dog](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780064430098)
+* [Newtonian Physics for Babies](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9781492656203)
+* [Daddy Hugs by Karen Katz](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780689877711)
+* [Doggies: A Counting and Barking Book](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780671493189/22683238549)
+* [Hug Time by Patrick McDonnell](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780316182959/30211934269)
+* [I Love You This Much](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780310709619/22661356564)
+* [Your Baby's First Word Will Be Dada](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9781250071811/30038811419)
+* [Polar Bear, Polar Bear, What Do You Hear?](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780805053883/30130515213)
+* [Brown Bear, Brown Bear, What Do You See?](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780805002010/22585643496)
+* [Spot's First Words by Eric Hill](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780399213489/22522558766)
+* [I Love My Puppy by Caroline Church](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780545835947/22451989377)
 * My Home & Family (can't seem to find this online - however, the UPC is 786943006537)
 
 ## Books I Read for Me

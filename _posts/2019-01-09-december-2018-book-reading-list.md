@@ -12,9 +12,9 @@ Which I can, and did, say!
 
 ## The Book I Read for Me
 
-The book I read for me is **[The ONE Thing: The Surprisingly Simple Truth Behind Extraordinary Results](https://www.abebooks.com/products/isbn/9781885167774/30240279074)**.
+The book I read for me is **[The ONE Thing: The Surprisingly Simple Truth Behind Extraordinary Results](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9781885167774/30240279074)**.
 
-The title of the book seems to imply that it's going to bestow some knowledge about the most important thing - something that everyone should focus one. Something more akin to the book **[The Secret](https://www.abebooks.com/products/isbn/9781582701707/30227671745)**.
+The title of the book seems to imply that it's going to bestow some knowledge about the most important thing - something that everyone should focus one. Something more akin to the book **[The Secret](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9781582701707/30227671745)**.
 
 But it doesn't. It never really defines exactly what the "one thing" is. That's because everyone's "one thing" is different - and may even be different at different times.
 
@@ -49,10 +49,10 @@ I was able to read to him five different books (but more than five different tim
 
 Here are the five books I read to my son in December:
 
-* [Polar Bear, Polar Bear, What Do You Hear?](https://www.abebooks.com/products/isbn/9780805053883/30130515213)
-* [I Love My Daddy Because...](https://www.abebooks.com/products/isbn/9780525472506/22447691600)
-* [Daddy Hugs](https://www.abebooks.com/products/isbn/9780689877711/22718106864)
-* [Giraffes Can't Dance](https://www.abebooks.com/products/isbn/9780439539470/30087127131)
-* [Newtonian Physics for Babies](https://www.abebooks.com/products/isbn/9781492656203/30223004124)
+* [Polar Bear, Polar Bear, What Do You Hear?](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780805053883/30130515213)
+* [I Love My Daddy Because...](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780525472506/22447691600)
+* [Daddy Hugs](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780689877711/22718106864)
+* [Giraffes Can't Dance](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780439539470/30087127131)
+* [Newtonian Physics for Babies](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9781492656203/30223004124)
 
 How's your month of December go? Did you read any good books? Do you intend on checking out that Prime Reading thing?

@@ -19,17 +19,17 @@ Hopefully starting next month I'll have a section called "Books I Read to My Dau
 
 I read to my son eleven different books in December:
 
-* [A Charlie Brown Christmas](https://www.abebooks.com/products/isbn/9780762451456/30188181959)
-* [Biscuit's Pet and Play Christmas](https://www.abebooks.com/products/isbn/9780060094706/22638738689)
-* [Brainy Baby 123's: Introducing Numbers 1-20](https://www.abebooks.com/products/isbn/9781931959797/30530870455)
-* [Dear Zoo](https://www.abebooks.com/products/isbn/9781416947370/30378582417)
-* [Gossie](https://www.abebooks.com/products/isbn/9780618176748/30217042668)
-* [My first book of Animals](https://www.abebooks.com/products/isbn/9781580480086/30357994472)
+* [A Charlie Brown Christmas](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780762451456/30188181959)
+* [Biscuit's Pet and Play Christmas](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780060094706/22638738689)
+* [Brainy Baby 123's: Introducing Numbers 1-20](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9781931959797/30530870455)
+* [Dear Zoo](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9781416947370/30378582417)
+* [Gossie](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780618176748/30217042668)
+* [My first book of Animals](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9781580480086/30357994472)
 * Puppy for Christmas
-* [Seek and Slide On The Farm](https://www.abebooks.com/products/isbn/9780760731536/30513946173)
-* [Sesame Street Big Enough for a Bed](https://www.abebooks.com/products/isbn/9780375822704/30077277178)
-* [The 12 Dogs of Christmas](https://www.abebooks.com/products/isbn/9780849979392/30536559916)
-* [The Christmas Gingerbread Man](https://www.abebooks.com/products/isbn/9781576573808/30463090871)
+* [Seek and Slide On The Farm](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780760731536/30513946173)
+* [Sesame Street Big Enough for a Bed](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780375822704/30077277178)
+* [The 12 Dogs of Christmas](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780849979392/30536559916)
+* [The Christmas Gingerbread Man](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9781576573808/30463090871)
 
 Of course, Christmas being in December, he had quite a few Christmas books read to him.
 

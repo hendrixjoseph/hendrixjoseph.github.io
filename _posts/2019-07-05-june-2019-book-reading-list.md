@@ -18,15 +18,15 @@ She's absolutely thrilled that he's doing this.
 
 Here are the books I read to him in June 2019:
 
-* [Panda Bear Panda Bear What Do You See?](https://www.abebooks.com/products/isbn/9780805017588)
-* [Daddy Hugs by Karen Katz](https://www.abebooks.com/products/isbn/9780689877711/30247021904)
-* [If I Could Keep You Little...](https://www.abebooks.com/products/isbn/9781934082928/30165979473)
-* [Waiting For Baby](https://www.abebooks.com/products/isbn/9780805059298/30252793594)
-* [My New Baby](https://www.abebooks.com/products/isbn/9781846432767/30314880373)
-* [Spot Goes to the Farm](https://www.abebooks.com/products/isbn/9780399214349/30349427765)
-* [Hug Time](https://www.abebooks.com/products/isbn/9780316114943/30302777877)
-* [Usborne Touchy Feely Trucks](https://www.abebooks.com/products/isbn/9780746051832/22476395840)
-* [Polar Bear, Polar Bear What Do You Hear? sound book](https://www.abebooks.com/products/isbn/9780312513467/22848160359)
+* [Panda Bear Panda Bear What Do You See?](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780805017588)
+* [Daddy Hugs by Karen Katz](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780689877711/30247021904)
+* [If I Could Keep You Little...](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9781934082928/30165979473)
+* [Waiting For Baby](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780805059298/30252793594)
+* [My New Baby](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9781846432767/30314880373)
+* [Spot Goes to the Farm](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780399214349/30349427765)
+* [Hug Time](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780316114943/30302777877)
+* [Usborne Touchy Feely Trucks](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780746051832/22476395840)
+* [Polar Bear, Polar Bear What Do You Hear? sound book](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780312513467/22848160359)
 
 ## The Books I Read for Me
 

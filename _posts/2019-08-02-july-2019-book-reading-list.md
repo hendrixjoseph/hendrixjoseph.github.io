@@ -27,22 +27,22 @@ It's so cute!
 
 ## Books I Read to My Son
 
-* [Spot Goes to the Farm](https://www.abebooks.com/products/isbn/9780399214349/30349427765)
-* [I Love You A Rebus Poem](https://www.abebooks.com/products/isbn/9780590376570/30315670864)
-* [Seek & Slide In The Garden](https://www.abebooks.com/products/isbn/9781582096520/30327599773)
-* [Seek & Slide In The Desert](https://www.abebooks.com/products/isbn/9780760766880/22760515092)
-* [Seek & Slide On The Farm](https://www.abebooks.com/products/isbn/9780760731536/30260329474)
-* [Touchy Feely Trucks](https://www.abebooks.com/products/isbn/9780746051832/22476395840)
-* [First 100 Animals Board Book](https://www.abebooks.com/products/isbn/9780312496760/30314329516)
-* [Guess How Much I Love You](https://www.abebooks.com/products/isbn/9780763642648/30162913584)
-* [Kisses for Daddy](https://www.abebooks.com/products/isbn/9781921049309/30139041583)
-* [I'll Never Let You Go](https://www.abebooks.com/products/isbn/9781492602743/22638593253)
-* [You Are My I Love You](https://www.abebooks.com/products/isbn/9780399233920/22702856751)
-* [My New Baby](https://www.abebooks.com/products/isbn/9781846432767/30314880373)
-* [Newtonian Physics for Babies](https://www.abebooks.com/products/isbn/9781492656203/30387774532)
-* [Where is Baby's Belly Button?](https://www.abebooks.com/products/isbn/9780689835605/22619578226)
-* [Brown Bear, Brown Bear, What Do You See?](https://www.abebooks.com/products/isbn/9780805047905/30385096935)
-* [Polar Bear, Polar Bear, What Do You Hear?](https://www.abebooks.com/products/isbn/9780312513467/22848160359)
+* [Spot Goes to the Farm](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780399214349/30349427765)
+* [I Love You A Rebus Poem](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780590376570/30315670864)
+* [Seek & Slide In The Garden](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9781582096520/30327599773)
+* [Seek & Slide In The Desert](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780760766880/22760515092)
+* [Seek & Slide On The Farm](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780760731536/30260329474)
+* [Touchy Feely Trucks](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780746051832/22476395840)
+* [First 100 Animals Board Book](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780312496760/30314329516)
+* [Guess How Much I Love You](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780763642648/30162913584)
+* [Kisses for Daddy](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9781921049309/30139041583)
+* [I'll Never Let You Go](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9781492602743/22638593253)
+* [You Are My I Love You](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780399233920/22702856751)
+* [My New Baby](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9781846432767/30314880373)
+* [Newtonian Physics for Babies](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9781492656203/30387774532)
+* [Where is Baby's Belly Button?](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780689835605/22619578226)
+* [Brown Bear, Brown Bear, What Do You See?](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780805047905/30385096935)
+* [Polar Bear, Polar Bear, What Do You Hear?](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780312513467/22848160359)
 
 ## The Book I Read for Me
 

@@ -25,21 +25,21 @@ Oh, and he says a few words now: "up," "down," "all done," "clock."
 
 ## Books I Read to My Son
 
-* [Baby Einstein Neighborhood Animals](https://www.abebooks.com/products/isbn/9780786808069/30354319767)
-* [Baby Signs illustrated by Jay Allen](https://www.abebooks.com/products/isbn/9780803731936)
-* [Elmo's World Puppies!](https://www.abebooks.com/9780375805752/Puppies-Sesame-Street-StreetR-Elmos-0375805753/plp)
-* [Freight Train by Donald Crews](https://www.abebooks.com/products/isbn/9780688117016/30355555933)
-* [Frog in the Kitchen Sink](https://www.abebooks.com/products/isbn/9781579390983/30164839897)
-* [Hug by Jez Alborough](https://www.abebooks.com/products/isbn/9780763615765/30112973092)
-* [Little Puppies Love](https://www.abebooks.com/products/isbn/9781615244218/30370086441)
-* [Newtonian Physics for Babies](https://www.abebooks.com/products/isbn/9781492656203/30369022981)
-* [Our Father by Sabrina Bus illustrated by Xavier Deneux](https://www.abebooks.com/products/isbn/9780802853134)
-* [Polar Bear, Polar Bear, What Do You Hear?](https://www.abebooks.com/products/isbn/9780312513467/22848160359)
-* [Puppy Peek-a-Boo](https://www.abebooks.com/products/isbn/9780394819501/30444171501)
-* [Spot's First Words](https://www.abebooks.com/products/isbn/9780399255328/22546349271)
-* [Tails Are Not For Pulling](https://www.abebooks.com/products/isbn/9781575421803/22550815426)
-* [Usborne Touchy Feely Trucks](https://www.abebooks.com/products/isbn/9781409525448/30410772983)
-* [You Are My Sunshine by Caroline Jayne Church](https://www.abebooks.com/products/isbn/9780545075527/30332237361)
+* [Baby Einstein Neighborhood Animals](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780786808069/30354319767)
+* [Baby Signs illustrated by Jay Allen](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780803731936)
+* [Elmo's World Puppies!](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/9780375805752/Puppies-Sesame-Street-StreetR-Elmos-0375805753/plp)
+* [Freight Train by Donald Crews](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780688117016/30355555933)
+* [Frog in the Kitchen Sink](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9781579390983/30164839897)
+* [Hug by Jez Alborough](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780763615765/30112973092)
+* [Little Puppies Love](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9781615244218/30370086441)
+* [Newtonian Physics for Babies](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9781492656203/30369022981)
+* [Our Father by Sabrina Bus illustrated by Xavier Deneux](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780802853134)
+* [Polar Bear, Polar Bear, What Do You Hear?](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780312513467/22848160359)
+* [Puppy Peek-a-Boo](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780394819501/30444171501)
+* [Spot's First Words](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780399255328/22546349271)
+* [Tails Are Not For Pulling](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9781575421803/22550815426)
+* [Usborne Touchy Feely Trucks](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9781409525448/30410772983)
+* [You Are My Sunshine by Caroline Jayne Church](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780545075527/30332237361)
 
 ## The Book I Read for Me
 

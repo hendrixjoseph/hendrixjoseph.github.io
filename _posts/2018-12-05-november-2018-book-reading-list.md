@@ -17,14 +17,14 @@ I have made reading to my son a priority; it helps that my wife also makes readi
 
 Here are the books I read to him in November:
 
-* [Puppies (Three Minute Tales)](https://www.abebooks.com/products/isbn/9780752596983/30039745931)
-* [Newtonian Physics for Babies](https://www.abebooks.com/products/isbn/9781492656203/30223004124)
-* [I Love You, Good Night](https://www.abebooks.com/products/isbn/9780689862120/22802080723)
-* [Touch and Feel: Puppy](https://www.abebooks.com/products/isbn/9780756691660/30236443616)
-* [Dog Wants to Play](https://www.abebooks.com/products/isbn/9780670016334/22915683944)
-* [If I Could Keep You Little](https://www.abebooks.com/products/isbn/9781934082928/22765913444)
+* [Puppies (Three Minute Tales)](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780752596983/30039745931)
+* [Newtonian Physics for Babies](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9781492656203/30223004124)
+* [I Love You, Good Night](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780689862120/22802080723)
+* [Touch and Feel: Puppy](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780756691660/30236443616)
+* [Dog Wants to Play](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780670016334/22915683944)
+* [If I Could Keep You Little](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9781934082928/22765913444)
 
-[![If I Could Keep You Little](/images/books/if-i-could-keep-you-little.jpg)](https://www.abebooks.com/products/isbn/9781934082928/22765913444)
+[![If I Could Keep You Little](/images/books/if-i-could-keep-you-little.jpg)](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9781934082928/22765913444)
 
 I think there were a couple more books I read to him, but I didn't get around to writing down what books they were.
 
