@@ -117,7 +117,7 @@ We all helped put the balloon away into its bag. It wasn't hard, but it wasn't e
 
 ## The End
 
-My wife was thrilled and enjoyed herself. Afterward, we stopped by the [Lebanon County Applefest](https://www.facebook.com/countryapplefest/) for lunch then straight to her parents to pick up the kids.
+My wife was thrilled and enjoyed herself. Afterward, we stopped by the [Lebanon County Applefest](https://www.facebook.com/countryapplefest/) for lunch, and then straight to her parents to pick up the kids.
 
 ![Wife and me underneath the Gentle Breeze Hot Air Balloon Co. logo.](/images/hot-air-balloon-ride/wife-and-me.jpg)
 *Wife and me underneath the Gentle Breeze Hot Air Balloon Co. logo.*
