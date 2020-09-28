@@ -89,7 +89,7 @@ The pilot can control the balloon in two different directions: up and down. It's
 
 So we went northeast for nine and a half miles in just over an hour and a half. And not in a straight line, either:
 
-![Our path, according to my Google Timeline.](/images/hot-air-balloon-ride/path.jpg)
+![Our path, according to my Google Timeline.](/images/hot-air-balloon-ride/path.png)
 *Our path, according to my Google Timeline.*
 
 Nine and a half miles in one hour and thirty-five minutes means we went six miles an hour. Not even "about" - exactly. `9.5 / (1 + 35/60) = 6.0`.
