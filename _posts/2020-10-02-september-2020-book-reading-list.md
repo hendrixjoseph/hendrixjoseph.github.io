@@ -4,6 +4,7 @@ title: September 2020 Book Reading List
 tags: [books]
 keywords: [book, read, books, reading, book reading, books i read]
 hashtags: [books, reading]
+image: /images/books/pete-the-cat-white-shoes.jpg
 ---
 
 Chugging along, month after month, reading book after book.
