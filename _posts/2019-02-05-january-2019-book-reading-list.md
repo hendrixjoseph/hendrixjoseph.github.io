@@ -35,7 +35,7 @@ Apparently, I read quite a few different books to him in January. These books ar
 
 Last month I mentioned that I had discovered [Prime Reading](https://www.amazon.com/kindle-dbs/hz/bookshelf/prime/?tag=hendrixjoseph-20) - a way to borrow and read books electronically for "free" if you're an Amazon Prime Member.
 
-> If you don't have Amazon Prime, you can [try Amazon Prime with a 30-Day free trial](https://www.amazon.com/tryprimefree?tag=hendrixjoseph-20). There's also [Prime Discounted Monthly Offering](https://www.amazon.com/l/16256994011) if you qualify, as well as a [
+> If you don't have Amazon Prime, you can [try Amazon Prime with a 30-Day free trial](https://www.amazon.com/tryprimefree?tag=hendrixjoseph-20). There's also [Prime Discounted Monthly Offering](https://www.amazon.com/l/16256994011?tag=hendrixjoseph-20) if you qualify, as well as a [
 Prime Student 6-month Trial](https://www.amazon.com/gp/student/signup/info/?tag=hendrixjoseph-20) if you have a .edu email address.
 
 I finished one book via Prime Reading. Well, it was actually a comic book (*ahem*, **Graphic Novel**), but it was still reading. This graphic novel was [Deadpool Vol. 1: Secret Invasion](https://www.amazon.com/Deadpool-Vol-1-Secret-Invasion-ebook/dp/B00AAJQYPG/?tag=hendrixjoseph-20). A lot of fun.
