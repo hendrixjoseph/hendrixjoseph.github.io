@@ -4,5 +4,5 @@
 <meta name="twitter:title" content="{% if page.layout == 'tag' %}Check out the latest {{ page.title | xml_escape }} posts on {{ site.name }}{% elsif page.title %}{{ page.title | xml_escape }}{% else %}{{ site.name }}{% endif %}">
 <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | xml_escape }}{% else %}{{ site.description }}{% endif %}">
 <meta name="twitter:creator" content="@{{ site.footer-links.twitter }}">
-<meta name="twitter:image:src" content="{% if page.image %}{{ site.url }}{{ page.image }}{% else %}https://www.mugshotbot.com/m?url={{ site.url }}{{ page.url }}{% endif %}">
+<meta name="twitter:image:src" content="{% if page.image %}{{ site.url }}{{ page.image }}{% elsif page.layout == 'post' %}https://www.mugshotbot.com/m?url={{ site.url }}{{ page.url }}{% else %}/images/covers/index-cover.png{% endif %}">
 <meta name="twitter:domain" content="joehxblog.com">

@@ -7,7 +7,7 @@
 {% for tag in page.tags %}<meta property="article:tag" content="{{ tag | replace:'_',' ' }}" />{% endfor %}
 {% for keyword in page.keywords %}<meta property="article:tag" content="{{ keyword }}" />{% endfor %}
 <meta property="article:published_time" content="{% if page.date %}{{ page.date | date: '%Y-%m-%d' }}{% else %}{{ site.time | date: '%Y-%m-%d' }}{% endif %}" />
-<meta property="og:image" content="{% if page.image %}{{ site.url }}{{ page.image }}{% else %}https://www.mugshotbot.com/m?url={{ site.url }}{{ page.url }}{% endif %}" />
+<meta property="og:image" content="{% if page.image %}{{ site.url }}{{ page.image }}{% elsif page.layout == 'post' %}https://www.mugshotbot.com/m?url={{ site.url }}{{ page.url }}{% else %}/images/covers/index-cover.png{% endif %}" />
 <meta property="og:url" content="{{ site.url }}{% unless page.url == '/index.html' %}{{ page.url }}{% endunless %}" />
 <meta property="og:title" content="{% if page.layout == 'tag' %}Check out the latest {{ page.title | xml_escape }} posts on {{ site.name }}{% elsif page.title %}{{ page.title | xml_escape }}{% else %}{{ site.name }}{% endif %}" />
 <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | xml_escape }}{% else %}{{ site.description }}{% endif %}" />
