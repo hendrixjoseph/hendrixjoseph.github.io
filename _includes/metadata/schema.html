@@ -5,7 +5,7 @@
 {% include metadata/author.html %}
 {% include metadata/publisher.html %}
 <span itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
-<meta itemprop="url" content="{{ site.url }}{% if page.image %}{{ page.image }}{% else %}/images/covers/index-cover.png{% endif %}">
+<meta itemprop="url" content="{% if page.image %}{{ site.url }}{{ page.image }}{% else %}https://www.mugshotbot.com/m?url={{ site.url }}{{ page.url }}{% endif %}">
 <meta itemprop="width" content="800">
 <meta itemprop="height" content="800">
 </span>
