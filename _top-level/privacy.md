@@ -3,10 +3,9 @@ layout: page
 title: Privacy Policy
 ---
 
-*Revised August 21, 2019.*
+*Revised October 6, 2020.*
 
 ## Google Programs
-
 
 ### Google Analytics
 
@@ -16,7 +15,7 @@ I also have demographics enabled on Google Analytics, which only tells me aggreg
 
 If you wish to know more or even opt out, view [Google's privacy policy](http://www.google.com/intl/en/policies/privacy/).
 
-### Goodle AdSense
+### Google AdSense
 
 I run Google AdSense mainly to know how to use AdSense. This is the single ad banner you may see on the top of the page. My goal is to only ever have at most the single ad banner. Again, for more details, view [Google's privacy policy](http://www.google.com/intl/en/policies/privacy/).
 
@@ -40,9 +39,13 @@ View [Facebook's privacy policy](https://www.facebook.com/about/privacy/) for mo
 
 This site participates in the [Amazon Services LLC Associates Program](https://affiliate-program.amazon.com/help/operating/agreement), an affiliate advertising program designed to provide a means for this site to earn fees by linking to Amazon.com and affiliated sites.
 
-### VigLink
+### AbeBooks
 
-This site uses VigLink to automatically affiliate commercial links. This is done via a JavaScript snippet. Visit [VigLink's Consumer Disclosure Page](https://www.viglink.com/legal/consumer-disclosure/) for more information.
+This site also participates in the AbeBooks affiliate program via Impact Radius. Links to AbeBooks may be tagged in such a way that, if you make a purchase on AbeBooks after clicking on a link to AbeBooks, this site will earn fees from that sale.
+
+### Sovrn//Commerce (formally VigLink)
+
+~~This site uses VigLink to automatically affiliate commercial links. This is done via a JavaScript snippet. Visit [VigLink's Consumer Disclosure Page](https://www.viglink.com/legal/consumer-disclosure/) for more information.~~ While I am still a member of Sovrn//Commerce (formally VigLink), I've temporarily disabled their JavaScript plugin.
 
 ## Social Media
 
