@@ -37,6 +37,13 @@ title: R&eacute;sum&eacute; / CV
 
 ## Projects
 
+### Tic Tac Toe Android Application
+
+* The Classic Game of Tic Tac Toe for Android.
+* [Source hosted on GitHub](https://github.com/hendrixjoseph/tictactoe).
+* [Available in the Google Play Store](https://play.google.com/store/apps/details?id=com.joehxblog.tictactoe).
+* [Available in the Amazon App Store](https://www.amazon.com/gp/product/B08KTWMYRK).
+
 ### Tagger for Amazon Associates
 
 * Android App written in Java that allows Amazon Associates to tag Amazon URLs with their affiliate code in order to earn affiliate revenue.
