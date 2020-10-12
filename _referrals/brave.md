@@ -1,4 +1,4 @@
 ---
 title: Brave Browser Referral
-redirect_to: https://brave.com/joe830	
+redirect_to: https://brave.com/joe830
 ---
