@@ -1,7 +1,7 @@
 ---
 layout: post
 title: November 2018 Book Reading List
-tags: [books]
+tags: [books, reading list]
 keywords: [book, read, books, reading, book reading, books i read]
 hashtags: [books, reading]
 image: /images/books/if-i-could-keep-you-little.jpg

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: September 2019 Book Reading List
-tags: [books]
+tags: [books, reading list]
 keywords: [book, read, books, reading, book reading, books i read]
 hashtags: [books, reading]
 image: /images/books/book-shelf-1.jpg

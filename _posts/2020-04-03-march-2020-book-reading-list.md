@@ -1,7 +1,7 @@
 ---
 layout: post
 title: March 2020 Book Reading List
-tags: [books]
+tags: [books, reading list]
 keywords: [book, read, books, reading, book reading, books i read]
 hashtags: [books, reading]
 image: /images/books/reading-to-both-kids.jpg

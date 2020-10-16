@@ -1,7 +1,7 @@
 ---
 layout: post
 title: October 2018 Book Reading List
-tags: [books]
+tags: [books, reading list]
 keywords: [book, read, books, reading, book reading, books i read]
 hashtags: [books, reading]
 image: /images/books/star-trek-the-eugenics-war.jpg

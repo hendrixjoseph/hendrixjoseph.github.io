@@ -1,7 +1,7 @@
 ---
 layout: post
 title: September 2018 Book Reading List
-tags: [books]
+tags: [books, reading list]
 keywords: [book, read, books, reading, book reading, books i read]
 hashtags: [books, reading]
 image: /images/the-little-guy/reading-to-the-little-guy-september-2018.png

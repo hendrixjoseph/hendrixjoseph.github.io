@@ -1,7 +1,7 @@
 ---
 layout: post
 title: May 2018 Book Reading List
-tags: [books]
+tags: [books, reading list]
 keywords: [book, read, books, reading, book reading, books i read]
 image : /images/books/may-2018-books-read.jpg
 ---
