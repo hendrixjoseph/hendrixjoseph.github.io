@@ -10,7 +10,7 @@ If you've been reading this blog for any amount of time, you'll know that I publ
 
 Initially, I linked the books to Amazon using my affiliate link. But then, in February of 2019, [Amazon shut down my associate account](https://www.joehxblog.com/amazon-shut-down-my-associate-account/). Which sucked, but at the time I wasn't making a ton from Amazon.
 
-Amazon did eventually reinstate my account but in the meantime, I changed every link to a book I could from Amazon to another site called AbeBooks. To monetize my links to AbeBooks I used a service called [VigLink](https://www.joehxblog.com/viglink/) (which is now called Sovrn//Commerce).
+Amazon did eventually reinstate my account but in the meantime, I changed every link to a book I could from Amazon to another site called [AbeBooks](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/). To monetize my links to AbeBooks I used a service called [VigLink](https://www.joehxblog.com/viglink/) (which is now called Sovrn//Commerce).
 
 VigLink involved a JavaScript plugin. I never made any money with VigLink, so at some point, I decided to disable (i.e. remove) the plugin.
 
