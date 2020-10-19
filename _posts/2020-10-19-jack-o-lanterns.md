@@ -46,7 +46,7 @@ Here's what I did after I separated the seeds from the pulp and patted them as d
 
 I laid them as flat as a could on a [baking sheet](https://www.amazon.com/Good-Cook-Inch-Cookie-Sheet/dp/B0026RHI0U/?tag=hendrixjoseph-20), and then drizzled some [olive oil](https://www.amazon.com/Amazon-Brand-Virgin-Mediterranean-Previously/dp/B07WYXJY8J/?tag=hendrixjoseph-20) across them and shook some [Italian seasoning](https://www.amazon.com/Amazon-Brand-Happy-Italian-Seasoning/dp/B07VYPBMWP/?tag=hendrixjoseph-20) on them.
 
-I then placed them in the oven that was pre-heated to 325&degree; for 20 minutes.
+I then placed them in the oven that was pre-heated to 325&deg; for 20 minutes.
 
 After the twenty minutes, I checked them and thought that they needed to be crispier. At this time, my wife suggested that I put some [garlic powder](https://www.amazon.com/Amazon-Brand-Garlic-Granulated-Ounces/dp/B07VVGKHLH/?tag=hendrixjoseph-20) on them, so I did along with some [salt](https://www.amazon.com/Amazon-Brand-Salt-Pepper-Ounces/dp/B07VYPC2ML/?tag=hendrixjoseph-20).
 
@@ -54,7 +54,7 @@ I put them back into the oven for another ten minutes. Still not crispy enough, 
 
 Here's a more recipe-like explanation:
 
-> * Pre-heat the oven to 325&degree; F
+> * Pre-heat the oven to 325&deg; F
 > * Pat the seeds dry with a towel
 > * Lay flat on a [baking sheet](https://www.amazon.com/Good-Cook-Inch-Cookie-Sheet/dp/B0026RHI0U/?tag=hendrixjoseph-20)
 > * Drizzle with [olive oil](https://www.amazon.com/Amazon-Brand-Virgin-Mediterranean-Previously/dp/B07WYXJY8J/?tag=hendrixjoseph-20)
