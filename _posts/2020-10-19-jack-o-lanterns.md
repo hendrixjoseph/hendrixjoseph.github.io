@@ -3,7 +3,7 @@ layout: post
 title: Jack-o-Lanterns
 tags: [culture]
 keywords: [jack-o-lanterns, jack-o-lanterns, pumpkin, pumpkins, pumpkin seeds]
-image: /images/hot-air-balloon-ride/cover.jpg
+image: /images/halloween/pumpkins/carved-and-painted.jpg
 ---
 
 October. The first full month of Autumn. The air begins to cool. Sweaters and light jackets become necessary. At the end of the month, it'll be Halloween, which means it's time to carve jack-o-lanterns.
