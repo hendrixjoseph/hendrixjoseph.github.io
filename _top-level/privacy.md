@@ -29,9 +29,9 @@ For more information, read [How Google uses information from sites or apps that 
 
 ## Facebook Pixel
 
-~~I currently use Facebook Conversion Tracking Pixels. This allows me to see visits on my website via Facebook, as well as to target Facebook ads to people who've visited this website.
+~~I currently use Facebook Conversion Tracking Pixels. This allows me to see visits on my website via Facebook, as well as to target Facebook ads to people who've visited this website.~~
 
-View [Facebook's privacy policy](https://www.facebook.com/about/privacy/) for more details. Facebook also has an [Ad Preferences page](https://www.facebook.com/ads/preferences/) giving you control over your data.~~
+~~View [Facebook's privacy policy](https://www.facebook.com/about/privacy/) for more details. Facebook also has an [Ad Preferences page](https://www.facebook.com/ads/preferences/) giving you control over your data.~~
 
 For the time being, I've disabled (i.e. removed) the Facebook Pixel.
 
