@@ -3,7 +3,7 @@ layout: page
 title: Privacy Policy
 ---
 
-*Revised October 6, 2020.*
+*Revised October 27, 2020.*
 
 ## Google Programs
 
@@ -17,7 +17,7 @@ If you wish to know more or even opt out, view [Google's privacy policy](http://
 
 ### Google AdSense
 
-I run Google AdSense mainly to know how to use AdSense. This is the single ad banner you may see on the top of the page. My goal is to only ever have at most the single ad banner. Again, for more details, view [Google's privacy policy](http://www.google.com/intl/en/policies/privacy/).
+I run Google AdSense mainly to know how to use AdSense. Again, for more details, view [Google's privacy policy](http://www.google.com/intl/en/policies/privacy/).
 
 Google AdSense required the following disclosure:
 
@@ -29,9 +29,11 @@ For more information, read [How Google uses information from sites or apps that 
 
 ## Facebook Pixel
 
-I currently use Facebook Conversion Tracking Pixels. This allows me to see visits on my website via Facebook, as well as to target Facebook ads to people who've visited this website.
+~~I currently use Facebook Conversion Tracking Pixels. This allows me to see visits on my website via Facebook, as well as to target Facebook ads to people who've visited this website.
 
-View [Facebook's privacy policy](https://www.facebook.com/about/privacy/) for more details. Facebook also has an [Ad Preferences page](https://www.facebook.com/ads/preferences/) giving you control over your data.
+View [Facebook's privacy policy](https://www.facebook.com/about/privacy/) for more details. Facebook also has an [Ad Preferences page](https://www.facebook.com/ads/preferences/) giving you control over your data.~~
+
+For the time being, I've disabled (i.e. removed) the Facebook Pixel.
 
 ## Affiliate Relationships
 
