@@ -1,0 +1,62 @@
+---
+title: Calorie to Exercise Calculator
+share: true
+---
+
+<pre>METs x 3.5 x BW (kg) / 200 = Kcal/min
+Kcal = min x METs x 3.5 x BW (kg) / 200
+METs = 200 x Kcal / (min * 3.5 * BW)
+min = Kcal / (METs x 3.5 x BW (kg) / 200)</pre>
+
+<form>
+<div><input type="number" id="calories" value="200" step="1" min="0" /><label for="calories">calories</label></div>
+<div><input type="number" id="weight" value="100" step="1" min="0" /><label for="weight">weight</label></div>
+<div><input id="find-button" type="button" value="Find Exercises" /></div>
+</form>
+
+<div id="answers"></div>
+
+<script>
+let exercises = [{name: "walking, less than 2.0 mph, level, strolling, very slow", speed: 2.0, mets: 2},
+                 {name: "walking, 2.0 mph, level, slow pace, firm surface", speed: 2.0, mets: 2.8},
+                 {name: "walking, 2.5 mph, level, firm surface", speed: 2.5, mets: 3},
+                 {name: "walking the dog", mets: 3},
+                 {name: "walking, 3.5 mph, level, firm surface, brisk pace", speed: 3.5, mets: 4.3},
+                 {name: "walking, 4.0 mph, level, firm surface, very brisk pace", speed: 4.0, mets: 5},
+                 {name: "walking, 4.5 mph, level, firm surface, very, very brisk", speed: 4.5, mets: 7},
+                 {name: "walking, 5.0 mph, level, firm surface", speed: 5.0, mets: 8.3},
+                 {name: "running, 4 mph (15 min/mile)", speed: 4, mets: 6 },
+                 {name: "running, 5 mph (12 min/mile)", speed: 5, mets: 8.3 },
+                 {name: "running, 5.2 mph (11.5 min/mile)", speed: 5.2, mets: 9 },
+                 {name: "running, 6 mph (10 min/mile)", speed: 6, mets: 9.8 },
+                 {name: "running, 6.7 mph (9 min/mile)", speed: 6.7, mets: 10.5 },
+                 {name: "running, 7 mph (8.5 min/mile)", speed: 7, mets: 11 },
+                 {name: "running, 7.5 mph (8 min/mile)", speed: 7.5, mets: 11.8 },
+                 {name: "running, 8 mph (7.5 min/mile)", speed: 8, mets: 11.8 },
+                 {name: "running, 8.6 mph (7 min/mile)", speed: 8.6, mets: 12.3  },
+                 {name: "running, 9 mph (6.5 min/mile)", speed: 9, mets: 12.8 },
+                 {name: "running, 10 mph (6 min/mile)", speed: 10, mets: 14.5 },
+                 {name: "running, 11 mph (5.5 min/mile)", speed: 11, mets: 16 },
+                 {name: "running, 12 mph (5 min/mile)", speed: 12, mets:  19.0 },
+                 {name: "running, 13 mph (4.6 min/mile)", speed: 13, mets: 19.8 },
+                 {name: "running, 14 mph (4.3 min/mile)", speed: 14, mets: 23 }]
+
+document.getElementById("find-button").onclick = () => {
+    let calories = document.getElementById("calories").value
+    let weight = document.getElementById("weight").value
+
+    document.getElementById("answers").innerHTML
+        = "<h2>If you want to burn " + calories + " calories, you could try...</h2><ul>" +
+          exercises.map(e => {
+            let minutes = Math.ceil(calories / (e.mets * 3.5 * weight / 200))
+            let string = e.name + " for " + minutes + " minutes"
+
+            if (e.speed) {
+                string = string + " (about " + (e.speed * minutes / 60).toFixed(2) + " miles)"
+            }
+
+            return "<li>" + string + ".</li>"
+          }).join("\r\n")
+          + "</ul>"
+}
+</script>
