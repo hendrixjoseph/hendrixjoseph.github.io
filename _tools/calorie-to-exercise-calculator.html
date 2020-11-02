@@ -107,9 +107,10 @@ If you want to see the code for the above calculator, click <a id='view-source'>
 document.getElementById("view-source").onclick = () => {
     let thesource = document.getElementById("thesource")
     thesource.style.display = "block"
-    thesource.style.white-space = "pre"
+    thesource.style.whiteSpace = "pre"
     thesource.style.border = "1px solid black"
     thesource.style.margin = "0.5em"
     thesource.style.padding = "0.5em"
+    thesource.scrollIntoView({behavior: 'smooth'})
 }
 </script>
