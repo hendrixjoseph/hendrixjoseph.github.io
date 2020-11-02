@@ -5,7 +5,7 @@ share: true
 
 <form>
 <div>I want to burn <input type="number" id="calories" value="200" step="1" min="0" /><label for="calories"> calories.</label></div>
-<div>I currenty weight about <input type="number" id="weight" value="100" step="1" min="0" /><select id="unit"><option value="kg">kg</option><option value="lbs">lbs</option>
+<div>I currently weight about <input type="number" id="weight" value="100" step="1" min="0" /><select id="unit"><option value="kg">kg</option><option value="lbs">lbs</option>
 </select></div>
 <div><input id="find-button" type="button" value="Find Exercises" /></div>
 </form>
@@ -13,7 +13,8 @@ share: true
 <div id="answers"></div>
 
 <script>
-let exercises = [{name: "walking, less than 2.0 mph, level, strolling, very slow", speed: 2.0, mets: 2},
+let exercises = [{name: "skipping rope", mets: 11},
+                 {name: "walking, less than 2.0 mph, level, strolling, very slow", speed: 2.0, mets: 2},
                  {name: "walking, 2.0 mph, level, slow pace, firm surface", speed: 2.0, mets: 2.8},
                  {name: "walking, 2.5 mph, level, firm surface", speed: 2.5, mets: 3},
                  {name: "walking the dog", mets: 3},
@@ -64,18 +65,37 @@ document.getElementById("find-button").onclick = () => {
 </script>
 
 {{ "
-## Background
+## Why Write a Calorie to Exercise Calculator?
 
-I did this because...
+The other day I was somewhere around 60 calories over my calorie goal. Not much, really, and maybe within the margin of error considering how inaccurate my recording can be.
 
-sources:
+But I thought to myself *What exercise - and for how long - could I do to burn that 60 calories?* With sites and apps like [My Fitness Pal](https://www.myfitnesspal.com/) I *could* select an exercise, and then increase or decrease the time until I found how long it would take to burn 60 calories.
 
-* https://www.acefitness.org/education-and-resources/professional/expert-articles/6434/5-things-to-know-about-metabolic-equivalents/
-* https://sites.google.com/site/compendiumofphysicalactivities/
+But not only is that time-consuming - it's only looking at one exercise at a time. Which, I suppose, just means it would even be more time consuming to look at several different exercises until I found one that I could do in a certain amount of time.
+
+I'm a software engineer (aka programmer) by trade, so I decided I'd do a bit of research. It turns out that each exercise has a number associated with it called a [metabolic equivalent of task](https://en.wikipedia.org/wiki/Metabolic_equivalent_of_task), or MET. If you know an exercise's MET, plus a few other bits of information, you can figure out how many calories an exercise burns.
+
+Here's the equation:
+
+    METs × 3.5 × body weight in kilograms / 200 = Kcal/min
+
+Keep in mind that "kilocalories" are the same as capital-C Calories.
+
+Solving the equation for minutes is straight forward:
+
+    min = Kcal / (METs × 3.5 × body weight in kilograms / 200)
+
+So all I need to know is how many calories I want to burn, and how much I weigh, and I can figure out how long I have to exercise for each exercise to burn that many calories. And with exercises that involve a speed - such as running or walking - I can also figure out how far I need to go.
+
+*Fun fact: there are MET values for things that aren't commonly thought of as exercises as well, including [inactivty](https://sites.google.com/site/compendiumofphysicalactivities/Activity-Categories/inactivity) and yes, [sexual activity](https://sites.google.com/site/compendiumofphysicalactivities/Activity-Categories/sexual-activity).*
+
+I'm unsure if My Fitness Pal or similar apps use METs, but it would make sense if they did. Why reinvent the wheel?
+
+If you want to see an exercise not listed above, feel free to make [an issue on GitHub](https://github.com/hendrixjoseph/hendrixjoseph.github.io/issues/new), or shoot me a message via [my Facebook page](https://www.facebook.com/JoeHxBlog/).
+
+## Sources
+
+* [5 Things to Know About Metabolic Equivalents](https://www.acefitness.org/education-and-resources/professional/expert-articles/6434/5-things-to-know-about-metabolic-equivalents/)
+* [Compendium of Physical Activities](https://sites.google.com/site/compendiumofphysicalactivities/)
 
 " | markdownify }}
-
-<pre>METs x 3.5 x BW (kg) / 200 = Kcal/min
-Kcal = min x METs x 3.5 x BW (kg) / 200
-METs = 200 x Kcal / (min * 3.5 * BW)
-min = Kcal / (METs x 3.5 x BW (kg) / 200)</pre>
