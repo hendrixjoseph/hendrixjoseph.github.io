@@ -101,4 +101,15 @@ If you want to see an exercise not listed above, feel free to make [an issue on 
 
 " | markdownify }}
 
-If you want to see the code for the above calculator, click <a id='view-source'>here</a> or visit this page's source on GitHub {{ page.path }}.
+If you want to see the code for the above calculator, click <a id='view-source'>here</a> or visit <a href='https://github.com/hendrixjoseph/hendrixjoseph.github.io/blob/master/{{ page.path }}'>this page's source on GitHub</a>.
+
+<script>
+document.getElementById("view-source").onclick = () => {
+    let thesource = document.getElementById("thesource")
+    thesource.style.display = "block"
+    thesource.style.white-space = "pre"
+    thesource.style.border = "1px solid black"
+    thesource.style.margin = "0.5em"
+    thesource.style.padding = "0.5em"
+}
+</script>
