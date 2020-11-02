@@ -23,6 +23,6 @@ Today, I program in Java during the day. Sometimes at night, too.
 
 From 2009 - 2012, I blogged at a site I called [Hendrices](https://www.facebook.com/Hendricescom/) - which is a pluralization of my last name. You can view [parts of the site in the WayBack Machine](https://web.archive.org/web/20090731115109/http://www.hendrices.com/). I've also imported some of the old blog posts here on the site.
 
-For a more professional overview of me, check out both [my r&eacute;sum&eacute;](/resume/) here on the site and [my LinkedIn profile](https://www.linkedin.com/in/hendrix1984/).
+For a more professional overview of me, check out both [my r&eacute;sum&eacute;](/resume/) here on the site and [my LinkedIn profile](https://www.linkedin.com/in/joehx/).
 
 If you want to contact me, the best way is to shoot a message to me via [my Facebook page](https://www.facebook.com/JoeHxBlog/).
