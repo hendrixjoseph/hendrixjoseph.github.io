@@ -3,14 +3,10 @@ title: Calorie to Exercise Calculator
 share: true
 ---
 
-<pre>METs x 3.5 x BW (kg) / 200 = Kcal/min
-Kcal = min x METs x 3.5 x BW (kg) / 200
-METs = 200 x Kcal / (min * 3.5 * BW)
-min = Kcal / (METs x 3.5 x BW (kg) / 200)</pre>
-
 <form>
-<div><input type="number" id="calories" value="200" step="1" min="0" /><label for="calories">calories</label></div>
-<div><input type="number" id="weight" value="100" step="1" min="0" /><label for="weight">weight</label></div>
+<div>I want to lose <input type="number" id="calories" value="200" step="1" min="0" /><label for="calories"> calories.</label></div>
+<div>I currenty weight about <input type="number" id="weight" value="100" step="1" min="0" /><select id="unit"><option value="kg">kg</option><option value="lbs">lbs</option>
+</select></div>
 <div><input id="find-button" type="button" value="Find Exercises" /></div>
 </form>
 
@@ -44,6 +40,12 @@ let exercises = [{name: "walking, less than 2.0 mph, level, strolling, very slow
 document.getElementById("find-button").onclick = () => {
     let calories = document.getElementById("calories").value
     let weight = document.getElementById("weight").value
+    
+    let unit = document.getElementById("unit").value
+    
+    if (unit === "lbs") {
+        weight = weight / 2.205
+    }
 
     document.getElementById("answers").innerHTML
         = "<h2>If you want to burn " + calories + " calories, you could try...</h2><ul>" +
@@ -60,3 +62,20 @@ document.getElementById("find-button").onclick = () => {
           + "</ul>"
 }
 </script>
+
+{{ "
+## Background
+
+I did this because...
+
+sources:
+
+* https://www.acefitness.org/education-and-resources/professional/expert-articles/6434/5-things-to-know-about-metabolic-equivalents/
+* https://sites.google.com/site/compendiumofphysicalactivities/
+
+" | markdownify }}
+
+<pre>METs x 3.5 x BW (kg) / 200 = Kcal/min
+Kcal = min x METs x 3.5 x BW (kg) / 200
+METs = 200 x Kcal / (min * 3.5 * BW)
+min = Kcal / (METs x 3.5 x BW (kg) / 200)</pre>
