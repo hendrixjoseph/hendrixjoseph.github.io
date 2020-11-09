@@ -112,7 +112,7 @@ Allowing Δtime and Δspace to be fractions of c (i.e. from 0 to 1, inclusive), 
     Δtime = √(1² - Δspace²)
     Δtime = √(1 - Δspace²)
 
-![Correct time dilation graph.](/images/time-and-space/incorrect-time-dilation.png)
+![Correct time dilation graph.](/images/time-and-space/correct-time-dilation.png)
 *Correct time dilation graph.*
 
 (Assigning c to one, as well as assigning several other physical constants to one, has been done before by people much smarter than me. See [natural units on Wikipedia](https://en.wikipedia.org/wiki/Natural_units).)
