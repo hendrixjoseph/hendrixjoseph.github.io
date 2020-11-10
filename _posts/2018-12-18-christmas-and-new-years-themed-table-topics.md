@@ -8,7 +8,7 @@ image : /images/christmas-t-shirt.png
 
 Once again I was table topics master at my local Toastmasters meeting. Being that it is the Christmas and New Year season, I felt it was appropriate to theme my table topics around these two holidays.
 
-My aim for these table topic questions, in addition to being about Christmas or New Year's, was to avoid yes/no questions (e.g. "Do you make New Year's resolutions?") and instead ask more open-ended questions (without simply adding the lazy "why or why not" as so many yes/no questions do).
+My aim for these [table topic](https://www.joehxblog.com/tags/table-topics/) questions, in addition to being about Christmas or New Year's, was to avoid yes/no questions (e.g. "Do you make New Year's resolutions?") and instead ask more open-ended questions (without simply adding the lazy "why or why not" as so many yes/no questions do).
 
 Now, without further ado, here are the ten Christmas and New Year's themed table topics I came up with:
 

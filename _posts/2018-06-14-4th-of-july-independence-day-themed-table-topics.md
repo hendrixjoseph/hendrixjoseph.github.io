@@ -8,7 +8,7 @@ image : /images/Fourth_of_July_fireworks_behind_the_Washington_Monument,_1986.jp
 
 Last Tuesday I was Table Topics master at my local Toastmasters meeting, which means I had to choose questions or topics that the other members had to give a one to two-minute speech. Being that the 4th of July, Independence Day here in the United States, is approaching, I decided to theme my questions about that holiday in particular.
 
-Table Topics are meant to be short, impromptu speeches, meaning that the speaker has little or no time to prepare. Job interviews are often considered, at least in the Toastmaster world, to be a form of table topics.
+[Table Topics](https://www.joehxblog.com/tags/table-topics/) are meant to be short, impromptu speeches, meaning that the speaker has little or no time to prepare. Job interviews are often considered, at least in the Toastmaster world, to be a form of table topics.
 
 I came up with ten different 4th of July Independence Day table topics but ended up only using three of them due to time constraints. Feel free to use them at your own Toastmaster meeting, or any other situation that calls for short, impromptu speeches.
 

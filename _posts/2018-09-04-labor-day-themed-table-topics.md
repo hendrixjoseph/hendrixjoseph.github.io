@@ -8,7 +8,7 @@ image : /images/american-flag.jpg
 
 Tonight I am the Table Topics master for my local Toastmasters meeting. This means I need to come up with a few questions or topics that people can respond with a short one or two-minute impromptu speech. Yesterday was Labor Day, so I figured I should theme the questions around that holiday.
 
-Many of the Labor Day table topics I came across on the Internet were at least somewhat political or controversial. While controversy can make for some great discussions, I wanted some table topic questions that could spur the one to two minutes of talk without contention.
+Many of the Labor Day [table topics](https://www.joehxblog.com/tags/table-topics/) I came across on the Internet were at least somewhat political or controversial. While controversy can make for some great discussions, I wanted some table topic questions that could spur the one to two minutes of talk without contention.
 
 I came up with a list of ten Labor Day themed table topics that are hopefully not too contentious. As always, feel free to use them at your own Toastmasters meeting or any other place where such questions would be appropriate.
 
