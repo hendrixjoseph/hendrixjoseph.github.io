@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Labor Day Themed Table Topics
-tags: [toastmasters]
-keywords: [table topics, toastmaster, toastmasters, labor day, labor]
+tags: [toastmasters, table topics]
+keywords: [toastmaster, toastmasters, labor day, labor]
 image : /images/american-flag.jpg
 ---
 

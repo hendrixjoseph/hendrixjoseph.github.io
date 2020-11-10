@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 4th of July Independence Day Themed Table Topics
-tags: [toastmasters]
-keywords: [table topics, toastmaster, toastmasters, 4th of july, july 4th, fourth of july, july fourth, independence day]
+tags: [toastmasters, table topics]
+keywords: [toastmaster, toastmasters, 4th of july, july 4th, fourth of july, july fourth, independence day]
 image : /images/Fourth_of_July_fireworks_behind_the_Washington_Monument,_1986.jpg
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Christmas and New Year's Themed Table Topics
-tags: [toastmasters]
+tags: [toastmasters, table topics]
 keywords: [table topics, toastmaster, toastmasters, christmas, new year, new year's, holiday]
 image : /images/christmas-t-shirt.png
 ---
