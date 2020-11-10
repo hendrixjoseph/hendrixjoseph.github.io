@@ -6,7 +6,7 @@
 </a>
 
 <div class="site-info">
-<{% if layout.isPost or layout.isTool %}span{% else %}h1{% endif %} class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></{% if layout.isPost or layout.isTool %}span{% else %}h1{% endif %}>
+<{% if page.title %}span{% else %}h1{% endif %} class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></{% if page.title %}span{% else %}h1{% endif %}>
 <p class="site-description">{{ site.description }}</p>
 </div>
 
