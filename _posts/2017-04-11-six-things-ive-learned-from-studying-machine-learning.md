@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Six Things I've Learned from Studying Machine Learning
-tags: [technology]
+tags: [artificial intelligence, technology]
 keywords: [machine learning, artificial intelligence, neural networks, life]
 hashtags: [machinelearning, ai]
 ---
