@@ -11,6 +11,7 @@ Interviewed on the following webpages:
 
 Quoted on the following webpages:
 
+* [13 ways you can make the most of Black Friday in 2020 (slide 4/11)](https://www.msn.com/en-us/money/personalfinance/13-ways-you-can-make-the-best-of-black-friday-in-2020/ss-BB1aWxon?ocid=st#image=4)
 * [7 Black Friday Hacks - A Dime Saved](https://adimesaved.com/7-black-friday-hacks)
 * [Hindsight is 2020: How to learn from money mistakes](https://www.consolidatedcredit.org/financial-news/hindsight-is-2020-how-to-learn-from-money-mistakes/#joehxblog)
 * [Retrospectiva para 2020: Cómo aprender de los errores del dinero](https://www.consolidatedcredit.org/es/notas-financieras/retrospectiva-para-2020-como-aprender-de-los-errores-del-dinero/#joehxblog) (same as the previous one, but in Spanish)
