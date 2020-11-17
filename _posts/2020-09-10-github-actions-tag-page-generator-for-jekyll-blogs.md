@@ -14,7 +14,7 @@ Being me, I wanted in on some of the action (pun definitely intended).
 
 This blog is hosted via [GitHub pages](https://pages.github.com/). As such, it is a static blog generated with [Jekyll](https://jekyllrb.com/). 
 
-Jekyll allows me to easier "tag" pages. For instance, this post has the tags [github](https://www.joehxblog.com/tags/github), [jekyll](https://www.joehxblog.com/tags/jekyll), [nodejs](https://www.joehxblog.com/tags/nodejs), and [programming](https://www.joehxblog.com/tags/programming).
+Jekyll allows me to easier "tag" pages. For instance, this post has the tags [github](https://www.joehxblog.com/tags/github/), [jekyll](https://www.joehxblog.com/tags/jekyll/), [nodejs](https://www.joehxblog.com/tags/nodejs/), and [programming](https://www.joehxblog.com/tags/programming/).
 
 On other pages, I can easily query what tags exist, and what posts fall under those tags. For instance, this has allowed me to make the [Tags page](https://www.joehxblog.com/tags/) which lists every tag and every post underneath that tag.
 
