@@ -27,6 +27,6 @@ Check out the map and some statistics from my hiking app below:
 }
 </style>
 
-<div class="inline-div nov-hike"><img src="/images/2016-11-05-Hike/2016-11-05-Map.png"></div>
-<div class="inline-div nov-hike"><img src="/images/2016-11-05-Hike/2016-11-05-Elevation.png"></div>
-<div class="inline-div nov-hike"><img src="/images/2016-11-05-Hike/2016-11-05-Details.png"></div>
+<div class="inline-div nov-hike"><img src="/images/2016-11-05-Hike/2016-11-05-Map.png" alt="map"></div>
+<div class="inline-div nov-hike"><img src="/images/2016-11-05-Hike/2016-11-05-Elevation.png" alt="elevation chart"></div>
+<div class="inline-div nov-hike"><img src="/images/2016-11-05-Hike/2016-11-05-Details.png" alt="workout details"></div>
