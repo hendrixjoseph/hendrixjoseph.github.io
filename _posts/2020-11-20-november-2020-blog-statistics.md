@@ -71,8 +71,8 @@ I last did something like this back in my [July 2018 blog stats post](https://ww
 
 Not much has changed with the Moz stats, except that I've lost five linking domains and gone up one point in domain authority:
 
-Moz Domain Authority &rarr; 31
-Moz Linking Domains &rarr; 515
+* Moz Domain Authority &rarr; 31
+* Moz Linking Domains &rarr; 515
 
 ## Ratios
 
