@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Post Statistics
+excerpt: Various post statistics for this blog including number of posts, number of words, etc.
 ---
 
 {% for post in site.posts %}
