@@ -1,5 +1,5 @@
 ---
-layout: affiliate-default
+layout: page
 title: Archive
 excerpt: This page contains a list of articles by month and year.
 ---
