@@ -41,7 +41,7 @@ In other words, it's taken me 6 months, 12 months, and 9 months - for an average
 
 Honestly, I use Receipt Hog mostly to look up old receipts - it helps me with budgeting and sometimes when I have to return things.
 
-The Bumped app has been hugely successful; I was somewhere around $14 in rewards last year. I've yet to start using Bumped's main competitor [Bits of Stock](https://www.joehxblog.com/bits-of-stock/) even though I've been accepted (I'm having a bit of problem with their iPhone app and need to email them for help).
+The [Bumped app](https://www.joehxblog.com/bumped-app-review-one-year-later/) has been hugely successful; I was somewhere around $14 in rewards last year. I've yet to start using Bumped's main competitor [Bits of Stock](https://www.joehxblog.com/bits-of-stock/) even though I've been accepted (I'm having a bit of problem with their iPhone app and need to email them for help).
 
 Pei has been decent as well. I've earned 0.00851090 bitcoin - which would have been $74.73 had I decided to cash out instead. (To put it in context - that bitcoin is worth about $61.23 as I write this. It's probably changed again significantly by the time you're reading this.) I've "cashed out" four times, the first three times I chronicles in my post [How Much Can You Make with the Pei Cashback App?](https://www.joehxblog.com/how-much-can-you-make-with-the-pei-cashback-app/).
 
