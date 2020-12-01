@@ -13,7 +13,7 @@ The GitHub Game Off is an annual game jam held during the month of November and 
 
 A [game jam](https://en.wikipedia.org/wiki/Game_jam) is where people try to make a game from scratch. Wikipedia says it's a contest, but the GitHub Game Off has no prizes. 
 
-![GitHub Game Off header image by João Ribeiro](/images/github-game-off-2020/)
+![GitHub Game Off header image by João Ribeiro](/images/github-game-off-2020/header.png)
 *GitHub Game Off header image by [João Ribeiro](https://www.artstation.com/wodzgn )*
 
 ## About The Experience
