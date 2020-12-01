@@ -51,7 +51,7 @@ Here are the thirty-four books I read to him:
 * [The Very Lazy Ladybug](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9781589253797)
 * [Walt Disney's Pinocchio ](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780785336549/30346975889)
 * [We See Shapes](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9781412731379/30662715856)
-* [Would You Like to Play Hide & Seek in this Book with Lovable, Fury Old Grover?](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780394832920)
+* [Would You Like to Play Hide & Seek in this Book with Lovable, Furry Old Grover?](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780394832920)
 
 ### Books I Read to My Daughter
 
