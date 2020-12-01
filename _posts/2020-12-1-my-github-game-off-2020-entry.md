@@ -66,8 +66,6 @@ A couple of thoughts on what I need to do differently for my next game:
 
 ## Availability
 
-![Moonshot logo](/images/github-game-off-2020/moonshot-logo.png)
-
 <iframe frameborder="0" src="https://itch.io/embed/838521?linkback=true" width="552" height="167"><a href="https://hendrixjoseph.itch.io/moonshot">Moonshot by JoeHx</a></iframe>
 
 As soon as it passes their reviewers, Moonshot should be available on:
