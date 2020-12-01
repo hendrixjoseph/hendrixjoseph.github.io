@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My GitHub Game Off 2020 Entry
-tags: [android]
+tags: [android, game, github]
 keywords: [moonshot, game off, github game off, game jam, game, java, libgdx, tiled, gamesfromscratch, opengameart, android app, google play]
 hashtags: [GitHubGameOff]
 image: /images/github-game-off-2020/screenshot.png
