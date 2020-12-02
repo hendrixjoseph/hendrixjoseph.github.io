@@ -39,6 +39,9 @@ defaults:
       layout: "tool"
   - scope:
       path: "/page/**/"
+    values:
+      sitemap: false
+  - scope:
       path: "/tags/**/"
     values:
       sitemap: false
