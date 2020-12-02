@@ -42,7 +42,8 @@ defaults:
     values:
       sitemap: false
   - scope:
-      path: "/tags/**/"
+      path: ""
+      type: "tag-posts"
     values:
       sitemap: false
 
