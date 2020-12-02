@@ -37,6 +37,10 @@ defaults:
       type: "tools"
     values:
       layout: "tool"
+  - scope:
+      path: "/page/**/"
+    values:
+      sitemap: false
 
 navlinks:
   - text: Home
