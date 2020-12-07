@@ -16,7 +16,6 @@
 <div id="post-new-comment{{ include.reply }}-error" hidden>Your comment has been submitted, but their seems to be an error. Check your browser console for more details.
 <div class="error-message"></div></div>
 <script>
-/*
 document.getElementById('post-new-comment{{ include.reply }}').onsubmit = e => {
     e.preventDefault();
 
@@ -41,8 +40,8 @@ document.getElementById('post-new-comment{{ include.reply }}').onsubmit = e => {
         document.getElementById('post-new-comment{{ include.reply }}-error').hidden = false;
     });
 }
-*/
 
+/*
 $('#post-new-comment{{ include.reply }}').submit(function(e){
     e.preventDefault();
     var form = this;
@@ -66,4 +65,5 @@ $('#post-new-comment{{ include.reply }}').submit(function(e){
         }
     });
 });
+*/
 </script>
