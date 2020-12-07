@@ -16,6 +16,7 @@
 <div id="post-new-comment{{ include.reply }}-error" hidden>Your comment has been submitted, but their seems to be an error. Check your browser console for more details.
 <div class="error-message"></div></div>
 <script>
+/*
 document.getElementById('post-new-comment{{ include.reply }}').onsubmit = e => {
     e.preventDefault();
 
@@ -32,16 +33,16 @@ document.getElementById('post-new-comment{{ include.reply }}').onsubmit = e => {
         if (!response.ok) {
             throw new Error('Network response was not ok');
         }
-        document.getElementById('#post-new-comment{{ include.reply }}-submitting').hidden = true;
-        document.getElementById('#post-new-comment{{ include.reply }}-thank-you').hidden = false;
+        document.getElementById('post-new-comment{{ include.reply }}-submitting').hidden = true;
+        document.getElementById('post-new-comment{{ include.reply }}-thank-you').hidden = false;
     }).catch(err => {
-        document.getElementById('#post-new-comment{{ include.reply }}-submitting').hidden = true;
-        document.getElementById('#post-new-comment{{ include.reply }}-error .error-message').text(err.responseText);
-        document.getElementById('#post-new-comment{{ include.reply }}-error').hidden = false;
+        document.getElementById('post-new-comment{{ include.reply }}-submitting').hidden = true;
+        document.getElementById('post-new-comment{{ include.reply }}-error .error-message').text(err.responseText);
+        document.getElementById('post-new-comment{{ include.reply }}-error').hidden = false;
     });
 }
+*/
 
-/*
 $('#post-new-comment{{ include.reply }}').submit(function(e){
     e.preventDefault();
     var form = this;
@@ -65,5 +66,4 @@ $('#post-new-comment{{ include.reply }}').submit(function(e){
         }
     });
 });
-*/
 </script>
