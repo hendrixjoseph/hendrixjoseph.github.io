@@ -1,4 +1,4 @@
 ---
 title: Arcadia Power Referral
-redirect_to: https://www.arcadiapower.com/joseph2487
+redirect_to: https://arcadia.com/referral/?promo=joseph2487
 ---
