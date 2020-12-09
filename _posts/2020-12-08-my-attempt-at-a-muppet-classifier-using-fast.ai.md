@@ -3,7 +3,7 @@ layout: post
 title: My Attempt at a Muppet Classifier Using fast.ai
 tags: [artificial intelligence, fast.ai, programming]
 keywords: [fast.ia, modulenotfounderror, google colab, colab, deep learning, google drive]
-image: /images/google-colab/fastai-ModuleNotFoundError.png
+image: /images/fastai/muppet-classifier/working-example.png
 ---
 
 Or at least a Sesame Street Muppet Classifier.
