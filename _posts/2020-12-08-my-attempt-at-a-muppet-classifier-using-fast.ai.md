@@ -45,7 +45,7 @@ Unfortunately, I don't have a graphics card - and I am even running Windows at h
 
 Google Colab allows me (or anyone, really) to run my code on a GPU. I just need to specify which runtime type I want by selecting **Runtime -> Change runtime type** - which gives me the following handy-dandy dialog:
 
-[Google Colab runtime types dialog](/images/fastai/muppet-classifier/google-colab-runtime-types-dialog.png
+![Google Colab runtime types dialog](/images/fastai/muppet-classifier/google-colab-runtime-types-dialog.png)
 *Google Colab runtime types dialog*
 
 *None* is the default setting, so I had to remember to change my runtime type before I ran any code - I noticed that if I switched runtime types after running any code, my session would be cleared (so all my variables would be reset and temporary files - including my image files! - would be deleted). The menu options **Run all**, **Run before**, and **Run after** underneath the **Runtime** menu were helpful at getting me back where I was at whenever this happened.
@@ -65,7 +65,7 @@ Here's a screenshot of the error:
 Not only did it use too much RAM, but it also made the confusion matrix to messy (and confusing!):
 
 ![A confusion matrix jam-packed with 100 entities.](/images/fastai/muppet-classifier/messy-confusion-matrix.png)
-*A confusion matrix jam-packed with 100 entities.
+*A confusion matrix jam-packed with 100 entities.*
 
 > A [confusion matrix](https://en.wikipedia.org/wiki/Confusion_matrix) is simply a table that maps what the image was identified to be to what the image actually is.
 
