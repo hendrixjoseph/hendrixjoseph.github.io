@@ -92,4 +92,4 @@ If anyone wants to take a look, the code is hosted on [GitHub](https://github.co
 
 I am able to embed the Heroku app here, but it gets stuck "thinking":
 
-<iframe src="https://muppet-classifier.herokuapp.com/" height="500" width="500" title="Muppet Classifier on Heroku"></iframe>
+<iframe src="https://muppet-classifier.herokuapp.com/" height="500" width="500" title="Muppet Classifier on Heroku" class="fancy-border"></iframe>
