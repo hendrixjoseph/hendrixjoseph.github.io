@@ -89,3 +89,7 @@ What I haven't been able to do is get it to work somewhere that anyone can acces
 I've tried putting it on a service called [Binder](https://mybinder.org/v2/gh/hendrixjoseph/muppet-classifier/HEAD?urlpath=%2Fvoila%2Frender%2Fmuppet_webpage.ipynb) and that didn't work. I also tried it on [Heroku](https://muppet-classifier.herokuapp.com/), but that didn't work either.
 
 If anyone wants to take a look, the code is hosted on [GitHub](https://github.com/hendrixjoseph/muppet-classifier) - the "app" part is [muppet_webpage.ipynb](https://github.com/hendrixjoseph/muppet-classifier/blob/master/muppet_webpage.ipynb) specifically.
+
+I am able to embed the Heroku app here, but it gets stuck "thinking":
+
+<iframe src="https://muppet-classifier.herokuapp.com/" height="500" width="500" title="Muppet Classifier on Heroku"></iframe>
