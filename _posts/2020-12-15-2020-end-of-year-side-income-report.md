@@ -25,7 +25,7 @@ I've also included a cryptocurrency section for any earnings in cryptocurrency.
 * [Receipt Hog](https://www.receipthog.com/) &rarr; $40.00
 * [eBates/Rakuten](https://www.joehxblog.com/ebates/) &rarr; $17.09
 * [Bumped](https://bumped.com/) &rarr; $130.14 $330 - $14.07 - $185.79
-* Bits of Stock &rarr; $47.22
+* [Bits of Stock](https://bitsofstock.com/) &rarr; $47.22
 * Total &rarr; $234.45
 
 I'm not sure Bits of Stock will ever payout, but supposedly I have almost fifty dollars in stock with that app.
@@ -113,7 +113,7 @@ Similar to Merch by Amazon, Amazon Associates pays out on the 29th. I have a bal
 
 * [BlockFi](https://www.joehxblog.com/blockfi/) &rarr;  0.00124928 BTC
 * [Pei](https://www.joehxblog.com/pei/) &rarr; 0.0036251 BTC
-* Brave Browser &rarr; 107.29041 BAT
+* [Brave Browser](https://www.joehxblog.com/brave/) &rarr; 107.29041 BAT
 
 I also earned the following from Coinbase Earn for watching videos and answering quizzes:
 
@@ -124,8 +124,7 @@ I also earned the following from Coinbase Earn for watching videos and answering
 * 2.596054 CGLD from Coinbase Earn ($6)
 * 0.204538 FIL from Coinbase Earn ($6)
 
-I have Coinbase Earn invite links for [XLM (Stellar Lumens)
-(https://coinbase.com/earn/xlm/invite/z1jw65vh
+I have Coinbase Earn invite links for [XLM (Stellar Lumens)](https://coinbase.com/earn/xlm/invite/z1jw65vh
 ), [COMP (Compound)](https://coinbase.com/earn/comp/invite/btkjfnhp), and [Band](https://coinbase.com/earn/band/invite/7cpqf3ms) if you want to earn some free coins as well.
 
 Finally, I earned the following by either staking my coins on Coinbase, or just plain old interest via Coinbase Rewards:
