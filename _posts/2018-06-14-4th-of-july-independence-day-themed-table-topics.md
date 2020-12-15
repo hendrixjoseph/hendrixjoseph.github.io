@@ -3,7 +3,7 @@ layout: post
 title: 4th of July Independence Day Themed Table Topics
 tags: [toastmasters, table topics]
 keywords: [toastmaster, toastmasters, 4th of july, july 4th, fourth of july, july fourth, independence day]
-image : /images/Fourth_of_July_fireworks_behind_the_Washington_Monument,_1986.jpg
+image : /images/Fourth_of_July_fireworks_behind_the_Washington_Monument_1986.jpg
 ---
 
 Last Tuesday I was Table Topics master at my local Toastmasters meeting, which means I had to choose questions or topics that the other members had to give a one to two-minute speech. Being that the 4th of July, Independence Day here in the United States, is approaching, I decided to theme my questions about that holiday in particular.
@@ -34,5 +34,5 @@ I came up with ten different 4th of July Independence Day table topics but ended
 
 10. If you could change the colors of the United State flag, what colors would you choose, and why?
 
-![Fourth of July fireworks behind the Washington Monument, 1986](/images/Fourth_of_July_fireworks_behind_the_Washington_Monument,_1986.jpg)
+![Fourth of July fireworks behind the Washington Monument, 1986](/images/Fourth_of_July_fireworks_behind_the_Washington_Monument_1986.jpg)
 *image source: [https://en.wikipedia.org/wiki/File:Fourth_of_July_fireworks_behind_the_Washington_Monument,_1986.jpg](https://en.wikipedia.org/wiki/File:Fourth_of_July_fireworks_behind_the_Washington_Monument,_1986.jpg)*
