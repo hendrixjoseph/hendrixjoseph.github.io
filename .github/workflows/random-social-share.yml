@@ -1,6 +1,8 @@
 name: Randomly share a blog post.
 on:
   workflow_dispatch:
+  schedule:
+    - cron:  '0 14 * * *'
 
 jobs:
   random-social-share:
