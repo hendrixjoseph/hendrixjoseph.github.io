@@ -1,0 +1,13 @@
+name: Randomly share a blog post.
+on:
+  workflow_dispatch:
+
+jobs:
+  random-social-share:
+    name: Generate the set of tag pages.
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: hendrixjoseph/random-social-share@master
+        with:
+          source: https://www.joehxblog.com/data/posts.csv
