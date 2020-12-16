@@ -15,3 +15,4 @@ jobs:
           twitter_access_token_secret: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
           twitter_consumer_key: ${{ secrets.TWITTER_CONSUMER_KEY }}
           twitter_consumer_secret: ${{ secrets.TWITTER_CONSUMER_SECRET }}
+          facebook_access_token: ${{ secrets.FACEBOOK_ACCESS_TOKEN }}
