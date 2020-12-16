@@ -4,7 +4,7 @@ on:
 
 jobs:
   random-social-share:
-    name: Generate the set of tag pages.
+    name: Randomly share a blog post.
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
