@@ -11,3 +11,7 @@ jobs:
       - uses: hendrixjoseph/random-social-share@master
         with:
           source: https://www.joehxblog.com/data/posts.csv
+          twitter_access_token: ${{ secrets.TWITTER_ACCESS_TOKEN }}
+          twitter_access_token_secret: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
+          twitter_consumer_key: ${{ secrets.TWITTER_CONSUMER_KEY }}
+          twitter_consumer_secret: ${{ secrets.TWITTER_CONSUMER_SECRET }}
