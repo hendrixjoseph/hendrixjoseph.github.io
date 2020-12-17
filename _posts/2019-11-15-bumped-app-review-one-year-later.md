@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Bumped App Review - One Year Later
-tags: [money, review]
-keywords: [bumped, bumped app, bumped app review]
+tags: [bumped, money, review]
+keywords: [bumped app, bumped app review]
 image: /images/bumped/bumped-logo.png
 ---
 
