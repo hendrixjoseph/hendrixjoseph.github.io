@@ -62,7 +62,7 @@ Nope.
 
 My account was showing that I had $329.73, but only $0.00 was available.
 
-I guess I need to wait another day for the money to settle. [¯\_(ツ)_/¯](https://www.amazon.com/dp/B07P3CQJK1/tag=hendrixjoseph-20)
+I guess I need to wait another day for the money to settle. [¯\\_(ツ)_/¯](https://www.amazon.com/dp/B07P3CQJK1/tag=hendrixjoseph-20)
 
 ## Day 3: Initiate Transfer to Bank
 
@@ -107,14 +107,14 @@ Hopefully tomorrow I'll see that sweet, sweet deposit. If not, hopefully, it'll 
 ## Summary Table
 
 | what | dollars | shares sold | percent | sold price | shares bought | bought price |
-| :---: | ---: | :--- | ---: | ---: | :--- | ---: |
-| Kroger | $185.38 | 5.89055 | 56.22% | $31.47 | 5.98 | $31.00 |
+| :---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| Kroger | $185.38 | 5.89055 | 56.22% | $31.47 | 5.980000 | $31.00 |
 | McDonald's | $45.87 | 0.21595 | 13.91% | $212.41 | 0.214571 | $213.78 |
-| Home Depot | $24.35 | 0.0914 | 7.38% | $266.41 | 0.090285 | $269.70 |
+| Home Depot | $24.35 | 0.09140 | 7.38% | $266.41 | 0.090285 | $269.70 |
 | Target | $14.16 | 0.08281 | 4.29% | $170.99 | 0.082423 | $171.80 |
-| Verizon | $13.58 | 0.2254 | 4.12% | $60.25 | 0.226578 | $59.94 |
+| Verizon | $13.58 | 0.22540 | 4.12% | $60.25 | 0.226578 | $59.94 |
 | Walmart | $12.18 | 0.08321 | 3.69% | $146.38 | 0.083682 | $145.55 |
-| Chipotle | $9.25 | 0.0071 | 2.81% | $1,302.82 | 0.006585 | $1,404.71 |
+| Chipotle | $9.25 | 0.00710 | 2.81% | $1,302.82 | 0.006585 | $1,404.71 |
 | Starbucks | $8.46 | 0.08171 | 2.57% | $103.54 | 0.081893 | $103.31 |
 | Domino's | $4.65 | 0.01217 | 1.41% | $382.09 | 0.012055 | $385.73 |
 | Netflix | $4.17 | 0.00803 | 1.26% | $519.30 | 0.007945 | $524.86 |
