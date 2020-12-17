@@ -9,7 +9,6 @@ jobs:
     name: Randomly share a blog post.
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
       - uses: hendrixjoseph/random-social-share@master
         with:
           source: https://www.joehxblog.com/data/posts.csv
