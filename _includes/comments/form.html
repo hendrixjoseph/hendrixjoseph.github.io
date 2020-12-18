@@ -36,7 +36,7 @@ document.getElementById('post-new-comment{{ include.reply }}').onsubmit = e => {
         document.getElementById('post-new-comment{{ include.reply }}-thank-you').hidden = false;
     }).catch(err => {
         document.getElementById('post-new-comment{{ include.reply }}-submitting').hidden = true;
-        document.getElementById('post-new-comment{{ include.reply }}-error .error-message').text(err.responseText);
+        document.getElementById('post-new-comment{{ include.reply }}-error .error-message').textContent = err.responseText;
         document.getElementById('post-new-comment{{ include.reply }}-error').hidden = false;
     });
 }
