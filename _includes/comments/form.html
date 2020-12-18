@@ -30,7 +30,7 @@ document.getElementById('post-new-comment{{ include.reply }}').onsubmit = e => {
         body: JSON.stringify(Object.fromEntries(new FormData(form)))
     }).then(() => {
         if (!response.ok) {
-            throw new Error('Network response was not ok:' + JSON.stringfy(response);
+            throw new Error('Network response was not ok:' + JSON.stringfy(response));
         }
         document.getElementById('post-new-comment{{ include.reply }}-submitting').hidden = true;
         document.getElementById('post-new-comment{{ include.reply }}-thank-you').hidden = false;
