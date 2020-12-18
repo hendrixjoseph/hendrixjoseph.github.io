@@ -1,4 +1,4 @@
-<form id="post-new-comment{{ include.reply }}" class="new-comment" method="post" action="https://hendrixjoseph-staticman.herokuapp.com/v3/entry/github/hendrixjoseph/blog-comments/master/comments"{% if include.reply %} style="display: none;"{% endif %}>
+<form id="post-new-comment{{ include.reply }}" class="new-comment" method="post" action="https://hendrixjoseph-staticman.herokuapp.com/v3/entry/github/hendrixjoseph/blog-comments/master/comments"{% if include.reply %} hidden{% endif %}>
   <input type="hidden" name="options[origin]" value="{{ page.url | absolute_url }}">
   <input type="hidden" name="fields[codeword]" value="super-secret">
   <input name="options[redirect]" type="hidden" value="{{ site.url }}{{ page.url }}" />
@@ -30,13 +30,13 @@ document.getElementById('post-new-comment{{ include.reply }}').onsubmit = e => {
         body: JSON.stringify(Object.fromEntries(new FormData(form)))
     }).then(() => {
         if (!response.ok) {
-            throw new Error('Network response was not ok');
+            throw new Error('Network response was not ok:' + JSON.stringfy(response);
         }
         document.getElementById('post-new-comment{{ include.reply }}-submitting').hidden = true;
         document.getElementById('post-new-comment{{ include.reply }}-thank-you').hidden = false;
     }).catch(err => {
         document.getElementById('post-new-comment{{ include.reply }}-submitting').hidden = true;
-        document.querySelector('#post-new-comment{{ include.reply }}-error .error-message').textContent = err.responseText;
+        document.querySelector('#post-new-comment{{ include.reply }}-error .error-message').textContent = JSON.stringify(err)
         document.getElementById('post-new-comment{{ include.reply }}-error').hidden = false;
     });
 }
