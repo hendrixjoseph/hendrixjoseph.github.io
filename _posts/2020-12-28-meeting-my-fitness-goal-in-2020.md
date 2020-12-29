@@ -37,14 +37,14 @@ My thought is, now that I seem to be at an acceptable weight - what should my ne
 ![Chart of my weight in pounds over the past 180 days.](/images/fitness-2020/180-day-weight-chart.png)
 *Chart of my weight in pounds over the past 180 days.*
 
-[Average Pace in minutes per mile.](/images/fitness-2020/average-pace.png)
+![Average Pace in minutes per mile.](/images/fitness-2020/average-pace.png)
 *Average Pace in minutes per mile. The trendline shows a decrease in pace, which means an increase in speed (which is good).*
 
-[Distance ran per run, in miles.](/images/fitness-2020/distance.png)
+![Distance ran per run, in miles.](/images/fitness-2020/distance.png)
 *Distance ran per run, in miles. How far I ran on each run. The trendline shows I'm going farther than when I started. The dips are those runs where I had errands to run and so didn't have enough time to run as much.*
 
-[Number of runs per month.](/images/fitness-2020/runs-per-month.png)
+![Number of runs per month.](/images/fitness-2020/runs-per-month.png)
 *Number of runs per month. The trendline shows I'm running more each month than when I started. December isn't over, so I should have more runs this month.*
 
-[Number of runs per week.](/images/fitness-2020/runs-per-week.png)
+![Number of runs per week.](/images/fitness-2020/runs-per-week.png)
 *Number of runs per week. Again, the trendline shows I'm running more than when I started.*
