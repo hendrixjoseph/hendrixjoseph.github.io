@@ -1,0 +1,7 @@
+<h{{ include.hlevel }}{{ if include.hlevel=="1" }} class="post-header"{{ endif }}>
+{{ if include.hlevel=="2" }}<a href="{{ site.url }}{{ include.post.url }}">{{ endif }}
+{% if include.post.tags contains 'family tree' %}<img src="/images/family-tree-icon-40.png" class="social_post" alt="tree icon" />
+{% elsif include.post.tags contains 'html5' %}<img src="/images/html5_logo.svg" class="social_post" style="width: 40px; height: 40px;" alt="HTML5 Logo" />{% endif %}
+{{ include.post.title }}
+{{ if include.hlevel=="2" }}</a>{{ endif }}
+</h{{ include.hlevel }}>

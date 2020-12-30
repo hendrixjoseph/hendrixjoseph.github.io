@@ -9,9 +9,8 @@ jquery: true
 </nav>
 
 <article class="post">
-  <h1 itemprop="headline" class="post-header">{% if page.linkedin_post %}<i class="svg-icon linkedin social_post"></i>{% elsif page.tags contains 'family tree' %}<img src="/images/family-tree-icon-40.png" class="social_post" alt="tree icon" />{% elsif page.tags contains 'html5' %}<img src="/images/html5_logo.svg" class="social_post" style="width: 40px; height: 40px;" alt="HTML5 Logo" />{% endif %}{{ page.title }}</h1>
-  
-  {% include social/share.html %} 
+{% include post-header.html post=post hlevel="1" %}
+{% include social/share.html %}
 
   <hr />
   <div>
@@ -22,7 +21,7 @@ jquery: true
     </nav>
   </div>
   <hr />
-  
+
   {% include affiliate-disclosure.html %}
 
   <div itemprop="articleBody" class="entry{% if page.twitter_post %} twitter-post{% endif %}">
@@ -30,6 +29,6 @@ jquery: true
     <nav class="pagination" style="font-size: 2em;"><a href="{{ page.url }}page2/">Next</a></nav>
   </div>
 
-  {% include comments/comments.html %} 
-  
+  {% include comments/comments.html %}
+
 </article>
