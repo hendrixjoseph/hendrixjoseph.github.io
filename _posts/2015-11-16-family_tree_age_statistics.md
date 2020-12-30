@@ -6,7 +6,7 @@ keywords: [age, statistics, data mining]
 javascripts: [/js/d3.min.js, /js/c3.min.js]
 deferedjavascripts: [/js/familyTree/ageChart.min.js]
 csses: [/css/c3.min.css]
-image: /images/Family-Tree-icon-200.png
+image: /images/family-tree-icon-200.png
 ---
 
 Just a [bar chart](https://en.wikipedia.org/wiki/Bar_chart), the [five-number summary](https://en.wikipedia.org/wiki/Five-number_summary), and the [average](https://en.wikipedia.org/wiki/Average) of known ages in my family tree.
