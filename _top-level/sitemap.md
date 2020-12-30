@@ -8,8 +8,12 @@ permalink: /sitemap/
 
 * [Front Page](/index.html){% for page in site.top-level %}
 * [{{ page.title }}]({{ site.url }}{{page.url}}){% endfor %}
-* [Sitemap.xml](/sitemap.xml)
+
+## Top Level that isn't an HTML page
+
+* [sitemap.xml](/sitemap.xml)
 * [robots.txt](/robots.txt)
+* [redirects.json](/redirects.json)
 
 ## Individual Tag Pages
 
