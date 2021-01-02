@@ -13,6 +13,7 @@ title: R&eacute;sum&eacute; / CV
 ## Work History
 
 ### Northrop Grumman Corporation | Software Engineer | January 2014 – Present
+
 * Modified an existing Java Swing desktop application by improving its mapping capabilities using [OpenMap 5.0.3](https://github.com/OpenMap-java/openmap), added advanced metrics, and applied redesigns to the GUI.
 * Migrated that Java Swing desktop application to a web application using GlassFish, JPA, CDI, JSF, [PrimeFaces](https://www.primefaces.org/), [PrimeFaces Extensions](https://primefaces-extensions.github.io/), and an Oracle XE database. Provided major customizations to the PrimeFaces JSF timeline component. Configured the build and dependency tool [Maven](https://maven.apache.org/) such that the web application could be built while not connected to the Internet.
 * Maintained and updated the public website for [the Defense Production Act Title III program](https://www.dpatitle3.com/dpa_db/). Made this website into HTML5 compliance by modifying and customizing the PHP files, CSS files, and image files in such a way that the website's overall appearance did not change. Implemented a mobile-friendly version using CSS media queries.
@@ -36,6 +37,16 @@ title: R&eacute;sum&eacute; / CV
 * Reported student performance to the teacher.
 
 ## Projects
+
+### Moonshot
+
+* GitHub Game Off 2020 Entry
+* Written in Java using the [libGDX](https://libgdx.badlogicgames.com/) gaming engine.
+* [Source hosted on GitHub](https://github.com/hendrixjoseph/moonshot/).
+* [Available in the Google Play Store](https://play.google.com/store/apps/details?id=com.joehxblox.moonshot).
+* [Available in the Amazon App Store](https://www.amazon.com/gp/product/B08PCBXQHW).
+* [Available on itch.io](https://hendrixjoseph.itch.io/moonshot)
+* [Blog post discussing my experience](https://www.joehxblog.com/my-github-game-off-2020-entry/).
 
 ### Tic Tac Toe Android Application
 
