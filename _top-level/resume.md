@@ -127,4 +127,4 @@ https://web.archive.org/web/20201106201655/https://destinyhosted.com/officials.c
 
 #### Vice President Public Relations | July 2018 - June 2019
 
-<style>li img {display: inline;}</style>
+<style>blockquote p img {margin-left: 30px;}</style>
