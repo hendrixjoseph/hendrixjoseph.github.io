@@ -77,28 +77,29 @@ title: R&eacute;sum&eacute; / CV
 
 ### Wright State University | Master of Science (M.S.) in Computer Science | 2014 – 2018
 
-* ![Wright State University Master of Science in Computer Science](/images/certs/wright-state-university-master-of-science-in-computer-science.png)
+> ![Wright State University Master of Science in Computer Science](/images/certs/wright-state-university-master-of-science-in-computer-science.png)
 
 ### Wright State University | Bachelor of Science (B.S.) in Computer Science | 2008 – 2012
 
-* ![Wright State University Bachelor of Science in Computer Science](/images/certs/wright-state-university-bachelor-of-science-in-computer-science.png)
+> ![Wright State University Bachelor of Science in Computer Science](/images/certs/wright-state-university-bachelor-of-science-in-computer-science.png)
 
 ## Certifications
 
 ### CompTIA Advanced Security Practitioner (CASP) | October 2, 2016
 
 * [Verify](https://www.certmetrics.com/comptia/public/verification.aspx?code=XNJ0VR9GPLQEQ76Y)
-* ![CompTIA Advanced Security Practitioner (CASP)](/images/certs/casp.png)
+
+> ![CompTIA Advanced Security Practitioner (CASP)](/images/certs/casp.png)
 
 ### Oracle 1Z0-803 - Java SE 7 Programmer I | September 2015
 
-* ![Oracle 1Z0-803 - Java SE 7 Programmer I](/images/certs/oracle-1z0-803.png)
+> ![Oracle 1Z0-803 - Java SE 7 Programmer I](/images/certs/oracle-1z0-803.png)
 
 ## Awards
 
 ### Competent Communicator | Toastmasters International | February 9, 2020
 
-* ![Competent Communicator](/images/certs/competent-communicator.jpg)
+> ![Competent Communicator](/images/certs/competent-communicator.jpg)
 
 ### Competent Leader | Toastmasters International | February 21, 2019
 
@@ -108,7 +109,7 @@ title: R&eacute;sum&eacute; / CV
 
 #### Ordinance Review Commission | September 28, 2020 - June 30, 2021
 
-The Ordinance Review Commission is appointed by the City Council at least every ten years per the City Charter. The Ordinance Review Commission reviews the City Code and other ordinances or resolutions of the City and makes recommendations to the City Council for the elimination or revision of provisions of the City Code and other ordinances or resolutions which may have outlived usefulness or practicality. The Ordinance Review Commission was established by the City Charter.
+> The Ordinance Review Commission is appointed by the City Council at least every ten years per the City Charter. The Ordinance Review Commission reviews the City Code and other ordinances or resolutions of the City and makes recommendations to the City Council for the elimination or revision of provisions of the City Code and other ordinances or resolutions which may have outlived usefulness or practicality. The Ordinance Review Commission was established by the City Charter.
 
 * [My name listed on the city's website.](https://www.hhoh.org/291/Ordinance-Review-Commission)
 * [My name listedd on "AgendaQuick " Destiny Hosted site.](https://destinyhosted.com/officials.cfm?id=48237)
