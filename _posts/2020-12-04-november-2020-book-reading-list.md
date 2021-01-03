@@ -130,7 +130,7 @@ The fifteen books to my daughter in November are:
 
 ## The Book I Read for Me
 
-In October I finished book two of [the Cluster Series by Piers Anthony](https://www.amazon.com/gp/product/B07G2235FK/?tag=hendrixjoseph-20). Book one is called "Chaining the Lady."
+In October I finished book two of [the Cluster Series by Piers Anthony](https://www.amazon.com/gp/product/B07G2235FK/?tag=hendrixjoseph-20). Book two is called "Chaining the Lady."
 
 There's still a lot of typos - something the author admitted to in the author notes at the end of one of the first two books. It's something even the reviews on Amazon have noted (particularly [this review](https://www.amazon.com/gp/customer-reviews/R24CNRQIXXDQ46/?tag=hendrixjoseph-20)).
 
