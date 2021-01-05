@@ -24,7 +24,7 @@ Mentioned on the following webpages:
 
 Listed in the following blog directories:
 
-* [Personal Finance Blogs](https://personalfinanceblogs.com/directory/)
+* [Personal Finance Blogs](https://personalfinanceblogs.com/directory/)  / [actual page](https://personalfinanceblogs.com/blogs/joehx-blog/)
 
 ## The Old Domain (hendrixjoseph.github.io)
 
