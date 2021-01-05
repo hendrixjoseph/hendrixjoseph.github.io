@@ -27,7 +27,7 @@ There are three basic changes I need to make:
 
 ## Changing `$.ajax` to `fetch`
 
-Changing the code from the jQuery AJAX call to a vanilla Javascript fetch call was the most challenging part.
+Changing the code from the [jQuery AJAX](https://api.jquery.com/jquery.ajax/) call to a vanilla [Javascript fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) call was the most challenging part.
 
 I'll show the changes I ended up making, then I will talk about the problems I encountered along the way.
 
