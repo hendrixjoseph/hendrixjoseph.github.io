@@ -148,40 +148,4 @@ There's also [VigLink](http://www.viglink.com/), which is something of an affili
 
 So, how'd you do this year?
 
-<script>
-$(document).ready(function() {
-    c3.generate({
-        bindto: '#flippingPie',
-        data: {
-            columns: [
-                ['eBay fees', 112.20],
-                ['paypal fees', 63.76],
-                ['shipping', 367.66],
-                ['supplies', 132.80],
-                ['milage', 316.25],
-                ['sold inventory', 354.55],
-                ['unsold inventory', 299.67],
-                ['returns', 124.34],
-                ['profit', -1.66]
-            ],
-            type: 'pie'
-        }
-    });
-    
-    c3.generate({
-        bindto: '#incomePie',
-        data: {
-            columns: [
-                ['Amazon Mechanical Turk', 1194.33],
-                ['flipping', 0.00],
-                ['credit card rewards', 246.55],
-                ['checking bonuses', 600.00],
-                ['class action settlements', 32.26],
-                ['Ibotta', 20],
-                ['savings account interest', 39.67]
-            ],
-            type: 'pie'
-        }
-    });
-});
-</script>
+<script>c3.generate({bindto:"#flippingPie",data:{columns:[["eBay fees",112.2],["paypal fees",63.76],["shipping",367.66],["supplies",132.8],["milage",316.25],["sold inventory",354.55],["unsold inventory",299.67],["returns",124.34],["profit",-1.66]],type:"pie"}}),c3.generate({bindto:"#incomePie",data:{columns:[["Amazon Mechanical Turk",1194.33],["flipping",0],["credit card rewards",246.55],["checking bonuses",600],["class action settlements",32.26],["Ibotta",20],["savings account interest",39.67]],type:"pie"}});</script>
