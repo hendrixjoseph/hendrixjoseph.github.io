@@ -26,7 +26,7 @@ Apparently, another benefit of Amazon Prime is [Prime Reading](https://www.amazo
 
 If you don't have Amazon Prime, you can [try Amazon Prime with a 30-Day free trial](https://www.amazon.com/amazonprime/?tag=hendrixjoseph-20). Let me know in the comments at the bottom of this post if you can get the Prime Reading to work, if you like it, and if I got any of the facts wrong about it.
 
-Oh, and if you [follow me on Twitter](https://twitter.com/{{ site.footer-links.twitter }}) or [like my Facebook page](https://www.facebook.com/{{ site.footer-links.facebook }}), you'll notice that's I've been [tweeting](https://twitter.com/search?f=tweets&q=from%3A%40{{ site.footer-links.twitter }}%20The%20ONE%20Thing&src=typd) or [posting](https://www.facebook.com/{{ site.footer-links.facebook }}/posts/1986438728100842?__xts__%5B0%5D=68.ARC3_TI5q3X2QveATdlThf6cVHZjCsuO_d5ZZ3TPeJ8uqSXh8GTtI-qfhhf4g0cGknzoKTbt_bbHQABhjKJpKwZK4tbabJfmAev-Y5kRNVgxy9wpyZ-jdmcUMnivMldv5NTwe8twuLPFtDUd6F48sNGFhfA2dfObo1E6Q4udtjwFz4dI8VjJVSC_iKz6FLxu-rw1BKKK1RtE_FTuiWsW3-8-p_g-KlsK9s6iYgP6ShvJgWof3B94mCsE-YNHQBpuUKcxz_MVjnHbSkcBt2ngDu5BsFg9EBy9EFu7GbkrM0CxwI55ng9IHLIH6OxngKYTGXOkLAERjuytFe8Gg2-FFhnJqYm2&__tn__=-R) snippets from the books I've been reading.
+Oh, and if you [follow me on Twitter](https://twitter.com/{{ site.footer-links.twitter }}) or [like my Facebook page](https://www.facebook.com/{{ site.footer-links.facebook }}), you'll notice that's I've been [tweeting](https://twitter.com/search?f=tweets&q=from%3A%40{{ site.footer-links.twitter }}%20The%20ONE%20Thing&src=typd) or [posting](https://www.facebook.com/JoeHxBlog/posts/1986438728100842) snippets from the books I've been reading.
 
 Here are some tweets with quotes from The ONE Thing:
 
