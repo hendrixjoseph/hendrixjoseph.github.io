@@ -3,6 +3,7 @@ layout: post
 title: Petitioning During the Pandemic for a Seat on City Council
 tags: [huber heights, politics]
 keywords: [council seat, council, election, elections, petitioning, petition, pandemic]
+image: /images/huber-heights-politics/pandemic-petitioning.jpg
 ---
 
 This year there's an election for the council seat in the ward of the city I live in, and I want to run for it.
@@ -14,6 +15,9 @@ That said, I still need to petition. I figured I'd write down a bit of the timel
 ## Wednesday, December 23rd, 2020
 
 I called the [Montgomery County Board of Elections](https://www.montgomery.boe.ohio.gov/) and told the gentleman who answered the phone that I was interested in running for a council seat in my local city.
+
+![The Montgomery County Board of Elections logo.](/images/huber-heights-politics/montgomery-county-oh-boe-logo.png)
+*The Montgomery County Board of Elections logo.*
 
 The guy was knowledgeable and competent - he answered all my questions before I could even ask them.
 
@@ -38,7 +42,7 @@ Today's the day I decided to start petitioning.
 
 I don't just go door-to-door randomly - I do some prep work.
 
-Particularly, I get a *walk list* from the Ohio Board of Elections. This is a list of registered voter's addresses, allowing me to make sure I only knock on doors of registered voters.
+Particularly, I get a *walk list* from the Board of Elections. This is a list of registered voter's addresses, allowing me to make sure I only knock on doors of registered voters.
 
 I also get a copy of [the Huber Heights Do Not Solicit List](https://www.hhoh.org/441/Do-Not-Solicit) so I won't knock on anyone's door who doesn't want their door knocked. *Technically* since I'm petitioning, the "Do Not Solicit List" (and "Do Not Solicit" signs) don't legally apply to me, but I feel that if someone doesn't want to be bothered, I should respect that.
 
