@@ -5,14 +5,30 @@ title: R&eacute;sum&eacute; / CV
 
 ## Summary
 
-* Highly proficient in a variety of Java technologies, including Java EE, GlassFish, JPA (Java Persistence API), JSF (Java ServerFaces), and Maven.
-* Experienced in developing in all three of the major Java IDEs (Netbeans, Eclipse, and IntelliJ IDEA).
+* Highly proficient in a variety of Java technologies, including Java EE, GlassFish, JPA (Java Persistence API), JSF (Java ServerFaces), Maven, Grandle, and Android.
+* Experienced in developing in all three of the major Java IDEs ([Netbeans](https://netbeans.org/), [Eclipse](https://www.eclipse.org/downloads/), and [IntelliJ IDEA](https://www.jetbrains.com/idea/)).
 * Also highly proficient in SQL as well as web development in HTML, CSS, and JavaScript.
-* Also knowledgeable in PHP, C/C++, MatLab, and R.
+* Also knowledgeable in [Node.js](https://nodejs.org/en/).
 
 ## Work History
 
 ### Northrop Grumman Corporation | Software Engineer | January 2014 – Present
+
+#### Project 3 | July 2020 – Present
+
+* Created a Node.js web application that queries and updates data in a [PostGreSQL](https://www.postgresql.org/)/[PostGIS](https://postgis.net/) database.
+* Created a [Docker](https://www.docker.com/) container that holds that Node.js; created another Docker container that holds a PostGreSQL database that mirrors the schema of the real-world PostGIS database; ran both in a single [Docker Compose](https://docs.docker.com/compose/) instance.
+* Enabled the Node.js web application and the mirror database to use SSL file certificates instead of a username/password.
+
+#### Project 2 | March 2018 – July 2020
+
+* Provided maintenance and new functionality to an existing Java Swing desktop application.
+* Maintenance activities included eliminating processing bottlenecks by using tools such as [JProfiler](https://www.ej-technologies.com/products/jprofiler/overview.html) to identify those bottlenecks.
+* Consistently created unit tests that covered at least 90% of newly written code.
+* Reduced the amount of "code smell"” in existing code by about 8% largely by using code formatting tools.
+* Used software tools such as [SonarLint](https://www.sonarlint.org/), [SonarQube](https://www.sonarqube.org/), and [HP Fortify](https://www.microfocus.com/en-us/products/static-code-analysis-sast/overview) to identify and fix software issues, including vulnerabilities and duplicate code.
+
+#### Project 1 | January 2014 – March 2018
 
 * Modified an existing Java Swing desktop application by improving its mapping capabilities using [OpenMap 5.0.3](https://github.com/OpenMap-java/openmap), added advanced metrics, and applied redesigns to the GUI.
 * Migrated that Java Swing desktop application to a web application using GlassFish, JPA, CDI, JSF, [PrimeFaces](https://www.primefaces.org/), [PrimeFaces Extensions](https://primefaces-extensions.github.io/), and an Oracle XE database. Provided major customizations to the PrimeFaces JSF timeline component. Configured the build and dependency tool [Maven](https://maven.apache.org/) such that the web application could be built while not connected to the Internet.
