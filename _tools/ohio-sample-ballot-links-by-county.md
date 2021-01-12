@@ -1,6 +1,7 @@
 ---
 title: Ohio Sample Ballot Links by County
 share: true
+excerpt: A list of Ohio sample ballot links by county.
 ---
 
 Note: Some Ohio counties don't use the OhioBOE.com site - you'll see a page that says "This county does not subscribe to the Enhanced Website Features!" I'll try to ~~strikethrough~~ any counties I discover that do this, but keep the link in case on day those Ohio counties do decide to list their sample ballots.
