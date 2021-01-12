@@ -8,7 +8,7 @@
 <link rel="alternate" href="{{ site.url }}{% unless page.url == "/index.html" %}{{ page.url }}{% endunless %}" hreflang="en-us" />
 <link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.url }}/feed.xml" />
 
-<meta name="description" content="{% if page.excerpt or page.excerpt != blank %}{{ page.excerpt | strip_html | strip_newlines | xml_escape | truncate: 120 }}{% elsif page.title %}{{ page.title }}{% else %}{{ site.description }}{% endif %}" />
+<meta name="description" content="{% if page.excerpt and page.excerpt != blank %}{{ page.excerpt | strip_html | strip_newlines | xml_escape | truncate: 120 }}{% elsif page.title %}{{ page.title }}{% else %}{{ site.description }}{% endif %}" />
 
 {% if layout.isPost %}<meta name="keywords" content="{% for keyword in page.keywords %}{{ keyword }},{% endfor %}{% for tag in page.tags %}{{ tag | replace:'_',' ' }}{% unless forloop.last %},{% endunless %}{% endfor %}" />{% endif %}
 <meta name="author" content="{% if page.author %}{{ page.author }}{% else %}Joseph Hendrix{% endif %}" />
