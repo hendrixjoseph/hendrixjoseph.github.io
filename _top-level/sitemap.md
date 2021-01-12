@@ -2,6 +2,7 @@
 layout: page
 title: Sitemap
 permalink: /sitemap/
+excerpt: Sitemap for JoeHx Blog
 ---
 
 ## Top Level

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Web Portfolio
+excerpt: Websites and similar that I have created or been involved in.
 ---
 
 * [{{ site.name }} (this site)]({{ site.url }}/)

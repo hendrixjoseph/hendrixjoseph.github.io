@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Featured
+excerpt: Places online where either I or this blog have been mentioned or linked.
 ---
 
 ## The Current Domain (joehxblog.com)

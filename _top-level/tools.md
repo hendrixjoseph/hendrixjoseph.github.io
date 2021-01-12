@@ -2,6 +2,7 @@
 layout: page
 title: Tools
 permalink: /tools/
+excerpt: This page contains a list of the various web tools available on this blog.
 ---
 
 ## Tools

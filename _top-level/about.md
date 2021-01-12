@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+excerpt: About Me and JoeHx Blog
 ---
 
 Ahem.
