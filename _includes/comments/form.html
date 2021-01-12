@@ -11,7 +11,7 @@
   <button type="submit">Post comment</button>
   <em>Note that comments won't appear until approved.</em>
 </form>
-<div id="post-new-comment{{ include.reply }}-submitting" hidden><img src="/images/ajax-loader.gif" style="display: inline;" alt="" /></div>
+<div role="progressbar" id="post-new-comment{{ include.reply }}-submitting" hidden><img src="/images/ajax-loader.gif" style="display: inline;" alt="indeterminate progress bar" /></div>
 <div id="post-new-comment{{ include.reply }}-thank-you" hidden>Thank you. Your comment will be visible after approval.</div>
 <div id="post-new-comment{{ include.reply }}-error" hidden>Your comment has been submitted, but their seems to be an error. Check your browser console for more details.
 <div class="error-message"></div></div>
