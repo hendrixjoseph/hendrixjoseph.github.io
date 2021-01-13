@@ -2,6 +2,7 @@
 layout: post
 title: Assassin's Creed Revelations
 tags: [video games, old blog]
+oldurl: http://www.hendrices.com/joesblog/index.php/2011/06/06/assassin-s-creed-revelations
 ---
 
 Quarter’s almost over, so hopefully I’ll be able to post more soon.
