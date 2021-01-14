@@ -89,9 +89,7 @@ However, I did apply to a commission - and got selected! That commission is the 
 * At least seven date nights
 * Attend at least one marriage seminar or retreat
 
-The trend of not being able to do things because of the coronavirus continues. We did not attend any marriage seminar or retreat.
-
-We were able to go on a few dates, however. My wife started writing down the dates of our dates (puns always intended) and she was able to list six dates.
+We attended one marriage night out and had at least five other dates - my wife started writing down the dates of our dates (puns always intended).
 
 ## 2021 New Year's Resolutions & Goals
 
