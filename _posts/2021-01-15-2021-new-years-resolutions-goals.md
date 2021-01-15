@@ -14,7 +14,7 @@ If you count [the posts from my old blog](https://www.joehxblog.com/tags/old-blo
 
 Anyway, back to goal setting.
 
-While most people<sup>[[citation needed]](https://en.wikipedia.org/wiki/Wikipedia:Citation_needed)</sup> use the <abbr title="Specific, Measurable, Attainable, Relevant, and Time-bound">SMART system</abbr> - that is, Specific, Measurable, Attainable, Relevant, and Time-bound - I do something a little different. I use *abstract* and *concrete* goals.
+While most people<sup>[[citation needed]](https://en.wikipedia.org/wiki/Wikipedia:Citation_needed)</sup> use the <abbr title="Specific, Measurable, Attainable, Relevant, and Time-bound">SMART</abbr> system - that is, Specific, Measurable, Attainable, Relevant, and Time-bound - I do something a little different. I use *abstract* and *concrete* goals.
 
 Abstract goals are a high-level overview of what I want to do. Maybe I want to be healthier. Maybe I want to be more sympathetic.
 
@@ -36,7 +36,7 @@ The first four goals are automatic - the IRA, HSA, and 401k money is taken direc
 
 Becoming 100% debt free will happen sometime this year - maybe even in the first half of the year. We have less than $10k left, and we lowered our debt by over $20k last year.
 
-After we pay out debt, we'll have to figure out what to do with the money we'd been putting towards the debt. I want to max out [my solo 401k](https://www.joehxblog.com/i-opened-a-vanguard-individual-401k/] and potentially max out our 401k contributions overall, but we'll have to see where we're at when the time comes.
+After we pay out debt, we'll have to figure out what to do with the money we'd been putting towards the debt. I want to max out [my solo 401k](https://www.joehxblog.com/i-opened-a-vanguard-individual-401k/) and potentially max out our 401k contributions overall, but we'll have to see where we're at when the time comes.
 
 ## Be Better Parents & Our Goals for Our Kids
 
@@ -47,8 +47,7 @@ After we pay out debt, we'll have to figure out what to do with the money we'd b
 * Enjoy our daughter learning to walk and talk
 * Max two hours of TV for the kids *only* on the weekends. No TV during the week.
 * Improve our parenting skills by either taking a parenting class (preferably) or reading a book
-
-volunteer at church at least once
+* Volunteer at church at least once
 
 ## Improve Our Marriage
 
@@ -76,7 +75,7 @@ Seven dates nights is feasible, however, even if we have to find something socia
 * Daily run to a 5-minute walk, 40-minute run, 5-minute walk
 * Continue strength training
 
-I wrote about [meeting my fitness goal last year](https://www.joehxblog.com/meeting-my-fitness-goal-in-2020/) and how I began running. I want to continue that by running at least one formal 5k. I've been running a little over 3 miles every weekday morning anyway.
+A month ago, I wrote about [meeting my fitness goal last year](https://www.joehxblog.com/meeting-my-fitness-goal-in-2020/) and how I began running. I want to continue that by running at least one formal 5k. I've been running a little over 3 miles every weekday morning anyway.
 
 ![Distance ran per run, in miles.](/images/fitness-2020/distance.png)
 *Distance ran per run, in miles.*
@@ -120,7 +119,7 @@ The main CSS file ([style.css](/style.css)) has a [content length](https://devel
 
 ### Develop Personally & Professionally
 
-* Recertified her [PTCB] credentials
+* Recertified her [PTCB](https://www.ptcb.org/) credentials
 * Read at least two books
 
 ### Also

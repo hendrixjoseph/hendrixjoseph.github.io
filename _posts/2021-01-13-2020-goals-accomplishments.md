@@ -93,6 +93,6 @@ We attended one marriage night out and had at least five other dates - my wife s
 
 ## 2021 New Year's Resolutions & Goals
 
-Next up is to write down my 2021 New Year's Resolutions & Goals.
+Next up is to write down my [2021 New Year's Resolutions & Goals](/2021-new-years-resolutions-goals/).
 
 How'd your year go?
