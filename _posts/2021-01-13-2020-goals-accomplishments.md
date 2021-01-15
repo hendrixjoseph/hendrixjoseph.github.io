@@ -36,7 +36,7 @@ I really wish I took pictures of the process.
 
 The goal we didn't make was planning on what to do about the driveway. We did put some mulch down in one of the ruts - which, surprisingly, made it look much better.
 
-[A couple of problems with our driveway.](/images/driveway/problems.png)
+![A couple of problems with our driveway.](/images/driveway/problems.png)
 *A couple of problems with our driveway.*
 
 ## Improve Our Health
