@@ -13,7 +13,7 @@ excerpt: A compound interest calculator with a chart and table.
 <div><button id="calculate-button" type="button">Calculate!</button></div>
 </div>
 
-<div id="results-div" style="display: none;">
+<div id="results-div" hidden>
 <h2 id="final-value"></h2>
 <div id="results-chart" style="width: 100%; height: 500px;"></div>
 <div id="results-table"></div>
@@ -21,7 +21,7 @@ excerpt: A compound interest calculator with a chart and table.
 
 <script>
 google.charts.load('current', {'packages':['corechart','table']});
-var data;  
+var data;
 
 function drawChart() {
   var googleData = google.visualization.arrayToDataTable(data);
@@ -31,66 +31,66 @@ function drawChart() {
     hAxis: {title: 'Month',  titleTextStyle: {color: '#333'}},
     vAxis: {minValue: 0, format: 'currency'}
   };
-  
+
   var formatter = new google.visualization.NumberFormat({prefix: '$'});
   formatter.format(googleData, 1);
   formatter.format(googleData, 2);
-  
+
   var chart = new google.visualization.AreaChart(document.getElementById('results-chart'));
   chart.draw(googleData, options);
-  
+
   var table = new google.visualization.Table(document.getElementById('results-table'));
   table.draw(googleData, {width: '100%', height: '100%'});
 }
-  
-$("#calculate-button").click(function() {
-  $("#results-div").hide();
-  
-  var pv = Number.parseFloat($("#start-amount").val());
-  var rate = Number.parseFloat($("#interest-rate").val());
-  var contribution = Number.parseFloat($("#monthly-contribution").val());
-  var years = $("#years").val();
-  data = [["month","balance","contribution"]];
-  var contributions = pv;
-  
-  for(var month = 0; month < years * 12; month++) {    
-    data.push([month, pv, contributions]);
-    pv = pv *(1 + rate / 1200) + contribution;
-    contributions = contributions + contribution;
+
+document.getElementById('calculate-button').onclick = () => {
+  document.getElementById('results-div').hidden = true
+
+  var pv = Number.parseFloat(document.getElementById('start-amount').value)
+  var rate = Number.parseFloat(document.getElementById('interest-rate').value)
+  var contribution = Number.parseFloat(document.getElementById('monthly-contribution').value)
+  var years = document.getElementById('years').value
+  data = [["month","balance","contribution"]]
+  var contributions = pv
+
+  for(var month = 0; month < years * 12; month++) {
+    data.push([month, pv, contributions])
+    pv = pv *(1 + rate / 1200) + contribution
+    contributions = contributions + contribution
   }
-  
-  $("#final-value").text("Result: $" + Number.parseFloat(pv.toFixed(2)).toLocaleString() + " !");
-  $("#results-div").show();
-  drawChart();
-});
+
+  document.getElementById('final-value').innerText = 'Result: $' + Number.parseFloat(pv.toFixed(2)).toLocaleString() + ' !'
+  document.getElementById('results-div').hidden = false
+  drawChart()
+}
 </script>
- 
+
 <style>
 h1, h2 {
   text-align: center;
 }
-  
+
 .input-form {
  margin: 1em auto;
 }
- 
+
 .input-form div {
  font-size: x-large;
  text-align: center;
 }
-  
+
 .input-form div input {
  width: 4.5em;
  font-size: x-large;
  text-align: right;
 }
- 
+
 .input-form div label {
  text-align: left;
  width: 240px;
  display: inline-block;
 }
-  
+
 .input-form div button {
   font-size: x-large;
   margin: 1em;
@@ -102,7 +102,7 @@ h1, h2 {
     display: block;
     width: 100%;
   }
-  
+
   .input-form div {
     margin-bottom: 0.5em;
   }
