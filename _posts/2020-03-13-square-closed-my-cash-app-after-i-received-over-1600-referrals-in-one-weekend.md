@@ -61,9 +61,9 @@ Oh - remember how I received an email stating that my email was unlinked? In tha
 
 So I did "let them know" via their [contact support page](https://cash.app/support#contact-support/ACCESS_MY_ACCOUNT):
 
-> At 11:46 am today (March 9, 2020) I received an email stating that my email (hendrixjoseph@aol.com) had been unlinked from my account.
+> At 11:46 am today (March 9, 2020) I received an email stating that my email (\*@\*.\*) had been unlinked from my account.
 >
-> I also received a text message at with the same timestamp stating that my phone number (***-***-****) had been unlinked from my account.
+> I also received a text message at with the same timestamp stating that my phone number (\*\*\*-\*\*\*-\*\*\*\*) had been unlinked from my account.
 >
 > I neither requested nor initiated unlinking either my email or phone number from my account.
 > 
