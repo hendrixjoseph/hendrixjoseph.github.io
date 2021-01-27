@@ -3,6 +3,7 @@ layout: post
 title: My Electric Bill over the Past Year
 tags: [money]
 keywords: [electric, cost, average, DP&L, dayton power and light, chart, charts]
+jquery: true
 javascripts: [/js/d3.min.js, /js/c3.min.js]
 csses: [/css/c3.min.css]
 image: /images/electric.jpg
