@@ -3,6 +3,7 @@ layout: post
 title: Compound Interest Calculator and Chart
 tags: [money]
 keywords: [compound interest calculator, compound interest chart, compound interest, interest, calculator, chart, chart]
+jquery: true
 javascripts: [/js/d3.min.js, /js/c3.min.js, /js/parseGet.min.js]
 deferedjavascripts: [/js/compound-interest.min.js]
 csses: [/css/c3.min.css]

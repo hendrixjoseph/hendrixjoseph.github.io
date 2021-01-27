@@ -3,6 +3,7 @@ layout: post
 title: Family Tree&#58; Gender &amp; Age
 tags: [family tree]
 keywords: [gender, age, statistics, data mining]
+jquery: true
 javascripts: [/js/d3.min.js, /js/c3.min.js]
 deferedjavascripts: [/js/familyTree/gender.min.js]
 csses: [/css/c3.min.css, /css/gender.css]
