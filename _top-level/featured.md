@@ -13,6 +13,7 @@ Interviewed on the following webpages:
 Quoted on the following webpages:
 
 * [13 ways you can make the most of Black Friday in 2020 (slide 4/11)](https://www.msn.com/en-us/money/personalfinance/13-ways-you-can-make-the-best-of-black-friday-in-2020/ss-BB1aWxon?ocid=st#image=4)
+* [Best Financial Advice For Couples And Newlyweds](https://mostlyfinance.com/best-financial-advice-for-couples-and-newlyweds/)
 * [Hindsight is 2020: How to learn from money mistakes](https://www.consolidatedcredit.org/financial-news/hindsight-is-2020-how-to-learn-from-money-mistakes/#joehxblog)
 * [Retrospectiva para 2020: Cómo aprender de los errores del dinero](https://www.consolidatedcredit.org/es/notas-financieras/retrospectiva-para-2020-como-aprender-de-los-errores-del-dinero/#joehxblog) (same as the previous one, but in Spanish)
 * [The Best Black Friday Tips for 2020](https://adimesaved.com/best-black-friday-tips)
@@ -71,7 +72,7 @@ No longer listed, or the following blog directories no longer exist:
 The following articles still exist, but at new URLs:
 
 * [7 Black Friday Hacks - A Dime Saved](https://web.archive.org/web/20200928011400/https://adimesaved.com/7-black-friday-hacks) is now *The Best Black Friday Tips for 2020*
-* [Best Financial Tips For Newlyweds And Couples](https://web.archive.org/web/20190617162025/https://moneypedals.com/best-financial-advice-for-newlyweds-and-couples/) (note this one was changed to The Money Mix domain)
+* [Best Financial Tips For Newlyweds And Couples](https://web.archive.org/web/20190617162025/https://moneypedals.com/best-financial-advice-for-newlyweds-and-couples/)
 
 The following are no longer available:
 
