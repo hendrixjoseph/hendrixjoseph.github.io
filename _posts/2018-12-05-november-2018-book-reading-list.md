@@ -4,7 +4,7 @@ title: November 2018 Book Reading List
 tags: [books, reading list]
 keywords: [book, read, books, reading, book reading, books i read]
 hashtags: [books, reading]
-image: /images/books/if-i-could-keep-you-little.jpg
+image: /images/books/covers/if-i-could-keep-you-little.jpg
 ---
 
 November was a pretty busy month with working on the bathroom remodel, Thanksgiving, and being sick the last week. Unfortunately, I haven't had the time to read any books for me.
@@ -24,7 +24,7 @@ Here are the books I read to him in November:
 * [Dog Wants to Play](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780670016334/22915683944)
 * [If I Could Keep You Little](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9781934082928/22765913444)
 
-[![If I Could Keep You Little](/images/books/if-i-could-keep-you-little.jpg)](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9781934082928/22765913444)
+[![If I Could Keep You Little](/images/books/covers/if-i-could-keep-you-little.jpg)](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9781934082928/22765913444)
 
 I think there were a couple more books I read to him, but I didn't get around to writing down what books they were.
 

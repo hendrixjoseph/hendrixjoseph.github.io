@@ -51,7 +51,7 @@ The book I read for me was the second volume of a book I read almost two years a
 
 That book was [Star Trek: The Eugenics Wars: The Rise and Fall of Khan Noonien Singh: Volume One](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780743406420/30193774623), so naturally, the second one is called [Star Trek: The Eugenics Wars: The Rise and Fall of Khan Noonien Singh: Volume Two](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780743406444).
 
-![Star Trek: The Eugenics Wars: The Rise and Fall of Khan Noonien Singh: Volume 2](/images/books/star-trek-the-eugenics-war-volume-two.jpg)
+![Star Trek: The Eugenics Wars: The Rise and Fall of Khan Noonien Singh: Volume 2](/images/books/covers/star-trek-the-eugenics-war-volume-two.jpg)
 *[Star Trek: The Eugenics Wars: The Rise and Fall of Khan Noonien Singh: Volume Two](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780743406444)*
 
 It was good to get back to physical books these past two months. This month's book was enjoyable, as well. There were quite a few "Easter Egg" characters in the book (although some were main characters). Basically, almost every character that existed on Earth during the 20th Century in Star Trek was in the book.

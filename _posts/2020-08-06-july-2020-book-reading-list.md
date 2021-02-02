@@ -4,7 +4,7 @@ title: July 2020 Book Reading List
 tags: [books, reading list]
 keywords: [book, read, books, reading, book reading, books i read]
 hashtags: [books, reading]
-image: /images/books/the-pheonix-project.jpg
+image: /images/books/covers/the-pheonix-project.jpg
 ---
 
 July was a pretty good month reading-wise. It helps that my son likes to bring me books to read. However, he often usurps reading time with my daughter.
@@ -61,7 +61,7 @@ However, I only read seven books to my daughter:
 
 I read [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](https://www.amazon.com/gp/product/B078Y98RG8/?tag=hendrixjoseph-20).
 
-![The Pheonix Project](/images/books/the-pheonix-project.jpg)
+![The Pheonix Project](/images/books/covers/the-pheonix-project.jpg)
 
 It's a novel about a fictional company that moves its operations from a waterfall-type environment to an agile, DevOps type environment, and becomes wildly successful in the process.
 

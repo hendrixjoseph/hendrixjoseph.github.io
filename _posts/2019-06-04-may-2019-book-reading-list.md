@@ -35,7 +35,7 @@ Last month I read twelve different books to my son:
 
 ## The Book I Read for Me
 
-![Black Milk by  Darrel William Moore](/images/books/black-milk.jpg)
+![Black Milk by  Darrel William Moore](/images/books/covers/black-milk.jpg)
 *[Black Milk by  Darrel William Moore](https://www.amazon.com/Black-Milk-Darrel-William-Moore-ebook/dp/B01L8L757U/?tag=hendrixjoseph-20)*
 
 I've started a habit of finding free books to download to my Kindle. The best place I've found so far to discover free Kindle Books are on the subreddits [/r/KindleFreebies/](https://www.reddit.com/r/KindleFreebies/) and [/r/FreeEBOOKS/](https://www.reddit.com/r/FreeEBOOKS/). In fact, I've advertised my children's ebook [The Adventures of Princess](https://www.amazon.com/dp/B07M68STB4/?tag=hendrixjoseph-20) the few times I was able to give it away for free.

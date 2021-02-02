@@ -4,7 +4,7 @@ title: October 2018 Book Reading List
 tags: [books, reading list]
 keywords: [book, read, books, reading, book reading, books i read]
 hashtags: [books, reading]
-image: /images/books/star-trek-the-eugenics-war.jpg
+image: /images/books/covers/star-trek-the-eugenics-war.jpg
 ---
 
 October was a pretty busy month for me. [We bought a van]({{ site.url }}/we-bought-a-van/). I've been hard at work on [remodeling the master bathroom]({{ site.url }}/master-bath-remodel-demolition/). And, of course, I've been busy helping my wife [take care of our seven-month-year-old son]({{ site.url }}/a-mostly-financial-pregnancy-timeline-and-the-first-four-months-of-life-my-experience-as-a-new-dad/).
@@ -15,7 +15,7 @@ I still made sure I had time to read, though.
 
 I was only able to read one book in the entire month of October:
 
-[![Star Trek: The Eugenics Wars: The Rise and Fall of Khan Noonien Singh: Volume 1](/images/books/star-trek-the-eugenics-war.jpg)*Star Trek: The Eugenics Wars: The Rise and Fall of Khan Noonien Singh: Volume 1*](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780743406420/30193774623)
+[![Star Trek: The Eugenics Wars: The Rise and Fall of Khan Noonien Singh: Volume 1](/images/books/covers/star-trek-the-eugenics-war.jpg)*Star Trek: The Eugenics Wars: The Rise and Fall of Khan Noonien Singh: Volume 1*](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780743406420/30193774623)
 
 In fact, I started the book at the end of September and didn't finish it until the last day of October - I finished reading it while waiting for trick-or-treaters to show up at my front door (sadly, no one came to my door for candy).
 
