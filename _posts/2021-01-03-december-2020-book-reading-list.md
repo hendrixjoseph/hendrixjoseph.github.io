@@ -84,7 +84,7 @@ Finally, I read 18 other books to her as well:
 * [A Picnic with Monet](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780811840460/30809817982)
 * [Barnyard Dance](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780761166160/30809195399)
 * [Bright Baby Touch and Feel Baby Animals](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780312498580/30651687040)
-* Daddy's Girl
+* [Daddy's Girl](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9781423105145/30784548100)
 * [Doggies A Counting and Barking Book by Sandra Boynton](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780671493189)
 * [Elmo's World Puppies](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780375805752/30651661987)
 * [Eric Carle's 123](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780448451947/30808728048)
