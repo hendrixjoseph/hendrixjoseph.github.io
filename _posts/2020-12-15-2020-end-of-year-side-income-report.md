@@ -30,7 +30,7 @@ I've also included a cryptocurrency section for any earnings in cryptocurrency.
 
 I'm not sure Bits of Stock will ever payout, but supposedly I have almost fifty dollars in stock with that app.
 
-Bumped significantly changed their earnings method, which made them effectively dead. I'm in the process of moving my stock choices from them to another provider - which, unfortunately involves selling my assets in Bumped and rebuying them elsewhere.
+Bumped significantly changed their earnings method, which made them effectively dead. I'm in the process of [moving my stock choices from them to another provider](https://www.joehxblog.com/moving-my-stocks-from-bumped-to-robinhood-in-five-days/) - which, unfortunately involves selling my assets in Bumped and rebuying them elsewhere.
 
 I also have [Dosh](https://www.joehxblog.com/dosh/) and [Drop](https://www.joehxblog.com/drop/), but I haven't made anything of substance with those two yet.
 
@@ -41,7 +41,7 @@ I also have [Dosh](https://www.joehxblog.com/dosh/) and [Drop](https://www.joehx
 * Chase Freedom &rarr; $326.46
 * US Bank Cash+ &rarr; $67.57
 * [Capital One Quicksilver](https://www.joehxblog.com/capital-one/) &rarr; $14.40
-* Citi Double Cash &arr; $564.40 + ?
+* Citi Double Cash &rarr; $564.40 + ?
 * Total &rarr; $1546.46
 
 New this year is my [Chase Freedom Flex](https://www.joehxblog.com/chase-freedom/), meaning I earned $300 from opening that card. $200 was from the card itself, and the other $100 was from the referral bonus my wife earned. You too can earn an extra $200 by signing up for either the [Chase Freedom Flex](https://www.joehxblog.com/chase-freedom/) or [Chase Freedom Unlimited](https://www.joehxblog.com/chase-freedom-unlimited/) using one of the links.
