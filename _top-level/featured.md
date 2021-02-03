@@ -17,6 +17,7 @@ Quoted on the following webpages:
 * [Hindsight is 2020: How to learn from money mistakes](https://www.consolidatedcredit.org/financial-news/hindsight-is-2020-how-to-learn-from-money-mistakes/#joehxblog)
 * [Retrospectiva para 2020: Cómo aprender de los errores del dinero](https://www.consolidatedcredit.org/es/notas-financieras/retrospectiva-para-2020-como-aprender-de-los-errores-del-dinero/#joehxblog) (same as the previous one, but in Spanish)
 * [The Best Black Friday Tips for 2020](https://adimesaved.com/best-black-friday-tips)
+* [why cant i buy crypto on robinhood](https://themillennialmirror.com/trends/why-cant-i-buy-crypto-on-robinhood/)
 * [Why Giving A Student Loan Payment To Someone Is The Perfect Gift](https://blog.pillar.app/blog/why-giving-a-student-loan-payment-to-someone-is-the-perfect-gift)
 
 Mentioned on the following webpages:
