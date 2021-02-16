@@ -290,6 +290,11 @@ canvas {
 .follow-links {
     max-width: 222px;
     margin: 1rem auto;
+    background: #555555;
+    
+    img {
+        margin-right: 0;
+    }
 }
 
 /*.my-amazon-ad {
