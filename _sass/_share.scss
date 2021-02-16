@@ -4,7 +4,7 @@
 	white-space: nowrap;
 	overflow: visible;
 	text-align: center;
-	
+
 	@include mobile {
 		position: initial;
 	}
@@ -14,7 +14,7 @@
 	padding: 0 0.5em;
 	width: 2.5em;
 	text-align: center;
-	
+
 	@include mobile {
 		display: inline-block;
 	}
@@ -22,17 +22,17 @@
 
 .share:hover {
 	width: 100%;
-	
+
 	@include mobile {
 		width: 2.5em;
 	}
 }
 
 .full-name {
-	display: none;	
+	display: none;
 }
 
-a:hover {	
+a:hover {
 	.full-name {
 		display: inline-block;
 	}
@@ -72,7 +72,7 @@ a:hover {
 
 .mobile-only {
 	display: none;
-	
+
 	@include mobile {
 		display: inherit;
 	}
