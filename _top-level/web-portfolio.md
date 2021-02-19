@@ -16,7 +16,7 @@ excerpt: Websites and similar that I have created or been involved in.
 
 * [Amazon Author Page](https://www.amazon.com/Joseph-Hendrix/e/B081HH6SRL/?tag=hendrixjoseph-20)
 * [Merch by Amazon Apparel](https://www.amazon.com/s?k=joehx-tees&i=fashion-novelty&tag=hendrixjoseph-20)
-* [Merch by Amazon Cell Accessories](https://www.amazon.com/s?k=joehx&rh=n%3A2335752011&tag=hendrixjoseph-20)
+* [Merch by Amazon Cellphone Accessories](https://www.amazon.com/s?k=joehx&rh=n%3A2335752011&tag=hendrixjoseph-20)
 * [Redbubble](https://www.redbubble.com/people/joehx/shop)
 * [TeePublic](https://www.teepublic.com/user/joehx)
 
