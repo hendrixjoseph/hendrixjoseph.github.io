@@ -57,7 +57,7 @@ I don't know what caused this - as you can see by the other metrics, my impressi
 ## Moz Stats
 
 Moz Domain Authority &rarr; 30
-Moz Linking Domains &rarr; 510
+Moz Linking Domains &rarr; 505
 
 ## Ratios
 
