@@ -362,3 +362,5 @@ So, yeah, nothing new there.
 ## Final Comment
 
 To refresh my matrix multiplication math, I used this [3D Rotation Converter](https://www.andre-gaschler.com/rotationconverter/) and this [Matrix Multiplication Calculator](https://matrix.reshish.com/multCalculation.php).
+
+The `script` tag and `style` tag stylings are based off of this [HTML quine](https://secretgeek.github.io/html_wysiwyg/html.html).
