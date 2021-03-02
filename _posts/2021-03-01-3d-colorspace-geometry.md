@@ -329,19 +329,19 @@ article div.entry script, article div.entry style {
 }
 
 article div.entry script:before {
-    content: "<script>";
+    content: "&lt;script&gt;";
 }
 
 article div.entry script:after {
-    content: "</script>";
+    content: "&lt;/script&gt;";
 }
 
 article div.entry style:before {
-    content: "<style>";
+    content: "&lt;style&gt;";
 }
 
 article div.entry style:after {
-    content: "</style>";
+    content: "&lt;/style&gt;";
 }
 </style>
 
