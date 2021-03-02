@@ -45,7 +45,7 @@ excerpt: R&eacute;sum&eacute; / CV for JoeHx (Joseph Hendrix)
 
 * Generated 3D models from 2D imagery using the structure-from-motion (SfM) C/C++ library [Bundler](https://www.cs.cornell.edu/~snavely/bundler/).
 * Generated simulated images using [Blender](https://www.blender.org/).
-* Provided input on an AFIT student’s [graduate thesis](https://www.dtic.mil/dtic/tr/fulltext/u2/a557206.pdf).
+* Provided input on an AFIT student’s [graduate thesis](https://scholar.afit.edu/etd/1172/).
 
 ### Wright State University | Teacher's Assistant | September 2010 – June 2012
 
