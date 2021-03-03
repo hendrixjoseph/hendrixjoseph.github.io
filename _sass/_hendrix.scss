@@ -324,8 +324,15 @@ canvas {
     background: transparent linear-gradient(135deg, rgb(217, 89, 40) 0%, rgb(250, 156, 56) 47%, rgb(217, 89, 40) 100%) repeat scroll 0% 0%;
 }
 
-.fa-rss {
-    padding: 4.5px 6px;
+.follow-links .fa-facebook-f::before {
+    font-family: "Font Awesome 5 Brands";
+    padding: 0 0.5rem;
+}
+
+.fa-rss::before {
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    padding: 0 0.5rem;
 }
 
 article, #see-also, .my-amazon-ad, .navbar, .fancy-border {

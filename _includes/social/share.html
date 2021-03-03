@@ -17,32 +17,27 @@
 
 <div class="share-block">
 <a href="https://www.facebook.com/dialog/share?app_id={{ site.fb-app-id }}&display=page&href={{ url }}" target="_blank">
-	<div class="share facebook">
-		<i class="fab fa-facebook-f" aria-hidden="true"></i>
+	<div class="share facebook fa-facebook-f">
 		<span class="mobile-hide full-name">share</span>
 	</div>
 </a>
 <a href="https://twitter.com/intent/tweet?url={{ url }}&via={{ site.footer-links.twitter }}{% if text %}&text={{ text | url_encode }}{% endif %}{% if page.hashtags %}&hashtags={% for hashtag in page.hashtags %}{{ hashtag }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endif %}" target="_blank">
-	<div class="share twitter">
-		<i class="fab fa-twitter" aria-hidden="true"></i>
+	<div class="share twitter fa-twitter">
 		<span class="mobile-hide full-name">tweet</span>
 	</div>
 </a>
 <a href="https://www.linkedin.com/shareArticle?url={{ url }}&source={{ site.name | uri_escape }}" target="_blank">
-	<div class="share linkedin">
-		<i class="fab fa-linkedin" aria-hidden="true"></i>
+	<div class="share linkedin fa-linkedin">
 		<span class="mobile-hide full-name">share</span>
 	</div>
 </a>
 <a href="https://www.reddit.com/submit?url={{ url }}" target="_blank">
-	<div class="share reddit">
-		<i class="fab fa-reddit-alien" aria-hidden="true"></i>
+	<div class="share reddit fa-reddit-alien">
 		<span class="mobile-hide full-name">share</span>
 	</div>
 </a>
 <a href="https://mix.com/mixit?url={{ url }}" target="_blank">
-	<div class="share mix">
-		<i class="fab fa-mix" aria-hidden="true"></i>
+	<div class="share mix fa-mix">
 		<span class="mobile-hide full-name">mixit</span>
 	</div>
 </a>

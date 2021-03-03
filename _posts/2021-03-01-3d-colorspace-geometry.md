@@ -62,7 +62,7 @@ I decided to make my images on a 256 × 256 × 256 canvas.
 
 That's an [HTML Canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API) where each canvas is 256 pixels wide and 256 pixels tall. Each pixel can be one of 256 gray colors - including black and white.
 
-> Wait, shouldn't there be 256 bits of color? Well, yeah, but the normal RGB colors are only 24 bits - 8 bits for each color. "Normally" with 24 bits there are 2^24 colors, or 16,777,216 colors. With [256 bits](https://en.wikipedia.org/wiki/256-bit_computing), that's enough for 2^256 colors, 115,792,089,237,316,195,423,570,985,008,687,907,853,269,984,665,640,564,039,457,584,007,913,129,639,936 colors. I don't even know how to pronounce that number.
+> Wait, shouldn't there be 256 bits of color? Well, yeah, but the normal RGB colors are only 24 bits - 8 bits for each color. "Normally" with 24 bits there are 2^24 colors, or 16,777,216 colors. With [256 bits](https://en.wikipedia.org/wiki/256-bit_computing), that's enough for 2^256 colors, or <span style="overflow-wrap: break-word;">115,792,089,237,316,195,423,570,985,008,687,907,853,269,984,665,640,564,039,457,584,007,913,129,639,936</span> colors. I don't even know how to pronounce that number.
 
 The gray color is specified by the *topmost color coordinate*. So if there is no color coordinate in a given (x,y) coordinate, then the color is <span style="background-color: #000000; color: white">000000 - black</span>. If the very tippy top coordinate in a given (x,y) coordinate has a value, then the color is <span style="background-color: #FFFFFF; color: black">FFFFFF - white</span>. If, say, the 127th is the "topmost" then the color is <span style="background-color: #747474; color: white">747474</span>.
 
@@ -324,7 +324,7 @@ article div.entry canvas {
 
 article div.entry script, article div.entry style {
     display: block;
-    white-space: pre;
+    white-space: pre-wrap;
     font-family:'Courier New', Courier, monospace;
 }
 

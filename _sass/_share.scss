@@ -1,79 +1,83 @@
 .share-block {
-	position: fixed;
-	left: 10px;
-	white-space: nowrap;
-	overflow: visible;
-	text-align: center;
+    position: fixed;
+    left: 10px;
+    white-space: nowrap;
+    overflow: visible;
+    text-align: center;
 
-	@include mobile {
-		position: initial;
-	}
+    @include mobile {
+        position: initial;
+    }
 }
 
 .share {
-	padding: 0 0.5em;
-	width: 2.5em;
-	text-align: center;
+    padding: 0 0.5em;
+    width: 2.5em;
+    text-align: center;
 
-	@include mobile {
-		display: inline-block;
-	}
+    @include mobile {
+        display: inline-block;
+    }
 }
 
 .share:hover {
-	width: 100%;
+    width: 100%;
 
-	@include mobile {
-		width: 2.5em;
-	}
+    @include mobile {
+        width: 2.5em;
+    }
+}
+
+.share::before {
+    font-family: "Font Awesome 5 Brands";
 }
 
 .full-name {
-	display: none;
+    display: none;
 }
 
 a:hover {
-	.full-name {
-		display: inline-block;
-	}
+    .full-name {
+        display: inline-block;
+    }
 }
 
 .facebook {
-	background-color: #3B5998;
-	color: #FFFFFF;
+    background-color: #3B5998;
+    color: #FFFFFF;
 }
 
 .twitter {
-	background-color: #1DA1F2;
-	color: #FFFFFF;
+    background-color: #1DA1F2;
+    color: #FFFFFF;
 }
 
 .linkedin {
-	background-color: #1F88BD;
-	color: #FFFFFF;
+    background-color: #1F88BD;
+    color: #FFFFFF;
 }
 
 .reddit {
-	background-color: #FFFFFF;
-	color: #000000;
-	border: 1px solid black;
+    background-color: #FFFFFF;
+    color: #000000;
+    border: 1px solid black;
 }
 
 .mix {
-	background-color: #FD8235;
-	color: #FFFFFF;
+    background-color: #FD8235;
+    color: #FFFFFF;
 }
 
 .mobile-hide {
-	@include mobile {
-		display: none !important;
-	}
+    @include mobile {
+        display: none !important;
+    }
 }
 
 .mobile-only {
-	display: none;
+    display: none;
 
-	@include mobile {
-		display: inherit;
-	}
+    @include mobile {
+        display: inherit;
+    }
 }
