@@ -9,6 +9,7 @@ excerpt: Websites and similar that I have created or been involved in.
 * [{{ site.name }} (this site)]({{ site.url }}/)
 * [Puppy Snuggles](https://www.puppy-snuggles.com/)
 * [Microwave Cooking Times](https://www.microwavecookingtimes.com/)
+* [Vote Joseph Hendrix Ward 3 Huber Heights campaign page](https://joe4huberheights.com/)
 * [Joe and Beth 2017 Wedding Site](https://joeandbeth2017.github.io/)
 * [The Vandalia Toastmasters Club](https://vandalia.toastmastersclubs.org/)
 
