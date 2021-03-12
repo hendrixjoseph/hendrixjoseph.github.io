@@ -3,7 +3,7 @@ layout: post
 title: No-Shave Winter - 121 Selfies Across 121 Days
 tags: [culture]
 keywords: [selfie, face, no-shave, no shave, shave, photo]
-image: /images/covers/no-shave-winter.png
+image: /images/covers/youtube/no-shave-winter.png
 ---
 
 Throughout the winter (from October 31st through February 28th) I took a selfie every night before I went to bed. I also didn't shave.
