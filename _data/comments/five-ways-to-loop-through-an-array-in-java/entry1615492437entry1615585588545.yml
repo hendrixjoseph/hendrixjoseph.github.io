@@ -1,0 +1,11 @@
+_id: 6687c7d0-837c-11eb-9ee4-f148fd719d20
+codeword: super-secret
+replyto: entry1615492437
+message: >-
+  Why do you have a "break" at the end of your for-loops? Having that break
+  ensures that the for-loop while loop at most once. Try removing it and you
+  should get the result you want.
+name: JoeHx
+email: e591f3aa7c8cbd7dd9e3389958949ed3
+url: 'https://www.joehxblog.com/'
+date: 1615585588
