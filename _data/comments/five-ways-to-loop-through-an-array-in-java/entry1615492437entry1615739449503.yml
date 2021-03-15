@@ -1,0 +1,76 @@
+_id: a2cde550-84e2-11eb-a2b4-a116bb8d8d4e
+codeword: super-secret
+replyto: entry1615492437
+message: "Thank You for Your response!\r\n
+\r\n
+While trying to figure this out. I found that the break stopped the loop. As without it, the loop would keep\r\n
+reiterating the first index. very strange.\r\n
+\r\n
+I've since found a solution.\r\n
+here it is.. I managed to figure it out using jdoodle. it's not totally perfect as if prints each index twice after the the first loop. but it does the job. disregard all the extra libraries. I'm juggling my main code between machines in and out of work haha.\r\n
+\r\n
+one again thanks o bunch.\r\n
+\r\n
+```java\r\n
+import java.awt.EventQueue;\r\n
+import java.util.ArrayList;\r\n
+import java.util.Arrays;\r\n
+import java.io.IOException;\r\n
+import java.io.IOException;\r\n
+import java.io.OutputStream;\r\n
+\r\n
+public class Main{\r\n
+\r\n
+public static void main(String []args){\r\n
+\r\n
+String text = \"hgyt jfur kdie\";\r\n
+\r\n
+String[] textarray = text.split(\" \\\\s{0,}+\");\r\n
+String showarray = Arrays.toString(textarray);\r\n
+System.out.println(showarray);System.out.println(\"\");System.out.println(\"\");\r\n
+System.out.println(\"for loop RESULT = \");\r\n
+\r\n
+for (int i = 0; i<= textarray.length;i++)\r\n
+{\r\n
+String line =(textarray[i]);\r\n
+String[] linesplit= line.split(\"\");\r\n
+String Kline = Arrays.toString(linesplit);\r\n
+\r\n
+System.out.println(line );\r\n
+System.out.println(Kline );\r\n
+System.out.println(\"\");\r\n
+\r\n
+while (i < textarray.length )\r\n
+{\r\n
+\r\n
+System.out.println(String.valueOf(textarray[i+1])); break; }//ENDOF while\r\n
+\r\n
+}//ENDOF for loop\r\n
+}//ENDOF main(String []args)\r\n
+}//ENDOFCLASS\r\n
+```\r\n
+\r\n
+OUTPUT:\r\n
+\r\n
+```\r\n
+[hgyt, jfur, kdie]\r\n
+\r\n
+for loop RESULT =\r\n
+hgyt\r\n
+[h, g, y, t]\r\n
+\r\n
+jfur\r\n
+jfur\r\n
+[j, f, u, r]\r\n
+\r\n
+kdie\r\n
+kdie\r\n
+[k, d, i, e]\r\n
+\r\n
+Exception in thread \"main\" java.lang.ArrayIndexOutOfBoundsException: Index 3 out of bounds for length 3\r\n
+at Main.main(Main.java:49)\r\n
+```\r\n"
+name: n/a
+email: 88cd7e5e257a2f43a5fa5ff4533736ca
+url: ''
+date: 1615739449
