@@ -1,0 +1,8 @@
+_id: 2b196c20-8689-11eb-91bd-0df734390551
+codeword: super-secret
+replyto: entry1615815607
+message: "I assume you're referring to the following equation:\r\n\r\n    (input × hours / usage) × bill = costs\r\n\r\nWhere *input* is the power supply wattage, *hours* is the number of hours it was on, *usage* the the watt-hours reported to me on my bill, and *bill* is the dollar amount I was billed?\r\n\r\nI suppose you're right - there's no guarantee that the power supply ran at a consistent wattage, and it probably ran at a wattage less than it's listed max value.\r\n\r\nHowever, the dollar amount and watt-hours used passed a few sanity checks:\r\n\r\n* the watt-hours calculated was less than the watt-hours the bill stated\r\n* the remaining watt-hours (that is, the difference between the watt-hours billed and the watt-hours calculated) was about equal to my usage before & after I used my cryptocurrency miner"
+name: JoeHx
+email: e591f3aa7c8cbd7dd9e3389958949ed3
+url: 'https://www.joehxblog.com/'
+date: 1615920925
