@@ -9,7 +9,7 @@ image: /images/blog-stats/2021/02/adsense.png
 
 On this blog, the twentieth of the month means a new blog stats report.
 
-It's been a bit slow on the post-writing front - I only wrote two posts - but I've been a little busier than usual at work, plus I've started working on [my campaign site](https://www.joe4huberheights.com) (as I write this, nothing is there yet, but I've reserved the domain).
+It's been a bit slow on the post-writing front - I only wrote two posts - but I've been a little busier than usual at work, plus I've started working on [my campaign site](https://joe4huberheights.com) (as I write this, nothing is there yet, but I've reserved the domain).
 
 The two posts I wrote this month are:
 
