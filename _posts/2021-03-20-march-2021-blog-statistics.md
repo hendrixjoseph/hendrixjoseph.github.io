@@ -53,7 +53,7 @@ The second time was from January 22nd through February 6th - 15 days.
 
 This time it started on March 4th. It looks as if it may have lifted as of March 18th (so 14 days) but their still is the following warning at the top of my AdSense console:
 
-{% include image.html src="/images/blog-stats/2021/03/ads-limited-message.png" caption="The warning box that says: &quote;The number of ads you can show has been limited. For details, go to the Policy center.&quote;" %}
+{% include image.html src="/images/blog-stats/2021/03/ads-limited-message.png" caption="The warning box that says: &quot;The number of ads you can show has been limited. For details, go to the Policy center.&quot;" %}
 
 It seems I'm not alone in this - there's a couple of reddit threads (one on [/r/juststart/ on 3/7/2021](https://www.reddit.com/r/juststart/comments/lzprwu/the_number_of_ads_you_can_show_has_been_limited/) and one on [/r/Adsense/ at 3/18/2021](https://www.reddit.com/r/Adsense/comments/m0qkz8/ad_serving_limit_placed_on_my_adsense_accountagain/)) where people are complaining of the same thing.
 
