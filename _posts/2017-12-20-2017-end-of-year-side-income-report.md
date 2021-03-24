@@ -42,7 +42,7 @@ Flipping, or arbitrage, is the art of buying something at a low price and then s
 
 I actually haven't sold anything in the last couple months. I've increased my focus on print-on-demand sites, which doesn't require an inventory. Plus I've been focusing on decluttering.
 
-You can check out what I'm currently selling on eBay here &rarr; [https://www.ebay.com/sch/yknowitsjoe/m.html](https://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5337996799&mpre=https://www.ebay.com/sch/yknowitsjoe/m.html). As you can see, there's not a lot right now, maybe about ten items.
+You can check out what I'm currently selling on eBay here &rarr; [https://www.ebay.com/sch/yknowitsjoe/m.html](https://www.ebay.com/sch/yknowitsjoe/m.html&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337996799&customid=&toolid=10001&mkevt=1). As you can see, there's not a lot right now, maybe about ten items.
 
 source | amount
 --- | ---

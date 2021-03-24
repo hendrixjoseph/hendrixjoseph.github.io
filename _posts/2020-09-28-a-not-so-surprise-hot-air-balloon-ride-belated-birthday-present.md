@@ -66,12 +66,12 @@ Thankfully, though, the fog did lift just in time.
 
 ## Take Off
 
-We began inflating the balloon by 8:16 am. Hot air balloons are initially inflated cold using a [gas-powered fan](https://rover.ebay.com/rover/1/711-53200-19255-0/1?mpre=https%3A%2F%2Fwww.ebay.com%2Fitm%2FGas-Powered-Exhaust-Fan-Super-Vac-Model-718G4-H30%2F252585948065&campid=5337996799&toolid=10001).
+We began inflating the balloon by 8:16 am. Hot air balloons are initially inflated cold using a [gas-powered fan](https://www.ebay.com/sch/i.html?_nkw=gas+powered+fan&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337996799&customid=&toolid=10001&mkevt=1).
 
 ![Me holding the balloon open for cold inflation.](/images/hot-air-balloon-ride/cold-inflation.jpg)
 *Me holding the balloon open for cold inflation.*
 
-Once the balloon had sufficient air in it, our pilot began pumping hot air into the balloon with the [burner](https://rover.ebay.com/rover/1/711-53200-19255-0/1?mpre=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dhot%2Bair%2Bballoon%2Bburner&campid=5337996799&toolid=10001&customid=) (about 8:20 am). The burner is the device that shoots the flames into the balloon.
+Once the balloon had sufficient air in it, our pilot began pumping hot air into the balloon with the [burner](https://www.ebay.com/sch/i.html?_nkw=hot+air+balloon+burner&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337996799&customid=&toolid=10001&mkevt=1) (about 8:20 am). The burner is the device that shoots the flames into the balloon.
 
 ![Our pilot inflating the balloon with the fuel.](/images/hot-air-balloon-ride/hot-inflation.jpg)
 *Our pilot inflating the balloon with the burner.*
