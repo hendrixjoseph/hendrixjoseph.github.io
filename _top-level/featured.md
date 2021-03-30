@@ -54,6 +54,7 @@ Listed in the following blog directories:
 
 ## Mentioned, but not backlined, on the following pages
 
+* [3 candidates running for Huber Heights seat in May primary](https://www.daytondailynews.com/local/three-candidates-running-for-huber-heights-seat-in-may-primary/Z7AQJ7A7MVDYNAGESCC5GBDJII/)
 * [Early retirement wisdom from 50+ top finance writers](https://www.theladders.com/career-advice/early-retirement-wisdom-from-50-top-finance-writers)
 * [Four apply to fill vacant Huber Heights coucil seat](https://www.daytondailynews.com/news/local/four-apply-fill-vacant-huber-heights-coucil-seat/wIvah80DXNsXVSAeTiAfOJ/)
 * [Student Loan Debt Consolidation](https://www.consolidatedcredit.org/student-loan-debt-consolidation/)
