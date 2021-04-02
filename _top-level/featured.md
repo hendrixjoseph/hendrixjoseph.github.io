@@ -12,6 +12,7 @@ Interviewed on the following webpages:
 
 Quoted on the following webpages:
 
+* [13 ways to win Black Friday in 2020](https://mediafeed.org/13-ways-to-win-black-friday-in-2020/)
 * [13 ways you can make the most of Black Friday in 2020 (slide 4/11)](https://www.msn.com/en-us/money/personalfinance/13-ways-you-can-make-the-best-of-black-friday-in-2020/ss-BB1aWxon?ocid=st#image=4)
 * [Best Financial Advice For Couples And Newlyweds](https://mostlyfinance.com/best-financial-advice-for-couples-and-newlyweds/)
 * [Hindsight is 2020: How to learn from money mistakes](https://www.consolidatedcredit.org/financial-news/hindsight-is-2020-how-to-learn-from-money-mistakes/#joehxblog)
