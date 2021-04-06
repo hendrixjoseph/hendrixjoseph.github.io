@@ -55,11 +55,13 @@ Listed in the following blog directories:
 
 ## Mentioned, but not backlined, on the following pages
 
-* [3 candidates running for Huber Heights seat in May primary](https://www.daytondailynews.com/local/three-candidates-running-for-huber-heights-seat-in-may-primary/Z7AQJ7A7MVDYNAGESCC5GBDJII/)
+* Dayton Daily News:
+  * [Early voting begins today at county elections boards: Check what’s on your ballot](https://www.daytondailynews.com/local/early-voting-begins-today-at-county-elections-boards-check-whats-on-your-ballot/YYCQPJYVF5BBBMGGRMCGB4IIJQ/)
+  * [3 candidates running for Huber Heights seat in May primary](https://www.daytondailynews.com/local/three-candidates-running-for-huber-heights-seat-in-may-primary/Z7AQJ7A7MVDYNAGESCC5GBDJII/)
+  * [Four apply to fill vacant Huber Heights coucil seat](https://www.daytondailynews.com/news/local/four-apply-fill-vacant-huber-heights-coucil-seat/wIvah80DXNsXVSAeTiAfOJ/)
+  * [Woman appointed to fill vacant Huber Heights council seat](https://www.daytondailynews.com/news/local/woman-appointed-fill-vacant-huber-heights-council-seat/VudL4nHGyeNI5MxPB4ALBO/)
 * [Early retirement wisdom from 50+ top finance writers](https://www.theladders.com/career-advice/early-retirement-wisdom-from-50-top-finance-writers)
-* [Four apply to fill vacant Huber Heights coucil seat](https://www.daytondailynews.com/news/local/four-apply-fill-vacant-huber-heights-coucil-seat/wIvah80DXNsXVSAeTiAfOJ/)
 * [Student Loan Debt Consolidation](https://www.consolidatedcredit.org/student-loan-debt-consolidation/)
-* [Woman appointed to fill vacant Huber Heights council seat](https://www.daytondailynews.com/news/local/woman-appointed-fill-vacant-huber-heights-council-seat/VudL4nHGyeNI5MxPB4ALBO/)
 
 ## Lost Backlinks
 
