@@ -56,10 +56,11 @@ Listed in the following blog directories:
 ## Mentioned, but not backlined, on the following pages
 
 * Dayton Daily News:
-  * [Early voting begins today at county elections boards: Check what’s on your ballot](https://www.daytondailynews.com/local/early-voting-begins-today-at-county-elections-boards-check-whats-on-your-ballot/YYCQPJYVF5BBBMGGRMCGB4IIJQ/)
-  * [3 candidates running for Huber Heights seat in May primary](https://www.daytondailynews.com/local/three-candidates-running-for-huber-heights-seat-in-may-primary/Z7AQJ7A7MVDYNAGESCC5GBDJII/)
-  * [Four apply to fill vacant Huber Heights coucil seat](https://www.daytondailynews.com/news/local/four-apply-fill-vacant-huber-heights-coucil-seat/wIvah80DXNsXVSAeTiAfOJ/)
-  * [Woman appointed to fill vacant Huber Heights council seat](https://www.daytondailynews.com/news/local/woman-appointed-fill-vacant-huber-heights-council-seat/VudL4nHGyeNI5MxPB4ALBO/)
+  * [2021-04-07 Voting early? Here is what is on your ballot.](https://www.daytondailynews.com/elections/voting-early-here-is-what-is-on-your-ballot/37UXGQLKN5CMXBUDK5JTXRPFAU/)
+  * [2021-04-06 Early voting begins today at county elections boards: Check what’s on your ballot](https://www.daytondailynews.com/local/early-voting-begins-today-at-county-elections-boards-check-whats-on-your-ballot/YYCQPJYVF5BBBMGGRMCGB4IIJQ/)
+  * [2021-?-? 3 candidates running for Huber Heights seat in May primary](https://www.daytondailynews.com/local/three-candidates-running-for-huber-heights-seat-in-may-primary/Z7AQJ7A7MVDYNAGESCC5GBDJII/)  
+  * [2020-03-17 Woman appointed to fill vacant Huber Heights council seat](https://www.daytondailynews.com/news/local/woman-appointed-fill-vacant-huber-heights-council-seat/VudL4nHGyeNI5MxPB4ALBO/)
+  * [2020-03-02 Four apply to fill vacant Huber Heights coucil seat](https://www.daytondailynews.com/news/local/four-apply-fill-vacant-huber-heights-coucil-seat/wIvah80DXNsXVSAeTiAfOJ/)
 * [Early retirement wisdom from 50+ top finance writers](https://www.theladders.com/career-advice/early-retirement-wisdom-from-50-top-finance-writers)
 * [Student Loan Debt Consolidation](https://www.consolidatedcredit.org/student-loan-debt-consolidation/)
 
