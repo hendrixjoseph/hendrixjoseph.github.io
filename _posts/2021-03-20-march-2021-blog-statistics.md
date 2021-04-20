@@ -51,7 +51,7 @@ The first time was from December 19th through December 30th - 11 days.
 
 The second time was from January 22nd through February 6th - 15 days.
 
-This time it started on March 4th. It looks as if it may have lifted as of March 18th (so 14 days) but their still is the following warning at the top of my AdSense console:
+This time it started on March 4th. It looks as if it may have lifted as of March 18th (so 14 days) but there still is the following warning at the top of my AdSense console:
 
 {% include image.html src="/images/blog-stats/2021/03/ads-limited-message.png" caption="The warning box that says: &quot;The number of ads you can show has been limited. For details, go to the Policy center.&quot;" %}
 

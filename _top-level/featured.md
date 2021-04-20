@@ -53,7 +53,7 @@ Listed in the following blog directories:
 * [Camp FIRE Finance Directory](https://www.campfirefinance.com/directory/) / [actual page](https://www.campfirefinance.com/directory/joes-github-blog/)
 * [Fly to Fi Know Your Blogger](https://flytofi.com/know-your-blogger/) / [actual page](https://flytofi.com/know-your-blogger-joes-github-blog/)
 
-## Mentioned, but not backlined, on the following pages
+## Mentioned, but not backlinked, on the following pages
 
 * Dayton Daily News:
   * [2021-04-07 Voting early? Here is what is on your ballot.](https://www.daytondailynews.com/elections/voting-early-here-is-what-is-on-your-ballot/37UXGQLKN5CMXBUDK5JTXRPFAU/)
