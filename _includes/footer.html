@@ -24,5 +24,5 @@
     {% for tool in site.tools %}<a href="{{ site.url }}{{ tool.url }}">{{ tool.title }}</a>{% endfor %}
   </span>
   </div>
-  <a href="https://validator.w3.org/nu/?doc={{ site.url | cgi_escape }}{{ page.url | cgi_escape }}"><img alt="W3C Validation" src="https://img.shields.io/w3c-validation/default?style=for-the-badge&targetUrl={{ site.url | cgi_escape }}{{ page.url | cgi_escape }}"></a>
+  <a href="https://validator.w3.org/nu/?doc={{ site.url | cgi_escape }}{{ page.url | cgi_escape }}"><img alt="W3C Validation" height="28" src="https://img.shields.io/w3c-validation/default?style=for-the-badge&targetUrl={{ site.url | cgi_escape }}{{ page.url | cgi_escape }}"></a>
 </footer>
