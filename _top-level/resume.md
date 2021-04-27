@@ -129,7 +129,7 @@ excerpt: R&eacute;sum&eacute; / CV for JoeHx (Joseph Hendrix)
 > The Ordinance Review Commission is appointed by the City Council at least every ten years per the City Charter. The Ordinance Review Commission reviews the City Code and other ordinances or resolutions of the City and makes recommendations to the City Council for the elimination or revision of provisions of the City Code and other ordinances or resolutions which may have outlived usefulness or practicality. The Ordinance Review Commission was established by the City Charter.
 
 * [My name listed on the city's website.](https://www.hhoh.org/291/Ordinance-Review-Commission)
-* [My name listedd on "AgendaQuick " Destiny Hosted site.](https://destinyhosted.com/officials.cfm?id=48237)
+* [My name listed on "AgendaQuick " Destiny Hosted site.](https://destinyhosted.com/officials.cfm?id=48237)
 <!---
 Wayback links:
 https://web.archive.org/web/20201106202329/https://www.hhoh.org/291/Ordinance-Review-Commission
