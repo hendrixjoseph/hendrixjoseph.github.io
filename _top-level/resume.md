@@ -15,7 +15,14 @@ excerpt: R&eacute;sum&eacute; / CV for JoeHx (Joseph Hendrix)
 
 ### Northrop Grumman Corporation | Software Engineer | January 2014 – Present
 
-#### Project 3 | July 2020 – Present
+#### Project 4 | February 2021 - Present
+
+* Identified & corrected bugs in the software that has existed for years prior.
+* Used automated software tools ([Eclipse](https://www.eclipse.org/downloads/) autoformatting & save actions) to reduce the complexity of the software code, allowing for easier debugging.
+* Self-managed software development activities, as well as collaborated with others using tools such as [Jira](https://www.atlassian.com/software/jira), [Confluence](https://www.atlassian.com/software/confluence), [Fisheye](https://www.atlassian.com/software/fisheye), and [Crucible](https://www.atlassian.com/software/crucible).
+* Provided fellow team members with simpler methods of doing complex & tedious tasks.
+
+#### Project 3 | July 2020 – February 2021
 
 * Created a Node.js web application that queries and updates data in a [PostGreSQL](https://www.postgresql.org/)/[PostGIS](https://postgis.net/) database.
 * Created a [Docker](https://www.docker.com/) container that holds that Node.js; created another Docker container that holds a PostGreSQL database that mirrors the schema of the real-world PostGIS database; ran both in a single [Docker Compose](https://docs.docker.com/compose/) instance.
