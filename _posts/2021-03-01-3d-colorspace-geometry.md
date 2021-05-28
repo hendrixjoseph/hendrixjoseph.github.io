@@ -315,7 +315,7 @@ functions.push(rotatedCube2)
 
 ### The Deferred Execution
 
-Execution is defered so I can have the following style tag applied first:
+Execution is deferred so I can have the following style tag applied first:
 
 <style>
 article div.entry canvas {
