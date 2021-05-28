@@ -12,18 +12,32 @@ While I was there, I took some pictures, video, and recorded some sound.
 
 {% include youtube.html param="WyMbJ2NLBkw" %}
 
-[Image of the cicadas](/images/cicadas/brood-x-01.jpg)
-[Image of the cicadas](/images/cicadas/brood-x-02.jpg)
-[Image of the cicadas](/images/cicadas/brood-x-03.jpg)
-[Image of the cicadas](/images/cicadas/brood-x-04.jpg)
-[Image of the cicadas](/images/cicadas/brood-x-05.jpg)
-[Image of the cicadas](/images/cicadas/brood-x-06.jpg)
-[Image of the cicadas](/images/cicadas/brood-x-07.jpg)
-[Image of the cicadas](/images/cicadas/brood-x-08.jpg)
-[Image of the cicadas](/images/cicadas/brood-x-09.jpg)
-[Image of the cicadas](/images/cicadas/brood-x-10.jpg)
-[Image of the cicadas](/images/cicadas/brood-x-11.jpg)
-[Image of the cicadas](/images/cicadas/brood-x-12.jpg)
-[Image of the cicadas](/images/cicadas/brood-x-13.jpg)
-[Image of the cicadas](/images/cicadas/brood-x-14.jpg)
-[Image of the cicadas](/images/cicadas/brood-x-15.jpg)
+![Image of the cicadas](/images/cicadas/brood-x-01.jpg)
+
+![Image of the cicadas](/images/cicadas/brood-x-02.jpg)
+
+![Image of the cicadas](/images/cicadas/brood-x-03.jpg)
+
+![Image of the cicadas](/images/cicadas/brood-x-04.jpg)
+
+![Image of the cicadas](/images/cicadas/brood-x-05.jpg)
+
+![Image of the cicadas](/images/cicadas/brood-x-06.jpg)
+
+![Image of the cicadas](/images/cicadas/brood-x-07.jpg)
+
+![Image of the cicadas](/images/cicadas/brood-x-08.jpg)
+
+![Image of the cicadas](/images/cicadas/brood-x-09.jpg)
+
+![Image of the cicadas](/images/cicadas/brood-x-10.jpg)
+
+![Image of the cicadas](/images/cicadas/brood-x-11.jpg)
+
+![Image of the cicadas](/images/cicadas/brood-x-12.jpg)
+
+![Image of the cicadas](/images/cicadas/brood-x-13.jpg)
+
+![Image of the cicadas](/images/cicadas/brood-x-14.jpg)
+
+![Image of the cicadas](/images/cicadas/brood-x-15.jpg)
