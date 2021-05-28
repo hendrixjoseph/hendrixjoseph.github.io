@@ -6,7 +6,7 @@ keywords: [cicada, brood x]
 image: /images/cicadas/brood-x-05.jpg
 ---
 
-2021 is the year for the emergence of the 17-year Brood X cicadas. It was pretty loud, so my wife and I took our two kids to see them an my in-laws (my wife's parents).
+2021 is the year for the emergence of the 17-year [Brood X cicadas}(https://en.wikipedia.org/wiki/Brood_X). It was pretty loud, so my wife and I took our two kids to see them an my in-laws (my wife's parents).
 
 While I was there, I took some pictures, video, and recorded some sound.
 
