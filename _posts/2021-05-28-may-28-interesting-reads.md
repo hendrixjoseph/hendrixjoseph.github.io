@@ -1,18 +1,18 @@
 ---
 layout: post
-title: Interesting Reads for Week Ending May 28th
+title: Interesting Reads for the Week Ending May 28th
 tags: [interesting reads]
 ---
 
 Starting today, and every Friday, I will be sharing some of the most interesting things I read over the week.
 
-There are a few ground rules for the items I've decided to share. First, it can't be anything I wrote. You can find those on my monthly blog stats reports (or on any index on this blog).
+There are a few ground rules for the items I've decided to share. First, it can't be anything I wrote. You can find those on my monthly [blog stats reports](/tags/#blog-statistics) (or on any index on this blog).
 
 Second, it has to be something I actually read. Nothing that simply had an interesting headline.
 
 Third, I have to have read it since the previous post. For this first post, it has to be something since last Friday (the 21st). It does not have to be something that was written in the past week. It doesn't even need to be that "current."
 
-And finally, it has to be something I read online. In other words, it has to be a webpage with a URL. I already write about what books I read in my monthly book reading list posts.
+And finally, it has to be something I read online. In other words, it has to be a webpage with a URL. I already write about what books I read in my monthly [book reading list](/tags/#reading-list) posts.
 
 I haven't yet decided what to do if a Friday coincides with the 20th (the day I post my monthly blog post report). I might *gasp* post two posts in one day. The next time the 20th falls on a Friday is this August.
 
