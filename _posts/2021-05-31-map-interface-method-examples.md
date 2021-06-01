@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Java Collections Framework - List Interface Method Examples
+title: Java Collections Framework - Map Interface Method Examples
 tags: [java]
 keywords: [java collections, java collections framework, collections framework, collections, map]
 hashtags: [java, collections]
