@@ -109,6 +109,12 @@ excerpt: R&eacute;sum&eacute; / CV for JoeHx (Joseph Hendrix)
 
 ## Certifications
 
+### Scrum.org Professional Scrum Master I | May 28, 2021
+
+* [View on my Scrum.org Profile](https://www.scrum.org/user/811233/)
+
+> ![Scrum.org Professional Scrum Master I](/images/certs/psm1.png)
+
 ### CompTIA Advanced Security Practitioner (CASP) | October 2, 2016
 
 * [Verify](https://www.certmetrics.com/comptia/public/verification.aspx?code=XNJ0VR9GPLQEQ76Y)
