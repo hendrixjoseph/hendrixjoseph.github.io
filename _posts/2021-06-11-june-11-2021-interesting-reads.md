@@ -36,14 +36,14 @@ I remember the hack because I was using NiceHash at the time with my AntMiner S3
 
 [Major Scientific Leap: Quantum Microscope Created That Can See the Impossible](https://scitechdaily.com/major-scientific-leap-quantum-microscope-created-that-can-see-the-impossible/). Unfortunately no photos of what the microscope saw are in the article. And the best explanation about how it works is in the comments by commenter Usarian: 
 
-> Usarian | [June 10, 2021 at 7:29 am](https://scitechdaily.com/major-scientific-leap-quantum-microscope-created-that-can-see-the-impossible/#comment-617852):
+> Usarian &#124; [June 10, 2021 at 7:29 am](https://scitechdaily.com/major-scientific-leap-quantum-microscope-created-that-can-see-the-impossible/#comment-617852):
 > 
 > They use entanglement to tag the photons as they go out, then read the tags when the photons are detected, thus giving them the ability to precisely calculate the image and eliminate stray photons causing noise.
 Instead of having to use more photons, which irradiates living tissue, they can get a significantly clearer image using fewer photons (less intense light).
 
 There is the following image in the [Nature article](https://www.nature.com/articles/s41586-021-03528-w):
 
-![A quantum image?](quantum-image-figure-four.webp)
+![A quantum image?](/images/quantum-image-figure-four.webp)
 
 And lastly something more local: [Kroger drone delivery takes off in Centerville](https://www.wdtn.com/news/local-news/kroger-drone-delivery-takes-off-in-centerville/). Kroger delivered, via drone, two bags of long-grain rice and a bit of fabric from the Wright Brothers’ 1903 flyer to  Centerville City Hall from the Kroger Marketplace in Centerville - a distance of about 2,300 feet or a little less than half a mile.
 
