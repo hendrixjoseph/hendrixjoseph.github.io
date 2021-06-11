@@ -6,7 +6,7 @@ tags: [interesting reads]
 
 Week three for my interesting reads.
 
-Note there's a small change this week. You probably didn't even notice it (not that I have any readers) but it does affect the last two: I'm putting the year in the URL. That way if there's ever another week ending on May 28th, June 4th, or June 11th, I won't have a conflict of URLs.
+Note there's a small change this week. You probably didn't even notice it (not that I have any readers) but it does affect the last two: I'm putting the year in the URL. That way if there's ever another week ending on [May 28th](https://www.joehxblog.com/may-28-2021-interesting-reads/), [June 4th](https://www.joehxblog.com/june-4-2021-interesting-reads/https://www.joehxblog.com/june-4-2021-interesting-reads/), or June 11th, I won't have a conflict of URLs.
 
 The titles will stay the same, though.
 
