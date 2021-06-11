@@ -9,7 +9,7 @@ jobs:
     name: Randomly share a blog post.
     runs-on: ubuntu-latest
     steps:
-      - uses: hendrixjoseph/random-social-share@master
+      - uses: hendrixjoseph/random-social-share@v1.0
         with:
           source: https://www.joehxblog.com/data/posts.csv
           twitter_access_token: ${{ secrets.TWITTER_ACCESS_TOKEN }}
