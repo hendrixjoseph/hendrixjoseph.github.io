@@ -1,0 +1,109 @@
+summary:
+  - Highly proficient in a variety of Java technologies, including Java EE, GlassFish, JPA (Java Persistence API), JSF (Java ServerFaces), Maven, Grandle, and Android.
+  - Experienced in developing in all three of the major Java IDEs ([Netbeans](https://netbeans.org/), [Eclipse](https://www.eclipse.org/downloads/), and [IntelliJ IDEA](https://www.jetbrains.com/idea/)).
+  - Highly proficient in SQL as well as databases such as Oracle, PostGreSQL, and MySQL.
+  - Highly proficient with web development in [Node.js](https://nodejs.org/en/), HTML, CSS, and JavaScript.
+workhistory:
+  - place: Northrop Grumman Corporation
+    title: Software Engineer
+    dates: January 2014 – Present
+  - place: Moreover Technologies
+    title: Quality Assurance (QA) Engineer
+    dates: May 2013 – October 2013
+    details:
+      - Automated web applications using the Java library [Selenium](https://www.seleniumhq.org/).
+      - Tested REST interfaces using [JMeter](https://jmeter.apache.org/).
+      - Reported bugs using [JIRA](https://www.atlassian.com/software/jira).
+  - place: Air Force Institute of Technology
+    title: Computer Programmer / Research Assistant
+    dates: March 2011 – May 2013
+    details:
+      - Generated 3D models from 2D imagery using the structure-from-motion (SfM) C/C++ library [Bundler](https://www.cs.cornell.edu/~snavely/bundler/).
+      - Generated simulated images using [Blender](https://www.blender.org/).
+      - Provided input on an AFIT student’s [graduate thesis](https://scholar.afit.edu/etd/1172/).
+  - place: Wright State University
+    title: Teacher's Assistant
+    dates: September 2010 – June 2012
+    details:
+      - Taught computer labs in the Java language for non-majors (CS141 & CS142).
+      - Graded student projects in a timely manner.
+      - Reported student performance to the teacher.
+projects:
+  - title: Moonshot
+    details:
+       - GitHub Game Off 2020 Entry
+       - Written in Java using the [libGDX](https://libgdx.badlogicgames.com/) gaming engine.
+       - Source hosted on [GitHub](https://github.com/hendrixjoseph/moonshot/).
+       - Available in the [Google Play Store](https://play.google.com/store/apps/details?id=com.joehxblox.moonshot).
+       - Available in the [Amazon App Store](https://www.amazon.com/gp/product/B08PCBXQHW).
+       - Available on [itch.io](https://hendrixjoseph.itch.io/moonshot)
+       - "[Blog post](https://www.joehxblog.com/my-github-game-off-2020-entry/) discussing my experience."
+  - title: Tic Tac Toe Android Application
+    details:
+       - The Classic Game of Tic Tac Toe for Android.
+       - Source hosted on [GitHub](https://github.com/hendrixjoseph/tictactoe).
+       - Available in the [Google Play Store](https://play.google.com/store/apps/details?id=com.joehxblog.tictactoe).
+       - Available in the [Amazon App Store](https://www.amazon.com/gp/product/B08KTWMYRK).
+  - title: Tagger for Amazon Associates
+    details:
+       - Android App written in Java that allows Amazon Associates to tag Amazon URLs with their affiliate code in order to earn affiliate revenue.
+       - Source hosted on [GitHub](https://github.com/hendrixjoseph/tagger).
+       - Available in the [Google Play Store](https://play.google.com/store/apps/details?id=com.joehxblog.tagger).
+  - title: AutoPhotoSync for Google Photos
+    details:
+       - AutoPhotoSync is a desktop Java application. It runs in the system tray (known as the Notification Area in Windows) with a simplistic GUI.
+       - Source hosted on [GitHub](https://github.com/hendrixjoseph/AutoPhotoSync).
+       - "[Blog post introducing AutoPhotoSync](https://www.joehxblog.com/introducing-autophotosync-for-google-photos/)."
+  - title: Family Tree database and web application
+    details:
+       - FamilyTree is a simple web application using JavaServerFaces, Java EE, and a SQL database to load, display, edit, and examine a family tree. It was initially created as a project for CS7700 Advanced Database Systems at Wright State, and is currently being used for CS7720 Data Mining at the same school.
+       - Source hosted on [GitHub](https://github.com/hendrixjoseph/FamilyTree).
+       - "[Generated Documentation](https://www.joehxblog.com/FamilyTree/)."
+education:
+  - school: Wright State University
+    degree: Master of Science (M.S.) in Computer Science
+    dates: 2014 – 2018
+    diploma: /images/certs/wright-state-university-master-of-science-in-computer-science.png
+  - school: Wright State University
+    degree: Bachelor of Science (B.S.) in Computer Science
+    dates: 2008 – 2012
+    diploma: /images/certs/wright-state-university-bachelor-of-science-in-computer-science.png
+certifications:
+  - certification: Scrum.org Professional Scrum Master I
+    date: May 28, 2021
+    link: https://www.scrum.org/user/811233/
+    image: /images/certs/psm1.png
+  - certification: CompTIA Advanced Security Practitioner (CASP)
+    date: October 2, 2016
+    link: https://www.certmetrics.com/comptia/public/verification.aspx?code=XNJ0VR9GPLQEQ76Y
+    image: /images/certs/casp.png
+  - certification: Oracle 1Z0-803 - Java SE 7 Programmer I
+    date: September 2015
+    image: /images/certs/oracle-1z0-803.png
+awards:
+  - award: Competent Communicator
+    organization: Toastmasters International
+    date: February 9, 2020
+    image: /images/certs/competent-communicator.jpg
+  - award: Competent Leader
+    organization: Toastmasters International
+    date: February 21, 2019
+volunteerism:
+  - organization: The City of Huber Heights
+    activities: 
+      - title: Ordinance Review Commission
+        date: September 28, 2020 - June 30, 2021
+        details:
+          - The Ordinance Review Commission is appointed by the City Council at least every ten years per the City Charter. The Ordinance Review Commission reviews the City Code and other ordinances or resolutions of the City and makes recommendations to the City Council for the elimination or revision of provisions of the City Code and other ordinances or resolutions which may have outlived usefulness or practicality. The Ordinance Review Commission was established by the City Charter.
+          - "[My name listed on the city's website.](https://www.hhoh.org/291/Ordinance-Review-Commission)"
+          - "[My name listed on \"AgendaQuick\" Destiny Hosted site.](https://destinyhosted.com/officials.cfm?id=48237)"
+  - organization: The Vandalia Toastmasters Club
+    activities:
+      - title: Vice President Membership
+        date: July 2020 - June 2021
+      - title: Vice President Public Relations
+        date: July 2020 - June 2021
+      - title: Club President
+        date: July 2019 - June 2020
+      - title: Vice President Public Relations
+        date: July 2018 - June 2019
