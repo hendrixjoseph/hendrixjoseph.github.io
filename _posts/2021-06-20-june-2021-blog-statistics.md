@@ -7,9 +7,9 @@ hashtags: [blogging, blogstats]
 image: /images/blog-stats/2021/06/search-console.png
 ---
 
-For the forty-first time, it's the twentieth. Well, actually it's probably the gazillionth time it's the twentieth - but this is my 41st blog stats post.
+It's the twentieth. It's time for another blog stats post.
 
-That's right, I've been consistently doing these posts since [January 2018](https://www.joehxblog.com/january-2018-blog-statistics/).
+Note that the charts won't be updated for about a week - for now now they'll just be broken images.
 
 I wrote nine posts this month:
 
