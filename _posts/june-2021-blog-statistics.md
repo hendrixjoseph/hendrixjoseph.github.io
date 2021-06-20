@@ -52,9 +52,9 @@ However, my Google Analytics shows that I have consistant views:
 ## AdSense
 
 * Balance &rarr; $114.33
-* Estimated earnings &rarr; $
-* Impressions &rarr; 
-* Clicks &rarr; 
+* Estimated earnings &rarr; $98.65
+* Impressions &rarr; 4,971
+* Clicks &rarr; 169
 
 {% include image.html src="/images/blog-stats/2021/06/adsense.png" caption="Google AdSense Graph for June" %}
 
@@ -65,10 +65,10 @@ Moz Linking Domains &rarr; 497
 
 ## Ratios
 
-* Earnings / 1,000 sessions = $ / 5.514 = $
-* Earnings / 1,000 pageviews = $ / 6.083 = $
-* Earnings / 1,000 impressions = $ /  = $
-* Earnings / day = $ / 31 = $
+* Earnings / 1,000 sessions = $98.65 / 5.514 = $17.89
+* Earnings / 1,000 pageviews = $98.65 / 6.083 = $16.22
+* Earnings / 1,000 impressions = $98.65 / 4.971 = $19.85
+* Earnings / day = $98.65 / 31 = $3.18
 * Sessions / day = 5,514 / 31 = 166.3
 * Pageviews / day = 6,083 / 31 = 196.2
-* Impressions / day =  / 31 = 
+* Impressions / day = 4,971 / 31 = 160.4
