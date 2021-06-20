@@ -29,23 +29,23 @@ I haven't written any posts over on [my campaign site](https://joe4huberheights.
 
 ## Alexa
 
-* Global Rank &rarr; 
+* Global Rank &rarr; 1,955,945
 
 ## Google Analytics
 
 However, my Google Analytics shows that I have consistant views:
 
-* Sessions &rarr; 
-* Users &rarr; 
-* Pageviews &rarr; 
+* Sessions &rarr; 5,154
+* Users &rarr; 4,611
+* Pageviews &rarr; 6,083
 
 {% include image.html src="/images/blog-stats/2021/06/stats.png" caption="Google Analytics Graph for June" %}
 
 ## Google Search Console
 
-* Clicks &rarr; 
-* Search Impressions &rarr; 
-* Average position &rarr; 
+* Clicks &rarr; 3,360
+* Search Impressions &rarr; 104,000
+* Average position &rarr; 30.8
 
 {% include image.html src="/images/blog-stats/2021/06/search-console.png" caption="Google Search Console Graph for June" %}
 
