@@ -60,15 +60,15 @@ However, my Google Analytics shows that I have consistant views:
 
 ## Moz Stats
 
-Moz Domain Authority &rarr; 
-Moz Linking Domains &rarr; 
+Moz Domain Authority &rarr; 32
+Moz Linking Domains &rarr; 497
 
 ## Ratios
 
-* Earnings / 1,000 sessions = $ /  = $
-* Earnings / 1,000 pageviews = $ /  = $
+* Earnings / 1,000 sessions = $ / 5.514 = $
+* Earnings / 1,000 pageviews = $ / 6.083 = $
 * Earnings / 1,000 impressions = $ /  = $
 * Earnings / day = $ / 31 = $
-* Sessions / day =  / 31 = 
-* Pageviews / day =  / 31 = 
+* Sessions / day = 5,514 / 31 = 166.3
+* Pageviews / day = 6,083 / 31 = 196.2
 * Impressions / day =  / 31 = 
