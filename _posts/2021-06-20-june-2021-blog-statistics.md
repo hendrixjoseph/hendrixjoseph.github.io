@@ -60,8 +60,8 @@ However, my Google Analytics shows that I have consistant views:
 
 ## Moz Stats
 
-Moz Domain Authority &rarr; 32
-Moz Linking Domains &rarr; 497
+* Moz Domain Authority &rarr; 32
+* Moz Linking Domains &rarr; 497
 
 ## Ratios
 
