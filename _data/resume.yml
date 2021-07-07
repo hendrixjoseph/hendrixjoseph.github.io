@@ -3,10 +3,38 @@ summary:
   - Experienced in developing in all three of the major Java IDEs ([Netbeans](https://netbeans.org/), [Eclipse](https://www.eclipse.org/downloads/), and [IntelliJ IDEA](https://www.jetbrains.com/idea/)).
   - Highly proficient in SQL as well as databases such as Oracle, PostGreSQL, and MySQL.
   - Highly proficient with web development in [Node.js](https://nodejs.org/en/), HTML, CSS, and JavaScript.
-workhistory:
+work:
   - place: Northrop Grumman Corporation
     title: Software Engineer
     dates: January 2014 – Present
+    projects:
+      - name: Project 4
+        date: February 2021 - Present
+        details:
+          - Identified & corrected bugs in the software that has existed for years prior.
+          - Used automated software tools ([Eclipse](https://www.eclipse.org/downloads/) autoformatting & save actions) to reduce the complexity of the software code, allowing for easier debugging.
+          - Self-managed software development activities, as well as collaborated with others using tools such as [Jira](https://www.atlassian.com/software/jira), [Confluence](https://www.atlassian.com/software/confluence), [Fisheye](https://www.atlassian.com/software/fisheye), and [Crucible](https://www.atlassian.com/software/crucible).
+          - Provided fellow team members with simpler methods of doing complex & tedious tasks.
+      - name: Project 3
+        date: July 2020 – February 2021
+        details:
+          - Created a Node.js web application that queries and updates data in a [PostGreSQL](https://www.postgresql.org/)/[PostGIS](https://postgis.net/) database.
+          - Created a [Docker](https://www.docker.com/) container that holds that Node.js; created another Docker container that holds a PostGreSQL database that mirrors the schema of the real-world PostGIS database; ran both in a single [Docker Compose](https://docs.docker.com/compose/) instance.
+          - Enabled the Node.js web application and the mirror database to use SSL file certificates instead of a username/password.
+      - name: Project 2
+        date: March 2018 – July 2020
+        details:
+          - Provided maintenance and new functionality to an existing Java Swing desktop application.
+          - Maintenance activities included eliminating processing bottlenecks by using tools such as [JProfiler](https://www.ej-technologies.com/products/jprofiler/overview.html) to identify those bottlenecks.
+          - Consistently created unit tests that covered at least 90% of newly written code.
+          - Reduced the amount of "code smell"” in existing code by about 8% largely by using code formatting tools.
+          - Used software tools such as [SonarLint](https://www.sonarlint.org/), [SonarQube](https://www.sonarqube.org/), and [HP Fortify](https://www.microfocus.com/en-us/products/static-code-analysis-sast/overview) to identify and fix software issues, including vulnerabilities and duplicate code.
+      - name: Project 1
+        date: January 2014 – March 2018
+        details:
+          - Modified an existing Java Swing desktop application by improving its mapping capabilities using [OpenMap 5.0.3](https://github.com/OpenMap-java/openmap), added advanced metrics, and applied redesigns to the GUI.
+          - Migrated that Java Swing desktop application to a web application using GlassFish, JPA, CDI, JSF, [PrimeFaces](https://www.primefaces.org/), [PrimeFaces Extensions](https://primefaces-extensions.github.io/), and an Oracle XE database. Provided major customizations to the PrimeFaces JSF timeline component. Configured the build and dependency tool [Maven](https://maven.apache.org/) such that the web application could be built while not connected to the Internet.
+          - Maintained and updated the public website for [the Defense Production Act Title III program](https://web.archive.org/web/20180130154009/http://www.dpatitle3.com:80/dpa_db/). Made this website into HTML5 compliance by modifying and customizing the PHP files, CSS files, and image files in such a way that the website's overall appearance did not change. Implemented a mobile-friendly version using CSS media queries.
   - place: Moreover Technologies
     title: Quality Assurance (QA) Engineer
     dates: May 2013 – October 2013
@@ -69,30 +97,30 @@ education:
     dates: 2008 – 2012
     diploma: /images/certs/wright-state-university-bachelor-of-science-in-computer-science.png
 certifications:
-  - certification: Scrum.org Professional Scrum Master I
+  - name: Scrum.org Professional Scrum Master I
     date: May 28, 2021
-    link: https://www.scrum.org/user/811233/
+    link: "[View on my Scrum.org Profile](https://www.scrum.org/user/811233/)"
     image: /images/certs/psm1.png
-  - certification: CompTIA Advanced Security Practitioner (CASP)
+  - name: CompTIA Advanced Security Practitioner (CASP)
     date: October 2, 2016
-    link: https://www.certmetrics.com/comptia/public/verification.aspx?code=XNJ0VR9GPLQEQ76Y
+    link: "[Verify](https://www.certmetrics.com/comptia/public/verification.aspx?code=XNJ0VR9GPLQEQ76Y)"
     image: /images/certs/casp.png
-  - certification: Oracle 1Z0-803 - Java SE 7 Programmer I
+  - name: Oracle 1Z0-803 - Java SE 7 Programmer I
     date: September 2015
     image: /images/certs/oracle-1z0-803.png
 awards:
-  - award: Competent Communicator
+  - name: Competent Communicator
     organization: Toastmasters International
     date: February 9, 2020
     image: /images/certs/competent-communicator.jpg
-  - award: Competent Leader
+  - name: Competent Leader
     organization: Toastmasters International
     date: February 21, 2019
 volunteerism:
   - organization: The City of Huber Heights
     activities: 
       - title: Ordinance Review Commission
-        date: September 28, 2020 - June 30, 2021
+        dates: September 28, 2020 - June 30, 2021
         details:
           - The Ordinance Review Commission is appointed by the City Council at least every ten years per the City Charter. The Ordinance Review Commission reviews the City Code and other ordinances or resolutions of the City and makes recommendations to the City Council for the elimination or revision of provisions of the City Code and other ordinances or resolutions which may have outlived usefulness or practicality. The Ordinance Review Commission was established by the City Charter.
           - "[My name listed on the city's website.](https://www.hhoh.org/291/Ordinance-Review-Commission)"
@@ -100,10 +128,10 @@ volunteerism:
   - organization: The Vandalia Toastmasters Club
     activities:
       - title: Vice President Membership
-        date: July 2020 - June 2021
+        dates: July 2020 - June 2021
       - title: Vice President Public Relations
-        date: July 2020 - June 2021
+        dates: July 2020 - June 2021
       - title: Club President
-        date: July 2019 - June 2020
+        dates: July 2019 - June 2020
       - title: Vice President Public Relations
-        date: July 2018 - June 2019
+        dates: July 2018 - June 2019

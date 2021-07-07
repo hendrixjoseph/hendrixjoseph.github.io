@@ -6,7 +6,6 @@ keywords: [book, read, books, reading, book reading, books i read]
 hashtags: [books, reading]
 ---
 
-
 Another month gone. We're already about halfway through the year. Amazing. It's time to write about the books I read last month in May.
 
 ## Books I Read to My Children
