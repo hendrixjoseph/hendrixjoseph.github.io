@@ -12,8 +12,7 @@ My local electric provider (DP&L, although it's since been rebranded as AES Ohio
 
 They've still my local provider - I pay Arcadia and then Arcadia pays DP&L.
 
-At the beginning of April (the transaction posted on April 9th), I paid for one unit of [Arcadia Power's Community Solar Program
-](https://www.arcadia.com/article/what-is-community-solar). The upfront cost was $100 (although I paid with my Citi Double Cash card, effectively bringing the price down to $98). In return, I get a discount on my electric bill for the next ten years.
+At the beginning of April (the transaction posted on April 9th), I paid for one unit of [Arcadia Power's Community Solar Program](https://www.arcadia.com/article/what-is-community-solar). The upfront cost was $100 (although I paid with my Citi Double Cash card, effectively bringing the price down to $98). In return, I get a discount on my electric bill for the next ten years.
 
 There's supposed to be a solar dashboard, but as of now, I'm still seeing the following when I try to look at it:
 
