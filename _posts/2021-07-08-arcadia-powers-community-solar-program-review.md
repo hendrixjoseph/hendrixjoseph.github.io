@@ -3,7 +3,7 @@ layout: post
 title: A Quick and Objective Review of Arcadia Power's Community Solar Program
 tags: [money, review]
 keywords: [arcadia power's community solar program, arcadia power, arcadia, community solar, community solar program]
-image: /images/arcadia-community-solar/arcadia-logo
+image: /images/arcadia-community-solar/arcadia-logo.png
 ---
 
 Back in May of 2019, I signed up for Arcadia Power. I got a Google Home as a sign up bonus, but the biggest benefit to me was the ability to pay with a credit card (and get that sweet, sweet cash back).
@@ -29,11 +29,11 @@ So I will make my money back - assuming the discount is the same each month. The
 
 If you *really* want to compare this "investment" to other, more traditional investments, then we'll have to use the good ole interest equation:
 
- PV (1 + i)^t = FV
+    PV (1 + i)^t = FV
 
 Where PV is present value (aka start value), i is interest rate, t is time in years, and FV is final value. For us, PV = $100, t = 10, and FV = $163.20. We're going to solve for i:
 
- $100 (1 + i)^10 = $163.2
+    $100 (1 + i)^10 = $163.2
 
 I'm a bit lazy, so I just threw [the equation into WolframAlpha](https://www.wolframalpha.com/input/?i=100+%281+%2B+x%29%5E10+%3D+163.20) and let it solve it for me. Turns out the equivalent interest rate is slightly more than 5%.
 
