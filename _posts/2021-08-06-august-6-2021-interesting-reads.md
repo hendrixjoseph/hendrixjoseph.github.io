@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Interesting Reads for the Week Ending August 5th
+title: Interesting Reads for the Week Ending August 6th
 tags: [interesting reads]
 image: /images/litecoin-bitcoin-cash-auction.jpg
 ---
