@@ -103,7 +103,7 @@ The return home has a potential deductibility of $353.
 
 The trip there had $463 in potential tax deductions. The trip back had $353. The grand total was $816.
 
-That make's that $816 free, right? Since I could just "deduct it from my taxes"?
+That makes that $816 free, right? Since I could just "deduct it from my taxes"?
 
 No. That means my taxable income would be reduced by $816.
 
@@ -111,4 +111,4 @@ And, assuming I'm in the 25% tax bracket (fun fact: there is no 25% tax bracket 
 
 In other words, a tax deduction is essentially a 25% off coupon.
 
-Oh, and since I just reduced my business expenses by $816, that's less money I can through into my [solo 401k](https://www.joehxblog.com/i-opened-a-vanguard-individual-401k/).
+Oh, and since I just reduced my business expenses by $816, that's less money I can throw into my [solo 401k](https://www.joehxblog.com/i-opened-a-vanguard-individual-401k/).
