@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Upgrading My Wife's Laptop Hard Drive to an SSD.
+title: Upgrading My Wife's Laptop Hard Drive to an SSD
 tags: [diy, technology]
 keywords: [ssd, solid state drive, laptop]
 image: /images/covers/youtube/upgrading-a-laptop-to-an-ssd.png
