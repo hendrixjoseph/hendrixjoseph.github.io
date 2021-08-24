@@ -18,7 +18,7 @@ Evan McMahon is the Chair of the Libertarian Party of Indiana. He has also serve
 
 Evan recommended *Rules for Radicals: A Pragmatic Primer for Realistic Radicals* by Saul Alinsky and *Winning Your Election the Wellstone Way*.
 
-{% include image.html src="/images/covers/rules-for-radicals.jpg" caption="Cover to Rules for Radicals" %}
+{% include image.html src="/images/books/covers/rules-for-radicals.jpg" caption="Cover to Rules for Radicals" %}
 
 * [Buy *Rules for Radicals* on Amazon.](https://www.amazon.com/dp/B003T0G9GM/?tag=hendrixjoseph-20)
 * [Buy *Rules for Radicals* on Abebooks.](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780679721130/22852085847)
@@ -34,7 +34,7 @@ Spike recommended *How to Win Friends and Influence People* by Dale Carnegie.
 
 I read this book back in [April of this year](https://www.joehxblog.com/april-2021-book-reading-list/#the-books-i-read-for-me), and I agree it is an excellent book. Similar books are full of lots of fluff with no substance. This one definitely has substance.
 
-{% include image.html src="/images/covers/how-to-win-friends.jpg" caption="Cover to How to Win Friends and Influence People" %}
+{% include image.html src="/images/books/covers/how-to-win-friends.jpg" caption="Cover to How to Win Friends and Influence People" %}
 
 * [Buy *How to Win Friends and Influence People* on Amazon.](https://www.amazon.com/gp/product/B003WEAI4E/?tag=hendrixjoseph-20)
 * [Buy *How to Win Friends and Influence People* on Abebooks.](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780671645519/30983702783)
@@ -55,7 +55,7 @@ Cassandra Fryman is the mayor of Plymouth, Ohio. She is best known for [dismissi
 
 She recommended liberty-themed children's books, particularly the [Tuttle Twins](https://tuttletwins.com/) series.
 
-{% include image.html src="/images/covers/tuttle-twins.webp" caption="Various Tuttle Twins books." %}
+{% include image.html src="/images/books/covers/tuttle-twins.webp" caption="Various Tuttle Twins books." %}
 
 * [Search for the Tuttle Twins on Amazon.](https://www.amazon.com/s?k=Tuttle+Twins&i=stripbooks&tag=hendrixjoseph-20)
 * [Search for the Tuttle Twins on Abebooks.](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/servlet/SearchResults?kn=tuttle%20twins)
@@ -68,7 +68,7 @@ As his day job is an engineer, he recommended the textbook *Systems  Engineering
 
 For a little lighter reading, he recommended *Getting Things Done: The Art of Stress-Free Productivity* by David Allen.
 
-{% include image.html src="/images/covers/getting-things-done.webp" caption="Cover to Getting Things Done" %}
+{% include image.html src="/images/books/covers/getting-things-done.webp" caption="Cover to Getting Things Done" %}
 
 * [Buy *Systems of Engineering Management* on Amazon.](https://www.amazon.com/dp/111904782X/?tag=hendrixjoseph-20)
 * [Buy *Systems of Engineering Management* on Abebooks.](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9781119047827)
