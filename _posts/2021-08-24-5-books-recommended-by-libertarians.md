@@ -21,10 +21,10 @@ Evan recommended *Rules for Radicals: A Pragmatic Primer for Realistic Radicals*
 {% include image.html src="/images/covers/rules-for-radicals.jpg" caption="Cover to Rules for Radicals" %}
 
 * [Buy *Rules for Radicals* on Amazon.](https://www.amazon.com/dp/B003T0G9GM/?tag=hendrixjoseph-20)
-* [Buy *Rules for Radicals* on Abebooks.](https://www.abebooks.com/products/isbn/9780679721130/22852085847)
+* [Buy *Rules for Radicals* on Abebooks.](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780679721130/22852085847)
 
 * [Buy *Winning Your Election the Wellstone Way* on Amazon.](https://www.amazon.com/dp/B00EDDBHFW/?tag=hendrixjoseph-20)
-* [Buy *Winning Your Election the Wellstone Way* on Abebooks.](https://www.abebooks.com/products/isbn/9780816653331)
+* [Buy *Winning Your Election the Wellstone Way* on Abebooks.](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780816653331)
 
 ## Spike Cohen
 
@@ -37,7 +37,7 @@ I read this book back in [April of this year](https://www.joehxblog.com/april-20
 {% include image.html src="/images/covers/how-to-win-friends.jpg" caption="Cover to How to Win Friends and Influence People" %}
 
 * [Buy *How to Win Friends and Influence People* on Amazon.](https://www.amazon.com/gp/product/B003WEAI4E/?tag=hendrixjoseph-20)
-* [Buy *How to Win Friends and Influence People* on Abebooks.](https://www.abebooks.com/products/isbn/9780671645519/30983702783)
+* [Buy *How to Win Friends and Influence People* on Abebooks.](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780671645519/30983702783)
 * [Borrow *How to Win Friends and Influence People* on the Libby App](https://share.libbyapp.com/title/451589)
 
 ## Ken Moellman
@@ -47,7 +47,7 @@ Ken is the Vice Chair of the Libertarian National Committee and Northern Kentuck
 He didn't have any specific books he recommended. Instead, he recommended that people get books about things they're weakest at. For instance, he has about seven or eight books on fundraising.
 
 * [Search for *fundraising* on Amazon.](https://www.amazon.com/s?k=fundraising&i=stripbooks&tag=hendrixjoseph-20)
-* [Search for *fundraising* on Abebooks.](https://www.abebooks.com/servlet/SearchResults?kn=fundraising)
+* [Search for *fundraising* on Abebooks.](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/servlet/SearchResults?kn=fundraising)
 
 ## Mayor Cassandra Fryman
 
@@ -58,7 +58,7 @@ She recommended liberty-themed children's books, particularly the [Tuttle Twins]
 {% include image.html src="/images/covers/tuttle-twins.webp" caption="Various Tuttle Twins books." %}
 
 * [Search for the Tuttle Twins on Amazon.](https://www.amazon.com/s?k=Tuttle+Twins&i=stripbooks&tag=hendrixjoseph-20)
-* [Search for the Tuttle Twins on Abebooks.](https://www.abebooks.com/servlet/SearchResults?kn=tuttle%20twins)
+* [Search for the Tuttle Twins on Abebooks.](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/servlet/SearchResults?kn=tuttle%20twins)
 
 ## Jim Cavoli
 
@@ -71,10 +71,10 @@ For a little lighter reading, he recommended *Getting Things Done: The Art of St
 {% include image.html src="/images/covers/getting-things-done.webp" caption="Cover to Getting Things Done" %}
 
 * [Buy *Systems of Engineering Management* on Amazon.](https://www.amazon.com/dp/111904782X/?tag=hendrixjoseph-20)
-* [Buy *Systems of Engineering Management* on Abebooks.](https://www.abebooks.com/products/isbn/9781119047827)
+* [Buy *Systems of Engineering Management* on Abebooks.](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9781119047827)
 
 * [Buy *Getting Things Done* on Amazon.](https://www.amazon.com/dp/0670899240/?tag=hendrixjoseph-20)
-* [Buy *Getting Things Done* on Abebooks.](https://www.abebooks.com/products/isbn/9780670899241)
+* [Buy *Getting Things Done* on Abebooks.](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780670899241)
 
 ## Summary
 
@@ -90,12 +90,12 @@ Here are the links to the books on Amazon:
 
 Here are the links to the books on Abebooks:
 
-* [Getting Things Done](https://www.abebooks.com/products/isbn/9780670899241)
-* [How to Win Friends and Influence People](https://www.abebooks.com/products/isbn/9780671645519/30983702783)
-* [Rules for Radicals](https://www.abebooks.com/products/isbn/9780679721130/22852085847)
-* [Systems of Engineering Management](https://www.abebooks.com/products/isbn/9781119047827)
-* [The Tuttle Twins (series)](https://www.abebooks.com/servlet/SearchResults?kn=tuttle%20twins)
-* [Winning Your Election the Wellstone Way](https://www.abebooks.com/products/isbn/9780816653331)
-* [fundraising (topic)](https://www.abebooks.com/servlet/SearchResults?kn=fundraising)
+* [Getting Things Done](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780670899241)
+* [How to Win Friends and Influence People](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780671645519/30983702783)
+* [Rules for Radicals](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780679721130/22852085847)
+* [Systems of Engineering Management](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9781119047827)
+* [The Tuttle Twins (series)](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/servlet/SearchResults?kn=tuttle%20twins)
+* [Winning Your Election the Wellstone Way](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780816653331)
+* [fundraising (topic)](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/servlet/SearchResults?kn=fundraising)
 
 Have you read any of these books? What other books would you recommend?
