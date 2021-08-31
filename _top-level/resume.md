@@ -15,7 +15,11 @@ excerpt: R&eacute;sum&eacute; / CV for JoeHx (Joseph Hendrix)
 
 ### Northrop Grumman Corporation | Software Engineer | January 2014 – Present
 
-#### Project 4 | February 2021 - Present
+#### Project 5 | July 2021 - Present
+
+
+
+#### Project 4 | February 2021 - July 2021
 
 * Identified & corrected bugs in the software that has existed for years prior.
 * Used automated software tools ([Eclipse](https://www.eclipse.org/downloads/) autoformatting & save actions) to reduce the complexity of the software code, allowing for easier debugging.
