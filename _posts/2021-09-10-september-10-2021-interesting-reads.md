@@ -34,7 +34,7 @@ https://www.inverse.com/entertainment/strange-new-worlds-shockingly-reboots-3-cl
 
 {% include image.html src="/images/star-trek/mbenga.png" caption="Left: Booker Bradshaw as Dr. M'Benga; Right: Babs Olusanmokun as Dr. M'Benga" %}
 
-[Uhura](https://memory-alpha.fandom.com/wiki/Nyota_Uhura), [Nurse Christine Chapel](https://memory-alpha.fandom.com/wiki/Christine_Chapel), and [Dr. M'Benga](https://memory-alpha.fandom.com/wiki/M%27Benga).
+---
 
 Cyber security, including pen tests, is an interest of mine. I'm also learning Irish on Duolingo. That's why Duolingo's blog post [Why did we deliberately hack the Duolingo English Test?](https://blog.duolingo.com/duolingo-english-test-security/) interested me.
 
