@@ -99,7 +99,7 @@ excerpt: R&eacute;sum&eacute; / CV for JoeHx (Joseph Hendrix)
 
 ### Family Tree database and web application
 
-* FamilyTree is a simple web application using JavaServerFaces, Java EE, and a SQL database to load, display, edit, and examine a family tree. It was initially created as a project for CS7700 Advanced Database Systems at Wright State, and is currently being used for CS7720 Data Mining at the same school.
+* FamilyTree is a simple web application using JavaServerFaces, Java EE, and a SQL database to load, display, edit, and examine a family tree. It was initially created as a project for CS7700 Advanced Database Systems at Wright State, and is was also used for CS7720 Data Mining at the same school.
 * [Source hosted on GitHub](https://github.com/hendrixjoseph/FamilyTree).
 * [Generated Documentation](https://www.joehxblog.com/FamilyTree/).
 
