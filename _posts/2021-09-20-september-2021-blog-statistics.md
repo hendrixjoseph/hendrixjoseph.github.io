@@ -52,8 +52,8 @@ I published five posts on the blog in the past month:
 
 ## Moz Stats
 
-Moz Domain Authority &rarr; 33
-Moz Linking Domains &rarr; 559
+* Moz Domain Authority &rarr; 33
+* Moz Linking Domains &rarr; 559
 
 ## Ratios
 
