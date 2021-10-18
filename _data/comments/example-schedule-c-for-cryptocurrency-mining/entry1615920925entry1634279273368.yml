@@ -1,0 +1,17 @@
+_id: 06f8ea10-2d81-11ec-8fcd-2385fbad3a89
+codeword: super-secret
+replyto: entry1615920925
+message: >-
+  You need to measure the output of the computer with a kill-a-watt or similar. 
+  A power supply will only draw the amount of watts as the equipment attached,
+  and will typically be a lot lower than the rating of the power supply.  For
+  example, on my rig, I use a 1000 watt power supply, but the GPUs and
+  Motherboard/CPU only consume around 267 watts when mining.  You are almost
+  definitely overestimating your power use and thus your expenses.  Unless you
+  have enough equipment attached to max out your power supply that is.  Either
+  way, the correct way to do it is measure the actual usage, a kill-a-watt is
+  cheap.
+name: Thomas Duffy
+email: 4690c93d4c01811e73805c96f58afcdf
+url: ''
+date: 1634279273
