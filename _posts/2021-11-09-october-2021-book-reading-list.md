@@ -57,6 +57,6 @@ I read two-and-a-half books for me. Scroll down to the [The Books I Read for Me]
 
 Book six done - one more to go. I finished [Harry Potter and the Half-Blood Prince](https://www.amazon.com/gp/product/B0192CTMWI?tag=hendrixjoseph-20).
 
-I also read [Rick Steves' Ireland (2014 edition)](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9781612386676) in preparation for my wife and my trip to Ireland last week. Why the 2014 edition? I picked it up at a local used book store (the [One Dollar Book Swap](https://www.facebook.com/onedollarbookswap/).
+I also read [Rick Steves' Ireland (2014 edition)](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9781612386676) in preparation for my wife and my trip to Ireland last week. Why the 2014 edition? I picked it up at a local used book store (the [One Dollar Book Swap](https://www.facebook.com/onedollarbookswap/)).
 
 Finally, the "half-a-book" I won't be finishing was *Bringing Up Boys* by James C. Dobson. My wife and I listened to some of it (as an audiobook) while we were driving up to the airport prior to our trip to Ireland. Just read [this review by Amy Curry](https://www.amazon.com/review/R1NU1SD7BLH6U4/?tag=hendrixjoseph-20) to get an understanding of why I didn't finish it.
