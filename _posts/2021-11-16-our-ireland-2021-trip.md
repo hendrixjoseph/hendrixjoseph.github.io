@@ -132,11 +132,11 @@ In the week or so since we've been back, I've been retracing our steps across th
 
 Our last full day was spent in Dublin and was must more tourist-y. We visited:
 
-* [St Patrick's Cathedral https://www.stpatrickscathedral.ie/
-* [National Museum of Ireland - Archaeology https://www.museum.ie/en-IE/Museums/Archaeology
-* [Guinness Storehouse https://www.guinness-storehouse.com/en
-* [Christ Church Cathedral https://christchurchcathedral.ie/
-* [Dublin Castle https://www.dublincastle.ie/
+* [St Patrick's Cathedral]https://www.stpatrickscathedral.ie/
+* [National Museum of Ireland - Archaeology]https://www.museum.ie/en-IE/Museums/Archaeology
+* [Guinness Storehouse]https://www.guinness-storehouse.com/en
+* [Christ Church Cathedral]https://christchurchcathedral.ie/
+* [Dublin Castle]https://www.dublincastle.ie/
 * [The Douglas Hyde Gallery](https://thedouglashyde.ie/) at [Trinity College Dublin](https://www.tcd.ie/) (it was free, wasn't sure if anything was on display?)
 
 We also wanted to visit [Kilmainham Gaol](https://kilmainhamgaolmuseum.ie/) - but it was booked up for the next month - and the [Book of Kells](https://www.tcd.ie/library/manuscripts/book-of-kells.php) - but it was sold out by the time we got there.
