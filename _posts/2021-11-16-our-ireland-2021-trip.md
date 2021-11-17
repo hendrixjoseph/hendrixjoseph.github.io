@@ -147,7 +147,8 @@ We ate lunch at [Tang](https://www.tang.ie/) and had dinner at [The Old Mill at 
 
 ## November 6
 
-* Drove back to Dublin Airport and dropped the car off. End mileage/kilometrage was 61,261 km, meaning we drove a total of 992 km, or about 616 miles.
+* Drove back to Dublin Airport and dropped the car off.
+  * End mileage/kilometrage was 61,261 km, meaning we drove a total of 992 km, or about 616 miles.
 * At breakfast at the airport.
 * Flew back to Chicago O'Hare via Copenhagen, Denmark.
 * Ate at White Castle on the way home.
