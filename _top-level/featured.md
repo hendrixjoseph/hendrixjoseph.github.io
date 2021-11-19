@@ -30,6 +30,10 @@ Listed in the following blog directories:
 
 * [Personal Finance Blogs](https://personalfinanceblogs.com/directory/)  / [actual page](https://personalfinanceblogs.com/blogs/joehx-blog/)
 
+Otherwise backlinked on the following webpages:
+
+* [Dorco Pace 6 Plus – Six Blade Razor for Men Cartridge Refills (8 Pack)](https://www.techpersonalcare.com/dorco-pace-6-plus-six-blade-razor-for-men-cartridge-refills-8-pac/)
+
 ## The Old Domain (hendrixjoseph.github.io)
 
 Featured/backlinked at the following webpages:
