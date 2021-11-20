@@ -46,8 +46,8 @@ I'm going to continue being lazy and just drop the numbers this month.
 
 ## Moz Stats
 
-Moz Domain Authority &rarr; 33
-Moz Linking Domains &rarr; 521
+Moz Domain Authority &rarr; 34
+Moz Linking Domains &rarr; 593
 
 ## Ratios
 
