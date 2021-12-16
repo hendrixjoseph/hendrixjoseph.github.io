@@ -50,7 +50,7 @@ The Chase Freedom (which I often called "Chase Freedom Regular") is no longer av
 
 My Citi Double Cash - which earns an effective 2% - has been used less since the Chase cards now earn 3% on restaurants, and my Chase Freedom Flex is earning 5% on grocery (for the first year anyway). Also, the Double Cash requires at least $25 before I can cash out, so I still have $12.93 in unclaimed cash back. That balance will be added to next month's balance, so I'm not losing it.
 
-The Chase cards have no such minute. There have been many times where I redeemed less than a dollar into my bank account.
+The Chase cards have no such minimum. There have been many times where I redeemed less than a dollar into my bank account.
 
 ## Interest-Bearing Accounts
 
