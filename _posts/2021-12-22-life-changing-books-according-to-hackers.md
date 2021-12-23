@@ -36,7 +36,7 @@ Here's some "life changing" books according to a post on [Hacker News](https://n
 
 ## Meditations by Marcus Aurelius
 
-{% include image.html src="images/marcus-aurelius.jpg" caption="image source <https://commons.wikimedia.org/wiki/File:Marcus_Aurelius_Louvre_MR561_n02.jpg>" alt="Marcus Aurelius" %}
+{% include image.html src="/images/marcus-aurelius.jpg" caption="image source <https://commons.wikimedia.org/wiki/File:Marcus_Aurelius_Louvre_MR561_n02.jpg>" alt="Marcus Aurelius" %}
 
 * [Search for Meditations at AbeBooks](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/servlet/SearchResults?kn=meditations%20by%20marcus%20aurelius)
 * [Search for Meditations at Amazon](https://www.amazon.com/s?k=meditations+by+Marcus+Aurelius?tag=hendrixjoseph-20)
@@ -61,8 +61,8 @@ Here's some "life changing" books according to a post on [Hacker News](https://n
 
 ![1984](/images/books/covers/1984.jpg)
 
-* [Buy x at AbeBooks](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780451524935)
-* [Buy x at Amazon](https://www.amazon.com/gp/product/B003JTHWKU/?tag=hendrixjoseph-20)
+* [Buy 1984 at AbeBooks](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780451524935)
+* [Buy 1984 at Amazon](https://www.amazon.com/gp/product/B003JTHWKU/?tag=hendrixjoseph-20)
 
 ## Brave New World by Aldous Huxley
 
@@ -103,7 +103,7 @@ Here's some "life changing" books according to a post on [Hacker News](https://n
 
 ## On the Shortness of Life by Seneca
 
-{% include image.html src="images/seneca.png" caption="image source <https://pixabay.com/vectors/seneca-portrait-line-art-roman-6279972/>" alt="Seneca" %}
+{% include image.html src="/images/seneca.png" caption="image source <https://pixabay.com/vectors/seneca-portrait-line-art-roman-6279972/>" alt="Seneca" %}
 
 * [Buy On the Shortness of Life at Abebooks](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9781983780233/22911895923)
 * [Search for On the Shortness of Life at Amazon](https://www.amazon.com/s?k=On+the+Shortness+of+Life&i=stripbooks?tag=hendrixjoseph-20)
