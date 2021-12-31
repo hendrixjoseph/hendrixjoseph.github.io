@@ -7,6 +7,8 @@ hashtags: [cashback, freemoney]
 image: /images/pei/pei-logo.png
 ---
 
+## UPDATE: [Pei is dead](/pei-is-dead)
+
 The Pei ([pronounced "pay"](https://peitechnology.zendesk.com/hc/en-us/articles/360029331732-How-do-I-pronounce-Pei-)) Cashback App has been around a little over a year now. Pei currently allows in withdrawals (or "cash outs") via PayPal, Bitcoin, and gift cards.
 
 So, a year later, how much can someone make with the Pei Cashback App?
@@ -86,6 +88,6 @@ It all depends on your spending. That said, it's completely passive, so there's 
 
 People get excited when they find a twenty in their pocket!
 
-Sign up for Pei at [https://getpei.com/invite](https://getpei.com/invite) and use my invite code **qpb4ij** to get started!
+~~Sign up for Pei at [https://getpei.com/invite](https://getpei.com/invite) and use my invite code **qpb4ij** to get started!~~
 
 How much have you made with Pei? Please comment below!
