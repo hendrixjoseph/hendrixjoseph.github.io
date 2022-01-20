@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Life Changing Books (according to hackers)
-tags: [blog statistics]
-keywords: [blog, statistics, blog statistics, analytics, pageviews, webmaster, webmaster tools, alexa, google]
+tags: [books]
+keywords: [book, life changing, hacker, hacker news]
 ---
 
 Here's some "life changing" books according to a post on [Hacker News](https://news.ycombinator.com/item?id=29605394):
