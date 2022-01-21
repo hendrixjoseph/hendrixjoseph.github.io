@@ -18,7 +18,7 @@ Here's a screenshot of an email I received
 >
 > If you are currently holding a bitcoin balance on Pei, you will have until December 26, 2021 to sell or withdraw your Bitcoin holdings from the platform.
 >
-> After December 26, if you still are holding a balance, wee will attempt to sell your balance and return it to a bank account on file.
+> After December 26, if you still are holding a balance, we will attempt to sell your balance and return it to a bank account on file.
 >
 > Thank you for using Pei.<br />
 > Sincerely,<br />
