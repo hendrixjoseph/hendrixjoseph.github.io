@@ -71,14 +71,14 @@ Here's some "life changing" books according to a post on [Hacker News](https://n
 * [Buy Brave New World at AbeBooks](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780061767647/31075875782)
 * [Buy Brave New World at Amazon](https://www.amazon.com/Brave-New-World-Aldous-Huxley/dp/0061767646?tag=hendrixjoseph-20)
 
-## 1941 and 1943 by Charles C. Mann
+## 1491 and 1493 by Charles C. Mann
 
-![1941 and 1943](/images/books/covers/1941-and-1943.png)
+![1491 and 1493](/images/books/covers/1491-and-1493.png)
 
-* [Buy 1941 at AbeBooks](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9781400032051)
-* [Buy 1943 at AbeBooks](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780307278241/8121167006)
-* [Buy 1941 at Amazon](https://www.amazon.com/1491-Second-Revelations-Americas-Columbus-ebook/dp/B000JMKVE4/?tag=hendrixjoseph-20)
-* [Buy 1943 at Amazon](https://www.amazon.com/1493-Uncovering-World-Columbus-Created-ebook/dp/B004G606EY/?tag=hendrixjoseph-20)
+* [Buy 1491 at AbeBooks](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9781400032051)
+* [Buy 1493 at AbeBooks](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9780307278241/8121167006)
+* [Buy 1491 at Amazon](https://www.amazon.com/1491-Second-Revelations-Americas-Columbus-ebook/dp/B000JMKVE4/?tag=hendrixjoseph-20)
+* [Buy 1493 at Amazon](https://www.amazon.com/1493-Uncovering-World-Columbus-Created-ebook/dp/B004G606EY/?tag=hendrixjoseph-20)
 
 ## The Pillars of the Earth by Ken Follett
 
