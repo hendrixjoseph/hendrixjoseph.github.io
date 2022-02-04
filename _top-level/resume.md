@@ -13,7 +13,13 @@ excerpt: R&eacute;sum&eacute; / CV for JoeHx (Joseph Hendrix)
 
 ## Work History
 
-### Northrop Grumman Corporation | Software Engineer | January 2014 – Present
+### Optum | Software Engineer | January 2022 - Present
+
+#### Project 1 | January 2022 - Present
+
+* TBD
+
+### Northrop Grumman Corporation | Software Engineer | January 2014 – December 2021
 
 #### Project 5 | July 2021 - Present
 
