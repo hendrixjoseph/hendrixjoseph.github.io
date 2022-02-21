@@ -56,7 +56,7 @@ I'll only be able to report my Alexa rank three more times after this month - si
 
 * Earnings / 1,000 sessions = $98.65 / 5.648 = $17.47
 * Earnings / 1,000 pageviews = $98.65 / 6.612 = $14.92
-* Earnings / 1,000 impressions = $98.65 / 19.726 = $5.00
+* Earnings / 1,000 impressions = $98.65 / 17.336 = $5.69
 * Earnings / day = $98.65 / 31 = $3.18
 * Sessions / day = 5,648 / 31 = 182.2
 * Pageviews / day = 6,612 / 31 = 213.3
