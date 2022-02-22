@@ -12,7 +12,7 @@ It is now 2022. And the beginning of the *fifth* year of doing these monthly blo
 I four posts in the past month:
 
 * [2022 New Year's Resolutions & Goals](https://www.joehxblog.com/2022-new-years-resolutions-goals/)
-* [December 2021 Book Reading List](https://www.joehxblog.com/december-2022-book-reading-list/)
+* [December 2021 Book Reading List](https://www.joehxblog.com/december-2021-book-reading-list/)
 * [Pei is Dead](https://www.joehxblog.com/pei-is-dead/)
 * [Life Changing Books (according to hackers)](https://www.joehxblog.com/life-changing-books-according-to-hackers/)
 
