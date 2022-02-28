@@ -40,7 +40,7 @@ I discovered that my local library has access to [AncestryLibrary.com](https://w
 
 ![Ancestry logo](/images/ancestry.svg)
 
-To easily switch between the two sites, I created a little Tampermonkey script I call the [Ancestry.com/AncestryLibrary.com Switcheroo](https://gist.github.com/hendrixjoseph/c56645c48c2cacc9fd9866fe91c82abd). Ctrl-LeftShift switches the current page between the two domains. Ctrl-RightShift switches all links on the page from one domain to the other. And Ctrl-Click opens a link in the other domain.
+To easily switch between the two sites, I created a little Tampermonkey script I call the [Ancestry.com/AncestryLibrary.com Switcheroo](https://gist.github.com/hendrixjoseph/c56645c48c2cacc9fd9866fe91c82abd). <kbd>Ctrl</kbd>-<kbd>LeftShift</kbd> switches the current page between the two domains. <kbd>Ctrl</kbd>-<kbd>RightShift</kbd> switches all links on the page from one domain to the other. And <kbd>Ctrl</kbd>-Click opens a link in the other domain.
 
 ## Running
 
