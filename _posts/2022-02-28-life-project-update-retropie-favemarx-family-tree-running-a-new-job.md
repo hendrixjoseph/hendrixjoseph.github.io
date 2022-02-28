@@ -16,7 +16,7 @@ I bought a [CanaKit Raspberry Pi 4 Extreme Kit - 128GB Edition](https://www.amaz
 
 The idea being that I could play games I never had a change to, as well as play games with my children.
 
-![RetroPie Logo](/images/retropie.jpg)
+![RetroPie Logo](/images/retropie.png)
 
 ## Favemarx
 
