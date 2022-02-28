@@ -119,4 +119,4 @@ I could only get one to work, but I don't know if the other one really didn't wo
 
 {% include youtube.html param="N3IPD3XbkpE" %}
 
-I might try collecting the prizes from these "lotto" mailers in the future, so long as I actually want the prize, and continue having to hassle in getting the prize.
+I might try collecting the prizes from these "lotto" mailers in the future, so long as I actually want the prize, and continue having no hassle in getting the prize.
