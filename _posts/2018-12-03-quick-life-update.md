@@ -5,7 +5,7 @@ tags: [culture]
 keywords: [life update]
 ---
 
-It's been nearly two weeks since I've posted anything. In fact, tomoroow marks two weeks since [my last post]({{ site.url }}/november-2018-blog-statistics/). This is mostly because I'v been under the weather (idiom for being sick for my non-native English readers).
+It's been nearly two weeks since I've posted anything. In fact, tomorrow marks two weeks since [my last post]({{ site.url }}/november-2018-blog-statistics/). This is mostly because I'v been under the weather (idiom for being sick for my non-native English readers).
 
 Thanksgiving festivities also took a bit of the first week of my hiatus. I've also been working hard on the bathroom remodel. This is [the bathroom remodel I've been working on since February]({{ site.url }}/master-bath-remodel-demolition/) - before [my son was born]({{ site.url }}/life-update/). 
 
