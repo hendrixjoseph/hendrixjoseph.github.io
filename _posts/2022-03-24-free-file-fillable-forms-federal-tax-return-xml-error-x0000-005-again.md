@@ -12,10 +12,13 @@ Last time it made sense - I entered only 4 of the 5 digits of a ZIP code. This t
 
 Here's the validation error:
 
-    Issue : Business Rule X0000-005 - The XML data has failed schema validation. cvc-pattern-valid. Value `ENTERPRISE PRODUCTS PARTNERS LP.` is not facet-valid with respect to pattern `(([A-Za-z0-9#\-\(\)]|&|`) ?)*([A-Za-z0-9#\-\(\)]|&|`)` for type `BusinessNameLine1Type`.
+    Issue : Business Rule X0000-005 - The XML data has failed schema validation. cvc-pattern-valid.
+        Value `ENTERPRISE PRODUCTS PARTNERS LP.` is not facet-valid with respect to pattern
+        `(([A-Za-z0-9#\-\(\)]|&|`) ?)*([A-Za-z0-9#\-\(\)]|&|`)` for type `BusinessNameLine1Type`.
     
     The following information may help you determine the form at issue:
-    Field/Xpath: /efile:Return[1]/efile:ReturnData[1]/efile:IRS1040ScheduleE[1]/efile:PartnershipOrSCorpGroup[1]/efile:PartnershipOrSCorporationNm[1]
+    Field/Xpath:
+    /efile:Return[1]/efile:ReturnData[1]/efile:IRS1040ScheduleE[1]/efile:PartnershipOrSCorpGroup[1]/efile:PartnershipOrSCorporationNm[1]
 
 A bit cryptic for non-programming types. For the uninitiated, ```(([A-Za-z0-9#\-\(\)]|&|`) ?)*([A-Za-z0-9#\-\(\)]|&|`)``` is what is known as a regular expression, or regex for short. This bit of regex is saying the company name can only contain letters, numbers, the symbols #-()&\`, and a space. Oh, and it can't end in a space.
 
