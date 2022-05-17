@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Java Collections Framework - Set Interface Method Examples
-tags: [java]
+tags: [java, programming]
 keywords: [java collections, java collections framework, collections framework, collections, set]
 hashtags: [java, collections]
 ---
