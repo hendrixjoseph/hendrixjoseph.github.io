@@ -2,7 +2,7 @@
 layout: post
 title: Lazily Check the Body of an HttpServletRequest
 tags: [java, programming]
-keywords: [Httpservletrequest, spring, servlet]
+keywords: [httpservletrequest, spring, servlet]
 ---
 
 Recently I was helping a junior developer analyze the incoming parameters of an HTTP request in a Spring/Java Servlet application.
