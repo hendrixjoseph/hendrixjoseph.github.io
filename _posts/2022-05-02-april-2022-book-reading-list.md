@@ -6,7 +6,7 @@ keywords: [book, read, books, reading, book reading, books i read]
 hashtags: [books, reading]
 ---
 
-March was a typical reading month for me.
+April was a typical reading month for me.
 
 I read 30 books to my son and 20 books to my daughter.
 
