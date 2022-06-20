@@ -66,7 +66,7 @@ So I guess I have until the end of this year to keep reporting this number.
 ## Ratios
 
 * Earnings / 1,000 sessions = $61.29 / 5.308 = $11.55
-* Earnings / 1,000 pageviews = $61.29 / 6,439= $9.52
+* Earnings / 1,000 pageviews = $61.29 / 6.439= $9.52
 * Earnings / 1,000 impressions = $61.29 / 14.243 = $4.31
 * Earnings / day = $61.29 / 30 = $2.04
 * Sessions / day = 5,308 / 30 = 176.9
