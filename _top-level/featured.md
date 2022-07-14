@@ -13,13 +13,10 @@ Interviewed on the following webpages:
 Quoted on the following webpages:
 
 * [13 ways to win Black Friday in 2020](https://mediafeed.org/13-ways-to-win-black-friday-in-2020/)
-* [13 ways you can make the most of Black Friday in 2020 (slide 4/11)](https://www.msn.com/en-us/money/personalfinance/13-ways-you-can-make-the-best-of-black-friday-in-2020/ss-BB1aWxon?ocid=st#image=4)
 * [Best Financial Advice For Couples And Newlyweds](https://mostlyfinance.com/best-financial-advice-for-couples-and-newlyweds/)
 * [Hindsight is 2020: How to learn from money mistakes](https://www.consolidatedcredit.org/financial-news/hindsight-is-2020-how-to-learn-from-money-mistakes/#joehxblog)
-* [Retrospectiva para 2020: Cómo aprender de los errores del dinero](https://www.consolidatedcredit.org/es/notas-financieras/retrospectiva-para-2020-como-aprender-de-los-errores-del-dinero/#joehxblog) (same as the previous one, but in Spanish)
 * [The Best Black Friday Tips for 2020](https://adimesaved.com/best-black-friday-tips)
-* [why cant i buy crypto on robinhood](https://themillennialmirror.com/trends/why-cant-i-buy-crypto-on-robinhood/)
-* [Why Giving A Student Loan Payment To Someone Is The Perfect Gift](https://blog.pillar.app/blog/why-giving-a-student-loan-payment-to-someone-is-the-perfect-gift)
+* [Financial Advice For Couples And Newlyweds From 36 Experts](https://marriagement.com.ng/financial-advice-for-couples/)
 
 Mentioned on the following webpages:
 
@@ -93,3 +90,7 @@ The following are no longer available:
 * [Financial Articles for the Month of March, 2018](https://web.archive.org/web/20181114213556/https://www.rooscpa.com/financial-articles/)
 * [Rockstar Finance March 12th, 2018 Features](https://rockstarfinance.com/mar-12th-2018/)
 * [The Financial Diet's The 7 Personal Finance Articles We Loved This Week (March 16, 2018)](https://web.archive.org/web/20181114213603/https://thefinancialdiet.com/the-7-personal-finance-articles-we-loved-this-week-2/)
+* [Why Giving A Student Loan Payment To Someone Is The Perfect Gift](https://web.archive.org/web/20210117152842/https://blog.pillar.app/blog/why-giving-a-student-loan-payment-to-someone-is-the-perfect-gift)
+* [13 ways you can make the most of Black Friday in 2020 (slide 4/11)](https://www.msn.com/en-us/money/personalfinance/13-ways-you-can-make-the-best-of-black-friday-in-2020/ss-BB1aWxon?ocid=st#image=4)
+* [Retrospectiva para 2020: Cómo aprender de los errores del dinero](https://web.archive.org/web/20210731023244/https://www.consolidatedcredit.org/es/notas-financieras/retrospectiva-para-2020-como-aprender-de-los-errores-del-dinero/#joehxblog) (same as the "Hindsight is 2020" that still exists, but in Spanish)
+* [why cant i buy crypto on robinhood](https://web.archive.org/web/20210619071055/https://themillennialmirror.com/trends/why-cant-i-buy-crypto-on-robinhood/)
