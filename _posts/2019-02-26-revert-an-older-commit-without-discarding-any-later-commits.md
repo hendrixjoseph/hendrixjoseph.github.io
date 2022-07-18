@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Revert An Older Commit Without Discarding Any Later Commits
-tags: [meta, github]
-keywords: [git, revert commit, git revert, revert an older commit, commit]
+tags: [git, github]
+keywords: [revert commit, git revert, revert an older commit, commit]
 image: /images/git-revert/revert-changes.png
 ---
 
