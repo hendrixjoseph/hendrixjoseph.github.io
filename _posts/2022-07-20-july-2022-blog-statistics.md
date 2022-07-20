@@ -7,7 +7,7 @@ hashtags: [blogging, blogstats]
 image: /images/blog-stats/2022/07/search-console.png
 ---
 
-20. 20th. Twenty. Twentieth. It's the twentieth, which means it's time to report my blog statistics.
+20\. 20th. Twenty. Twentieth. It's the twentieth, which means it's time to report my blog statistics.
 
 I made three posts in the past month:
 
