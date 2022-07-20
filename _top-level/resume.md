@@ -22,7 +22,7 @@ excerpt: R&eacute;sum&eacute; / CV for JoeHx (Joseph Hendrix)
 * Provided fixes and enhancements to a web application that uses [Angular](https://angular.io/) (in addition to vanilla JavaScript, HTML, and CSS) in the front end, [Java](https://www.java.com/), [Groovy](https://groovy-lang.org/). and [JBoss EAP](https://www.redhat.com/en/technologies/jboss-middleware/application-platform) along with a Spring framework in the back end; as well as a [MySql](https://www.mysql.com/) database (with migrations via [FlyWay](https://flywaydb.org/)).
 * Attended and participated in regular scrum ceremonies, including daily stand ups, retrospectives, and sprint planning sessions.
 * Effectively utilized [Git](https://git-scm.com/) and GitHub to regularly contribute to the project.
--
+
 ### Northrop Grumman Corporation | Software Engineer | January 2014 – December 2021
 
 #### Project 5 | July 2021 - Present
