@@ -70,3 +70,5 @@ If you're wondering how exactly all these people are related to me, here's a lit
 There are other people in this cemetery that I am related to - namely the [Genslingers](https://www.findagrave.com/memorial/67392472/george-genslinger) and additional [Smiths](https://www.findagrave.com/memorial/70939295/orrin-blaine-smith).
 
 I'll have to head back sometime to see if I can figure out where their graves are located.
+
+If you're searching for [headstones in Troy, Ohio](https://stoltzmemorials.com/headstones/troy-ohio/), check out Stoltz Memorials.
