@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Tale of my Wife's Laptop Battery
-tags: [fitness, math]
+tags: [technology]
 keywords: [laptop, battery, hp, hp pavilion]
 ---
 
