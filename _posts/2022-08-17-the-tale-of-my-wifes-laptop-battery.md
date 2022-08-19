@@ -5,11 +5,11 @@ tags: [fitness, math]
 keywords: [laptop, battery, hp, hp pavilion]
 ---
 
-Many moons ago - back in 2017 I think - I bought my wife an [HP Pavilion](https://www.amazon.com/s?k=HP+Pavilion). Or rather we bought it together for her.
+Many moons ago - back in 2017 I think - I bought my wife an [HP Pavilion](https://www.amazon.com/s?k=HP+Pavilion&tag=hendrixjoseph-20). Or rather we bought it together for her.
 
 For the most part, she's liked it. She has had a couple of complaints - mainly that it seemed slow at times.
 
-After making sure she closed all 100 or so browser tabs, I maxed out her [RAM](https://www.amazon.com/s?k=HP+Pavilion+ram&rh=n%3A17923671011%2Cn%3A172500) and later upgraded here hard drive to a [solid state drive](https://www.amazon.com/gp/product/B089C73T72).
+After making sure she closed all 100 or so browser tabs, I maxed out her [RAM](https://www.amazon.com/s?k=HP+Pavilion+ram&rh=n%3A17923671011%2Cn%3A172500&tag=hendrixjoseph-20) and later upgraded here hard drive to a [solid state drive](https://www.amazon.com/gp/product/B089C73T72?tag=hendrixjoseph-20).
 
 Most recently - and I'm impressed she noticed - she said her battery percentage was decreasing.
 
@@ -2515,6 +2515,6 @@ Since OS install
 
 Yep - the battery was about dead. After all, it's been five years.
 
-I ordered a new one with as as much amp-hours as I can find - a [NinjaBatt Pro Battery 2600mAh](https://www.amazon.com/dp/B07KWXHLWT) - and replaced her old one.
+I ordered a new one with as as much amp-hours as I can find - a [NinjaBatt Pro Battery 2600mAh](https://www.amazon.com/dp/B07KWXHLWT?tag=hendrixjoseph-20) - and replaced her old one.
 
 And her battery is now happily at 100% again.
