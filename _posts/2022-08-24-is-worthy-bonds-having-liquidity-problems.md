@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Is Worthy Bonds Having Liquidity Problems
+title: Is Worthy Bonds Having Liquidity Problems?
 tags: [money]
 keywords: [bond, bonds, liquidity, illiquidity, worthy bonds, worthy peer capital]
 ---
