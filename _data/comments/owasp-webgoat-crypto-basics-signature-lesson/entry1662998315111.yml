@@ -1,0 +1,20 @@
+_id: c1c34c90-32b3-11ed-ab1a-4781f61ba96d
+codeword: super-secret
+message: >-
+  I had to use echo -n with the colon-less hex blurb in quotes, pipe it to what
+  you have exactly with exception of the -hex, then pipe to base64
+
+
+  So, echo -n "hex without colons and spaces" | openssl dgst -sign private.key
+  -sha256 | base64
+
+
+  **99% of this came from the hints as they probably thought most of us would
+  have issues with this concept.
+
+
+  Steve
+name: Steve
+email: bdeb753338d477f9c2005b7e2dd40842
+url: ''
+date: 1662998315
