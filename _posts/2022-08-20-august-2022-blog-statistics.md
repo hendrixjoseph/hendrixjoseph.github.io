@@ -4,7 +4,7 @@ title: August 2022 Blog Statistics
 tags: [blog statistics]
 keywords: [blog, statistics, blog statistics, analytics, pageviews, webmaster, webmaster tools, alexa, google]
 hashtags: [blogging, blogstats]
-image: /images/blog-stats/2022/07/search-console.webp
+image: /images/blog-stats/2022/08/search-console.webp
 ---
 
 20\. 20th. Twenty. Twentieth. It's the twentieth, which means it's time to report my blog statistics.
