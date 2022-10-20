@@ -57,7 +57,7 @@ Alexa, the site, is gone. But the Firefox extension lives on. At least until the
 
 * Earnings / 1,000 sessions = $55.31 / 6.676 = $8.28
 * Earnings / 1,000 pageviews = $55.31 / 7.415 = $7.46
-* Earnings / 1,000 impressions = $55.31 / 25.788 = $21.45
+* Earnings / 1,000 impressions = $55.31 / 25.788 = $2.14
 * Earnings / day = $55.31 / 31 = $1.78
 * Sessions / day = 6,676 / 31 = 215.4
 * Pageviews / day = 7,415 / 31 = 239.2
