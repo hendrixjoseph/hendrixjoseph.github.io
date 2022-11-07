@@ -1,0 +1,21 @@
+_id: 19a2c010-5ea3-11ed-b412-177f5df8e518
+codeword: super-secret
+message: >-
+  Thanks for the guidance. I was banging my head. I thought I'll share the
+  method that does not need find and replace in a separate text editor. 
+
+
+  openssl pkey -in lesson6.key -pubout -out public.key
+
+  openssl rsa -in public.key -pubin -modulus -noout
+
+
+  Copy the text after Modulus= to the first text box.
+
+
+  echo -n "hex of modulus" | openssl dgst -sign lesson6.key -sha256 | base64 -w
+  0
+name: Andre Combrinck
+email: 75c7594ad9c71e336ae001e2dfb9c75c
+url: ''
+date: 1667829012
