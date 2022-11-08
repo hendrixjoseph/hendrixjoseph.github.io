@@ -28,7 +28,7 @@ The most common way you might've bought the investment 30 days before you sold i
 
 ## My Microsoft Experiment
 
-I started buying Microsoft stock via Robinhood about a year ago, but didn't get a full share until March of this year.
+I started buying Microsoft stock via [Robinhood](https://www.joehxblog.com/robinhood/) about a year ago, but didn't get a full share until March of this year.
 
 Over time and with dividends, I ended up with 1.008562 shares at an average price of $307.79.
 
