@@ -35,7 +35,7 @@ As my goal-setting has evolved, one thing has remained constant: setting *abstra
 
 * Track my food and exercise with [MyFitnessPal](https://www.myfitnesspal.com/profile/joehx84)
 * Track my running, walking, and hiking with [MapMyRun](https://www.mapmyrun.com/)
-* Track my weight and body fat percentage with our [smart scale](https://www.amazon.com/Weight-Gurus-Bluetooth-Smart-Scale/dp/B00UVSCEAU/) and the [Weight Gurus](https://weightgurus.com/) app.
+* Track my weight and body fat percentage with our [smart scale](https://www.amazon.com/Weight-Gurus-Bluetooth-Smart-Scale/dp/B00UVSCEAU/?tag=hendrixjoseph-20) and the [Weight Gurus](https://weightgurus.com/) app.
 * Continue strength training
 * Get down to 17% body fat - which is around 199lbs
 * Run 50 minutes non-stop
