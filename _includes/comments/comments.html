@@ -13,14 +13,20 @@
 		</li>
 		{% elsif comment[1].replyto %}
 		</li></ul>
+        <h3>Comments temporarily disabled.</h3>
+        {% comment %}
 		<h3 onclick="document.getElementById('post-new-comment{{ comment[1].date }}').hidden = !document.getElementById('post-new-comment{{ comment[1].date }}').hidden" style="cursor: pointer;">Reply to This Thread</h3>
 		{% assign d = comment[1].date %}{% include comments/form.html slug=slug reply=d %}
+        {% endcomment %}
 		</li>
 		{% elsif comments[next][1].replyto %}
 		<ul class="comment-list">
 		{% else %}
+        <h3>Comments temporarily disabled.</h3>
+        {% comment %}
 		<h3 onclick="document.getElementById('post-new-comment{{ comment[1].date }}').hidden = !document.getElementById('post-new-comment{{ comment[1].date }}').hidden" style="cursor: pointer;">Reply to This Thread</h3>
 		{% assign d = comment[1].date %}{% include comments/form.html slug=slug reply=d %}
+        {% endcomment %}
 		</li>
 		{% endif %}
 	{% endfor %}
@@ -28,5 +34,8 @@
 </section>
 {% endif %}
 
+<h3 id="reply-title" class="comment-reply-title">Comments temporarily disabled.</h3>
+{% comment %}
 <h3 id="reply-title" class="comment-reply-title">Leave a Reply</h3>
 {% include comments/form.html slug=slug %}
+{% endcomment %}
