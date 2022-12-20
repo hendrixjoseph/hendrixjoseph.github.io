@@ -32,7 +32,7 @@ After this month, I've only got one month - December - left before I no longer h
 * Users &rarr; 6,210
 * Pageviews &rarr; 7,630
 
-{% include image.html src="/images/blog-stats/2022/11/stats.webp" caption="Google Analytics Graph for August" %}
+{% include image.html src="/images/blog-stats/2022/11/stats.webp" caption="Google Analytics Graph for November" %}
 
 ## Google Search Console
 
@@ -40,7 +40,7 @@ After this month, I've only got one month - December - left before I no longer h
 * Search Impressions &rarr; 146,000
 * Average position &rarr; 31.0
 
-{% include image.html src="/images/blog-stats/2022/11/search-console.webp" caption="Google Search Console Graph for August" %}
+{% include image.html src="/images/blog-stats/2022/11/search-console.webp" caption="Google Search Console Graph for November" %}
 
 ## AdSense
 
@@ -49,7 +49,7 @@ After this month, I've only got one month - December - left before I no longer h
 * Impressions &rarr; 29,261
 * Clicks &rarr; 152
 
-{% include image.html src="/images/blog-stats/2022/11/adsense.webp" caption="Google AdSense Graph for August" %}
+{% include image.html src="/images/blog-stats/2022/11/adsense.webp" caption="Google AdSense Graph for November" %}
 
 ## Moz Stats
 

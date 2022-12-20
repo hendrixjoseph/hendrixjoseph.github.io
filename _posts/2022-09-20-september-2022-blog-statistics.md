@@ -29,7 +29,7 @@ Alexa, the site, is gone. But the Firefox extension lives on. At least until the
 * Users &rarr; 6,050
 * Pageviews &rarr; 7,415
 
-{% include image.html src="/images/blog-stats/2022/09/stats.webp" caption="Google Analytics Graph for August" %}
+{% include image.html src="/images/blog-stats/2022/09/stats.webp" caption="Google Analytics Graph for September" %}
 
 ## Google Search Console
 
@@ -37,7 +37,7 @@ Alexa, the site, is gone. But the Firefox extension lives on. At least until the
 * Search Impressions &rarr; 138,000
 * Average position &rarr; 38.4
 
-{% include image.html src="/images/blog-stats/2022/09/search-console.webp" caption="Google Search Console Graph for August" %}
+{% include image.html src="/images/blog-stats/2022/09/search-console.webp" caption="Google Search Console Graph for September" %}
 
 ## AdSense
 
@@ -46,7 +46,7 @@ Alexa, the site, is gone. But the Firefox extension lives on. At least until the
 * Impressions &rarr; 25,788
 * Clicks &rarr; 140
 
-{% include image.html src="/images/blog-stats/2022/09/adsense.webp" caption="Google AdSense Graph for August" %}
+{% include image.html src="/images/blog-stats/2022/09/adsense.webp" caption="Google AdSense Graph for September" %}
 
 ## Moz Stats
 
