@@ -32,7 +32,7 @@ No new cards this year, so my Citi Double Cash made the most this year.
 
 ## Interest-Bearing Accounts
 
-* Arrived Homes &rarr; $3.90
+* [Arrived Homes](https://arrivedhomes.com/) &rarr; $3.90
 * Treasury Direct &rarr; $1.26
 * [Robinhood Dividends](https://www.joehxblog.com/robinhood/) &rarr; $133.75 
 * Robinhood Option Premiums &rarr; $105.00
@@ -71,14 +71,6 @@ A also got ten bucks from [the Noun Project](https://thenounproject.com/joehx/) 
 * Paid Back Link &rarr; $19.40
 * Google AdSense &rarr; $781.76
 * Total &rarr; $1,366.80
-
-```mermaid
-pie title Blogging
-    "Amazon Associates" : 468.63
-    "Paid Guest Post" : 97.01
-    "Paid Back Link" : 19.40
-    "Google AdSense" : 781.76
-```
 
 My blog is finally making some money.
 
