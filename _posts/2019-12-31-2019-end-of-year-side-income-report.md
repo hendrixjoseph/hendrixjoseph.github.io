@@ -31,9 +31,11 @@ I've also uninstalled the Surveys on the Go app; some of the surveys weren't wor
 
 * [Receipt Hog](https://www.receipthog.com/) &rarr; $40.00
 * [eBates/Rakuten](https://www.joehxblog.com/ebates/) &rarr; $71.76
-* [Bumped](https://bumped.com/) &rarr; $185.79
-* [Pei](https://www.joehxblog.com/pei/) &rarr; 0.00851090 BTC / $74.73
+* Bumped &rarr; $185.79
+* Pei &rarr; 0.00851090 BTC / $74.73
 * Total &rarr; $372.28
+
+> **UPDATE** [Pei](https://www.joehxblog.com/pei-is-dead/) and [Bumped](https://www.doctorofcredit.com/bumped-app-earn-stock-rewards-on-retail-purchases-by-linking-a-card/) are both dead.
 
 I've cashed out on Receipt Hog four times since I started using it back in 2016 - twice in 2017 (January and December), once in 2018 (July), and once in April of this year. The first time I cashed out $20 because they were devaluing their coins - the other times I cashed out at the max value ($40) which has the best coin-to-money ratio.
 
@@ -67,7 +69,7 @@ Note that with my two Chase Cards I often use the "Chase Offers" features to get
 * [Robinhood](https://www.joehxblog.com/robinhood/) &rarr; $18.17
 * [WeBull](https://www.joehxblog.com/webull/) &rarr; 20.87
 * [Worthy Bonds](https://www.joehxblog.com/worthybonds/) &rarr; $0.65
-* [BlockFi](https://www.joehxblog.com/blockfi/) &rarr; 0.0011812 BTC... about $10.68
+* BlockFi &rarr; 0.0011812 BTC... about $10.68
 * Credit Union Interest &rarr; $91.36
 * [Ally](https://www.ally.com/) Interest &rarr; $203.08
 * Total &rarr; $344.81

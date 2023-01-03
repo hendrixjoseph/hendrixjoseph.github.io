@@ -96,11 +96,15 @@ Oh, and your credit card is probably already for sale on the dark web anyways...
 
 ### What I Use
 
-The [Pei](https://www.joehxblog.com/pei/) app (pronounced "pay") lets you earn in not only cash but also bitcoin (for those cryptocurrency enthusiasts) or gift cards. If you're curious how much can be made with Pei, check out my post [How Much Can You Make with the Pei Cash back App?](https://www.joehxblog.com/how-much-can-you-make-with-the-pei-cashback-app/)
+The Pei app (pronounced "pay") lets you earn in not only cash but also bitcoin (for those cryptocurrency enthusiasts) or gift cards. If you're curious how much can be made with Pei, check out my post [How Much Can You Make with the Pei Cash back App?](https://www.joehxblog.com/how-much-can-you-make-with-the-pei-cashback-app/)
+
+> **UPDATE** [Pei is dead](https://www.joehxblog.com/pei-is-dead/)
 
 ![Pei](/images/cashback/apps/pei.png)
 
-The [Bumped](https://www.joehxblog.com/bumped/) takes a new twist on cash back - or maybe they should call it stock back? With Bumped, you earn fractional shares of companies as you spend money at those same companies. I've written two full reviews on Bumped - on review from when [I first downloaded the app](https://www.joehxblog.com/bumped-app-review-one-year-later/) and [one nearly a full year later](https://www.joehxblog.com/bumped-app-review-earn-stock-instead-of-cash-back/).
+The Bumped takes a new twist on cash back - or maybe they should call it stock back? With Bumped, you earn fractional shares of companies as you spend money at those same companies. I've written two full reviews on Bumped - on review from when [I first downloaded the app](https://www.joehxblog.com/bumped-app-review-one-year-later/) and [one nearly a full year later](https://www.joehxblog.com/bumped-app-review-earn-stock-instead-of-cash-back/).
+
+> **UPDATE** [Bumped has completely shut down](https://www.doctorofcredit.com/bumped-app-earn-stock-rewards-on-retail-purchases-by-linking-a-card/).
 
 ![Bumped](/images/cashback/apps/bumped.png)
 

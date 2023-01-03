@@ -65,7 +65,7 @@ Note that some of the above listed coins - such as Bitcoin and Litecoin - are hi
 
 Oh, and BlockFi's interest rate on the US Dollar Coin is much better than Coinbase's interest rate - 8.6% versus 0.15%.
 
-[Earn $10 in Bitcoin (BTC) when you deposit $100 or more into a new BlockFi Interest Account (BIA).](https://www.joehxblog.com/blockfi/)
+> **UPDATE** BlockFi has entered bankrupt, so don't put your money there.
 
 ## Stocks
 

@@ -111,9 +111,11 @@ Similar to Merch by Amazon, Amazon Associates pays out on the 29th. I have a bal
    
 ## Cryptocurrency Earnings
 
-* [BlockFi](https://www.joehxblog.com/blockfi/) &rarr;  0.00124928 BTC
-* [Pei](https://www.joehxblog.com/pei/) &rarr; 0.0036251 BTC
+* BlockFi &rarr;  0.00124928 BTC
+* Pei &rarr; 0.0036251 BTC
 * [Brave Browser](https://www.joehxblog.com/brave/) &rarr; 107.29041 BAT
+
+> **UPDATE** [Pei is dead](https://www.joehxblog.com/pei-is-dead/).
 
 I also earned the following from Coinbase Earn for watching videos and answering quizzes:
 

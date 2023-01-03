@@ -25,7 +25,7 @@ Here are the rules for what articles I choose to include in this weekly roundup:
 
 ## The Reads
 
-[Visa is partnering with over 50 crypto companies to allow clients to spend and convert digital currencies](https://markets.businessinsider.com/currencies/news/cryptocurreny-payments-visa-partnership-clients-spend-convert-digital-currencies-2021-7) - basically making it as easy to spend crypto as it is to use a debit or credit card. I didn't see a list of those 50 companies on the article, but I do know that [BlockFi](https://www.joehxblog.com/blockfi/), [Coinbase](https://www.joehxblog.com/coinbase/), and [Uphold](https://www.joehxblog.com/uphold/) all have (or will soon have) some sort of credit or debit card.
+[Visa is partnering with over 50 crypto companies to allow clients to spend and convert digital currencies](https://markets.businessinsider.com/currencies/news/cryptocurreny-payments-visa-partnership-clients-spend-convert-digital-currencies-2021-7) - basically making it as easy to spend crypto as it is to use a debit or credit card. I didn't see a list of those 50 companies on the article, but I do know that BlockFi, [Coinbase](https://www.joehxblog.com/coinbase/), and [Uphold](https://www.joehxblog.com/uphold/) all have (or will soon have) some sort of credit or debit card.
 
 This article was just fun: [How Nintendo introduced the Game Boy, Tetris, and Pokémon to the West](https://www.polygon.com/2019/4/19/18295061/game-boy-history-timeline-tetris-pokemon-nintendo). I remember getting my Game Boy for Christmas way back in the early nineties. There's even a video of how excited I was - I should find that video and post it!
 

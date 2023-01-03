@@ -7,6 +7,8 @@ keywords: [bumped app, robinhood, stocks, shares]
 
 With the advent of "the stock marketplace" and the end of the automatic, passive stock back, [Bumped](https://www.joehxblog.com/bumped/) is dee-eee-dee dead. Meaning the lucrative $300+ I've made with the app over the past couple years will not continue.
 
+> **UPDATE** [Bumped has completely shut down](https://www.doctorofcredit.com/bumped-app-earn-stock-rewards-on-retail-purchases-by-linking-a-card/).
+
 I've written about Bumped before - first in 2018 when I wrote my [Bumped App Review](https://www.joehxblog.com/bumped-app-review-earn-stock-instead-of-cash-back/) and again a year later when I wrote another review aptly named [Bumped App Review - One Year Later](https://www.joehxblog.com/bumped-app-review-one-year-later/).
 
 Now that the easy pickings that were Bumped are no more, I wanted to consolidate the earnings into an easier-to-access account. I do have a number of options: I already have [WeBull](https://www.joehxblog.com/webull/) and [Robinhood](https://www.joehxblog.com/robinhood/) accounts, or I could open a new brokerage account somewhere else.

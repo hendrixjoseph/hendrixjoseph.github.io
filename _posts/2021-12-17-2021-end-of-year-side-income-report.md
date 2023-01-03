@@ -80,11 +80,11 @@ The [WeBull](https://www.joehxblog.com/webull/) and [Robinhood](https://www.joeh
 
 ## Cryptocurrency Earnings
 
-* [BlockFi](https://www.joehxblog.com/blockfi/) &rarr; $89.27*
+* BlockFi &rarr; $89.27*
 * [Coinbase](https://www.joehxblog.com/coinbase/) &rarr; $109.73*
 * Total &rarr; $199.00
 
-My [BlockFi](https://www.joehxblog.com/blockfi/) earnings is pure interest. It's paid in the cryptocurrency I've invested in - I've only converted it to dollar amounts here to make comparisons easier.
+My BlockFi earnings is pure interest. It's paid in the cryptocurrency I've invested in - I've only converted it to dollar amounts here to make comparisons easier.
 
 [Coinbase](https://www.joehxblog.com/coinbase/), howerever, is split between three types of earnings: Coinbase Earn, where I earn by taking courses on Coinbase, Coinbase Interest, where I earn by staking certain coins, and Coinbase Referrals, where I earn when someone signs up to Coinbase using my referral link. Breaking them down, the three types earned each:
 
