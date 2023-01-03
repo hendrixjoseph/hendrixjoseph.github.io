@@ -82,7 +82,7 @@ Normally I'm [not a big fan of rebates](https://www.joehxblog.com/four_reasons_i
 
 [ReceiptHog](https://receipthog.com/) is in a class of apps called "receipt apps." Most of these allow you to upload (almost) any receipt for a small reward. A typical receipt uploaded to ReceiptHog will net you five "coins" which is worth about 3&cent;. It takes forever to get to a suitable cashout (maybe a year), but what else were you going to do with those receipts? An added bonus is it lets you look up old receipts - I've actually been able to return items to the store by looking up the receipt on this app.
 
-[Ibotta](https://www.joehxblog.com/ibotta/) is a popular one as well, but you can't just upload any receipt. You go through a list of rebates on the app and select which ones you want to use. Honestly, I never found any rebates for anything I wanted, so I don't use it. Some people love it, though.
+[Ibotta](https://home.ibotta.com/) is a popular one as well, but you can't just upload any receipt. You go through a list of rebates on the app and select which ones you want to use. Honestly, I never found any rebates for anything I wanted, so I don't use it. Some people love it, though.
 
 I've heard great things about [Checkout51](https://www.checkout51.com/), too, but I don't use it.
 

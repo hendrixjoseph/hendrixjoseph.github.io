@@ -39,4 +39,4 @@ date: 2021-08-20 10:08:39 +02:00
 
 Why the latter post? Because the default "time" set is 0:00 - e.g. "2021-08-20 00:00:0 +02:00". So setting the time of the latter post, I make it posted later.
 
-Source of my answer: [Jekyll gets confused with two post at the same](date https://github.com/jekyll/jekyll/issues/30).
+Source of my answer: [Jekyll gets confused with two post at the same date](https://github.com/jekyll/jekyll/issues/30).

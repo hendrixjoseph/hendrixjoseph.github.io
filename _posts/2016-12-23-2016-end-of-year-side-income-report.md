@@ -93,7 +93,7 @@ Some people do really well with Ibotta. I don't simply because I'm not going to 
 
 That said, I have cashed out once at $20, plus have another $14.75 balance in the app.
 
-If you haven't used Ibotta yet, you can use [my referral link to get $10 to start](https://www.joehxblog.com/ibotta/). I'll get $5.
+~~If you haven't used Ibotta yet, you can use my referral link to get $10 to start. I'll get $5.~~ **I no longer have a referral link.**
 
 ### ReceiptHog
 

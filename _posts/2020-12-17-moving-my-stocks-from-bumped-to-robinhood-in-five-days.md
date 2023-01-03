@@ -5,7 +5,7 @@ tags: [bumped, money]
 keywords: [bumped app, robinhood, stocks, shares]
 ---
 
-With the advent of "the stock marketplace" and the end of the automatic, passive stock back, [Bumped](https://www.joehxblog.com/bumped/) is dee-eee-dee dead. Meaning the lucrative $300+ I've made with the app over the past couple years will not continue.
+With the advent of "the stock marketplace" and the end of the automatic, passive stock back, Bumped is dee-eee-dee dead. Meaning the lucrative $300+ I've made with the app over the past couple years will not continue.
 
 > **UPDATE** [Bumped has completely shut down](https://www.doctorofcredit.com/bumped-app-earn-stock-rewards-on-retail-purchases-by-linking-a-card/).
 

@@ -88,4 +88,4 @@ I also own a single share of Kroger in my [Robinhood]({{ site.url }}/robinhood/)
 ## Further Reading on Kroger Pay:
 
 * [Kroger's Kroger Pay Information Page](https://www.kroger.com/d/kroger-mobile-pay)
-* [Kroger Pay FAQ](]https://www.kroger.com/f/kroger-mobile-pay-faqs)
+* [Kroger Pay FAQ](https://www.kroger.com/f/kroger-mobile-pay-faqs)
