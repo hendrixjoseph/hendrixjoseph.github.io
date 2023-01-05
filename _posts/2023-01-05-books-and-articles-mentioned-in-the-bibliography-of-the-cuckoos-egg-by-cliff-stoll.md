@@ -3,9 +3,12 @@ layout: post
 title: Books and Articles Mentioned in the Bibliography of The Cuckoo's Egg by Cliff Stoll
 tags: [books]
 keywords: [book, hacking, spy, espionage]
+image: /images/books/covers/the-cuckoos-egg.webp
 ---
 
 Last month I finished reading [The Cuckoo's Egg](https://www.amazon.com/CUCKOOS-EGG-Clifford-Stoll-ebook/dp/B0083DJXCM/?tag=hendrixjoseph-20) by Cliff Stoll. It's the true story of on of the first documented spy attempts through the Internet and other networks. Although it's written in - and from the perspective of - the late 1980s, it is still relevant to today.
+
+![Cover of the Cuckoo's Egg](/images/books/covers/the-cuckoos-egg.webp)
 
 I'd highly recommend it to anyone. And even non-technical people would enjoy it - it expects no understanding of technical or hacking jargon, and explains it as it goes.
 
