@@ -15,9 +15,9 @@ I used to not be a new-years-resolution guy. I didn't see the point in waiting f
 I've been publishing these goals on this blog since 2018. If you want to see the previous four years, here are the links:
 
 * [2021 New Year's Resolutions & Goals](https://www.joehxblog.com/2021-new-years-resolutions-goals/)
-* [2020 New Year's Resolutions & Goals](https://www.joehxblog.com/2021-new-years-resolutions-goals/)
-* [2018 New Year's Resolutions & Goals](https://www.joehxblog.com/2021-new-years-resolutions-goals/)
-* [2019 New Year's Resolutions & Goals](https://www.joehxblog.com/2021-new-years-resolutions-goals/)
+* [2020 New Year's Resolutions & Goals](https://www.joehxblog.com/2020-new-years-resolutions-goals/)
+* [2019 New Year's Resolutions & Goals](https://www.joehxblog.com/2019-new-years-resolutions-goals/)
+* [2018 New Year's Resolutions & Goals](https://www.joehxblog.com/2018-new-years-resolutions-goals/)
 
 As my goal-setting has evolved, one thing has remained constant: setting *abstract goals* that outline what I want to accomplish, and then for each abstract goal setting a *concrete goal* that is specific, measurable, attainable, realistic, and time-bound. Y'know, [SMART](https://en.wikipedia.org/wiki/SMART_criteria).
 
