@@ -7,9 +7,7 @@ hashtags: [blogging, blogstats]
 image: /images/blog-stats/2023/01/search-console.webp
 ---
 
-After this blog status post, I will have been making these posts for five years.
-
-That means this is my sixtieth blog statistics post!
+It is now 2023 - which means I'm into my *sixth* year making these blog status posts!
 
 I made five posts in the past month:
 
