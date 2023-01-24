@@ -14,7 +14,7 @@ So when I began searching for potential conferences to go to, I didn't just look
 
 And, well, I found one. A free one (for "IT professionals") and somewhat local - only an hour away in Cincinnati.
 
-The conference? The [2019 Cincinnati Cybersecurity Conference](https://www.dataconnectors.com/events/cincinnati2019/) by [Data Connectors](https://www.dataconnectors.com/).
+The conference? The [2019 Cincinnati Cybersecurity Conference](https://web.archive.org/web/20191217005130/https://www.dataconnectors.com/events/cincinnati2019/) by [Data Connectors](https://www.dataconnectors.com/).
 
 ![Data Connectors logo](/images/conferences/data-connectors/black-logo.jpg)
 *Data Connectors logo*
@@ -60,9 +60,9 @@ I got a few cool things, too:
 
 ![The USB Data Blocker aka USB Condom](/images/conferences/data-connectors/cincinnati-cybersecurity-conference-2019/swag/usb-data-blocker.jpg)
 
-A couple of [pen tool gadets](https://www.amazon.com//dp/B00VTFAAN2/?tag=hendrixjoseph-20):
+A couple of [pen tool gadgets](https://www.amazon.com//dp/B00VTFAAN2/?tag=hendrixjoseph-20):
 
-![The Pen Tool Gadets](/images/conferences/data-connectors/cincinnati-cybersecurity-conference-2019/swag/pen-tools.jpg)
+![The Pen Tool Gadgets](/images/conferences/data-connectors/cincinnati-cybersecurity-conference-2019/swag/pen-tools.jpg)
 
 A [credit-card-sized multitool](https://www.amazon.com/stores/node/9547958011/?tag=hendrixjoseph-20):
 
