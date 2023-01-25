@@ -13,10 +13,8 @@ Interviewed on the following webpages:
 Quoted on the following webpages:
 
 * [13 ways to win Black Friday in 2020](https://mediafeed.org/13-ways-to-win-black-friday-in-2020/)
-* [Best Financial Advice For Couples And Newlyweds](https://mostlyfinance.com/best-financial-advice-for-couples-and-newlyweds/)
 * [Hindsight is 2020: How to learn from money mistakes](https://www.consolidatedcredit.org/financial-news/hindsight-is-2020-how-to-learn-from-money-mistakes/#joehxblog)
 * [The Best Black Friday Tips for 2020](https://adimesaved.com/best-black-friday-tips)
-* [Financial Advice For Couples And Newlyweds From 36 Experts](https://marriagement.com.ng/financial-advice-for-couples/)
 
 Mentioned on the following webpages:
 
@@ -85,8 +83,10 @@ The following articles still exist, but at new URLs:
 
 The following are no longer available:
 
+* [Best Financial Advice For Couples And Newlyweds](https://web.archive.org/web/20210307161125/https://mostlyfinance.com/best-financial-advice-for-couples-and-newlyweds/#23_Let_Your_Spouse_Know_When_You_Pay_A_Bill)
 * [Best Financial Tips For Newlyweds And Couples](https://themoneymix.com/best-financial-advice-for-newlyweds-and-couples/)
 * [Early Retirement Wisdom From 50+ Top Finance Writers](https://themoneymix.com/early-retirement/)
+* [Financial Advice For Couples And Newlyweds From 36 Experts](https://web.archive.org/web/20221203114803/https://marriagement.com.ng/financial-advice-for-couples/#23_Let_Your_Spouse_Know_When_You_Pay_A_Bill)
 * [Financial Articles for the Month of March, 2018](https://web.archive.org/web/20181114213556/https://www.rooscpa.com/financial-articles/)
 * [Rockstar Finance March 12th, 2018 Features](https://rockstarfinance.com/mar-12th-2018/)
 * [The Financial Diet's The 7 Personal Finance Articles We Loved This Week (March 16, 2018)](https://web.archive.org/web/20181114213603/https://thefinancialdiet.com/the-7-personal-finance-articles-we-loved-this-week-2/)
