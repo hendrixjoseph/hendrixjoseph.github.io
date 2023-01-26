@@ -38,7 +38,7 @@ Featured/backlinked at the following webpages:
 
 Quoted on the following webpages:
 
-* [40-Day Frugal/Financial Lent Challenge](http://99to1percent.com/40-day-frugal-financial-lent/)
+* [40-Day Frugal/Financial Lent Challenge](https://99to1percent.com/40-day-frugal-financial-lent/)
 * [Money Goals – 30+ Experts Share Their 2019 Resolutions](https://wealthynickel.com/money-goals/)
 
 Backlinked on the following webpages:
