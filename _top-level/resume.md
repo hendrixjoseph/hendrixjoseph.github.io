@@ -25,7 +25,8 @@ excerpt: R&eacute;sum&eacute; / CV for JoeHx (Joseph Hendrix)
 
 * Led my scrum team to win 3rd place in the 2022 annual hackathon by improving the user experience.
 * Implemented a content security policy (CSP) in the web application in order to mitigate cross-site scripting (XSS) attacks.
-* Provided fixes and enhancements to a web application that uses [Angular](https://angular.io/) (in addition to vanilla JavaScript, HTML, and CSS) in the front end, [Java](https://www.java.com/), [Groovy](https://groovy-lang.org/). and [JBoss EAP](https://www.redhat.com/en/technologies/jboss-middleware/application-platform) along with a Spring framework in the back end; as well as a [MySql](https://www.mysql.com/) database (with migrations via [FlyWay](https://flywaydb.org/)).
+* Provided fixes and enhancements to a web application that uses [AngularJS](https://angularjs.org/) (in addition to vanilla JavaScript, HTML, and CSS) in the front end, [Java](https://www.java.com/), [Groovy](https://groovy-lang.org/). and [JBoss EAP](https://www.redhat.com/en/technologies/jboss-middleware/application-platform) along with a Spring framework in the back end; as well as a [MySql](https://www.mysql.com/) database (with migrations via [FlyWay](https://flywaydb.org/)).
+* Increased and enhanced unit test code coverage with the [Spock Framework](https://spockframework.org/) for the back-end and [Jasmine](https://jasmine.github.io/)/[Karma](https://karma-runner.github.io/) the front-end.
 * Attended and participated in regular scrum ceremonies, including daily stand ups, retrospectives, and sprint planning sessions.
 * Effectively utilized [Git](https://git-scm.com/) and GitHub to regularly contribute to the project.
 
