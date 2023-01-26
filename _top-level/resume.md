@@ -15,9 +15,15 @@ excerpt: R&eacute;sum&eacute; / CV for JoeHx (Joseph Hendrix)
 
 ### Optum | Software Engineer | January 2022 - Present
 
+#### MBM Now / Martin's Point Healthcare TruCare API Integration | October 2022 - Present
+
+* Led the effort to map over 25 different database values in MBM Now to the JSON parameters specified by the [TruCare API](https://www.casenetllc.com/trucare-products/trucare).
+* Used [Postman](https://www.postman.com/) to identify, test, and validate the TruCare API endpoints.
+* Enabled client-side SSL encryption using private keys, certificate files, [Java KeyStore](https://en.wikipedia.org/wiki/Java_KeyStore) (JKS) files, and the [WebClient API](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/reactive/function/client/WebClient.html) of the [Spring Framework](https://docs.spring.io/spring-framework/docs/current/reference/html/).
+
 #### MBM Now | January 2022 - Present
 
-* Lead my scrum team to win 3rd place in the 2022 annual hackathon by improving the user experience.
+* Led my scrum team to win 3rd place in the 2022 annual hackathon by improving the user experience.
 * Implemented a content security policy (CSP) in the web application in order to mitigate cross-site scripting (XSS) attacks.
 * Provided fixes and enhancements to a web application that uses [Angular](https://angular.io/) (in addition to vanilla JavaScript, HTML, and CSS) in the front end, [Java](https://www.java.com/), [Groovy](https://groovy-lang.org/). and [JBoss EAP](https://www.redhat.com/en/technologies/jboss-middleware/application-platform) along with a Spring framework in the back end; as well as a [MySql](https://www.mysql.com/) database (with migrations via [FlyWay](https://flywaydb.org/)).
 * Attended and participated in regular scrum ceremonies, including daily stand ups, retrospectives, and sprint planning sessions.
