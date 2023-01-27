@@ -13,7 +13,7 @@ excerpt: R&eacute;sum&eacute; / CV for JoeHx (Joseph Hendrix)
 
 ## Work History
 
-### Optum | Software Engineer | January 2022 - Present
+### Optum | Senior Software Engineer | January 2022 - Present
 
 #### MBM Now / Martin's Point Healthcare TruCare API Integration | October 2022 - Present
 
@@ -32,7 +32,7 @@ excerpt: R&eacute;sum&eacute; / CV for JoeHx (Joseph Hendrix)
 
 ### Northrop Grumman Corporation | Software Engineer | January 2014 – December 2021
 
-#### Project 5 | July 2021 - Present
+#### Project 5 | July 2021 - December 2021
 
 * Provided updates to web pages written with PHP that used JavaScript frameworks including [Bootstrap](https://getbootstrap.com/) and [Vue.js](https://vuejs.org/) in a secure environment.
 * Created JSON REST endpoints using [Oracle JSON Data Structures](https://docs.oracle.com/en/database/oracle/oracle-database/12.2/arpls/json-types.html#GUID-BDE10AAA-445B-47B5-8A39-D86C8EA99283) in a PL/SQL environment delivered through [Oracle REST Data Services (ORDS)](https://www.oracle.com/database/technologies/appdev/rest.html).
