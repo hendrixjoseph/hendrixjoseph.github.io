@@ -15,13 +15,13 @@ excerpt: R&eacute;sum&eacute; / CV for JoeHx (Joseph Hendrix)
 
 ### Optum | Senior Software Engineer | January 2022 - Present
 
-#### MBM Now / Martin's Point Healthcare TruCare API Integration | October 2022 - Present
+#### MBM Now / Martin's Point Healthcare TruCare API Integration | Senior Software Engineer | October 2022 - Present
 
 * Led the effort to map over 25 different database values in MBM Now to the JSON parameters specified by the [TruCare API](https://www.casenetllc.com/trucare-products/trucare).
 * Used [Postman](https://www.postman.com/) to identify, test, and validate the TruCare API endpoints.
 * Enabled client-side SSL encryption using private keys, certificate files, [Java KeyStore](https://en.wikipedia.org/wiki/Java_KeyStore) (JKS) files, and the [WebClient API](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/reactive/function/client/WebClient.html) of the [Spring Framework](https://docs.spring.io/spring-framework/docs/current/reference/html/).
 
-#### MBM Now | January 2022 - Present
+#### MBM Now | Senior Software Engineer | January 2022 - Present
 
 * Led my scrum team to win 3rd place in the 2022 annual hackathon by improving the user experience.
 * Implemented a content security policy (CSP) in the web application in order to mitigate cross-site scripting (XSS) attacks.
@@ -30,28 +30,28 @@ excerpt: R&eacute;sum&eacute; / CV for JoeHx (Joseph Hendrix)
 * Attended and participated in regular scrum ceremonies, including daily stand ups, retrospectives, and sprint planning sessions.
 * Effectively utilized [Git](https://git-scm.com/) and GitHub to regularly contribute to the project.
 
-### Northrop Grumman Corporation | Software Engineer | January 2014 – December 2021
+### Northrop Grumman Corporation | Senior Software Engineer | January 2014 – December 2021
 
-#### Project 5 | July 2021 - December 2021
+#### Project 5 | Senior Software Engineer | July 2021 - December 2021
 
 * Provided updates to web pages written with PHP that used JavaScript frameworks including [Bootstrap](https://getbootstrap.com/) and [Vue.js](https://vuejs.org/) in a secure environment.
 * Created JSON REST endpoints using [Oracle JSON Data Structures](https://docs.oracle.com/en/database/oracle/oracle-database/12.2/arpls/json-types.html#GUID-BDE10AAA-445B-47B5-8A39-D86C8EA99283) in a PL/SQL environment delivered through [Oracle REST Data Services (ORDS)](https://www.oracle.com/database/technologies/appdev/rest.html).
 * Aided in coworker's use of [Matomo Analytics](https://matomo.org/) and debugging of a JSF & JDBC application.
 
-#### Project 4 | February 2021 - July 2021
+#### Project 4 | Senior Software Engineer | February 2021 - July 2021
 
 * Identified & corrected bugs in the software that has existed for years prior.
 * Used automated software tools ([Eclipse](https://www.eclipse.org/downloads/) autoformatting & save actions) to reduce the complexity of the software code, allowing for easier debugging.
 * Self-managed software development activities, as well as collaborated with others using tools such as [Jira](https://www.atlassian.com/software/jira), [Confluence](https://www.atlassian.com/software/confluence), [Fisheye](https://www.atlassian.com/software/fisheye), and [Crucible](https://www.atlassian.com/software/crucible).
 * Provided fellow team members with simpler methods of doing complex & tedious tasks.
 
-#### Project 3 | July 2020 – February 2021
+#### Project 3 | Senior Software Engineer | July 2020 – February 2021
 
 * Created a Node.js web application that queries and updates data in a [PostGreSQL](https://www.postgresql.org/)/[PostGIS](https://postgis.net/) database.
 * Created a [Docker](https://www.docker.com/) container that holds that Node.js; created another Docker container that holds a PostGreSQL database that mirrors the schema of the real-world PostGIS database; ran both in a single [Docker Compose](https://docs.docker.com/compose/) instance.
 * Enabled the Node.js web application and the mirror database to use SSL file certificates instead of a username/password.
 
-#### Project 2 | March 2018 – July 2020
+#### Project 2 | Software Engineer | March 2018 – July 2020
 
 * Provided maintenance and new functionality to an existing Java Swing desktop application.
 * Maintenance activities included eliminating processing bottlenecks by using tools such as [JProfiler](https://www.ej-technologies.com/products/jprofiler/overview.html) to identify those bottlenecks.
@@ -59,7 +59,7 @@ excerpt: R&eacute;sum&eacute; / CV for JoeHx (Joseph Hendrix)
 * Reduced the amount of "code smell"” in existing code by about 8% largely by using code formatting tools.
 * Used software tools such as [SonarLint](https://www.sonarlint.org/), [SonarQube](https://www.sonarqube.org/), and [HP Fortify](https://www.microfocus.com/en-us/products/static-code-analysis-sast/overview) to identify and fix software issues, including vulnerabilities and duplicate code.
 
-#### Project 1 | January 2014 – March 2018
+#### Project 1 | Software Engineer | January 2014 – March 2018
 
 * Modified an existing Java Swing desktop application by improving its mapping capabilities using [OpenMap 5.0.3](https://github.com/OpenMap-java/openmap), added advanced metrics, and applied redesigns to the GUI.
 * Migrated that Java Swing desktop application to a web application using GlassFish, JPA, CDI, JSF, [PrimeFaces](https://www.primefaces.org/), [PrimeFaces Extensions](https://primefaces-extensions.github.io/), and an Oracle XE database. Provided major customizations to the PrimeFaces JSF timeline component. Configured the build and dependency tool [Maven](https://maven.apache.org/) such that the web application could be built while not connected to the Internet.
