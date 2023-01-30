@@ -12,7 +12,9 @@ I have bought a few other stocks with my dividends, but each time I did have to 
 
 I am a bit interested in cryptocurrencies - I have an entire [tag](https://www.joehxblog.com/tags/#cryptocurrency) dedicated to them, as well as [a Mix collection](https://mix.com/joehx/cryptocurrency).
 
-And Robinhood sells cryptocurrencies. And unlike stocks, you can buy fractional amounts of crypto (which is good, otherwise few people would be able to buy any Bitcoin).
+And Robinhood sells cryptocurrencies. ~~And unlike stocks, you can buy fractional amounts of crypto (which is good, otherwise few people would be able to buy any Bitcoin).~~
+
+> Update: You've been able to buy fractional shares of stocks on Robinhood for awhile now. Thanks, [Frank Poliat @quickdrawartist](https://twitter.com/quickdrawartist/status/1619808636049694720) for the correction.
 
 ![Robinhood Crypto Promo Image.](/images/robinhood/crypto/robinhood-crypto-image.png)
 *Robinhood Crypto Promo Image.*
