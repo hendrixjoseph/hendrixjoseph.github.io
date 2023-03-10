@@ -15,13 +15,20 @@ excerpt: R&eacute;sum&eacute; / CV for JoeHx (Joseph Hendrix)
 
 ### Optum | Senior Software Engineer | January 2022 - Present
 
-#### MBM Now / Martin's Point Healthcare TruCare API Integration | Senior Software Engineer | October 2022 - Present
+#### MBM Now Client Experience Management | Senior Software Engineer | December 2022 - Present
+
+* Aided in the refinement of software requirements, including breaking down complex ideas into smaller, simpler and more manageable units of work.
+* Worked on automating front-end [Jasmine](https://jasmine.github.io/)/[Karma](https://karma-runner.github.io/) unit tests in a [Jenkins](https://www.jenkins.io/) pipeline.
+* Routinely mentored junior software engineers and quality assurance engineers.
+* Attended and participated in regular scrum ceremonies, including daily stand ups, retrospectives, and sprint planning sessions.
+
+#### MBM Now / Martin's Point Healthcare TruCare API Integration | Senior Software Engineer | October 2022 - February 2023
 
 * Led the effort to map over 25 different database values in MBM Now to the JSON parameters specified by the [TruCare API](https://www.casenetllc.com/trucare-products/trucare).
 * Used [Postman](https://www.postman.com/) to identify, test, and validate the TruCare API endpoints.
 * Enabled client-side SSL encryption using private keys, certificate files, [Java KeyStore](https://en.wikipedia.org/wiki/Java_KeyStore) (JKS) files, and the [WebClient API](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/reactive/function/client/WebClient.html) of the [Spring Framework](https://docs.spring.io/spring-framework/docs/current/reference/html/).
 
-#### MBM Now | Senior Software Engineer | January 2022 - Present
+#### MBM Now Utilization Management | Senior Software Engineer | January 2022 - December 2022
 
 * Led my scrum team to win 3rd place in the 2022 annual hackathon by improving the user experience.
 * Implemented a content security policy (CSP) in the web application in order to mitigate cross-site scripting (XSS) attacks.
