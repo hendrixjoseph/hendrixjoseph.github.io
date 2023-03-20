@@ -27,6 +27,7 @@ Listed in the following blog directories:
 
 Otherwise backlinked on the following webpages:
 
+* ['ModuleNotFoundError: No module named 'fastai.vision' Solution 3](https://www.developerload.com/modulenotfounderror-no-module-named-39fastaivision39#solution_3)
 * [Dorco Pace 6 Plus – Six Blade Razor for Men Cartridge Refills (8 Pack)](https://www.techpersonalcare.com/dorco-pace-6-plus-six-blade-razor-for-men-cartridge-refills-8-pac/)
 
 ## The Old Domain (hendrixjoseph.github.io)
