@@ -120,5 +120,7 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-  
+  - Dockerfile
+  - "*.bat"
+
 include: [".well-known"]
