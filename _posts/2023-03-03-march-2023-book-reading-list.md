@@ -94,4 +94,4 @@ And here are the 35 books I read to my daughter:
 
 * [A Hacker's Mind: How the Powerful Bend Society's Rules, and How to Bend them Back by Bruce Schneier](https://www.amazon.com/Hackers-Mind-Powerful-Societys-Rules-ebook/dp/B0B3FY5R3M/?tag=hendrixjoseph-20)
 * [The Hitchhiker's Guide to the Galaxy](https://www.amazon.com/Hitchhikers-Guide-Galaxy/dp/B000XUBC2C/?tag=hendrixjoseph-20)
-* [How to Talk so Little Kids Will Listen: A Survival Guide to Life with Children Ages 2-7 by by Joanna Faber and Julie King](https://www.amazon.com/Talk-Little-Kids-Will-Listen-ebook/dp/B01CO348EO/)
+* [How to Talk so Little Kids Will Listen: A Survival Guide to Life with Children Ages 2-7 by by Joanna Faber and Julie King](https://www.amazon.com/Talk-Little-Kids-Will-Listen-ebook/dp/B01CO348EO/?tag=hendrixjoseph-20)
