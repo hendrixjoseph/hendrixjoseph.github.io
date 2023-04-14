@@ -17,6 +17,7 @@ excerpt: R&eacute;sum&eacute; / CV for JoeHx (Joseph Hendrix)
 
 #### MBM Now Client Experience Management | Senior Software Engineer | December 2022 - Present
 
+* Worked on upgrading a front-end application from Angular 8 to Angular 14, including upgrading the TypeScript version from TypeScript 3.4 to TypeScript 4.7.
 * Aided in the refinement of software requirements, including breaking down complex ideas into smaller, simpler and more manageable units of work.
 * Worked on automating front-end [Jasmine](https://jasmine.github.io/)/[Karma](https://karma-runner.github.io/) unit tests in a [Jenkins](https://www.jenkins.io/) pipeline.
 * Routinely mentored junior software engineers and quality assurance engineers.
