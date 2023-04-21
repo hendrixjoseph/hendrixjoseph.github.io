@@ -7,7 +7,7 @@ hashtags: [blogging, blogstats]
 image: /images/blog-stats/2023/04/search-console.webp
 ---
 
-
+Another month in the books.
 
 I only made four posts:
 
