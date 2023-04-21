@@ -6,10 +6,10 @@ excerpt: R&eacute;sum&eacute; / CV for JoeHx (Joseph Hendrix)
 
 ## Summary
 
-* Highly proficient in a variety of Java technologies, including Java EE, JPA (Java Persistence API), JSF (Java ServerFaces), Maven, Spring (including Spring Boot), Groovy, and Spock/Junit unit tests.
-* Experienced in developing in all three of the major Java IDEs ([Netbeans](https://netbeans.org/), [Eclipse](https://www.eclipse.org/downloads/), and [IntelliJ IDEA](https://www.jetbrains.com/idea/)).
-* Highly proficient in SQL as well as databases such as Oracle, PostGreSQL, and MySQL.
-* Highly proficient with web development in Node.js, HTML, CSS, JavaScript, TypeScript, JSON, Angular, AngularJS, VueJS, and Jasmine/Karma unit tests.
+* Highly proficient in a variety of Java technologies, including Java EE, JPA (Java Persistence API), JSF (Java ServerFaces), [Maven](https://maven.apache.org/), [Spring](https://spring.io/) (including Spring Boot), [Groovy](https://groovy-lang.org/), and [Spock](https://spockframework.org/)/[JUnit](https://junit.org/junit5/) unit tests.
+* Experienced in developing in all three of the major Java IDEs ([NetBeans](https://netbeans.org/), [Eclipse](https://www.eclipse.org/downloads/), and [IntelliJ IDEA](https://www.jetbrains.com/idea/)).
+* Highly proficient in SQL as well as databases such as Oracle, PostgreSQL, and MySQL.
+* Highly proficient with web development in Node.js, HTML, CSS, JavaScript, TypeScript, JSON, Angular, AngularJS, Vue.js, and Jasmine/Karma unit tests.
 
 ## Work History
 
