@@ -6,10 +6,10 @@ excerpt: R&eacute;sum&eacute; / CV for JoeHx (Joseph Hendrix)
 
 ## Summary
 
-* Highly proficient in a variety of Java technologies, including Java EE, GlassFish, JPA (Java Persistence API), JSF (Java ServerFaces), Maven, Grandle, and Android.
+* Highly proficient in a variety of Java technologies, including Java EE, JPA (Java Persistence API), JSF (Java ServerFaces), Maven, Spring (including Spring Boot), Groovy, and Spock/Junit unit tests.
 * Experienced in developing in all three of the major Java IDEs ([Netbeans](https://netbeans.org/), [Eclipse](https://www.eclipse.org/downloads/), and [IntelliJ IDEA](https://www.jetbrains.com/idea/)).
-* Also highly proficient in SQL as well as web development in HTML, CSS, and JavaScript.
-* Also knowledgeable in [Node.js](https://nodejs.org/en/).
+* Highly proficient in SQL as well as databases such as Oracle, PostGreSQL, and MySQL.
+* Highly proficient with web development in Node.js, HTML, CSS, JavaScript, TypeScript, JSON, Angular, AngularJS, VueJS, and Jasmine/Karma unit tests.
 
 ## Work History
 
