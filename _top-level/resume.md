@@ -2,6 +2,7 @@
 layout: page
 title: R&eacute;sum&eacute; / CV
 excerpt: R&eacute;sum&eacute; / CV for JoeHx (Joseph Hendrix)
+noad: true
 ---
 
 ## Summary
