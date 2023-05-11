@@ -37,6 +37,8 @@ Instructions:
 6. Turn on the radio.
 7. Enter the code.
 
+Still unsure or having difficultly? Check out [this other article on how to get and set the radio code by VIN](https://www.hondaradiocodebyvin.com/).
+
 ## How to Set the Clock on a 2004 Honda Civic
 
 {% include video.html source="/video/2004-honda-civic/setting-the-clock.mp4" %}
