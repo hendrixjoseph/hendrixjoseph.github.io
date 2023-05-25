@@ -116,6 +116,13 @@ noad: true
 
 ## Projects
 
+### Content Security Policy for Spring
+
+* A Content Security Policy builder and bean to help secure Spring applications.
+* [Source hosted on GitHub](https://github.com/hendrixjoseph/spring-content-security-policy).
+* [Available at Maven Central](https://mvnrepository.com/artifact/com.joehxblog/spring-content-security-policy/0.6.0.3).
+* [Blog post introducing the package](https://www.joehxblog.com/content-security-policy-for-spring/).
+
 ### Moonshot
 
 * GitHub Game Off 2020 Entry
