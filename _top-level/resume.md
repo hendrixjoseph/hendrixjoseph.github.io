@@ -92,6 +92,20 @@ noad: true
 * Graded student projects in a timely manner.
 * Reported student performance to the teacher.
 
+## Open Source Contributions
+
+* Created `@types/greenlock-express` for TypeScript in the DefinitelyTyped project, allowing typed use of the [`greenlock-express`](https://www.npmjs.com/package/greenlock-express) npm package.
+* See Pull Request at <https://github.com/DefinitelyTyped/DefinitelyTyped/pull/65440>.
+
+* Resolved a bug/defect in the Jenkins Embeddable Build Status Plugin involving an infinite loop.
+* See Pull Request at <https://github.com/jenkinsci/embeddable-build-status-plugin/pull/133>.
+
+* Created additional JUnit unit tests to test numerical JSON values in the JSON-java project.
+* See Pull Request at <https://github.com/stleary/JSON-java/pull/691>.
+
+* Updated the ObjectUtils#isEmpty() utility method in the Apache Commons Lang to handle Optionals properly.
+* See Pull Request at <https://github.com/apache/commons-lang/pull/933>.
+
 ## Projects
 
 ### Moonshot
