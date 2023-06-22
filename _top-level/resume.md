@@ -14,9 +14,15 @@ noad: true
 
 ## Work History
 
-### Optum | Senior Software Engineer | January 2022 - Present
+### Crown Equipment Corporation | Senior Software Engineer | June 2023 - Present
 
-#### MBM Now Client Experience Management | Senior Software Engineer | December 2022 - Present
+#### SureSpec Counterbalance Capacity Calculator | Senior Software Engineer | June 2023 - Present
+
+* Worked on upgrading a front-end application to Angular 14, which included upgrading the TypeScript version to TypeScript 4.7.
+
+### Optum | Senior Software Engineer | January 2022 - April 2023
+
+#### MBM Now Client Experience Management | Senior Software Engineer | December 2022 - April 2023
 
 * Worked on upgrading a front-end application from Angular 8 to Angular 14, including upgrading the TypeScript version from TypeScript 3.4 to TypeScript 4.7.
 * Aided in the refinement of software requirements, including breaking down complex ideas into smaller, simpler and more manageable units of work.
