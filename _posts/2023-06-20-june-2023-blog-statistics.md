@@ -15,7 +15,7 @@ Here are those three posts:
 
 * [Finally a Decent Conversion with ChatGPT](https://www.joehxblog.com/finally-a-decent-conversion-with-chatgpt/)
 * [More Time Doesn't Mean Better; More People Doesn't Mean Quicker](https://www.joehxblog.com/more-time-doesnt-mean-better-more-people-doesnt-mean-quicker/)
-* [April 2023 Book Reading List](https://www.joehxblog.com/may-2023-book-reading-list/)
+* [May 2023 Book Reading List](https://www.joehxblog.com/may-2023-book-reading-list/)
 
 ## Google Analytics
 

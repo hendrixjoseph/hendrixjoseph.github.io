@@ -1,6 +1,6 @@
 ---
 layout: post
-title: April 2023 Book Reading List
+title: May 2023 Book Reading List
 tags: [books, reading list]
 keywords: [book, read, books, reading, book reading, books i read]
 hashtags: [books, reading]
@@ -9,8 +9,6 @@ hashtags: [books, reading]
 Time flies. May is over and it's now June.
 
 I read 17 different books to my son and 18 different books to my daughter.
-
-
 
 ## Books I Read to My Children
 
