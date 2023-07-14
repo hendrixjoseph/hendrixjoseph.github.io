@@ -1,8 +1,8 @@
-:---:
+---
 layout: post
 title:  Ohio's Expanded EdChoice Program - A Breakdown of Scholarship Amounts for 2024
 tags: [money, politics]
-:---:
+---
 
 So Ohio Governor Mike Dewine signed [Ohio House Bill 33](https://www.legislature.ohio.gov/legislation/135/hb33) on July 4th. This bill is Ohio's budget for fiscal years 2024-2025.
 
