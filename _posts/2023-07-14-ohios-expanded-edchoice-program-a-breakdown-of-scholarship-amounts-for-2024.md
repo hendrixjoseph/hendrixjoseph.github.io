@@ -56,24 +56,36 @@ The second relevant part, starting on page 5872, lists the actual amounts to be 
 > 
 > > (1) For a student with a family income at or below 450% of the FPL, the traditional Educational Choice scholarship amount.<br />
 > > (2) For a student with a family income above 450% of the FPL, but at or below 500% of the FPL, either:<br />
+> >
 > > > (a) For a K-8 student, $5,200;<br />
-> > > (b) For a 9-12 student, $7,050.<br />
+> > > (b) For a 9-12 student, $7,050.
+> >
 > > (3) For a student with a family income above 500% of the FPL, but at or below 550% of the FPL, either:<br />
+> >
 > > > (a) For a K-8 student, $3,650;<br />
 > > > (b) For a 9-12 student, $5,000.<br />
+> >
 > > (4) For a student with a family income above 550% of the FPL, but at or below 600% of the FPL, either:<br />
+> >
 > > > (a) For a K-8 student, $2,600;<br />
 > > > (b) For a 9-12 student, $3,550.<br />
+> >
 > > (5) For a student with a family income above 600% of the FPL, but at or below 650% of the FPL, either:<br />
 > > > (a) For a K-8 student, $1,850;<br />
 > > > (b) For a 9-12 student, $2,500.<br />
+> >
 > > (6) For a student with a family income above 650% of the FPL, but at or below 700% of the FPL, either:<br />
+> >
 > > > (a) For a K-8 student, $1,300;<br />
 > > > (b) For a 9-12 student, $1,750;<br />
+> >
 > > (7) For a student with a family income above 700% of the FPL, but at or below 750% of the FPL, either:<br />
+> >
 > > > (a) For a K-8 student, $900;<br />
 > > > (b) For a 9-12 student, $1,250.<br />
+> >
 > > (8) For a student with a family income above 750% of the FPL, either:<br />
+> >
 > > > (a) For a K-8 student, $650;<br />
 > > > (b) For a 9-12 student, $950.<br />
 
