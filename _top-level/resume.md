@@ -16,9 +16,10 @@ noad: true
 
 ### Crown Equipment Corporation | Senior Software Engineer | June 2023 - Present
 
-#### SureSpec Counterbalance Capacity Calculator | Senior Software Engineer | June 2023 - Present
+#### Internal Sales Tools | Senior Software Engineer | June 2023 - Present
 
-* Worked on upgrading a front-end application to Angular 14, which included upgrading the TypeScript version to TypeScript 4.7.
+* Worked on upgrading the front-end of an application to Angular 14, which included upgrading the TypeScript version to TypeScript 4.7.
+* Worked on upgrading the back-end of the application to versions 2.7.0 of the Spring Boot Framework, including Spring Data (JDBC & JPA), Spring MVC, Spring Security, and testing using Spring Test and JUnit 5.
 
 ### Optum | Senior Software Engineer | January 2022 - April 2023
 
