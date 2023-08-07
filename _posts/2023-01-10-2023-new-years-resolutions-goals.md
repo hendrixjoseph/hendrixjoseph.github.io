@@ -8,7 +8,7 @@ image: /images/goals-2023.webp
 
 It's a new year - so it's time for New Year's Goals.
 
-![Goals 2023](/images/goals-2023.jpg)
+![Goals 2023](/images/goals-2023.webp)
 
 New Year's Goals Resolutions & Goals is more my wife's thing - I will set goals throughout the year instead of waiting for a specific date to set them - but it's good for us to get together and discuss where we want to be.
 
