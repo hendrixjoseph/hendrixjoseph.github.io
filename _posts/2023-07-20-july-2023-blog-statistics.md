@@ -48,7 +48,7 @@ Not much was posted this month:
 * Earnings / 1,000 users = $39.50 / 6.2 = $6.37
 * Earnings / 1,000 views = $39.50 / 9.7 = $4.07
 * Earnings / 1,000 impressions = $39.50 / 35,425 = $1.12
-* Earnings / day = $39.50 / 31 = $1.32
+* Earnings / day = $39.50 / 30 = $1.32
 * Users / day = 6,200 / 30 = 206.7
 * Views / day = 9,700 / 30 = 323.3
 * Impressions / day = 35,425 / 30 = 1,180.8
