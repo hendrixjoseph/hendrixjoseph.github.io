@@ -16,41 +16,41 @@ This is so important I'm making it the zeroth item. Also zeroth so I can keep th
 
 (Thank you, [WithoutLampsTheredBe](https://www.reddit.com/user/WithoutLampsTheredBe) for [pointing this out](https://www.reddit.com/r/eBaySellerAdvice/comments/59x3pp/six_essential_items_for_reselling_on_ebay_and/d9c12x4/)!)
 
-{% include amazon/search-ad.html category="OfficeProducts" search="postal scale" %}
+[![Postal Scale](/images/reselling-items/postal-scale.png)](https://www.amazon.com/s/?url=search-alias=office-products&field-keywords=postal+scale&n=1068986&tag=hendrixjoseph-20)
 
-## [1.	Scotch 3M Bubble Mailers Size 0 (6" x 9") - 25ct](https://www.amazon.com/gp/product/B000PE46I8/?tag=hendrixjoseph-20)
+## [1. Scotch 3M Bubble Mailers Size 0 (6" x 9") - 25ct](https://www.amazon.com/gp/product/B000PE46I8/?tag=hendrixjoseph-20)
 
 DVD cases fit snugly into these. They’re great for other small things, too. If you buy them individually at the store (say, Kroger or Meijer), the cost roughly 70&cent; a mailer. Amazon has them for around $7.50, which makes them cost 30&cent; apiece, which is less than half the cost. Yeah, I know it’s <i>only</i> 40&cent;, but it adds up - that’s $10 a box!
 
 I’ve already ordered my second box.
 
-{% include amazon/native-ad.html asin="B000PE46I8" %}
+[![Scotch 3M Bubble Mailers Size 0](/images/reselling-items/bubble-mailers-size-0.png)](https://www.amazon.com/gp/product/B000PE46I8/?tag=hendrixjoseph-20)
 
-## [2.	Scotch Bubble Mailer, 8.5 x 11-Inches, Size #2, 25-Pack](https://www.amazon.com/gp/product/B009MPB9KY/?tag=hendrixjoseph-20)
+## [2. Scotch Bubble Mailer, 8.5 x 11-Inches, Size #2, 25-Pack](https://www.amazon.com/gp/product/B009MPB9KY/?tag=hendrixjoseph-20)
 
 Same thing as #1, but only bigger. I haven’t used as many as these as the first one - I’m still on my first box. They still cost a lot less than buying them individually at the store - around 80&cent; to $1.00 at the store, compared to around $10 on Amazon. A savings of $15 a box!
 
-{% include amazon/native-ad.html asin="B009MPB9KY" %}
+[![Scotch 3M Bubble Mailers Size #2](/images/reselling-items/bubble-mailers-size-2.png)](https://www.amazon.com/gp/product/B000PE46I8/?tag=hendrixjoseph-20)
 
-## [3.	200 - 10x13 WHITE POLY MAILERS ENVELOPES BAGS 10 x 13](https://www.amazon.com/gp/product/B000HG9J6I/?tag=hendrixjoseph-20)
+## [3. 200 - 10x13 White Poly Mailers Envelopes Bags 10 x 13](https://www.amazon.com/gp/product/B000HG9J6I/?tag=hendrixjoseph-20)
 
 I don’t even know where to buy these offline. I’ve only used these a few times, but they’re good for things that won’t fit in the other two items I mentioned that don’t need any bubble protection. For instance, I shipped a Fram cabin air filter that was new in box the other day in one of these.
 
-{% include amazon/native-ad.html asin="B000HG9J6I" %}
+[![White Poly Mailers Envelopes Bags](/images/reselling-items/white-poly-mailers.png)](https://www.amazon.com/gp/product/B000HG9J6I/?tag=hendrixjoseph-20)
 
-## [4.	MFLABEL 200 Half Sheet - Shipping Labels - 5-1/2" X 8-1/2"](https://www.amazon.com/gp/product/B015PXX7AG/?tag=hendrixjoseph-20)
+## [4. MFLABEL 200 Half Sheet - Shipping Labels - 5-1/2" X 8-1/2"](https://www.amazon.com/gp/product/B015PXX7AG/?tag=hendrixjoseph-20)
 
 The best thing about shipping labels is that they’re so easy to apply. Before I got these, I was just printing my labels on regular paper, cutting the paper, and then taping it to my packages. This was a real pain and I frequently found myself cussing at the box. Plus I was wasting a lot of tape.
 
 The trick with these is to set the paper size so that you print on only one label a time.
 
-{% include amazon/native-ad.html asin="B015PXX7AG" %}
+[![Shipping Labels](/images/reselling-items/shipping-labels.png)](https://www.amazon.com/gp/product/B015PXX7AG/?tag=hendrixjoseph-20)
 
 ## [5. Shipping Tape](https://www.amazon.com/s/?url=search-alias=office-products&field-keywords=shipping+tape&n=1069242&tag=hendrixjoseph-20)
 
 This is just a must have. You need someway to seal boxes. Just don't use it to tape your labels - use shipping labels that stick!
 
-{% include amazon/search-ad.html category="OfficeProducts" search="shipping tape" %}
+[![Shipping Tape](/images/reselling-items/shipping-tape.png)](https://www.amazon.com/s/?url=search-alias=office-products&field-keywords=shipping+tape&n=1069242&tag=hendrixjoseph-20)
 
 ## [6. Laser Printer](https://www.amazon.com/s/?url=search-alias=office-products&field-keywords=laser+printer&n=172648&tag=hendrixjoseph-20)
 
@@ -58,6 +58,6 @@ These have come down in price recently, and they're about the same size are inkj
 
 Of course, I feel somewhat hypocritical about that last one because I still am using my inkjet printer that I bought a decade ago. Hey, it still works!
 
-{% include amazon/search-ad.html category="OfficeProducts" search="laser printer" %}
+[![Laser Printers](/images/reselling-items/laser-printers.png)](https://www.amazon.com/s/?url=search-alias=office-products&field-keywords=shipping+tape&n=1069242&tag=hendrixjoseph-20)
 
 Do you think I missed anything? Comment below!
