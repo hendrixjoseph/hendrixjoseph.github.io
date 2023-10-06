@@ -1,4 +1,4 @@
 ---
 title: Chase Freedom Referral
-redirect_to: https://www.referyourchasecard.com/18f/D1T2JTEIQ2
+redirect_to: https://www.referyourchasecard.com/18o/NKPHLCST2R
 ---
