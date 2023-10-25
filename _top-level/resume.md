@@ -18,7 +18,7 @@ noad: true
 
 #### PDF Generation | Senior Software Engineer | October 2023 - Present
 
-* Implemented custom PDF generation capabilities using Spring Boot, Thymeleaf, and OpenHtmlToPdf.
+* Implemented custom PDF generation capabilities using Spring Boot, [Thymeleaf](https://www.thymeleaf.org/), and [OpenHtmlToPdf](https://github.com/danfickle/openhtmltopdf).
 * Enabled the upgraded Angular/TypeScript application to request the custom PDF via REST parameters.
 
 #### Internal Sales Tools | Senior Software Engineer | June 2023 - September 2023
