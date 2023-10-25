@@ -16,7 +16,12 @@ noad: true
 
 ### Crown Equipment Corporation | Senior Software Engineer | June 2023 - Present
 
-#### Internal Sales Tools | Senior Software Engineer | June 2023 - Present
+#### PDF Generation | Senior Software Engineer | October 2023 - Present
+
+* Implemented custom PDF generation capabilities using Spring Boot, Thymeleaf, and OpenHtmlToPdf.
+* Enabled the upgraded Angular/TypeScript application to request the custom PDF via REST parameters.
+
+#### Internal Sales Tools | Senior Software Engineer | June 2023 - September 2023
 
 * Worked on upgrading the front-end of an application to Angular 14, which included upgrading the TypeScript version to TypeScript 4.7.
 * Worked on upgrading the back-end of the application to versions 2.7.0 of the Spring Boot Framework, including Spring Data (JDBC & JPA), Spring MVC, Spring Security, and testing using Spring Test and JUnit 5.
