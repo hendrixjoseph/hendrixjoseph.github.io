@@ -1,4 +1,4 @@
 ---
 title: Webull Referral
-redirect_to: https://act.webull.com/i/LoFDuaFWhy2G?source=wb_invite_us_03
+redirect_to: https://a.webull.com/hMqLoFDuaFWhy2Gbma
 ---
