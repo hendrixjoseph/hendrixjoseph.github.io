@@ -1,0 +1,73 @@
+#content:fullscreen {
+  background: whitesmoke;
+  justify-content: center;
+}
+
+#content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#canvas {
+  min-width: 800px;
+  min-height: 600px;
+}
+
+#controls {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+#content,
+#controls {
+  width: 800px;
+}
+
+#installButton {
+  margin: 1rem;
+}
+
+.d-pad {
+  --d-pad-size: 150px;
+  --button-size: 50px;
+  --button-center: 50px;
+  width: var(--d-pad-size);
+  height: var(--d-pad-size);
+  position: relative;
+  margin: 10px;
+}
+
+.d-pad button {
+  width: var(--button-size);
+  height: var(--button-size);
+  font-size: xx-large;
+  position: absolute;
+}
+
+.d-pad .up {
+  top: 0;
+  left: var(--button-center);
+}
+
+.d-pad .right {
+  right: 0;
+  top: var(--button-center);
+}
+
+.d-pad .down {
+  bottom: 0;
+  left: var(--button-center);
+}
+
+.d-pad .left {
+  left: 0;
+  top: var(--button-center);
+}
+
+@media screen and (max-width: 1000px)
+.container {
+  max-width: 100%;
+  padding: 0;
+}
