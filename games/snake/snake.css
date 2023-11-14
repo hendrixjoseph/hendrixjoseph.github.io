@@ -10,8 +10,8 @@
 }
 
 #canvas {
-  min-width: 800px;
-  min-height: 600px;
+  width: min(800px, 100%);
+  aspect-ratio: 800/600;
 }
 
 #controls {
@@ -22,7 +22,7 @@
 
 #content,
 #controls {
-  width: 800px;
+  width: min(800px, 100%);
 }
 
 #installButton {
