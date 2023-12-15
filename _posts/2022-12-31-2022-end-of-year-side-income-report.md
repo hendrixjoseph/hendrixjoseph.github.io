@@ -9,7 +9,7 @@ image: /images/covers/2022-side-income.png
 
 It's the last day of the year. And, has been since tradition since 2016, I'm posting my end-of-year income report.
 
-Here are the other six::
+Here are the other six:
 
 * [2021 End of Year Side Income Report](https://www.joehxblog.com/2021-end-of-year-side-income-report/)
 * [2020 End of Year Side Income Report](https://www.joehxblog.com/2020-end-of-year-side-income-report/)
