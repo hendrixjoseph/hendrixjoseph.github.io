@@ -25,7 +25,7 @@ Here are the other six::
 * Chase Freedom &rarr; $358.07
 * US Bank Cash+ &rarr; $130.75
 * [Capital One Quicksilver](https://www.joehxblog.com/capital-one/) &rarr; $25.86
-* Citi Double Cash &arr; $864.79
+* Citi Double Cash &rarr; $864.79
 * Total &rarr; $1642.26
 
 No new cards this year, so my Citi Double Cash made the most this year.
