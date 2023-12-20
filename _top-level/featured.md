@@ -6,15 +6,12 @@ excerpt: Places online where either I or this blog have been mentioned or linked
 
 ## The Current Domain (joehxblog.com)
 
-Interviewed on the following webpages:
-
-* [How one couple paid off over $100K in debt in 3 years](https://www.finder.com/couple-paid-off-100k-debt-side-hustles)
-
 Quoted on the following webpages:
 
 * [13 ways to win Black Friday in 2020](https://mediafeed.org/13-ways-to-win-black-friday-in-2020/)
 * [Hindsight is 2020: How to learn from money mistakes](https://www.consolidatedcredit.org/financial-news/hindsight-is-2020-how-to-learn-from-money-mistakes/#joehxblog)
 * [The Best Black Friday Tips for 2020](https://adimesaved.com/best-black-friday-tips)
+* [The Best Financial Tips for Newlyweds](https://thebudgetsavvybride.com/the-best-financial-tips-for-newlyweds/#h-23-let-your-spouse-know-when-you-pay-a-bill)
 
 Mentioned on the following webpages:
 
@@ -28,7 +25,6 @@ Listed in the following blog directories:
 Otherwise backlinked on the following webpages:
 
 * ['ModuleNotFoundError: No module named 'fastai.vision' Solution 3](https://www.developerload.com/modulenotfounderror-no-module-named-39fastaivision39#solution_3)
-* [Dorco Pace 6 Plus – Six Blade Razor for Men Cartridge Refills (8 Pack)](https://www.techpersonalcare.com/dorco-pace-6-plus-six-blade-razor-for-men-cartridge-refills-8-pac/)
 
 ## The Old Domain (hendrixjoseph.github.io)
 
@@ -51,7 +47,6 @@ Backlinked on the following webpages:
 Listed in the following blog directories:
 
 * [Camp FIRE Finance Directory](https://www.campfirefinance.com/directory/) / [actual page](https://www.campfirefinance.com/directory/joes-github-blog/)
-* [Fly to Fi Know Your Blogger](https://flytofi.com/know-your-blogger/) / [actual page](https://flytofi.com/know-your-blogger-joes-github-blog/)
 
 ## Mentioned, but not backlinked, on the following pages
 
@@ -73,6 +68,7 @@ Many of the links of these lost backlinks will be linked to the Wayback Machine 
 No longer listed, or the following blog directories no longer exist:
 
 * [Abandoned Cubicle's Blogroll](https://web.archive.org/web/20190715155533/https://www.abandonedcubicle.com/blogroll/)
+* [Fly to Fi Know Your Blogger](https://web.archive.org/web/20211026151735/https://flytofi.com/know-your-blogger-joes-github-blog/)
 * [Modest Money Top Finance Blogs](https://www.modestmoney.com/top-finance-blogs/)
 * [My Sons Father Personal Finance Blogs by Personality](https://web.archive.org/web/20181113063540/http://www.mysonsfather.com/personal-finance-by-personality/)
 * [Rockstar Finance Personal Finance Blog Directory](https://directory.rockstarfinance.com/personal-finance-blogs/) / [actual page](https://directory.rockstarfinance.com/blogs/1988/Joes-GitHub-Blog)
@@ -80,18 +76,21 @@ No longer listed, or the following blog directories no longer exist:
 The following articles still exist, but at new URLs:
 
 * [7 Black Friday Hacks - A Dime Saved](https://web.archive.org/web/20200928011400/https://adimesaved.com/7-black-friday-hacks) is now *The Best Black Friday Tips for 2020*
-* [Best Financial Tips For Newlyweds And Couples](https://web.archive.org/web/20190617162025/https://moneypedals.com/best-financial-advice-for-newlyweds-and-couples/)
+* The following are now at TheBudgetSavvyBride.com:
+  * [Best Financial Advice For Couples And Newlyweds at MostlyFinance.com](https://web.archive.org/web/20210307161125/https://mostlyfinance.com/best-financial-advice-for-couples-and-newlyweds/#23_Let_Your_Spouse_Know_When_You_Pay_A_Bill)
+  * [Best Financial Tips For Newlyweds And Couples at MoneyPedals.com](https://web.archive.org/web/20190617162025/https://moneypedals.com/best-financial-advice-for-newlyweds-and-couples/)
+  * [Best Financial Tips For Newlyweds And Couples at TheMoneyMix.com](https://themoneymix.com/best-financial-advice-for-newlyweds-and-couples/)
 
 The following are no longer available:
 
-* [Best Financial Advice For Couples And Newlyweds](https://web.archive.org/web/20210307161125/https://mostlyfinance.com/best-financial-advice-for-couples-and-newlyweds/#23_Let_Your_Spouse_Know_When_You_Pay_A_Bill)
-* [Best Financial Tips For Newlyweds And Couples](https://themoneymix.com/best-financial-advice-for-newlyweds-and-couples/)
+* [13 ways you can make the most of Black Friday in 2020 (slide 4/11)](https://www.msn.com/en-us/money/personalfinance/13-ways-you-can-make-the-best-of-black-friday-in-2020/ss-BB1aWxon?ocid=st#image=4)
+* [Dorco Pace 6 Plus – Six Blade Razor for Men Cartridge Refills (8 Pack)](https://web.archive.org/web/20230326000922/https://www.techpersonalcare.com/dorco-pace-6-plus-six-blade-razor-for-men-cartridge-refills-8-pac/)
 * [Early Retirement Wisdom From 50+ Top Finance Writers](https://themoneymix.com/early-retirement/)
 * [Financial Advice For Couples And Newlyweds From 36 Experts](https://web.archive.org/web/20221203114803/https://marriagement.com.ng/financial-advice-for-couples/#23_Let_Your_Spouse_Know_When_You_Pay_A_Bill)
 * [Financial Articles for the Month of March, 2018](https://web.archive.org/web/20181114213556/https://www.rooscpa.com/financial-articles/)
+* [How one couple paid off over $100K in debt in 3 years](https://web.archive.org/web/20230204182442/https://www.finder.com/couple-paid-off-100k-debt-side-hustles)
+* [Retrospectiva para 2020: Cómo aprender de los errores del dinero](https://web.archive.org/web/20210731023244/https://www.consolidatedcredit.org/es/notas-financieras/retrospectiva-para-2020-como-aprender-de-los-errores-del-dinero/#joehxblog) (same as the "Hindsight is 2020" that still exists, but in Spanish)
 * [Rockstar Finance March 12th, 2018 Features](https://rockstarfinance.com/mar-12th-2018/)
 * [The Financial Diet's The 7 Personal Finance Articles We Loved This Week (March 16, 2018)](https://web.archive.org/web/20181114213603/https://thefinancialdiet.com/the-7-personal-finance-articles-we-loved-this-week-2/)
 * [Why Giving A Student Loan Payment To Someone Is The Perfect Gift](https://web.archive.org/web/20210117152842/https://blog.pillar.app/blog/why-giving-a-student-loan-payment-to-someone-is-the-perfect-gift)
-* [13 ways you can make the most of Black Friday in 2020 (slide 4/11)](https://www.msn.com/en-us/money/personalfinance/13-ways-you-can-make-the-best-of-black-friday-in-2020/ss-BB1aWxon?ocid=st#image=4)
-* [Retrospectiva para 2020: Cómo aprender de los errores del dinero](https://web.archive.org/web/20210731023244/https://www.consolidatedcredit.org/es/notas-financieras/retrospectiva-para-2020-como-aprender-de-los-errores-del-dinero/#joehxblog) (same as the "Hindsight is 2020" that still exists, but in Spanish)
 * [why cant i buy crypto on robinhood](https://web.archive.org/web/20210619071055/https://themillennialmirror.com/trends/why-cant-i-buy-crypto-on-robinhood/)
