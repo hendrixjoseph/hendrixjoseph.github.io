@@ -53,6 +53,6 @@ I also made a [Snake Game](https://www.joehxblog.com/games/snake/) (with the [so
 * Earnings / 1,000 views = $17.41 / 5.5 = $3.17
 * Earnings / 1,000 impressions = $17.41 / 14.443 = $1.21
 * Earnings / day = $17.41 / 31 = $0.56
-* Users / day = 2,800 / 31 = 83.9
-* Views / day = 15,000 / 31 = 177.4
-* Impressions / day = 12,950 / 31 = 465.9
+* Users / day = 2,600 / 31 = 83.9
+* Views / day = 5,500 / 31 = 177.4
+* Impressions / day = 14,443 / 31 = 465.9
