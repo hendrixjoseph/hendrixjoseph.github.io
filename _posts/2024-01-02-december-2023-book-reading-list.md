@@ -5,7 +5,7 @@ tags: [books, reading list]
 keywords: [book, read, books, reading, book reading, books i read]
 hashtags: [books, reading]
 ---
-.
+
 2023 is over. This post will mark the 71st regular monthly book reading post - the first one from [January 2018](https://www.joehxblog.com/january-2018-book-reading-list/).
 
 Which is amazing since that's before [my son was born](https://www.joehxblog.com/life-update/). And I've had a daughter since then, too.
