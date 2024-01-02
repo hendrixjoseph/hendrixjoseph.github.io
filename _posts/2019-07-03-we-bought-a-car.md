@@ -46,7 +46,7 @@ Thankfully the aluminum rims allowed me to peak at the brakes. All four wheels h
 
 For the test drive, I made sure to hit a bump on each wheel. No clunking sounds.
 
-The front tires where new - they still had what I call "the pokey things" that are a product of the manufacturing process. (Apparently, they have a name - "[vent spews](https://www.automotiveaddicts.com/50196/little-hairs-on-your-new-tires-have-a-name)") The rear tires still had plenty of tread on them.
+The front tires were new - they still had what I call "the pokey things" that are a product of the manufacturing process. (Apparently, they have a name - "[vent spews](https://www.automotiveaddicts.com/50196/little-hairs-on-your-new-tires-have-a-name)") The rear tires still had plenty of tread on them.
 
 While having new front tires is a good thing, it does prevent me from seeing the wear pattern of the old tires. An even wear pattern would indicate the car had good alignment. An uneven wear pattern - say, the inside of the tire is more worn than the outside - could indicate bad alignment or even a bent suspension.
 
