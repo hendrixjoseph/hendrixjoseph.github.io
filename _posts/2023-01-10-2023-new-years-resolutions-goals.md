@@ -60,7 +60,7 @@ Now, let's look at this year's goals:
 
 ## Improve My Health
 
-* Weight 199 lbs or less
+* Weigh 199 lbs or less
 * Run a 5k non-stop
 * Run a 5k in less than 30 minutes
 * Run non-stop for:
