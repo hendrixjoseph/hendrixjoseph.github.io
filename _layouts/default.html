@@ -50,12 +50,12 @@
 		<title itemprop='name'>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }}{% unless page.title %} – {{ site.description }}{% if paginator.page
  %} - Page {{ paginator.page }}{% endif %}{% endunless %}</title>
 		{% if page.noindex or layout.noindex %}<meta name="robots" content="noindex" />{% endif %}
-		
+
 		{% include metadata/meta.html %}
 		{% include metadata/opengraph.html %}
 		{% include metadata/twittercard.html %}
 		{% unless page.noad %}{% include google/adsense.html %}{% endunless %}
-		
+
 		{% if mathjax %}
         <script type="text/x-mathjax-config">MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});</script>
 	  	<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>{% endif %}
@@ -63,8 +63,8 @@
 		{% if page.jquery %}<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>{% endif %}
 		{% for javascript in javascripts %}{% unless javascript == blank %}<script src="{{ javascript }}"></script>{% endunless %}{% endfor %}
 		{% for javascript in deferedjavascripts %}{% unless javascript == blank %}<script defer src="{{ javascript }}"></script>{% endunless %}{% endfor %}
-		
-		
+
+
 		{% for css in csses %}{% unless css == blank %}<link rel="stylesheet" type="text/css" href="{{ css }}" />{% endunless %}{% endfor %}
 		<link rel="stylesheet" href="/css/font-awesome/fontawesome.css">
 		<link rel="stylesheet" href="/css/font-awesome/brands.css">
@@ -76,14 +76,14 @@
 		{% include google/analytics.html %}
 	</head>
 	{% if layout.isPost %}<body itemscope itemtype="http://schema.org/BlogPosting">{% elsif page.url == "/index.html" or page.url contains "/tags/" or page.url contains "/page" %}<body itemscope itemtype="http://schema.org/Blog">{% else %}<body>{% endif %}
-{% include metadata/schema.html %}  
-{% include social/facebook.html %}	    
+{% include metadata/schema.html %}
+{% include social/facebook.html %}
 
 <div class="container">
 {% include header.html %}
 <div id="main" role="main">
 {{ content }}
-</div>	
+</div>
 {% include footer.html %}
 </div>
 

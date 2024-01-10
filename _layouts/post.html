@@ -7,7 +7,7 @@ javascripts: []
 <main class="posts">
 <article class="post">
 {% include post-header.html post=page hlevel="1" %}
-{% include social/share.html %} 
+{% include social/share.html %}
 
   <hr />
   <div>
@@ -18,15 +18,15 @@ javascripts: []
     </nav>
   </div>
   <hr />
-  
+
   {% include affiliate-disclosure.html %}
 
   <div itemprop="articleBody" class="entry{% if page.twitter_post %} twitter-post{% endif %}">
     {{ content }}
   </div>
-  
+
   {% include comments/comments.html %}
-  
+
 </article>
 </main>
 {% include navbar.html %}
