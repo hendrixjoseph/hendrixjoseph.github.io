@@ -342,3 +342,22 @@ article, #see-also, .my-amazon-ad, .navbar, .fancy-border {
     margin-left: auto;
     margin-right: auto;
 }
+
+.relatedPosts {
+    border: 1px solid #ddd;
+    box-shadow: 5px 5px 0px 0px #f1f1f1;
+    padding: 1em;
+    margin: 1em;
+    
+    div {
+        font-weight: bold;
+
+        span {
+            font-style: italic;
+        }
+
+        a {
+            font-weight: normal;
+        }
+    }
+}

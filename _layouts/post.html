@@ -9,23 +9,35 @@ javascripts: []
 {% include post-header.html post=page hlevel="1" %}
 {% include social/share.html %}
 
-  <hr />
-  <div>
-    <span itemprop="datePublished" content="{{ page.date | date: "%Y-%m-%d" }}" class="date">{{ page.date | date: "%B %e, %Y" }}</span>
-    <meta itemprop="dateModified" content="{% if page.updated %}{{ page.updated }}{% else %}{{ page.date | date: "%Y-%m-%d" }}{% endif %}" />
-    <nav class="tags">
-      {% assign tags = page.tags | sort %}{% for tag in tags %}<a href="/tags/#{{ tag | slugify }}">{{ tag }}</a>{% unless forloop.last %}|{% endunless %}{% endfor %}
-    </nav>
-  </div>
-  <hr />
+<hr />
+<div>
+<span itemprop="datePublished" content="{{ page.date | date: "%Y-%m-%d" }}" class="date">{{ page.date | date: "%B %e, %Y" }}</span>
+<meta itemprop="dateModified" content="{% if page.updated %}{{ page.updated }}{% else %}{{ page.date | date: "%Y-%m-%d" }}{% endif %}" />
+<nav class="tags">
+{% assign tags = page.tags | sort %}{% for tag in tags %}<a href="/tags/#{{ tag | slugify }}">{{ tag }}</a>{% unless forloop.last %}|{% endunless %}{% endfor %}
+</nav>
+</div>
+<hr />
 
-  {% include affiliate-disclosure.html %}
+{% include affiliate-disclosure.html %}
 
-  <div itemprop="articleBody" class="entry{% if page.twitter_post %} twitter-post{% endif %}">
-    {{ content }}
-  </div>
+<div itemprop="articleBody" class="entry{% if page.twitter_post %} twitter-post{% endif %}">
+{{ content }}
+</div>
 
-  {% include comments/comments.html %}
+<div class="relatedPosts">
+{% if page.previous.url %}<div>Previous Post: <a class="prev" href="{{page.previous.url}}">{{page.previous.title}}</a></div>
+{% endif %}
+{% if page.next.url %}<div>Next Post: <a class="next" href="{{page.next.url}}">{{page.next.title}}</a></div>{% endif %}
+{% for tag in tags %}{% for other_posts in site.tags[tag] %}
+{% if forloop.length == 1 %}{% break %}{% endif %}
+{% if other_posts == page %}{% assign index = forloop.index0 | minus: 1 | modulo: forloop.length %}{% break %}{% endif %}
+{% endfor %}
+{% if index %}<div>Next <span>{{ tag }}</span> Post: <a class="next" href="{{site.tags[tag][index].url}}">{{site.tags[tag][index].title}}</a></div>{% endif %}
+{% endfor %}
+</div>
+
+{% include comments/comments.html %}
 
 </article>
 </main>
