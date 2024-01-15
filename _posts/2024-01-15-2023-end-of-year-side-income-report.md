@@ -101,7 +101,7 @@ This year I'm also not counting my BlockFi account. I was hoping the bankruptcy 
   * Equifax Breach Settlement &rarr; $5.21
   * Lithium-Ion Battery Settlement Settlement &rarr; $1.96
 * Quora &rarr; $13.10
-* Total &rarr; $2361.25
+* Total &rarr; $2,361.25
 
 ## Totals
 
