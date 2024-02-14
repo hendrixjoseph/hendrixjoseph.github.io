@@ -36,10 +36,15 @@ excerpt: Sitemap for JoeHx Blog
 {% for tool in site.tools %}
 * [{{ tool.title }}]({{ site.url }}{{ tool.url }}){% endfor %}
 
+## Games
+
+{% assign games = site.pages | where_exp: "page", "page.path contains 'games'" %}{% for game in games %}
+* [{{ game.title }}]({{ site.url }}{{ game.url }}){% endfor %}
+
 ## Data
 
 {% assign pages = site.pages | where_exp: "page", "page.path contains 'data'" %}{% for page in pages %}
-* [{{ page.url }}]({{ site.url }}{{page.url}}){% endfor %}
+* [{{ page.url }}]({{ site.url }}{{ page.url }}){% endfor %}
 
 ## Posts
 
@@ -50,7 +55,7 @@ excerpt: Sitemap for JoeHx Blog
 
 ## Pages
 
-{% for page in (1..45) %}
+{% for page in (1..99) %}
 * [Page {{ page }}]({% unless page == 1 %}{{ site.paginate_path | replace: ':num', page }}{% endunless %}){% endfor %}
 
 ## 404s
