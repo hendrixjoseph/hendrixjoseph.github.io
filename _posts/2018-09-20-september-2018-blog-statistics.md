@@ -9,28 +9,28 @@ image: /images/blog-stats/2018/09/search-console.png
 
 It's been a steady month in terms of stats for this blog. While there hasn't been much in the terms of improvement stats-wise, they have remained consistently good.
 
-There was a small spike in pageviews on August 21st due to my article [Will Making Twice-Monthly Half Mortgage Payments Save Money?]({{ site.url }}//will-making-twice-monthly-half-mortgage-payments-save-money/) being featured on the Noteworthy section of the [Rockstar Finance](https://rockstarfinance.com/) email.
+There was a small spike in pageviews on August 21st due to my article [Will Making Twice-Monthly Half Mortgage Payments Save Money?](/will-making-twice-monthly-half-mortgage-payments-save-money/) being featured on the Noteworthy section of the [Rockstar Finance](https://rockstarfinance.com/) email.
 
 There's also a new set of statistics this month - stats from Google Search Console.
 
 If you want to view any previous month's statistics, here are the links:
 
-* [January 2018 Blog Statistics](https://www.joehxblog.com/january-2018-blog-statistics/)
-* [February 2018 Blog Statistics](https://www.joehxblog.com/february-2018-blog-statistics/)
-* [March 2018 Blog Statistics](https://www.joehxblog.com/march-2018-blog-statistics/)
-* [April 2018 Blog Statistics](https://www.joehxblog.com/april-2018-blog-statistics/)
-* [May 2018 Blog Statistics](https://www.joehxblog.com/may-2018-blog-statistics/)
-* [June 2018 Blog Statistics](https://www.joehxblog.com/june-2018-blog-statistics/)
-* [July 2018 Blog Statistics](https://www.joehxblog.com/july-2018-blog-statistics/)
-* [August 2018 Blog Statistics](https://www.joehxblog.com/august-2018-blog-statistics/)
+* [January 2018 Blog Statistics](/january-2018-blog-statistics/)
+* [February 2018 Blog Statistics](/february-2018-blog-statistics/)
+* [March 2018 Blog Statistics](/march-2018-blog-statistics/)
+* [April 2018 Blog Statistics](/april-2018-blog-statistics/)
+* [May 2018 Blog Statistics](/may-2018-blog-statistics/)
+* [June 2018 Blog Statistics](/june-2018-blog-statistics/)
+* [July 2018 Blog Statistics](/july-2018-blog-statistics/)
+* [August 2018 Blog Statistics](/august-2018-blog-statistics/)
 
 I published only five posts this month, down from the fourteen I published in the last two months (seven posts in July and seven posts in August):
 
-* [Labor Day Themed Table Topics]({{ site.url }}/labor-day-themed-table-topics/)
-* [My Robinhood Stock Picks for August 2018]({{ site.url }}/my-robinhood-stock-picks-for-august-2018/)
-* [Star Trek Timelines]({{ site.url }}/star-trek-timelines/)
-* [August 2018 Book Reading List]({{ site.url }}/august-2018-book-reading-list/)
-* [How to Self-Publish a Book on Amazon]({{ site.url }}/how-to-self-publish-a-book-on-amazon/)
+* [Labor Day Themed Table Topics](/labor-day-themed-table-topics/)
+* [My Robinhood Stock Picks for August 2018](/my-robinhood-stock-picks-for-august-2018/)
+* [Star Trek Timelines](/star-trek-timelines/)
+* [August 2018 Book Reading List](/august-2018-book-reading-list/)
+* [How to Self-Publish a Book on Amazon](/how-to-self-publish-a-book-on-amazon/)
 
 And now for the numbers:
 
