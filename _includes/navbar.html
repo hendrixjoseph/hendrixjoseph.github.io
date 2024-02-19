@@ -2,7 +2,7 @@
 <div class="short-bio">I am Joe. I'm one of many Joes, but I am uniquely me. I'm the messiest organized guy you'll ever meet. My glasses are always bent and my hair always a mess. I've never had a role model and as such am my own person. Scientist, programmer, Christian, libertarian, and life long learner.</div>
 <div class="short-bio" style="font-weight: bold;">
 Latest post from {{ site.posts.first.date | date: "%B %e, %Y" }}: <a href="{{ site.posts.first.url }}">{{ site.posts.first.title }}</a>
-{% if site.posts.first.image %}<a href="{{ site.posts.first.url }}"><img src="{{ site.posts.first.image }}" /></a>{% endif %}
+{% if site.posts.first.image %}<a href="{{ site.posts.first.url }}"><img src="{{ site.posts.first.image }}" alt="Featured image for {{ site.posts.first.title }}" /></a>{% endif %}
 </div>
 <div class="follow-links">
 <a href="https://github.com/hendrixjoseph" title="GitHub Profile"><img alt="GitHub followers" height="28" src="https://img.shields.io/github/followers/hendrixjoseph?label=GitHub&style=for-the-badge"></a>
