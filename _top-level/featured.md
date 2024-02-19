@@ -10,6 +10,7 @@ Quoted on the following webpages:
 
 * [13 ways to win Black Friday in 2020](https://mediafeed.org/13-ways-to-win-black-friday-in-2020/)
 * [Hindsight is 2020: How to learn from money mistakes](https://www.consolidatedcredit.org/financial-news/hindsight-is-2020-how-to-learn-from-money-mistakes/#joehxblog)
+* [How To Organize A Fun, Offline Networking Event, 5 Ways](https://www.mostlyblogging.com/offline-networking/)
 * [The Best Black Friday Tips for 2020](https://adimesaved.com/best-black-friday-tips)
 * [The Best Financial Tips for Newlyweds](https://thebudgetsavvybride.com/the-best-financial-tips-for-newlyweds/#h-23-let-your-spouse-know-when-you-pay-a-bill)
 
@@ -24,6 +25,8 @@ Listed in the following blog directories:
 
 Otherwise backlinked on the following webpages:
 
+* [10 Money Rules To Live By](https://adimesaved.com/10-money-rules-to-live-by)
+* [Adding Comment Functionality to my Static Jekyll Blog Using Staticman](https://www.henrycole.uk/2022/01/09/Adding-Comment-Functionality-to-My-Static-Jekyll-Blog-Using-Staticman.html#credits)
 * ['ModuleNotFoundError: No module named 'fastai.vision' Solution 3](https://www.developerload.com/modulenotfounderror-no-module-named-39fastaivision39#solution_3)
 
 ## The Old Domain (hendrixjoseph.github.io)
