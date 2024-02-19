@@ -18,7 +18,7 @@ This is easy enough to do on the Amazon website in desktop - simply use [SiteStr
 
 ## My Solution
 
-I designed, created, and published an Android app that can receive a share request from other apps (known as an "intent"), takes the Amazon URLs from that intent and ensures it has your affiliate tag in it, and sends out another share intent with the modified URLs.
+I designed, created, and published an Android app that can receive a share request from other apps (known as an "intent"), takes the [Amazon URLs](/amazon-url-anatomy-dissection/) from that intent and ensures it has your affiliate tag in it, and sends out another share intent with the modified URLs.
 
 This allows the user to search for Amazon products on the Amazon app itself, via the phone's web browser, or any other app that searches for Amazon products, and still be able to tag the links with their affiliate id.
 
