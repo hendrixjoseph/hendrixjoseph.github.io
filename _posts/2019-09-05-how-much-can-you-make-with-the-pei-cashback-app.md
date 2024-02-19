@@ -7,7 +7,7 @@ hashtags: [cashback, freemoney]
 image: /images/pei/pei-logo.png
 ---
 
-## UPDATE: [Pei is dead](/pei-is-dead)
+## UPDATE: [Pei is dead](/pei-is-dead/)
 
 The Pei ([pronounced "pay"](https://peitechnology.zendesk.com/hc/en-us/articles/360029331732-How-do-I-pronounce-Pei-)) Cashback App has been around a little over a year now. Pei currently allows in withdrawals (or "cash outs") via PayPal, Bitcoin, and gift cards.
 

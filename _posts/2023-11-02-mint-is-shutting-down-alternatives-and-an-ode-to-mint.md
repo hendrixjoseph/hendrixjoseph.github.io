@@ -21,7 +21,7 @@ But here are some alternatives to Mint that I've seen discussed around the inter
 * [Moneydance](https://moneydance.com/) by Infinite Kind, also not a web app, but available for Windows, Linux, & Android in addition to iPhone and Mac.
 * [Rocket Money](https://www.rocketmoney.com/)
 * [Simplifi](https://app.simplifimoney.com/) - owned by Quicken
-* [Tiller](tillerhq.com) - embeds into a Google Sheet or Excel Spreadsheet
+* [Tiller](https://www.tillerhq.com/) - embeds into a Google Sheet or Excel Spreadsheet
 * [Wealth Position ](https://www.wealthposition.com/home)
 * [YNAB](https://www.ynab.com/) aka "You Need a Budget"
 
