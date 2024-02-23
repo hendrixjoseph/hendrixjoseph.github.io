@@ -15,6 +15,9 @@ collections:
   referrals:
     output: true
     permalink: /:name/
+  defunct-referrals:
+    output: true
+    permalink: /:name/
   redirects:
     output: true
     permalink: /:name/
@@ -46,6 +49,11 @@ defaults:
       type: "tag-posts"
     values:
       sitemap: false
+  - scope:
+      path: ""
+      type: "defunct-referrals"
+    values:
+      redirect_to: /referral/
 
 navlinks:
   - text: Home
