@@ -23,10 +23,22 @@
     {% include header.html %}
     <div id="main" role="main">
       <main>
-      <article class="post">
+      <article class="post" style="display: flex; align-items: baseline; gap: 2rem; flex-wrap: wrap;">
+        <section style="width: min(800px, 100%);">
           <h1>{{ page.title }}</h1>
           {{ content }}
           <script src="{{ page.script }}.js"></script>
+        </section>
+        <aside>
+            Support me!
+            <ul>
+            {% for referral in site.referrals %}
+            <a href="{{ referral.url }}">
+                <img src="/images/referrals/{{ referral.slug }}.png" width="200" height="50" title="{{ referral.title }}" alt="{{ referral.title }}" />
+            </a>
+            {% endfor %}
+            </ul>
+        </aside>
       </article>
       </main>
     </div>
