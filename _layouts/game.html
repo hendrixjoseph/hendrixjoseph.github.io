@@ -29,8 +29,9 @@
           {{ content }}
           <script src="{{ page.script }}.js"></script>
         </section>
-        <aside>
-            <p>Support me! Use one of the following referrals:</p>
+        <aside style="width: max(275px, calc(100% - 850px)); text-align: center; margin: 0 auto;">
+            <p>Support me!</p>
+            <p>Use one of the following referrals:</p>
             {% for referral in site.referrals %}
             <a href="{{ referral.url }}">
                 <img src="/images/referrals/{{ referral.slug }}.png" width="200" height="50" title="{{ referral.title }}" alt="{{ referral.title }}" />
