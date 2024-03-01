@@ -30,14 +30,12 @@
           <script src="{{ page.script }}.js"></script>
         </section>
         <aside>
-            Support me! Use one of the following referrals:
-            <ul>
+            <p>Support me! Use one of the following referrals:</p>
             {% for referral in site.referrals %}
             <a href="{{ referral.url }}">
                 <img src="/images/referrals/{{ referral.slug }}.png" width="200" height="50" title="{{ referral.title }}" alt="{{ referral.title }}" />
             </a>
             {% endfor %}
-            </ul>
         </aside>
       </article>
       </main>
