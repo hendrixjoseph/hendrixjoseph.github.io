@@ -1,4 +1,4 @@
 ---
-title: Capital One Referral
+title: Capital One Quicksilver Referral
 redirect_to: https://capital.one/31Fe2uW
 ---
