@@ -6,7 +6,7 @@ tags: [money]
 
 Mint, the personal finance app, has announced [they're shutting down January 1st, 2014](https://mint.intuit.com/blog/mint-app-news/intuit-credit-karma-welcomes-minters/).
 
-I've been using Mint a long time. The first transaction I have in there is a tuition payment of $1,830 to Wright State University on August 15th, 2014. But I've been using it longer than that - since before it was Mint - when it was called [PageOnce](https://techcrunch.com/2008/06/02/one-stop-account-manager-pageonce-launches/). Back then it was meant to aggregate all your feeds, not just money feeds. Feed from your email, Facebook, and even MySpace.
+Now I've been using Intuit products for a while now (I love the TurboTax [Taxcaster](https://turbotax.intuit.com/tax-tools/calculators/taxcaster/) tool), and Mint has been a staple in my day-to-day financial management. I've been using Mint a long time. The first transaction I have in there is a tuition payment of $1,830 to Wright State University on August 15th, 2014. But I've been using it longer than that - since before it was Mint - when it was called [PageOnce](https://techcrunch.com/2008/06/02/one-stop-account-manager-pageonce-launches/). Back then it was meant to aggregate all your feeds, not just money feeds. Feed from your email, Facebook, and even MySpace.
 
 ## Alternatives to Mint?
 
