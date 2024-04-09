@@ -48,7 +48,7 @@ Here are the 10 books I read to my daughter:
 * [The Cat in the Hat Comes Back](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/servlet/SearchResults?tn=The Cat in the Hat Comes Back)
 * [Wonder Walkers](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/servlet/SearchResults?tn=Wonder Walkers)
 
-## The Books I Read for Me+
+## The Books I Read for Me
 
 The fiction book I read was [Exit to Eden](https://www.amazon.com/dp/B00DB3FU2G/?tag=hendrixjoseph-20). A bit out of my comfort zone.
 
