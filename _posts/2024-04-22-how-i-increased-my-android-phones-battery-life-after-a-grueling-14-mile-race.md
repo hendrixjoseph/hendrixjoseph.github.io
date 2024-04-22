@@ -1,7 +1,8 @@
 ---
 layout: post
 title: How I Increased My Android Phone's Battery Life After a Grueling 14-Mile Race
-tags: [artificial intelligence]
+tags: [android]
+image: /images/android-lift-to-check-phone-settings.png
 ---
 
 Earlier this year I was running a 14-mile race - the [Frosty 14](https://orrrc.org/frosty-14/) put on by the Ohio River Road Runners Club.
@@ -28,6 +29,6 @@ And there is.
 
 At least on my phone - a Google Pixel 4a (I told you it was old and outdated) - it's under Settings -> Display -> Lock Screen -> Lift to check phone. Or just search "lift" under settings.
 
-![screenshot of searching for "lift" under settings](/image/android-lift-to-check-phone-settings.png)
+![screenshot of searching for "lift" under settings](/images/android-lift-to-check-phone-settings.png)
 
 Has it helped my battery life? I haven't ran another 14-mile race yet, but I feel it has. Significantly so. I even can run with the screen on full brightness - allowing me to read my phone under the full brightness of the sun - without a dramatic loss of power.
