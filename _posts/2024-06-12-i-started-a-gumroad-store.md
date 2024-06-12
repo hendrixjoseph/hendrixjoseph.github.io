@@ -36,4 +36,4 @@ Inkscape and Paint.net are both free tools. I've been using Inkscape for years a
 
 ## Conclusion
 
-If you want to look at my Gumroad store itself, head on over to https://joehx.gumroad.com/.
+If you want to look at my Gumroad store itself, head on over to <https://joehx.gumroad.com/>.
