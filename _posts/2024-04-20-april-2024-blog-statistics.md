@@ -21,7 +21,7 @@ I wrote three posts:
 * Sessions &rarr; 1,500
 * Views &rarr; 1,600
 
-{% include image.html src="/images/blog-stats/2024/04/stats.webp" caption="Google Analytics Graph for March" %}
+{% include image.html src="/images/blog-stats/2024/04/stats.webp" caption="Google Analytics Graph for April" %}
 
 ## Google Search Console
 
@@ -29,7 +29,7 @@ I wrote three posts:
 * Search Impressions &rarr; 48,800
 * Average position &rarr; 34.3
 
-{% include image.html src="/images/blog-stats/2024/04/search-console.webp" caption="Google Search Console Graph for March" %}
+{% include image.html src="/images/blog-stats/2024/04/search-console.webp" caption="Google Search Console Graph for April" %}
 
 ## AdSense
 
@@ -38,7 +38,7 @@ I wrote three posts:
 * Impressions &rarr; 5,668
 * Clicks &rarr; 13
 
-{% include image.html src="/images/blog-stats/2024/04/adsense.webp" caption="Google AdSense Graph for March" %}
+{% include image.html src="/images/blog-stats/2024/04/adsense.webp" caption="Google AdSense Graph for April" %}
 
 ## Moz Stats
 

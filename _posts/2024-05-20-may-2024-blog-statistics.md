@@ -22,7 +22,7 @@ I wrote four posts:
 * Sessions &rarr; 1,000
 * Views &rarr; 1,000
 
-{% include image.html src="/images/blog-stats/2024/05/stats.webp" caption="Google Analytics Graph for March" %}
+{% include image.html src="/images/blog-stats/2024/05/stats.webp" caption="Google Analytics Graph for May" %}
 
 ## Google Search Console
 
@@ -30,7 +30,7 @@ I wrote four posts:
 * Search Impressions &rarr; 34,200
 * Average position &rarr; 38.6
 
-{% include image.html src="/images/blog-stats/2024/05/search-console.webp" caption="Google Search Console Graph for March" %}
+{% include image.html src="/images/blog-stats/2024/05/search-console.webp" caption="Google Search Console Graph for May" %}
 
 ## AdSense
 
@@ -39,7 +39,7 @@ I wrote four posts:
 * Impressions &rarr; 3,111
 * Clicks &rarr; 13
 
-{% include image.html src="/images/blog-stats/2024/05/adsense.webp" caption="Google AdSense Graph for March" %}
+{% include image.html src="/images/blog-stats/2024/05/adsense.webp" caption="Google AdSense Graph for May" %}
 
 ## Moz Stats
 
@@ -54,4 +54,4 @@ I wrote four posts:
 * Earnings / day = $2.79 / 30 = $0.09
 * Users / day = 873 / 30 = 29.1
 * Views / day = 1,000 / 30 = 33.3
-* Impressions / day = 3,111 / 31 = 103.7
+* Impressions / day = 3,111 / 30 = 103.7
