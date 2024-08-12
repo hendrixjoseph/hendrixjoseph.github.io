@@ -97,6 +97,6 @@ To convert mph to km/hr, we only need to multiply mph by 1.609, the number of ki
 
 The walking part of the chart isn't too interesting - as you go faster, you burn more calories per distance.
 
-Running, however, is a bit more interesting. Running becomes more efficient until you hit 14.5 km/hr - about 9 mph or a pace of 6.6 miles per minute. After that, it starts to get less efficient.
+Running, however, is a bit more interesting. Running becomes more efficient until you hit 14.5 km/hr - about 9 mph or a pace of 6.6 minutes per mile. After that, it starts to get less efficient.
 
 Conclusion? Slow walks are the most efficient. But if you have to run, about a 7 minute mile is the most efficient.
