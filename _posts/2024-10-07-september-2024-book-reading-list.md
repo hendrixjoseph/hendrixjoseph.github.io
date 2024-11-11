@@ -61,4 +61,4 @@ Here are the thirty-one books I read to my daughter:
 
 I continued with the Foundation series with [Second Foundation](https://www.amazon.com/Second-Foundation-Isaac-Asimov-ebook/dp/B000FC1PWU/?tag=hendrixjoseph-20). After that, I only have two books left in the series (and I'm currently reading the next one).
 
-For non-fiction, I read [PProofiness: How You're Being Fooled by the Numbers by Charles Seife](https://www.amazon.com/Proofiness-Youre-Being-Fooled-Numbers-ebook/dp/B0042VJ1OE/?tag=hendrixjoseph-20). An entertaining read, the book describes the bad math used by people - such as politicians - who shape our world. Sometimes intentionally, sometimes not. It's not just theory - real-world examples are given throughout the book.
+For non-fiction, I read [Proofiness: How You're Being Fooled by the Numbers by Charles Seife](https://www.amazon.com/Proofiness-Youre-Being-Fooled-Numbers-ebook/dp/B0042VJ1OE/?tag=hendrixjoseph-20). An entertaining read, the book describes the bad math used by people - such as politicians - who shape our world. Sometimes intentionally, sometimes not. It's not just theory - real-world examples are given throughout the book.
