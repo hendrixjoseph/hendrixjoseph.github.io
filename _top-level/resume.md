@@ -16,7 +16,13 @@ noad: true
 
 ### Crown Equipment Corporation | Senior Software Engineer | June 2023 - Present
 
-#### Internal Sales Tools | Senior Software Engineer | June 2023 - Present
+#### Crown.com | Senior Software Engineer | June 2024 - Present
+
+* Continued to develop and maintain Spring Boot services, including introducing a Maven Archetype that reduced service creation time from weeks to minutes.
+* Enhanced the public-facing Crown.com website with modern JavaScript, CSS, and HTML, updated [Google Maps API](https://developers.google.com/maps) features, and Sightly Templates in [Adobe Experience Manager (AEM)](https://business.adobe.com/products/experience-manager/adobe-experience-manager.html).
+* Provided updates to AEM back-end functionality by refactoring and updating the Java codebase.
+
+#### Internal Sales Tools | Senior Software Engineer | June 2023 - June 2024
 
 * Implemented custom PDF generation capabilities using Spring Boot, [Thymeleaf](https://www.thymeleaf.org/), and [OpenHtmlToPdf](https://github.com/danfickle/openhtmltopdf).
 * Completed reimplementing a new front-end application to Angular 14, which included upgrading the TypeScript version to TypeScript 4.7.
