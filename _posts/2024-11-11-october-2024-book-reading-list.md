@@ -12,7 +12,7 @@ Sadly, I only managed to read my son one book. He's six now, and literate, so he
 
 I did read eleven books to my four-year-old daughter.
 
-Oh, and I read two books for myself.
+Oh, and I read one book for myself.
 
 ## Books I Read to My Children
 
