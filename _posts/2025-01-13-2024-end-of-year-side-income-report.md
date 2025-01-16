@@ -43,7 +43,7 @@ I used to use it for my cell phone bill, but I picked up the Verizon Visa card. 
 ## Interest-Bearing Accounts
 
 * Ally Interest &rarr;  $2,445.46
-* Vanguard $1,062.38
+* Vanguard &rarr; $1,062.38
 * Credit Union Interest &rarr; $479.58
 * [Robinhood](https://www.joehxblog.com/robinhood/)
   * Dividends &rarr; $229.50
@@ -77,7 +77,7 @@ I published [a couple of word search books back in July](https://www.joehxblog.c
 * [Coinbase](https://www.joehxblog.com/coinbase/)
   * Rewards &rarr; $36.99
   * Staking &rarr; $2.61
-  * Capital Gains $3,215.56
+  * Capital Gains &rarr; $3,215.56
 * BlockFi Capital Loses &rarr; -$1,771.45
 * Total &rarr; $1,483.71
 
