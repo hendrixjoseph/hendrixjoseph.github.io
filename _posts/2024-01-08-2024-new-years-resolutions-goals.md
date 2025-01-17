@@ -29,9 +29,9 @@ For the most part, this post (and all the other goal posts) focus on me; I'm not
 
 ## Improve Our Finances
 
-* Max out our Roth IRAs ($7,000 each in 2022)
+* Max out our Roth IRAs ($7,000 each in 2024)
   * Roughly $583.33 each per month, or $1,166.66 total per month.
-* Max out our employer Roth 401(k) accounts ($23,000 each in 2022)
+* Max out our employer Roth 401(k) accounts ($23,000 each in 2024)
   * I make over six figures, so I set my payroll deductions to 23%.
 * Max out my [i401(k) account](https://www.joehxblog.com/i-opened-a-vanguard-individual-401k/) (roughly 20% of any self-employment income)
   * I've still got around $30 to contribute for the 2023 tax year, but I have until tax day to do it.
