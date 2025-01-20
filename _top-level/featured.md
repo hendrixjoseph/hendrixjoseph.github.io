@@ -32,6 +32,7 @@ Otherwise backlinked on the following webpages:
 [IT Home 跑步和走路时什么速度燃脂效率最高？新研究见解曝光 (Chinese](https://www.ithome.com/0/788/093.htm)
 * ['ModuleNotFoundError: No module named 'fastai.vision' Solution 3](https://www.developerload.com/modulenotfounderror-no-module-named-39fastaivision39#solution_3)
 * [naked capitalism: News of the Wired](https://www.nakedcapitalism.com/2024/08/200pm-water-cooler-8-13-2024.html#wired)
+* [Vanguard Solo 401k Ascensus Options and Benefits](https://www.cgaa.org/article/vanguard-solo-401k-ascensus)
 
 ## The Old Domain (hendrixjoseph.github.io)
 
