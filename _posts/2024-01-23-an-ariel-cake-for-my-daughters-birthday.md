@@ -2,7 +2,7 @@
 layout: post
 title: An Ariel Cake for My Daughter's Birthday
 tags: [cooking, culture]
-keywords: [birthday cake, ariel cake, mermaid cake, little mermaid cake cake]
+keywords: [birthday cake, ariel cake, mermaid cake, little mermaid cake]
 image: /images/birthday-cake/ariel-cake.jpg
 ---
 
