@@ -7,7 +7,7 @@ hashtags: [blogging, blogstats]
 image: /images/blog-stats/2025/02/search-console.png
 ---
 
-It February y'all.
+It's February y'all.
 
 I wrote three posts over the past month:
 
