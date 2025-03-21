@@ -72,7 +72,8 @@ main .entry blockquote:nth-of-type(odd) {
 }
 
 main .entry blockquote:nth-of-type(even) {
-    border-left: 4px solid #1e88e5;    
+    border-left: 4px solid #1e88e5;
+    margin-left: 0;
     margin-right: auto;
 }
 </style>
