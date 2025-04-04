@@ -14,7 +14,7 @@ He still likes being read to. I did read him the first two chapters of Genesis t
 
 I did manage to read five different books to my daughter.
 
-I only finished on book for myself.
+I only finished one book for myself.
 
 ## Books I Read to My Daughter
 
