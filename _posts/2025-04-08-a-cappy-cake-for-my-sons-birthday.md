@@ -3,7 +3,7 @@ layout: post
 title: A Cappy Cake for My Son's Birthday
 tags: [cooking, culture]
 keywords: [birthday cake, cappy cake, mario cake, super mario cake]
-image: /images/birthday-cake/cappy-cake.png
+image: /images/birthday-cake/cappy-cake.jpg
 ---
 
 This year my son wanted a Cappy cake for his birthday. Who or what is Cappy? Cappy is Mario's hat from [Super Mario Odysey](https://www.amazon.com/Super-Mario-Odyssey-US-Version-Switch/dp/B01MY7GHKJ/?tag=hendrixjoseph-20).
@@ -18,4 +18,4 @@ The eyes came from some leftover fondant from [my daughter's Rapunzel Cake](http
 
 And here's the finished product:
 
-![The finished Cappy Cake](/images/birthday-cake/cappy-cake.png)
+![The finished Cappy Cake](/images/birthday-cake/cappy-cake.jpg)
