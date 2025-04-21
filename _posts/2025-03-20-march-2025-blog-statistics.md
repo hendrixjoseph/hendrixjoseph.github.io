@@ -43,10 +43,10 @@ That means this is the fourth time I've only made one post - and that post is, o
 
 ## Ratios
 
-* Earnings / 1,000 users = $ /  = $
-* Earnings / 1,000 views = $ / 4.9 = $
-* Earnings / 1,000 impressions = $ / = $
-* Earnings / day = $ /  = $
-* Users / day =  / 28 = 
-* Views / day =  / 28 = 
-* Impressions / day =  / 28 = 
+* Earnings / 1,000 users = $4.65 / 1.4 = $3.32
+* Earnings / 1,000 views = $4.65 / 3.0 = $1.55
+* Earnings / 1,000 impressions = $4.65 / 5.461 = $0.85
+* Earnings / day = $4.65 / 28 = $0.17
+* Users / day = 1,400 / 28 = 50.0
+* Views / day = 3,000 / 28 = 107.1
+* Impressions / day = 5,461 / 28 = 195.0
