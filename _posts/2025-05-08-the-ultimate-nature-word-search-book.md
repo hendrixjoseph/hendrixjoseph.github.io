@@ -10,8 +10,8 @@ Last July I published [two word search puzzle books](). I even ran a little cont
 
 This month I released another word search book:
 
-[![The Ultimate Nature Word Search Book](/images/books/covers/the-ultimate-nature-word-search-book.jpg)](https://www.amazon.com/Ultimate-Nature-Word-Search-Book/dp/B0F7G9CX7M?tag=hendrixjoseph-20)
-*[The Ultimate Nature Word Search Book](https://www.amazon.com/Ultimate-Nature-Word-Search-Book/dp/B0F7G9CX7M?tag=hendrixjoseph-20)*
+[![The Ultimate Nature Word Search Book](/images/books/covers/the-ultimate-nature-word-search-book.jpg)
+*The Ultimate Nature Word Search Book*](https://www.amazon.com/Ultimate-Nature-Word-Search-Book/dp/B0F7G9CX7M?tag=hendrixjoseph-20)
 
 This book features 80 nature-themed word search puzzles.
 
