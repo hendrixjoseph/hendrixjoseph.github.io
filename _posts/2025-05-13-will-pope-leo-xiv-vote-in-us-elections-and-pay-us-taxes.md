@@ -19,7 +19,7 @@ So, yeah, unless Pope Leo XIV renounced his citizenship, he's still a citizen. A
 
 Further reading on this topic:
 
-* [Relinquishing U.S. Nationality (US Department of State)](https://travel.state.gov/content/travel/en/legal/travel-legal-considerations/Relinquishing-US-Nationality.html
+* [Relinquishing U.S. Nationality (US Department of State)](https://travel.state.gov/content/travel/en/legal/travel-legal-considerations/Relinquishing-US-Nationality.html)
 * [Renounce or lose your citizenship (USA.gov)](https://www.usa.gov/renounce-lose-citizenship)
 
 ## Can the Pope vote in US Elections?
@@ -47,7 +47,7 @@ A single (not married) US citizen over the age of 65 living abroad must file if 
 
 Pope Leo XIV, being born in 1955, will be 70 in 2025. $396,000 is also more than $16,550. So he most likely has to file (although I suspect the Vatican will provide someone to do the paperwork for him).
 
-As for if he has to pay taxes in addition to filing - according to publication 54](https://www.irs.gov/forms-pubs/about-publication-54) "up to $126,500 of [foreign] earned income [is] not taxable by the United States".
+As for if he has to pay taxes in addition to filing - according to [publication 54](https://www.irs.gov/forms-pubs/about-publication-54) "up to $126,500 of [foreign] earned income [is] not taxable by the United States".
 
 So $126,500 of the $396,000 wouldn't be taxes - bringing the taxable income down to $269,500. Assuming there's nothing else to deduct, that puts the Pope in the highest [tax bracket for 2025](https://www.irs.gov/newsroom/irs-releases-tax-inflation-adjustments-for-tax-year-2025) - 35% for incomes over $250,525. Of course, that doesn't mean that he'd pay 35% of $269,500. The actual rate is closer to 25% after combining the various tax brackets.
 
