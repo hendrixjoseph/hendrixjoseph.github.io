@@ -40,7 +40,7 @@ I also have [Dosh](https://www.joehxblog.com/dosh/) and [Drop](https://www.joehx
 * [Chase Freedom Flex](https://www.joehxblog.com/chase-freedom/) &rarr; $284.38
 * Chase Freedom &rarr; $326.46
 * US Bank Cash+ &rarr; $67.57
-* [Capital One Quicksilver](https://www.joehxblog.com/capital-one/) &rarr; $14.40
+* [Capital One Quicksilver](https://www.joehxblog.com/capital-one-quicksilver/) &rarr; $14.40
 * Citi Double Cash &rarr; $564.40 + ?
 * Total &rarr; $1546.46
 

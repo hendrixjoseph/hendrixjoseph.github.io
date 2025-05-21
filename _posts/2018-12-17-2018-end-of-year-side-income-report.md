@@ -46,7 +46,7 @@ Due to the time involved with having [a newborn son]({{ site.url }}/life-update/
 
 Currently only one of the above credit cards has a referral bonus - the [Chase Freedom Unlimited]({{ site.url }}/chase-freedom-unlimited/) - although I still have a redirect on my [referral page]({{ site.url }}/referral/) for the [Chase Freedom "Regular"]({{ site.url }}/chase-freedom/).
 
-> Update 10-23-2019 - there is [a referral for the Capital One Quicksilver](https://www.joehxblog.com/capital-one/) now.
+> Update 10-23-2019 - there is [a referral for the Capital One Quicksilver](https://www.joehxblog.com/capital-one-quicksilver/) now.
 
 For those that are curious about the differences between the cards above, the Chase Freedom Unlimited and the Capital One Quicksilver both provide unlimited 1.5% cash back. The Chase Freedom provides 5% cash back a rotating category, with 1% back on non-category items, although the 5% cash back is limited to $75 ($1500 worth of purchases). The US Bank Cash+ is similar to the Chase Freedom with rotating 5% and 2% categories, although I'm unsure if there's a cap on it as well.
 

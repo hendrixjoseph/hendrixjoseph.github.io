@@ -24,7 +24,7 @@ Here are the other six:
 * [Chase Freedom Flex](https://www.joehxblog.com/chase-freedom/) &rarr; $72.45
 * Chase Freedom &rarr; $358.07
 * US Bank Cash+ &rarr; $130.75
-* [Capital One Quicksilver](https://www.joehxblog.com/capital-one/) &rarr; $25.86
+* [Capital One Quicksilver](https://www.joehxblog.com/capital-one-quicksilver/) &rarr; $25.86
 * Citi Double Cash &rarr; $864.79
 * Total &rarr; $1642.26
 

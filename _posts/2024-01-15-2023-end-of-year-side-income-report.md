@@ -28,7 +28,7 @@ Here are the past seven income reports:
 * [Chase Freedom Flex](https://www.joehxblog.com/chase-freedom/) &rarr; $433.95
 * [Chase Freedom Unlimited](https://www.joehxblog.com/chase-freedom-unlimited/) &rarr; $156.60
 * US Bank Cash+ &rarr; $108.11
-* [Capital One Quicksilver](https://www.joehxblog.com/capital-one/) &rarr; $13.86
+* [Capital One Quicksilver](https://www.joehxblog.com/capital-one-quicksilver/) &rarr; $13.86
 * Total &rarr; $2,454.83
 
 For context, the Citi Double Cash gets me 2% cash back on everything.

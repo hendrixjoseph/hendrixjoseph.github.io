@@ -28,7 +28,7 @@ Here are the past eight income reports:
 * [Chase Freedom Flex](https://www.joehxblog.com/chase-freedom/) &rarr; $782.25
 * [Chase Freedom Unlimited](https://www.joehxblog.com/chase-freedom-unlimited/) &rarr; $177.39
 * US Bank Cash+ &rarr; $114.59
-* [Capital One Quicksilver](https://www.joehxblog.com/capital-one/) &rarr; $13.86
+* [Capital One Quicksilver](https://www.joehxblog.com/capital-one-quicksilver/) &rarr; $13.86
 * Verizon Visa &rarr; $100.00
 * Total &rarr; $2,448.26
 

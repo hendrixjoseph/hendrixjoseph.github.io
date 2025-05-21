@@ -10,7 +10,7 @@ Celebrating being debt-free - along with four years of marriage - my wife and to
 
 {% include image.html src="/images/ireland/wife-and-me.jpg"  caption="Wife and me at Killkenny Castle." %}
 
-Our trip was for the first week of November. And - other than the flight, the car rental, and the first hotel night - nothing was prebooked. Not that I didn't do any preparation. I read a book on Ireland ([Rick Steves’ Ireland](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9781612386676)), checked up on any COVID-19 protocols, brushed up on my Irish with Duolingo (dia daoibh!), made sure my [Hotel Tonight](https://www.joehxblog.com/hoteltonight/) app was up-to-date, and that my [Capital One Quicksilver](https://www.joehxblog.com/capital-one/) card - my only card with no foreign transaction fees - had plenty of available credit.
+Our trip was for the first week of November. And - other than the flight, the car rental, and the first hotel night - nothing was prebooked. Not that I didn't do any preparation. I read a book on Ireland ([Rick Steves’ Ireland](https://affiliates.abebooks.com/c/2462910/77416/2029?u=https://www.abebooks.com/products/isbn/9781612386676)), checked up on any COVID-19 protocols, brushed up on my Irish with Duolingo (dia daoibh!), made sure my [Hotel Tonight](https://www.joehxblog.com/hoteltonight/) app was up-to-date, and that my [Capital One Quicksilver](https://www.joehxblog.com/capital-one-quicksilver/) card - my only card with no foreign transaction fees - had plenty of available credit.
 
 In the week or so since we've been back, I've been retracing our steps across the over 600 miles we drove through Ireland to help us revisit our trip. Below is what I've documented.
 
@@ -29,9 +29,9 @@ In the week or so since we've been back, I've been retracing our steps across th
 * Arrived at Dublin Airport.
 * Dropped our luggage off at the hotel room ([Maldron Hotel Dublin Airport](https://www.maldronhoteldublinairport.com/)) and looked for somewhere to eat.
 * Walked to and ate at [Kealy's](https://kealys.ie/).
-  * My [Capital One Quicksilver](https://www.joehxblog.com/capital-one/) card was denied, so used my Double Cash instead.
+  * My [Capital One Quicksilver](https://www.joehxblog.com/capital-one-quicksilver/) card was denied, so used my Double Cash instead.
   * Ended up getting a foreign transaction fee on this one.
-  * However, my [Quicksilver](https://www.joehxblog.com/capital-one/) worked after this transaction.
+  * However, my [Quicksilver](https://www.joehxblog.com/capital-one-quicksilver/) worked after this transaction.
 
 * Stayed at the hotel for the night.
 

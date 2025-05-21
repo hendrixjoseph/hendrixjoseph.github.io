@@ -23,7 +23,7 @@ And this post is the *sixth* end-of-year side income report. Here's the previous
 * [Chase Freedom Flex](https://www.joehxblog.com/chase-freedom/) &rarr; $701.07
 * Chase Freedom &rarr; $304.04
 * US Bank Cash+ &rarr; $70.40
-* [Capital One Quicksilver](https://www.joehxblog.com/capital-one/) &rarr; $63.14
+* [Capital One Quicksilver](https://www.joehxblog.com/capital-one-quicksilver/) &rarr; $63.14
 * Citi Double Cash &arr; $429.55
 * Total &rarr; $1,707.36
 

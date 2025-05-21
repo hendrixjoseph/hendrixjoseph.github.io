@@ -33,7 +33,7 @@ Also, from people who don't pay their statement balance in full and pay interest
 
 ### What I Use
 
-The [Capital One Quicksilver](https://www.joehxblog.com/capital-one/) offers unlimited 1.5% cash back on every purchase, every day. When you open a new account, you can earn a one-time $150 cash bonus once you spend $500 on purchases within 3 months.
+The [Capital One Quicksilver](https://www.joehxblog.com/capital-one-quicksilver/) offers unlimited 1.5% cash back on every purchase, every day. When you open a new account, you can earn a one-time $150 cash bonus once you spend $500 on purchases within 3 months.
 
 ![Capital One Quicksilver](/images/cashback/credit-cards/capital-one-quicksilver.png)
 
