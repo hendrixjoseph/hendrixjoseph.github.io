@@ -29,7 +29,7 @@ Otherwise backlinked on the following webpages:
 * [Adding Comment Functionality to my Static Jekyll Blog Using Staticman](https://www.henrycole.uk/2022/01/09/Adding-Comment-Functionality-to-My-Static-Jekyll-Blog-Using-Staticman.html#credits)
 * [Gigazine: ウォーキングとランニングではどちらが効率的に運動できるのか？ (Japanese)](https://gigazine.net/news/20240817-running-or-walking-efficient/)
 * [Gigazine: Which is more effective exercise: walking or running? (English)](https://gigazine.net/gsc_news/en/20240817-running-or-walking-efficient/)
-* [IT Home 跑步和走路时什么速度燃脂效率最高？新研究见解曝光 (Chinese](https://www.ithome.com/0/788/093.htm)
+* [IT Home 跑步和走路时什么速度燃脂效率最高？新研究见解曝光 (Chinese)](https://www.ithome.com/0/788/093.htm)
 * ['ModuleNotFoundError: No module named 'fastai.vision' Solution 3](https://www.developerload.com/modulenotfounderror-no-module-named-39fastaivision39#solution_3)
 * [naked capitalism: News of the Wired](https://www.nakedcapitalism.com/2024/08/200pm-water-cooler-8-13-2024.html#wired)
 * [Vanguard Solo 401k Ascensus Options and Benefits](https://www.cgaa.org/article/vanguard-solo-401k-ascensus)
