@@ -100,7 +100,7 @@ The gentleman went to a back room and came back with the set of wireless earbuds
 
 I'm not sure there is such a law, but I do think he honestly believed that. Maybe it's just a trick to get people to hand over their information, I don't know.
 
-Oh, and at least according to my [Google timeline](https://www.google.com/maps/timeline), I only spent six minutes at the dealership. I spent more time driving there and back.
+Oh, and at least according to my [Google timeline](https://www.joehxblog.com/google-timeline-for-web-maps-will-be-going-away/), I only spent six minutes at the dealership. I spent more time driving there and back.
 
 ## The Prize
 

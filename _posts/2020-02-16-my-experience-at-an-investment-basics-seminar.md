@@ -51,7 +51,7 @@ The class (ahem "seminar") was in the community room of [the local public librar
 ![The Front of the Huber Heights Library](/images/huber-heights-library-front.jpg)
 *The library is in a strip mall with other businesses and facilities.*
 
-We got there a few minutes early (my [Google Timeline](https://www.google.com/maps/timeline) says we got there at 5:57 pm) and, thankfully, there were already several people in the classroom, along with the presenter. No awkward waiting.
+We got there a few minutes early (my [Google Timeline](https://www.joehxblog.com/google-timeline-for-web-maps-will-be-going-away/) says we got there at 5:57 pm) and, thankfully, there were already several people in the classroom, along with the presenter. No awkward waiting.
 
 The presenter, by the way, was [John Sagraves](https://wpcu.cusonet.com/team/john-sagraves/). He works for the largest credit union in our area but used to work for [5/3](https://en.wikipedia.org/wiki/Fifth_Third_Bank) doing pretty much the same thing. He was also the only one in the room in a suit and tie; everyone else dressed casually.
 
