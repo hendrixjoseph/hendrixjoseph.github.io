@@ -48,18 +48,18 @@ I read fourteen books for myself, twelve of which are from the Magic Tree House 
 I read books 23 through 34 of the *Magic Tree House* series:
 
 <ol start="23">
-  <li>[Twister on Tuesday](https://www.amazon.com/s?k=Twister+on+Tuesday&i=stripbooks&tag=hendrixjoseph-20)</li>
-  <li>[Earthquake in the Early Morning](https://www.amazon.com/s?k=Earthquake+in+the+Early+Morning&i=stripbooks&tag=hendrixjoseph-20)</li>
-  <li>[Stage Fright on a Summer Night](https://www.amazon.com/s?k=Stage+Fright+on+a+Summer+Night&i=stripbooks&tag=hendrixjoseph-20)</li>
-  <li>[Good Morning, Gorillas](https://www.amazon.com/s?k=Good+Morning,+Gorillas&i=stripbooks&tag=hendrixjoseph-20)</li>
-  <li>[Thanksgiving on Thursday](https://www.amazon.com/s?k=Thanksgiving+on+Thursday&i=stripbooks&tag=hendrixjoseph-20)</li>
-  <li>[High Tide in Hawaii](https://www.amazon.com/s?k=High+Tide+in+Hawaii&i=stripbooks&tag=hendrixjoseph-20)</li>
-  <li>[A Big Day for Baseball](https://www.amazon.com/s?k=A+Big+Day+for+Baseball&i=stripbooks&tag=hendrixjoseph-20)</li>
-  <li>[Hurricane Heroes in Texas](https://www.amazon.com/s?k=Hurricane+Heroes+in+Texas&i=stripbooks&tag=hendrixjoseph-20)</li>
-  <li>[Warriors in Winter](https://www.amazon.com/s?k=Warriors+in+Winter&i=stripbooks&tag=hendrixjoseph-20)</li>
-  <li>[To the Future, Ben Franklin!](https://www.amazon.com/s?k=To+the+Future+Ben+Franklin&i=stripbooks&tag=hendrixjoseph-20)</li>
-  <li>[Narwhal on a Sunny Night](https://www.amazon.com/s?k=Narwhal+on+a+Sunny+Night&i=stripbooks&tag=hendrixjoseph-20)</li>
-  <li>[Late Lunch with Llamas](https://www.amazon.com/s?k=Late+Lunch+with+Llamas&i=stripbooks&tag=hendrixjoseph-20)</li>
+  <li><a href="https://www.amazon.com/s?k=Twister+on+Tuesday&i=stripbooks&tag=hendrixjoseph-20">Twister on Tuesday</a></li>
+  <li><a href="https://www.amazon.com/s?k=Earthquake+in+the+Early+Morning&i=stripbooks&tag=hendrixjoseph-20">Earthquake in the Early Morning</a></li>
+  <li><a href="https://www.amazon.com/s?k=Stage+Fright+on+a+Summer+Night&i=stripbooks&tag=hendrixjoseph-20">Stage Fright on a Summer Night</a></li>
+  <li><a href="https://www.amazon.com/s?k=Good+Morning,+Gorillas&i=stripbooks&tag=hendrixjoseph-20">Good Morning, Gorillas</a></li>
+  <li><a href="https://www.amazon.com/s?k=Thanksgiving+on+Thursday&i=stripbooks&tag=hendrixjoseph-20">Thanksgiving on Thursday</a></li>
+  <li><a href="https://www.amazon.com/s?k=High+Tide+in+Hawaii&i=stripbooks&tag=hendrixjoseph-20">High Tide in Hawaii</a></li>
+  <li><a href="https://www.amazon.com/s?k=A+Big+Day+for+Baseball&i=stripbooks&tag=hendrixjoseph-20">A Big Day for Baseball</a></li>
+  <li><a href="https://www.amazon.com/s?k=Hurricane+Heroes+in+Texas&i=stripbooks&tag=hendrixjoseph-20">Hurricane Heroes in Texas</a></li>
+  <li><a href="https://www.amazon.com/s?k=Warriors+in+Winter&i=stripbooks&tag=hendrixjoseph-20">Warriors in Winter</a></li>
+  <li><a href="https://www.amazon.com/s?k=To+the+Future+Ben+Franklin&i=stripbooks&tag=hendrixjoseph-20">To the Future, Ben Franklin!</a></li>
+  <li><a href="https://www.amazon.com/s?k=Narwhal+on+a+Sunny+Night&i=stripbooks&tag=hendrixjoseph-20">Narwhal on a Sunny Night</a></li>
+  <li><a href="https://www.amazon.com/s?k=Late+Lunch+with+Llamas&i=stripbooks&tag=hendrixjoseph-20">Late Lunch with Llamas</a></li>
 </ol>
 
 I also read [Soonish: Ten Emerging Technologies That'll Improve and/or Ruin Everything](https://www.amazon.com/Soonish-Emerging-Technologies-Improve-Everything-ebook/dp/B06XBQ443G/?tag=hendrixjoseph-20) by Kelly Weinersmith and Zach Weinersmith. Kelly and Zach (or maybe just Zach?) are the authors of the [Saturday Morning Breakfast Cereal comics](https://www.smbc-comics.com/). *Soonish* in particular was published back in 2017. Being published eight years ago, some of the predictions are a bit dated. It's a book, however, that could enjoy a second (or even multiple!) editions over the years.
