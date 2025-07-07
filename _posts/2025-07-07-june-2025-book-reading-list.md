@@ -45,4 +45,4 @@ I also read books 35 and 36 of the *Magic Tree House* series:
   <li><a href="https://www.amazon.com/s?k=Sunlight+on+the+Snow+Leopard&i=stripbooks&tag=hendrixjoseph-20">Sunlight on the Snow Leopard</a></li>
 </ol>
 
-My son has finished the *Magic Tree House* series (except for [#4o, Sea Otter Sunrise](https://www.amazon.com/Otter-Sunrise-Magic-Tree-House/dp/059370651X/?tag=hendrixjoseph-20) which was just published on July 1st - and he's super excited about!) and has moved on to [The Boxcar Children](https://www.amazon.com/s?k=The+Boxcar+Children&i=stripbooks&tag=hendrixjoseph-20) and . He's asked me to read *The Boxcar Children* next!.
+My son has finished the *Magic Tree House* series (except for [#40, Sea Otter Sunrise](https://www.amazon.com/Otter-Sunrise-Magic-Tree-House/dp/059370651X/?tag=hendrixjoseph-20) which was just published on July 1st - and he's super excited about!) and has moved on to [The Boxcar Children](https://www.amazon.com/s?k=The+Boxcar+Children&i=stripbooks&tag=hendrixjoseph-20) and [The Chicken Squad](https://www.amazon.com/s?k=The+Chicken+Squad&i=stripbooks&tag=hendrixjoseph-20). He's asked me to read *The Boxcar Children* next!.
