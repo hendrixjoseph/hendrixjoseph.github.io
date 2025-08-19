@@ -16,7 +16,13 @@ noad: true
 
 ### Crown Equipment Corporation | Senior Software Engineer | June 2023 - Present
 
-#### Crown.com | Senior Software Engineer | June 2024 - Present
+#### Marketing Integrations | Senior Software Engineer | January 2025 - Present
+
+* Enhanced Angular front-end and Spring Boot backend services to support marketing initiatives and integrate with Hybris/SAP Marketing Cloud.
+* Championed the adoption of Swagger UI across multiple Spring Boot applications, improving API documentation and streamlining development workflows.
+* Drove the rollout of SonarQube across 11 repositories, establishing consistent code quality standards and enabling early detection of technical debt.
+
+#### Crown.com | Senior Software Engineer | June 2024 - January 2025
 
 * Continued to develop and maintain Spring Boot services, including introducing a Maven Archetype that reduced service creation time from weeks to minutes.
 * Enhanced the public-facing Crown.com website with modern JavaScript, CSS, and HTML, updated [Google Maps API](https://developers.google.com/maps) features, and Sightly Templates in [Adobe Experience Manager (AEM)](https://business.adobe.com/products/experience-manager/adobe-experience-manager.html).
