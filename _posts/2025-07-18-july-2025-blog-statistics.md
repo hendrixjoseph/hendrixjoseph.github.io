@@ -4,7 +4,7 @@ title: July 2025 Blog Statistics
 tags: [blog statistics]
 keywords: [blog, statistics, blog statistics, analytics, pageviews, webmaster, webmaster tools, alexa, google]
 hashtags: [blogging, blogstats]
-image: /images/blog-stats/2025/06/search-console.png
+image: /images/blog-stats/2025/07/search-console.png
 ---
 
 Is the 18th the new 20th? This is the second month in a row I've had to publish the month blog stats report a couple days early do to not being able to on the 20th. Does that mean from now on I should publish on the 18th?
@@ -22,7 +22,7 @@ I published two posts in the past month:
 * Sessions &rarr; 2,000
 * Views &rarr; 2,200
 
-{% include image.html src="/images/blog-stats/2025/06/stats.png" caption="Google Analytics Graph for July" %}
+{% include image.html src="/images/blog-stats/2025/07/stats.png" caption="Google Analytics Graph for July" %}
 
 ## Google Search Console
 
@@ -30,7 +30,7 @@ I published two posts in the past month:
 * Search Impressions &rarr; 76,400
 * Average position &rarr; 27.7
 
-{% include image.html src="/images/blog-stats/2025/06/search-console.png" caption="Google Search Console Graph for July" %}
+{% include image.html src="/images/blog-stats/2025/07/search-console.png" caption="Google Search Console Graph for July" %}
 
 ## AdSense
 
@@ -39,7 +39,7 @@ I published two posts in the past month:
 * Impressions &rarr; 6,390
 * Clicks &rarr; 65
 
-{% include image.html src="/images/blog-stats/2025/06/adsense.png" caption="Google AdSense Graph for July" %}
+{% include image.html src="/images/blog-stats/2025/07/adsense.png" caption="Google AdSense Graph for July" %}
 
 ## Moz Stats
 
