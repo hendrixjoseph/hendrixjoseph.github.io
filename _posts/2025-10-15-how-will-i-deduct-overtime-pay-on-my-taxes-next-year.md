@@ -2,6 +2,7 @@
 layout: post
 title: How Will I Deduct Overtime Pay On My Taxes Next Year?
 tags: [money, tax]
+image: /images/taxes/draft-schedule-1-a-part-iii.png
 ---
 
 That ["Big Beautiful Bill"](https://www.congress.gov/bill/119th-congress/house-bill/1/text) (which I dislike the name - I'm not a fan of big bills, and the name is indicative of Trump's limited vocabulary) that was passed earlier this year means that the overtime my wife earns isn't going to be taxed this year.
