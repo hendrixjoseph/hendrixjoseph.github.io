@@ -42,7 +42,7 @@ I made two posts in the past month:
 ## Moz Stats
 
 * Moz Domain Authority &rarr; 28
-* Moz Linking Domains &rarr; 1,000
+* Moz Linking Domains &rarr; 992
 
 ## Ratios
 
