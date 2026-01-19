@@ -42,7 +42,7 @@ I used to use it for my cell phone bill, but I picked up the Verizon Visa card. 
 
 ## Interest-Bearing Accounts
 
-* Ally Interest &rarr;  $2,445.46
+* [Ally Interest](https://www.joehxblog.com/ally/) &rarr;  $2,445.46
 * Vanguard &rarr; $1,062.38
 * Credit Union Interest &rarr; $479.58
 * [Robinhood](https://www.joehxblog.com/robinhood/)
