@@ -3,7 +3,6 @@ layout: post
 title: 2026 New Year's Resolutions & Goals
 tags: [goals]
 keywords: [new year, new year's, new year resolution, new year goal, new year's resolution, new year's goal, new year resolutions, new year goals, new year's resolutions, new year's goals, resolution, resolutions, goal, goals]
-image: /images/goals-2025.jpg
 ---
 
 Since the start of the new year, I've been thinking about goals and goal-setting. The thing is, year after year, my goals remain mostly unchanged.
@@ -24,23 +23,23 @@ The most important thing of all, of course, is my family - my wife, my son, and 
 
 If I want to make a checklist for "goals" this year, here's what it would look like:
 
-[ ] Financial
-    [x] Max out Roth IRAs (completed 1/2/2026)
-    [x] Max out 529s (completed 1/7/2026)
-    [ ] Max out 401(k)s
-    [ ] Max out i401(k)
-    [ ] Move money from traditional IRA to Roth IRA
-[ ] Health
-    [ ] Weigh less than 200 lbs
-    [ ] Run a 5k non-stop in under 30 minutes
-[ ] Personal
-    [ ] Read at least one book a month (read 1 so far)
-    [x] Attend at least one conference or other networking event (attended [CodeMash](https://codemash.org/), paid for by my employer)
-    [ ] Donate blood as much as possible
-[ ] Family
-    [ ] Hike as a family at least sixteen times
-    [ ] Seven or more date nights
-    [ ] Eat out no more than once a week as a family
+- [ ] Financial
+   - [x] Max out Roth IRAs (completed 1/2/2026)
+   - [x] Max out 529s (completed 1/7/2026)
+   - [ ] Max out 401(k)s
+   - [ ] Max out i401(k)
+   - [ ] Move money from traditional IRA to Roth IRA
+- [ ] Health
+   - [ ] Weigh less than 200 lbs
+   - [ ] Run a 5k non-stop in under 30 minutes
+- [ ] Personal
+   - [ ] Read at least one book a month (read 1 so far)
+   - [x] Attend at least one conference or other networking event (attended [CodeMash](https://codemash.org/), paid for by my employer)
+   - [ ] Donate blood as much as possible
+- [ ] Family
+   - [ ] Hike as a family at least sixteen times
+   - [ ] Seven or more date nights
+   - [ ] Eat out no more than once a week as a family
 
 Some of these were taken from my [2025 New Year's Resolutions & Goals](https://www.joehxblog.com/2025-new-years-resolutions-goals/). I've been writing these since 2018. Here are the links for years 2018 - 2024:
 
