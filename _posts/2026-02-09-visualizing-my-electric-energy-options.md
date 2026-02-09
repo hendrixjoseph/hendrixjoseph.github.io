@@ -2,6 +2,7 @@
 layout: post
 title: Visualizing my Electric Energy Options
 tags: [energy]
+image: /images/dollars-per-kwh-per-month-chart.png
 ---
 
 Today's the day my electrical contract expires, so it's time to choose another one.
