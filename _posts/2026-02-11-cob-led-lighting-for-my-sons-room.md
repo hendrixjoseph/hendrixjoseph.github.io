@@ -24,4 +24,9 @@ And here's a little video I created showing the light strip:
 
 {% include video.html source="/images/bedroom-led-strip/cob-led.mp4" %}
 
+For fun, I also posted the video on YouTube and Facebook:
+
+* https://youtube.com/shorts/BTnCAJ1oRJM
+* https://www.facebook.com/reel/1201717622031015
+
 <style>video { display: block; margin: 0 auto; }</style>
