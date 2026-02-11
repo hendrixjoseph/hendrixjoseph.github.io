@@ -23,3 +23,5 @@ Here's a close up of the light strip on, but at minimum brightness:
 And here's a little video I created showing the light strip:
 
 {% include video.html source="/images/bedroom-led-strip/cob-led.mp4" %}
+
+<style>video { display: block; margin: 0 auto; }</style>
