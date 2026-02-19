@@ -12,7 +12,7 @@ I got the following email from Chase yesterday:
 >
 > Beginning 3/27/26, you will no longer be able to redeem for a cash back deposit from your Chase Freedom®, Chase Sapphire®, or Chase Ink® credit card(s) to an account held by a financial institution other than Chase. You can continue to redeem for a cash back deposit to an eligible U.S. Chase account or redeem your rewards as an account statement credit.
 >
-> Don't forget, you can also redeem your points for gift cards, travel, and more. Visit <ultimaterewards.com> to explore all your options.
+> Don't forget, you can also redeem your points for gift cards, travel, and more. Visit ultimaterewards.com to explore all your options.
 >
 > If you have questions, please call the number on the back of your card at any time.
 >
