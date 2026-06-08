@@ -138,14 +138,16 @@ noad: true
 
 ## Projects
 
-### Content Security Policy for Spring
+### Android Applications
 
-* A Content Security Policy builder and bean to help secure Spring applications.
-* [Source hosted on GitHub](https://github.com/hendrixjoseph/spring-content-security-policy).
-* [Available at Maven Central](https://mvnrepository.com/artifact/com.joehxblog/spring-content-security-policy/0.6.0.3).
-* [Blog post introducing the package](https://www.joehxblog.com/content-security-policy-for-spring/).
+#### HealthCompare
 
-### Moonshot
+* HealthCompare is a simple Android app that compares today's steps and calories with yesterday's steps and calories.
+* The total steps and calories for today are presented on a line graph along with yesterday's steps and calories.
+* [Source hosted on GitHub](https://github.com/hendrixjoseph/HealthCompare)
+* [Available in the Google Play Store](https://play.google.com/store/apps/details?id=com.joehxblog.healthcompare)
+
+#### Moonshot
 
 * GitHub Game Off 2020 Entry
 * Written in Java using the [libGDX](https://libgdx.badlogicgames.com/) gaming engine.
@@ -155,18 +157,35 @@ noad: true
 * [Available on itch.io](https://hendrixjoseph.itch.io/moonshot)
 * [Blog post discussing my experience](https://www.joehxblog.com/my-github-game-off-2020-entry/).
 
-### Tic Tac Toe Android Application
+#### Tic Tac Toe Android Application
 
 * The Classic Game of Tic Tac Toe for Android.
 * [Source hosted on GitHub](https://github.com/hendrixjoseph/tictactoe).
 * [Available in the Google Play Store](https://play.google.com/store/apps/details?id=com.joehxblog.tictactoe).
 * [Available in the Amazon App Store](https://www.amazon.com/gp/product/B08KTWMYRK).
 
-### Tagger for Amazon Associates
+#### Tagger for Amazon Associates
 
 * Android App written in Java that allows Amazon Associates to tag Amazon URLs with their affiliate code in order to earn affiliate revenue.
 * [Source hosted on GitHub](https://github.com/hendrixjoseph/tagger).
 * [Available in the Google Play Store](https://play.google.com/store/apps/details?id=com.joehxblog.tagger).
+
+### Open Source Libraries
+
+#### Content Security Policy for Spring
+
+* A Content Security Policy builder and bean to help secure Spring applications.
+* [Source hosted on GitHub](https://github.com/hendrixjoseph/spring-content-security-policy).
+* [Available at Maven Central](https://mvnrepository.com/artifact/com.joehxblog/spring-content-security-policy).
+* [Blog post introducing the package](https://www.joehxblog.com/content-security-policy-for-spring/).
+
+#### Record Mapping Strategy for OpenCSV
+
+* A record mapping strategy that allows OpenCSV to read and write Java Records.
+* [Source hosted on GitHub](https://github.com/hendrixjoseph/opencsv-record-mapping)
+* [Available at Maven Central](https://mvnrepository.com/artifact/com.joehxblog/opencsv-record-mapping)
+
+### Desktop & Web Applications
 
 ### AutoPhotoSync for Google Photos
 
