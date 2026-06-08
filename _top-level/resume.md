@@ -184,6 +184,7 @@ noad: true
 * A record mapping strategy that allows OpenCSV to read and write Java Records.
 * [Source hosted on GitHub](https://github.com/hendrixjoseph/opencsv-record-mapping)
 * [Available at Maven Central](https://mvnrepository.com/artifact/com.joehxblog/opencsv-record-mapping)
+* [Blog post introducing the package](https://www.joehxblog.com/record-mapping-strategy-for-opencsv/)
 
 ### Desktop & Web Applications
 
