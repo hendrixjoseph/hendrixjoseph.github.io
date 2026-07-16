@@ -20,6 +20,7 @@ Mentioned on the following webpages:
 
 Listed in the following blog directories:
 
+* [Bubbles](https://bubbles.town/) / [actual page](https://bubbles.town/source/joehxblog.com)
 * [Personal Finance Blogs](https://personalfinanceblogs.com/directory/)  / [actual page](https://personalfinanceblogs.com/blogs/joehx-blog/)
 
 Otherwise backlinked on the following webpages:
