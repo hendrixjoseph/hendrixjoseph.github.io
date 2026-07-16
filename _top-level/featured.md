@@ -8,7 +8,6 @@ excerpt: Places online where either I or this blog have been mentioned or linked
 
 Quoted on the following webpages:
 
-* [13 ways to win Black Friday in 2020](https://mediafeed.org/13-ways-to-win-black-friday-in-2020/)
 * [Hindsight is 2020: How to learn from money mistakes](https://www.consolidatedcredit.org/financial-news/hindsight-is-2020-how-to-learn-from-money-mistakes/#joehxblog)
 * [How To Organize A Fun, Offline Networking Event, 5 Ways](https://www.mostlyblogging.com/offline-networking/)
 * [The Best Black Friday Tips for 2020](https://adimesaved.com/best-black-friday-tips)
@@ -92,6 +91,7 @@ The following articles still exist, but at new URLs:
 
 The following are no longer available:
 
+* [13 ways to win Black Friday in 2020](https://web.archive.org/web/20260212004413/https://mediafeed.org/13-ways-to-win-black-friday-in-2020/)
 * [13 ways you can make the most of Black Friday in 2020 (slide 4/11)](https://www.msn.com/en-us/money/personalfinance/13-ways-you-can-make-the-best-of-black-friday-in-2020/ss-BB1aWxon?ocid=st#image=4)
 * [Dorco Pace 6 Plus – Six Blade Razor for Men Cartridge Refills (8 Pack)](https://web.archive.org/web/20230326000922/https://www.techpersonalcare.com/dorco-pace-6-plus-six-blade-razor-for-men-cartridge-refills-8-pac/)
 * [Early Retirement Wisdom From 50+ Top Finance Writers](https://themoneymix.com/early-retirement/)
