@@ -26,7 +26,7 @@ I did something that probably shouldn't be done - I searched "ideal male body me
 
 {% include image.html src="/images/michelangelos-david-top.jpg" alt="Top half of Michelangelo's David" caption="Michelangelo's David I am not." %}
 
-Keeping in mind that these numbers might not be realistist, I came across [the following numbers for a "perfect male body"](https://trustyspotter.com/blog/perfect-male-body-measurements/):
+Keeping in mind that these numbers might not be realistic, I came across [the following numbers for a "perfect male body"](https://trustyspotter.com/blog/perfect-male-body-measurements/):
 
 * Waist - 45% to 47% of height
 * Shoulders - 1.618 times waist
