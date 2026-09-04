@@ -1,0 +1,14 @@
+message: >-
+  I noticed yesterday that MapMyFitness can now read the heart rate data from my
+  FitBit Air. I'm guessing there was a update either to the FitBit Air firmware
+  or Google Health App that allowed this.
+
+
+  I did have to go into the settings for my FitBit Air in the Google Health app
+  for the heart rate numbers to register - before I did that, it appeared to
+  connect but the there was no value (it just showed a dash `-` instead of a
+  number).
+name: JoeHx
+email: e591f3aa7c8cbd7dd9e3389958949ed3
+url: https://www.joehxblog.com/
+date: 1788528287662
