@@ -2,11 +2,11 @@ FROM jekyll/jekyll:3
 
 WORKDIR /srv/jekyll
 
-COPY . .
-
 RUN gem install jekyll-redirect-from
 RUN gem install jekyll-sitemap
 RUN gem install jemoji
+
+COPY . .
 
 EXPOSE 4000
 
